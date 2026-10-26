@@ -2,7 +2,7 @@ name: NBA odds pull
 
 on:
   schedule:
-    - cron: "30 18 * * *"   # 5:30am Melbourne (AEDT). Use "30 19 * * *" from April.
+    - cron: "45 17 * * *"   # 4:45am Melbourne (AEDT), buffer for GitHub delays. Use "45 18 * * *" from April.
   workflow_dispatch:         # lets you run it manually from the Actions tab
 
 permissions:
