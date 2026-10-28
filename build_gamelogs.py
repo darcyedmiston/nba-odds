@@ -18,6 +18,9 @@ FIELDS = ["season", "date_us", "game_id", "team", "team_name", "opp", "opp_name"
           "player_id", "player", "player_key", "starter", "dnp", "min",
           "pts", "reb", "ast", "threes", "pra", "team_pts", "opp_pts"]
 OUT = Path("data/gamelogs")
+NBA = {"ATL", "BKN", "BOS", "CHA", "CHI", "CLE", "DAL", "DEN", "DET", "GS", "HOU", "IND", "LAC", "LAL",
+       "MEM", "MIA", "MIL", "MIN", "NO", "NY", "OKC", "ORL", "PHI", "PHX", "POR", "SA", "SAC", "TOR",
+       "UTAH", "WSH"}  # ESPN abbreviations; anything else (All-Star teams) is skipped
 
 
 def to_int(v):
@@ -32,7 +35,7 @@ def load(season):
     if not path.exists():
         return []
     with open(path) as f:
-        return list(csv.DictReader(f))
+        return [r for r in csv.DictReader(f) if r["team"] in NBA]
 
 
 def save(season, rows):
@@ -44,16 +47,24 @@ def save(season, rows):
         w.writerows(rows)
 
 
+def pname(ath):
+    return ath.get("displayName") or ath.get("fullName") or ath.get("shortName") or ""
+
+
 def game_rows(event_id, d_us, season):
     summ = get_json(f"{ESPN}/summary?event={event_id}")
     comp = summ["header"]["competitions"][0]
     teams = {}
     for c in comp["competitors"]:
-        teams[c["team"]["abbreviation"]] = {
-            "name": c["team"]["displayName"], "home": c["homeAway"] == "home",
+        t = c["team"]
+        teams[t["abbreviation"]] = {
+            "name": t.get("displayName") or f"{t.get('location', '')} {t.get('name', '')}".strip(),
+            "home": c["homeAway"] == "home",
             "score": to_int(c.get("score")),
         }
     abbrs = list(teams)
+    if not set(abbrs) <= NBA:
+        return []
     rows = []
     for block in summ.get("boxscore", {}).get("players", []):
         team = block["team"]["abbreviation"]
@@ -70,8 +81,8 @@ def game_rows(event_id, d_us, season):
                     "team": team, "team_name": teams[team]["name"],
                     "opp": opp, "opp_name": teams[opp]["name"],
                     "home": int(teams[team]["home"]),
-                    "player_id": a["athlete"].get("id", ""), "player": a["athlete"]["displayName"],
-                    "player_key": norm_name(a["athlete"]["displayName"]),
+                    "player_id": a["athlete"].get("id", ""), "player": pname(a["athlete"]),
+                    "player_key": norm_name(pname(a["athlete"])),
                     "starter": int(bool(a.get("starter"))), "dnp": int(dnp),
                     "min": 0 if dnp else to_int(st.get("minutes")),
                     "pts": pts, "reb": reb, "ast": ast,
@@ -97,6 +108,7 @@ def update(dates):
                 continue
             if ev["id"] in have[season]:
                 continue
+            have[season].add(ev["id"])
             try:
                 rows = game_rows(ev["id"], d, season)
             except Exception as e:
