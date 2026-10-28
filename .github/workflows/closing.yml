@@ -1,0 +1,40 @@
+name: NBA closing lines (CLV)
+
+# Started by the 9:35am pre-tip check with the teams that have picks.
+# Waits until 5 min before each tip-off and saves that game's lines to
+# odds/closing/<date>.csv. Public repo, so the waiting is free.
+on:
+  workflow_dispatch:
+    inputs:
+      games:
+        description: "Teams with picks, comma-separated (e.g. Knicks,Lakers). Blank = every game in the next 12h"
+        default: ""
+      lead_min:
+        description: "Minutes before tip-off to capture"
+        default: "5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: closing-lines
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Capture closing lines
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          GAMES: ${{ github.event.inputs.games }}
+          LEAD_MIN: ${{ github.event.inputs.lead_min || '5' }}
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          python -u fetch_closing.py
