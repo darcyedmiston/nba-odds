@@ -19,11 +19,22 @@ def main():
             name = ath.get("displayName", "")
             if not name:
                 continue
+            status = inj.get("status", "")
+            text = (inj.get("shortComment") or "").lower()
+            if status.lower() == "day-to-day":  # ESPN lumps these; read the note
+                if "ruled out" in text or "will not play" in text or " out for " in text:
+                    status = "Out"
+                elif "probable" in text:
+                    status = "Probable"
+                elif "doubtful" in text:
+                    status = "Doubtful"
+                elif "questionable" in text:
+                    status = "Questionable"
             rows.append({
                 "team_name": tname or ath.get("team", {}).get("displayName", ""),
                 "player": name,
                 "player_key": norm_name(name),
-                "status": inj.get("status", ""),
+                "status": status,
                 "detail": (inj.get("shortComment") or inj.get("longComment") or "")[:200].replace("\n", " "),
                 "updated": inj.get("date", ""),
             })
