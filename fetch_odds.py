@@ -41,6 +41,12 @@ def main():
         if now <= datetime.fromisoformat(e["commence_time"].replace("Z", "+00:00"))
         <= now + timedelta(hours=24)
     ]
+    # Optional filter (pre-tip check): only re-pull games involving these
+    # teams, e.g. GAMES="Knicks,Lakers", to save API credits.
+    wanted = [t.strip().lower() for t in os.environ.get("GAMES", "").split(",") if t.strip()]
+    if wanted:
+        slate = [e for e in slate
+                 if any(w in e["home_team"].lower() or w in e["away_team"].lower() for w in wanted)]
 
     rows, credits = [], 0
     for e in slate:
@@ -70,7 +76,9 @@ def main():
     stamp = datetime.now(MELB).strftime("%Y-%m-%d")
     fields = ["date_melb", "tipoff_melb", "game", "bookmaker", "market",
               "player", "side", "line", "odds", "last_update"]
-    for name in (f"{stamp}.csv", "latest.csv"):
+    # A filtered (pre-tip) pull must not overwrite the full morning file.
+    names = ("pretip.csv",) if wanted else (f"{stamp}.csv", "latest.csv")
+    for name in names:
         with open(out / name, "w", newline="") as f:
             w = csv.DictWriter(f, fieldnames=fields)
             w.writeheader()

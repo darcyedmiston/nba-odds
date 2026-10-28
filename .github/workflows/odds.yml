@@ -1,9 +1,14 @@
 name: NBA odds pull
 
 on:
-  schedule:
-    - cron: "45 17 * * *"   # 4:45am Melbourne backup only - GitHub cron runs hours late; the morning scan triggers this itself
-  workflow_dispatch:         # lets you run it manually from the Actions tab
+  # No timer: GitHub's cron ran 3-4 hours late. The 8am morning scan and
+  # the 9:35am pre-tip check start this themselves (or run it by hand from
+  # the Actions tab).
+  workflow_dispatch:
+    inputs:
+      games:
+        description: "Optional: only these teams, comma-separated (e.g. Knicks,Lakers). Blank = full slate"
+        default: ""
 
 permissions:
   contents: write
@@ -23,6 +28,7 @@ jobs:
       - name: Fetch AU player props
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          GAMES: ${{ github.event.inputs.games }}
         run: python fetch_odds.py
       - name: Commit odds
         run: |
