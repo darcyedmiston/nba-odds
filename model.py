@@ -373,14 +373,18 @@ def build_game_ctx(games, game_lines, logs, slate_us, injuries, use_injuries):
             if r["status"].lower() in ("out", "doubtful"):
                 out_by_team[team_key(r["team_name"])].append(r["player_key"])
         for t, keys in out_by_team.items():
-            recent = logs.team_games.get(t, [])[-5:]
+            # only this season's games count, so a player injured since last season
+            # (already missing from every game) is not treated as a new absence
+            recent = [g for g in logs.team_games.get(t, []) if g["season"] == logs.season][-5:]
+            if not recent:
+                continue
             for pk in keys:
                 hist = [r for r in logs.by_player.get(pk, []) if not r["dnp"]]
                 if not hist:
                     continue
                 avg_min = st.mean(r["min"] for r in hist[-20:])
                 played_recent = sum(pk in g["players"] for g in recent)
-                if avg_min >= 24 and played_recent >= min(2, len(recent)):
+                if avg_min >= 24 and played_recent >= min(2, len(recent)) and played_recent > 0:
                     ctx["absences"][t].append(pk)
     return ctx
 
