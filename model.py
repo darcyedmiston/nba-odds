@@ -53,14 +53,17 @@ def num(v, default=0.0):
 
 
 class Logs:
-    def __init__(self, season, cutoff_us):
+    def __init__(self, season, cutoff_us, preloaded=None):
+        """preloaded: already-parsed rows (backtests), filtered here by cutoff."""
         self.season, self.prev = season, prev_season(season)
-        rows = [r for s in (self.prev, season) for r in read_csv(f"data/gamelogs/{s}.csv")
-                if r["date_us"] < cutoff_us.isoformat()]
-        for r in rows:
-            for k in ("min", "pts", "reb", "ast", "threes", "pra", "team_pts", "opp_pts"):
-                r[k] = num(r[k])
-            r["dnp"] = r["dnp"] == "1"
+        if preloaded is None:
+            preloaded = [r for s in (self.prev, season) for r in read_csv(f"data/gamelogs/{s}.csv")]
+            for r in preloaded:
+                for k in ("min", "pts", "reb", "ast", "threes", "pra", "team_pts", "opp_pts"):
+                    r[k] = num(r[k])
+                r["dnp"] = r["dnp"] in ("1", True)
+        cut = cutoff_us.isoformat()
+        rows = [r for r in preloaded if r["season"] in (self.prev, season) and r["date_us"] < cut]
         rows.sort(key=lambda r: (r["date_us"], r["game_id"]))
         self.rows = rows
         self.by_player = defaultdict(list)
