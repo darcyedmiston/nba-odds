@@ -1,9 +1,9 @@
-"""Pull official NBA box scores for the latest Melbourne slate and save
-every player's line as a flat CSV for the 6pm evening review.
+"""Pull NBA box scores for a Melbourne slate and save every player's line
+as a flat CSV for the 6pm evening review.
 
-Source: the NBA's own public CDN (the same JSON nba.com uses), so no API
-key is needed. Runs in GitHub Actions because the cloud review session
-cannot reach cdn.nba.com directly.
+Source: ESPN's public scoreboard + game-summary JSON (no key needed).
+The official NBA box score PDFs (statsdmz.nba.com) remain the
+cross-check for anything within 1 of the line.
 
 Output: boxscores/<melb date>.csv and boxscores/latest.csv with columns
 date_melb, game_id, game, status, team, player, starter, minutes,
@@ -11,15 +11,14 @@ pts, reb, ast, threes, pra, ra, final_score
 """
 import csv
 import json
-import re
 import sys
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-CDN = "https://cdn.nba.com/static/json"
+ESPN = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba"
 MELB = timezone(timedelta(hours=11))  # AEDT; switch to +10 in April
-UA = {"User-Agent": "Mozilla/5.0 (nba-odds box score pull)"}
+UA = {"User-Agent": "nba-odds box score pull (github.com/darcyedmiston/nba-odds)"}
 FIELDS = ["date_melb", "game_id", "game", "status", "team", "player",
           "starter", "minutes", "pts", "reb", "ast", "threes", "pra", "ra",
           "final_score"]
@@ -31,66 +30,63 @@ def get(url):
         return json.load(r)
 
 
-def minutes(iso):
-    # "PT32M40.00S" -> "32:40"
-    m = re.match(r"PT(\d+)M([\d.]+)S", iso or "")
-    if not m:
-        return "0:00"
-    return f"{int(m.group(1))}:{int(float(m.group(2))):02d}"
+def to_int(v):
+    try:
+        return int(str(v).split("-")[0])
+    except (TypeError, ValueError):
+        return 0
 
 
-def slate_games(days_back):
-    """Games whose tip-off fell on the Melbourne date `days_back` days ago
-    (0 = today in Melbourne)."""
-    target = (datetime.now(MELB) - timedelta(days=days_back)).date()
-    sched = get(f"{CDN}/staticData/scheduleLeagueV2.json")
-    games = []
-    for day in sched["leagueSchedule"]["gameDates"]:
-        for g in day["games"]:
-            tip = g.get("gameDateTimeUTC")
-            if not tip:
-                continue
-            tip = datetime.fromisoformat(tip.replace("Z", "+00:00"))
-            if tip.astimezone(MELB).date() == target:
-                games.append(g)
-    return target, games
+def pull(target):
+    """A Melbourne date's slate is the previous US (ET) date's games."""
+    us_date = (target - timedelta(days=1)).strftime("%Y%m%d")
+    board = get(f"{ESPN}/scoreboard?dates={us_date}")
+    rows, finals = [], 0
+    events = board.get("events", [])
+    for ev in events:
+        comp = ev["competitions"][0]
+        status = comp["status"]["type"]
+        finals += bool(status.get("completed"))
+        teams = {c["homeAway"]: c for c in comp["competitors"]}
+        away, home = teams["away"]["team"]["abbreviation"], teams["home"]["team"]["abbreviation"]
+        game = f"{away} @ {home}"
+        score = f"{away} {teams['away'].get('score')} - {home} {teams['home'].get('score')}"
+        summary = get(f"{ESPN}/summary?event={ev['id']}")
+        for team in summary.get("boxscore", {}).get("players", []):
+            abbr = team["team"]["abbreviation"]
+            for block in team.get("statistics", []):
+                keys = block.get("keys", [])
+                for a in block.get("athletes", []):
+                    st = dict(zip(keys, a.get("stats", [])))
+                    dnp = bool(a.get("didNotPlay")) or not st
+                    pts = 0 if dnp else to_int(st.get("points"))
+                    reb = 0 if dnp else to_int(st.get("rebounds"))
+                    ast = 0 if dnp else to_int(st.get("assists"))
+                    threes = 0 if dnp else to_int(
+                        st.get("threePointFieldGoalsMade-threePointFieldGoalsAttempted"))
+                    desc = status.get("description", "")
+                    if dnp:
+                        desc = f"{desc} / DNP {a.get('reason', '')}".strip()
+                    rows.append({
+                        "date_melb": target.isoformat(),
+                        "game_id": ev["id"],
+                        "game": game,
+                        "status": desc,
+                        "team": abbr,
+                        "player": a["athlete"]["displayName"],
+                        "starter": "1" if a.get("starter") else "0",
+                        "minutes": "0" if dnp else st.get("minutes", "0"),
+                        "pts": pts, "reb": reb, "ast": ast, "threes": threes,
+                        "pra": pts + reb + ast, "ra": reb + ast,
+                        "final_score": score,
+                    })
+    return rows, finals, len(events)
 
 
 def main():
     days_back = int(sys.argv[1]) if len(sys.argv) > 1 else 0
-    target, games = slate_games(days_back)
-    rows, finals = [], 0
-    for g in games:
-        gid = g["gameId"]
-        try:
-            box = get(f"{CDN}/liveData/boxscore/boxscore_{gid}.json")["game"]
-        except Exception as e:  # game not started yet, or CDN hiccup
-            print(f"skip {gid}: {e}")
-            continue
-        away, home = box["awayTeam"], box["homeTeam"]
-        game = f"{away['teamTricode']} @ {home['teamTricode']}"
-        status = box.get("gameStatusText", "")
-        finals += box.get("gameStatus") == 3
-        score = f"{away['teamTricode']} {away['score']} - {home['teamTricode']} {home['score']}"
-        for team in (away, home):
-            for p in team["players"]:
-                s = p.get("statistics", {})
-                pts, reb, ast = s.get("points", 0), s.get("reboundsTotal", 0), s.get("assists", 0)
-                rows.append({
-                    "date_melb": target.isoformat(),
-                    "game_id": gid,
-                    "game": game,
-                    "status": status if p.get("played") == "1" else f"{status} / DNP {p.get('notPlayingReason', '')}".strip(),
-                    "team": team["teamTricode"],
-                    "player": p["name"],
-                    "starter": p.get("starter", "0"),
-                    "minutes": minutes(s.get("minutes")),
-                    "pts": pts, "reb": reb, "ast": ast,
-                    "threes": s.get("threePointersMade", 0),
-                    "pra": pts + reb + ast, "ra": reb + ast,
-                    "final_score": score,
-                })
-
+    target = (datetime.now(MELB) - timedelta(days=days_back)).date()
+    rows, finals, n = pull(target)
     out = Path("boxscores")
     out.mkdir(exist_ok=True)
     for path in (out / f"{target.isoformat()}.csv", out / "latest.csv"):
@@ -98,7 +94,9 @@ def main():
             w = csv.DictWriter(f, fieldnames=FIELDS)
             w.writeheader()
             w.writerows(rows)
-    print(f"{target}: {len(games)} games, {finals} final, {len(rows)} player rows")
+    print(f"{target}: {n} games, {finals} final, {len(rows)} player rows")
+    if n and not rows:
+        sys.exit("games found but no player rows - check the source")
 
 
 if __name__ == "__main__":
