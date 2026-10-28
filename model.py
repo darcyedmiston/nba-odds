@@ -26,7 +26,15 @@ from pathlib import Path
 
 from nbalib import MARKETS, melb_to_us, norm_name, prev_season, season_of, team_key
 
-VERSION = "v4.0"
+# Projection parameters tuned by proj_lab.py (out-of-sample on 2025-26, checked on 2024-25)
+PROJ = {"hl_min": 8, "hl_rate": 80, "prev_w": 0.3, "other_team_w": 0.2, "abs_rate": 0.15,
+        "b2b_min": 0.8, "home": -0.02, "blow_thr": 8, "blow_min": 0.5, "opp_beta": 0.75, "env_gamma": 0.5}
+_pp = Path(__file__).with_name("model") / "projection_params.json"
+if _pp.exists():
+    import json
+    PROJ.update({k: v for k, v in json.loads(_pp.read_text()).items() if k in PROJ})
+
+VERSION = "v4.1"
 WEIGHTS = {"D1": .20, "D2": .20, "D3": .15, "D4": .15, "D5": .10, "D6": .10, "D7": .05, "D8": .05}
 MIN_ODDS = 1.55
 SHRINK = 0.8          # pull model probabilities toward 50% until calibrated
@@ -94,10 +102,33 @@ class Logs:
             totals += [g["pts"] + g["opp_pts"] for g in tg.values() if g["season"] == self.prev]
         self.league_total = st.mean(totals) if totals else 228.0
         self.def_rank = self._def_ranks()
+        self._team_env()
+
+    def _shrunk(self, games, fn):
+        cur = [fn(g) for g in games if g["season"] == self.season]
+        prv = [fn(g) for g in games if g["season"] == self.prev]
+        if not cur and not prv:
+            return None
+        k = 10 if prv else 0
+        return (sum(cur) + k * (st.mean(prv) if prv else 0)) / (len(cur) + k)
+
+    def _team_env(self):
+        """Per team: scoring environment, net margin and per-stat totals (shrunk to last season)."""
+        self.env, self.net, self.tot = {}, {}, defaultdict(dict)
+        for t, gl in self.team_games.items():
+            self.env[t] = self._shrunk(gl, lambda g: g["pts"] + g["opp_pts"])
+            self.net[t] = self._shrunk(gl, lambda g: g["pts"] - g["opp_pts"])
+            for k in ("reb", "ast", "threes"):
+                self.tot[t][k] = self._shrunk(gl, lambda g, k=k: g[k])
+            self.tot[t]["pts"] = self._shrunk(gl, lambda g: g["pts"])
+            self.tot[t]["pra"] = self._shrunk(gl, lambda g: g["pts"] + g["reb"] + g["ast"])
+        envs = [v for v in self.env.values() if v]
+        self.lg_env = st.mean(envs) if envs else None
+        self.lg_alw = {k: st.mean(v.values()) for k, v in self.def_val.items() if v}
 
     def _def_ranks(self):
         """Per stat: team nickname -> rank 1 (allows least) .. 30 (allows most)."""
-        ranks = {}
+        ranks, self.def_val = {}, {}
         teams = set(self.allowed[self.season]) | set(self.allowed[self.prev])
         for stat in STAT_SCALE:
             vals = {}
@@ -110,6 +141,7 @@ class Logs:
                 vals[t] = ((sum(cur) + k * (st.mean(prv) if prv else 0)) / (len(cur) + k))
             order = sorted(vals, key=vals.get)
             ranks[stat] = {t: i + 1 for i, t in enumerate(order)}
+            self.def_val[stat] = vals
         return ranks
 
 
@@ -219,6 +251,53 @@ def blend(cur, prev, k):
     return (sum(cur) + k * pm) / (len(cur) + k) if (cur or k) else 0.0
 
 
+def project(logs, hist, stat, my_team, opp_team, home, rest, spread, absences, P=PROJ):
+    """Projected minutes and stat (v4.1, tuned in proj_lab.py).
+    Minutes and per-minute rate are exponentially weighted over recent games; last season and
+    games for another team are down-weighted; then adjusted for teammates out (usage), back-to-back,
+    blowout risk (real spread, else net-rating proxy), opponent allowed and scoring environment."""
+    H = hist[-60:]
+    s = logs.season
+    N = len(H)
+
+    def w(h):
+        x = P["prev_w"] if h["season"] != s else 1.0
+        return x * (P["other_team_w"] if team_key(h["team_name"]) != my_team else 1.0)
+    a_m, a_r = 0.5 ** (1 / P["hl_min"]), 0.5 ** (1 / P["hl_rate"])
+    wm = [a_m ** (N - 1 - i) * w(h) for i, h in enumerate(H)]
+    wr = [a_r ** (N - 1 - i) * w(h) * h["min"] for i, h in enumerate(H)]
+    m = sum(x * h["min"] for x, h in zip(wm, H)) / sum(wm)
+    rate = sum(x * h[stat] / h["min"] for x, h in zip(wr, H)) / sum(wr)
+    team_tot = logs.tot.get(my_team, {}).get(stat)
+    if absences and team_tot:
+        miss = 0.0
+        for a in absences:
+            ah = [r for r in logs.by_player.get(a, []) if not r["dnp"]][-20:]
+            if ah:
+                miss += st.mean(r[stat] for r in ah)
+        rate *= 1 + P["abs_rate"] * miss / team_tot
+    if rest == 1:
+        m -= P["b2b_min"]
+    if home:
+        rate *= 1 + P["home"]
+    if spread is not None:
+        margin = -spread
+    elif logs.net.get(my_team) is not None and logs.net.get(opp_team) is not None:
+        margin = logs.net[my_team] - logs.net[opp_team] + (2.5 if home else -2.5)
+    else:
+        margin = 0.0
+    if m >= 28 and abs(margin) > P["blow_thr"]:
+        m -= P["blow_min"] * (abs(margin) - P["blow_thr"]) / 5
+    alw = logs.def_val.get(stat, {}).get(opp_team)
+    if alw and logs.lg_alw.get(stat):
+        rate *= (alw / logs.lg_alw[stat]) ** P["opp_beta"]
+    e1, e2 = logs.env.get(my_team), logs.env.get(opp_team)
+    if e1 and e2 and logs.lg_env:
+        rate *= (((e1 + e2) / 2) / logs.lg_env) ** P["env_gamma"]
+    m = max(0.0, m)
+    return max(0.0, rate * m), m
+
+
 def score_player_market(logs, pkey, stat, team, opp, slate_us, inj, game_ctx, market_opts):
     hist = [r for r in logs.by_player.get(pkey, []) if not r["dnp"] and r["min"] > 0]
     cur = [r for r in hist if r["season"] == logs.season]
@@ -250,31 +329,14 @@ def score_player_market(logs, pkey, stat, team, opp, slate_us, inj, game_ctx, ma
     l10_vals = [r[stat] for r in last10]
     l10_avg = st.mean(l10_vals)
 
-    # minutes projection
-    m_proj = 0.5 * st.mean(r["min"] for r in last5) + 0.3 * st.mean(r["min"] for r in last10) + 0.2 * min_avg
-    absences = game_ctx["absences"].get(my_team, [])
-    absences = [a for a in absences if a != pkey]
-    if absences and m_proj >= 20:
-        m_proj += min(4.0, 1.5 * len(absences))
+    absences = [a for a in game_ctx["absences"].get(my_team, []) if a != pkey]
+    if absences:
         flags.append("key teammates out: " + ", ".join(absences))
-    spread = game_ctx["spread"].get(my_team)
-    if spread is not None and m_proj >= 28:
-        if abs(spread) >= 12:
-            m_proj -= 2.5
-        elif abs(spread) >= 8:
-            m_proj -= 1.0
     rest = game_ctx["rest"].get(my_team)
     if rest == 1:
-        m_proj -= 1.0
         flags.append("back-to-back")
-
-    def rate(rows):
-        m = sum(r["min"] for r in rows)
-        return sum(r[stat] for r in rows) / m if m else 0.0
-    rate_season = (rate(cur) * n + rate(prv) * min(k, len(prv))) / (n + min(k, len(prv))) if (n or prv) else 0
-    rate_proj = 0.6 * rate_season + 0.4 * rate(last10)
-    rate_proj *= 1 + min(0.08, 0.03 * len(absences))
-    mu = max(0.0, rate_proj * m_proj)
+    mu, m_proj = project(logs, hist, stat, my_team, opp_team, bool(game_ctx["home"].get(my_team)),
+                         rest, game_ctx["spread"].get(my_team), absences)
     vals20 = [r[stat] for r in last20]
     sd_emp = st.pstdev(vals20) if len(vals20) >= 5 else 0
     sd = max(sd_emp, math.sqrt(mu) if mu else 1, 0.15 * mu) if len(vals20) >= 5 else max(1.3 * math.sqrt(mu or 1), 0.25 * mu)

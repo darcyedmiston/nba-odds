@@ -1,0 +1,15 @@
+{
+ "hl_min": 8,
+ "hl_rate": 80,
+ "prev_w": 0.3,
+ "other_team_w": 0.2,
+ "abs_min": 0,
+ "abs_rate": 0.15,
+ "ww_k": 0.0,
+ "b2b_min": 0.8,
+ "home": -0.02,
+ "blow_thr": 8,
+ "blow_min": 0.5,
+ "opp_beta": 0.75,
+ "env_gamma": 0.5
+}
