@@ -84,6 +84,36 @@ def main():
             w.writeheader()
             w.writerows(rows)
 
+    # Game lines (spread + total) for the model's D7 / minutes projection.
+    # The featured-odds endpoint covers every game for 2 credits in total.
+    if not wanted and slate:
+        ids = {e["id"] for e in slate}
+        games, remaining, used = get(f"{API}/odds?apiKey={KEY}&regions={REGIONS}"
+                                     f"&markets=spreads,totals&oddsFormat=decimal")
+        credits += int(used or 0)
+        glines = []
+        for g in games:
+            if g["id"] not in ids:
+                continue
+            tip = datetime.fromisoformat(g["commence_time"].replace("Z", "+00:00"))
+            for book in g.get("bookmakers", []):
+                for m in book.get("markets", []):
+                    for o in m.get("outcomes", []):
+                        glines.append({
+                            "date_melb": tip.astimezone(MELB).strftime("%Y-%m-%d"),
+                            "tipoff_melb": tip.astimezone(MELB).strftime("%H:%M"),
+                            "game": f"{g['away_team']} @ {g['home_team']}",
+                            "home_team": g["home_team"], "away_team": g["away_team"],
+                            "bookmaker": book["key"], "market": m["key"],
+                            "name": o["name"], "point": o.get("point", ""), "odds": o["price"],
+                        })
+        with open(out / "game_lines.csv", "w", newline="") as f:
+            w = csv.DictWriter(f, fieldnames=["date_melb", "tipoff_melb", "game", "home_team", "away_team",
+                                              "bookmaker", "market", "name", "point", "odds"])
+            w.writeheader()
+            w.writerows(glines)
+        print(f"game lines: {len(glines)} prices")
+
     books = sorted({r["bookmaker"] for r in rows})
     print(f"{len(slate)} games, {len(rows)} prop prices, books: {books}")
     print(f"credits used this run: {credits}, remaining: {remaining}")

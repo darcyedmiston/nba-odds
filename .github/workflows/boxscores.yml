@@ -26,10 +26,14 @@ jobs:
           python-version: "3.12"
       - name: Fetch official box scores
         run: python fetch_boxscores.py "${{ github.event.inputs.days_back || '0' }}"
+      - name: Update game logs and settle the model's props
+        run: |
+          python build_gamelogs.py --recent 3 || echo "game-log update failed"
+          python settle.py || echo "settle failed"
       - name: Commit box scores
         run: |
           git config user.name "odds-bot"
           git config user.email "odds-bot@users.noreply.github.com"
-          git add boxscores/
+          git add -A
           git diff --cached --quiet || git commit -m "Box scores $(date -u +%F)"
           git pull --rebase && git push

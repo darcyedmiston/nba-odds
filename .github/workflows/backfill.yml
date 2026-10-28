@@ -1,0 +1,35 @@
+name: NBA game-log backfill
+
+# One-off: build a whole season's player game logs from ESPN box scores.
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: "Season to backfill, e.g. 2025-26"
+        default: "2025-26"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-commits
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Backfill
+        run: python -u build_gamelogs.py --season "${{ github.event.inputs.season }}"
+      - name: Commit
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Game logs ${{ github.event.inputs.season }}"
+          git pull --rebase && git push
