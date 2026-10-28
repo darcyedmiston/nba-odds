@@ -6281,7 +6281,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2025-11-22,401810126,CHI,Chicago Bulls,WSH,Washington Wizards,1,4711294,Matas Buzelis,matas buzelis,1,0,29,13,6,1,1,20,121,120
 2025-26,2025-11-22,401810126,CHI,Chicago Bulls,WSH,Washington Wizards,1,6478,Nikola Vucevic,nikola vucevic,1,0,27,28,12,2,3,42,121,120
 2025-26,2025-11-22,401810126,CHI,Chicago Bulls,WSH,Washington Wizards,1,5242496,Noa Essengue,noa essengue,0,0,4,0,0,0,0,0,121,120
-2025-26,2025-11-22,401810126,CHI,Chicago Bulls,WSH,Washington Wizards,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,121,120
 2025-26,2025-11-22,401810126,CHI,Chicago Bulls,WSH,Washington Wizards,1,4395626,Tre Jones,tre jones,0,0,26,10,2,1,0,13,121,120
 2025-26,2025-11-22,401810126,WSH,Washington Wizards,CHI,Chicago Bulls,0,5160992,Alex Sarr,alex sarr,1,0,28,16,11,4,2,31,120,121
 2025-26,2025-11-22,401810126,WSH,Washington Wizards,CHI,Chicago Bulls,0,2581184,Anthony Gill,anthony gill,0,1,0,0,0,0,0,0,120,121
@@ -6749,7 +6748,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2025-11-24,401810144,CHI,Chicago Bulls,NO,New Orleans Pelicans,0,5105553,Julian Phillips,julian phillips,0,0,15,7,2,1,1,10,130,143
 2025-26,2025-11-24,401810144,CHI,Chicago Bulls,NO,New Orleans Pelicans,0,4711294,Matas Buzelis,matas buzelis,1,0,21,10,4,0,2,14,130,143
 2025-26,2025-11-24,401810144,CHI,Chicago Bulls,NO,New Orleans Pelicans,0,5242496,Noa Essengue,noa essengue,0,0,2,0,0,0,0,0,130,143
-2025-26,2025-11-24,401810144,CHI,Chicago Bulls,NO,New Orleans Pelicans,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,130,143
 2025-26,2025-11-24,401810144,CHI,Chicago Bulls,NO,New Orleans Pelicans,0,4431687,Patrick Williams,patrick williams,1,0,27,6,4,2,2,12,130,143
 2025-26,2025-11-24,401810144,CHI,Chicago Bulls,NO,New Orleans Pelicans,0,4395626,Tre Jones,tre jones,0,0,28,10,2,11,0,23,130,143
 2025-26,2025-11-24,401810144,NO,New Orleans Pelicans,CHI,Chicago Bulls,1,4576086,Bryce McGowens,bryce mcgowens,0,0,18,11,3,2,2,16,143,130
@@ -7496,7 +7494,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2025-11-29,401810150,CHI,Chicago Bulls,IND,Indiana Pacers,0,4066372,Kevin Huerter,kevin huerter,1,0,32,15,3,1,3,19,101,103
 2025-26,2025-11-29,401810150,CHI,Chicago Bulls,IND,Indiana Pacers,0,4711294,Matas Buzelis,matas buzelis,1,0,34,8,11,2,2,21,101,103
 2025-26,2025-11-29,401810150,CHI,Chicago Bulls,IND,Indiana Pacers,0,6478,Nikola Vucevic,nikola vucevic,1,0,30,16,8,6,2,30,101,103
-2025-26,2025-11-29,401810150,CHI,Chicago Bulls,IND,Indiana Pacers,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,101,103
 2025-26,2025-11-29,401810150,CHI,Chicago Bulls,IND,Indiana Pacers,0,4431687,Patrick Williams,patrick williams,0,0,17,2,2,0,0,4,101,103
 2025-26,2025-11-29,401810150,CHI,Chicago Bulls,IND,Indiana Pacers,0,4395626,Tre Jones,tre jones,0,0,29,17,1,2,0,20,101,103
 2025-26,2025-11-29,401810150,CHI,Chicago Bulls,IND,Indiana Pacers,0,5165257,Trentyn Flowers,trentyn flowers,0,1,0,0,0,0,0,0,101,103
@@ -7981,7 +7978,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2025-12-01,401810169,CHI,Chicago Bulls,ORL,Orlando Magic,0,4066372,Kevin Huerter,kevin huerter,1,0,6,0,0,0,0,0,120,125
 2025-26,2025-12-01,401810169,CHI,Chicago Bulls,ORL,Orlando Magic,0,4711294,Matas Buzelis,matas buzelis,1,0,36,21,6,4,2,31,120,125
 2025-26,2025-12-01,401810169,CHI,Chicago Bulls,ORL,Orlando Magic,0,6478,Nikola Vucevic,nikola vucevic,1,0,34,20,11,5,1,36,120,125
-2025-26,2025-12-01,401810169,CHI,Chicago Bulls,ORL,Orlando Magic,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,120,125
 2025-26,2025-12-01,401810169,CHI,Chicago Bulls,ORL,Orlando Magic,0,4431687,Patrick Williams,patrick williams,0,0,18,6,6,1,2,13,120,125
 2025-26,2025-12-01,401810169,CHI,Chicago Bulls,ORL,Orlando Magic,0,4395626,Tre Jones,tre jones,0,0,30,20,1,3,2,24,120,125
 2025-26,2025-12-01,401810169,CHI,Chicago Bulls,ORL,Orlando Magic,0,5165257,Trentyn Flowers,trentyn flowers,0,1,0,0,0,0,0,0,120,125
@@ -8377,7 +8373,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2025-12-03,401810184,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,5105553,Julian Phillips,julian phillips,1,0,28,5,1,1,1,7,103,113
 2025-26,2025-12-03,401810184,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,4711294,Matas Buzelis,matas buzelis,1,0,33,14,5,3,1,22,103,113
 2025-26,2025-12-03,401810184,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,6478,Nikola Vucevic,nikola vucevic,1,0,33,16,11,0,1,27,103,113
-2025-26,2025-12-03,401810184,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,103,113
 2025-26,2025-12-03,401810184,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,4431687,Patrick Williams,patrick williams,0,0,23,10,3,0,2,13,103,113
 2025-26,2025-12-03,401810184,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,4395626,Tre Jones,tre jones,0,1,0,0,0,0,0,0,103,113
 2025-26,2025-12-03,401810184,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,5165257,Trentyn Flowers,trentyn flowers,0,0,1,0,0,1,0,1,103,113
@@ -8776,7 +8771,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2025-12-05,401810200,CHI,Chicago Bulls,IND,Indiana Pacers,1,5105553,Julian Phillips,julian phillips,1,0,23,5,4,1,1,10,105,120
 2025-26,2025-12-05,401810200,CHI,Chicago Bulls,IND,Indiana Pacers,1,4711294,Matas Buzelis,matas buzelis,1,0,35,19,12,2,0,33,105,120
 2025-26,2025-12-05,401810200,CHI,Chicago Bulls,IND,Indiana Pacers,1,6478,Nikola Vucevic,nikola vucevic,1,0,26,8,4,2,2,14,105,120
-2025-26,2025-12-05,401810200,CHI,Chicago Bulls,IND,Indiana Pacers,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,105,120
 2025-26,2025-12-05,401810200,CHI,Chicago Bulls,IND,Indiana Pacers,1,4431687,Patrick Williams,patrick williams,0,0,26,9,3,0,2,12,105,120
 2025-26,2025-12-05,401810200,CHI,Chicago Bulls,IND,Indiana Pacers,1,4395626,Tre Jones,tre jones,0,1,0,0,0,0,0,0,105,120
 2025-26,2025-12-05,401810200,CHI,Chicago Bulls,IND,Indiana Pacers,1,4066650,Zach Collins,zach collins,0,0,21,8,6,1,1,15,105,120
@@ -9183,7 +9177,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2025-12-07,401810216,CHI,Chicago Bulls,GS,Golden State Warriors,1,5105553,Julian Phillips,julian phillips,0,0,12,5,2,1,1,8,91,123
 2025-26,2025-12-07,401810216,CHI,Chicago Bulls,GS,Golden State Warriors,1,4711294,Matas Buzelis,matas buzelis,1,0,25,16,3,1,2,20,91,123
 2025-26,2025-12-07,401810216,CHI,Chicago Bulls,GS,Golden State Warriors,1,6478,Nikola Vucevic,nikola vucevic,1,0,24,9,6,3,1,18,91,123
-2025-26,2025-12-07,401810216,CHI,Chicago Bulls,GS,Golden State Warriors,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,91,123
 2025-26,2025-12-07,401810216,CHI,Chicago Bulls,GS,Golden State Warriors,1,4431687,Patrick Williams,patrick williams,0,0,20,3,6,2,1,11,91,123
 2025-26,2025-12-07,401810216,CHI,Chicago Bulls,GS,Golden State Warriors,1,5165257,Trentyn Flowers,trentyn flowers,0,0,4,4,1,0,0,5,91,123
 2025-26,2025-12-07,401810216,CHI,Chicago Bulls,GS,Golden State Warriors,1,4066650,Zach Collins,zach collins,0,0,19,3,4,1,0,8,91,123
@@ -13451,7 +13444,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-03,401810344,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,4066372,Kevin Huerter,kevin huerter,0,0,31,9,11,7,1,27,99,112
 2025-26,2026-01-03,401810344,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,4711294,Matas Buzelis,matas buzelis,1,0,34,17,8,3,2,28,99,112
 2025-26,2026-01-03,401810344,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,6478,Nikola Vucevic,nikola vucevic,1,0,34,28,7,8,3,43,99,112
-2025-26,2026-01-03,401810344,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,99,112
 2025-26,2026-01-03,401810344,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,4431687,Patrick Williams,patrick williams,0,0,15,0,3,0,0,3,99,112
 2025-26,2026-01-03,401810344,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,4395626,Tre Jones,tre jones,1,0,28,10,2,8,0,20,99,112
 2025-26,2026-01-03,401810345,POR,Portland Trail Blazers,SA,San Antonio Spurs,0,4683935,Blake Wesley,blake wesley,0,1,0,0,0,0,0,0,115,110
@@ -13819,7 +13811,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-05,401810358,CHI,Chicago Bulls,BOS,Boston Celtics,0,4066372,Kevin Huerter,kevin huerter,1,0,20,8,3,0,0,11,101,115
 2025-26,2026-01-05,401810358,CHI,Chicago Bulls,BOS,Boston Celtics,0,4711294,Matas Buzelis,matas buzelis,1,0,31,26,3,2,3,31,101,115
 2025-26,2026-01-05,401810358,CHI,Chicago Bulls,BOS,Boston Celtics,0,6478,Nikola Vucevic,nikola vucevic,1,0,36,15,15,7,3,37,101,115
-2025-26,2026-01-05,401810358,CHI,Chicago Bulls,BOS,Boston Celtics,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,101,115
 2025-26,2026-01-05,401810358,CHI,Chicago Bulls,BOS,Boston Celtics,0,4431687,Patrick Williams,patrick williams,0,0,10,2,2,0,0,4,101,115
 2025-26,2026-01-05,401810358,CHI,Chicago Bulls,BOS,Boston Celtics,0,4395626,Tre Jones,tre jones,1,0,23,10,5,4,0,19,101,115
 2025-26,2026-01-05,401810359,ATL,Atlanta Hawks,TOR,Toronto Raptors,0,4873201,Asa Newell,asa newell,0,1,0,0,0,0,0,0,100,118
@@ -14168,7 +14159,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-07,401810372,CHI,Chicago Bulls,DET,Detroit Pistons,0,4066372,Kevin Huerter,kevin huerter,1,0,30,8,3,4,0,15,93,108
 2025-26,2026-01-07,401810372,CHI,Chicago Bulls,DET,Detroit Pistons,0,4711294,Matas Buzelis,matas buzelis,1,0,33,20,3,1,4,24,93,108
 2025-26,2026-01-07,401810372,CHI,Chicago Bulls,DET,Detroit Pistons,0,6478,Nikola Vucevic,nikola vucevic,1,0,32,20,16,4,2,40,93,108
-2025-26,2026-01-07,401810372,CHI,Chicago Bulls,DET,Detroit Pistons,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,93,108
 2025-26,2026-01-07,401810372,CHI,Chicago Bulls,DET,Detroit Pistons,0,4431687,Patrick Williams,patrick williams,0,0,15,6,4,1,2,11,93,108
 2025-26,2026-01-07,401810372,CHI,Chicago Bulls,DET,Detroit Pistons,0,4395626,Tre Jones,tre jones,1,0,30,6,7,12,0,25,93,108
 2025-26,2026-01-07,401810372,DET,Detroit Pistons,CHI,Chicago Bulls,1,4684742,Ausar Thompson,ausar thompson,1,0,29,11,8,3,0,22,108,93
@@ -14896,7 +14886,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-10,401810401,CHI,Chicago Bulls,DAL,Dallas Mavericks,1,4066372,Kevin Huerter,kevin huerter,0,0,24,13,3,6,2,22,125,107
 2025-26,2026-01-10,401810401,CHI,Chicago Bulls,DAL,Dallas Mavericks,1,4711294,Matas Buzelis,matas buzelis,1,0,25,15,6,2,1,23,125,107
 2025-26,2026-01-10,401810401,CHI,Chicago Bulls,DAL,Dallas Mavericks,1,6478,Nikola Vucevic,nikola vucevic,1,0,29,15,12,3,1,30,125,107
-2025-26,2026-01-10,401810401,CHI,Chicago Bulls,DAL,Dallas Mavericks,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,125,107
 2025-26,2026-01-10,401810401,CHI,Chicago Bulls,DAL,Dallas Mavericks,1,4431687,Patrick Williams,patrick williams,0,0,20,4,5,1,1,10,125,107
 2025-26,2026-01-10,401810401,CHI,Chicago Bulls,DAL,Dallas Mavericks,1,4395626,Tre Jones,tre jones,1,0,28,13,3,5,1,21,125,107
 2025-26,2026-01-10,401810401,DAL,Dallas Mavericks,CHI,Chicago Bulls,0,3138160,Caleb Martin,caleb martin,0,0,20,8,4,4,0,16,107,125
@@ -16398,7 +16387,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-18,401810458,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,4066372,Kevin Huerter,kevin huerter,0,0,30,11,5,6,1,22,124,102
 2025-26,2026-01-18,401810458,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,4711294,Matas Buzelis,matas buzelis,1,0,27,17,5,5,3,27,124,102
 2025-26,2026-01-18,401810458,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,6478,Nikola Vucevic,nikola vucevic,1,0,28,17,11,6,1,34,124,102
-2025-26,2026-01-18,401810458,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,124,102
 2025-26,2026-01-18,401810458,CHI,Chicago Bulls,BKN,Brooklyn Nets,1,4395626,Tre Jones,tre jones,0,0,24,10,0,10,0,20,124,102
 2025-26,2026-01-18,401810459,HOU,Houston Rockets,NO,New Orleans Pelicans,1,3922230,Aaron Holiday,aaron holiday,0,1,0,0,0,0,0,0,119,110
 2025-26,2026-01-18,401810459,HOU,Houston Rockets,NO,New Orleans Pelicans,1,4871144,Alperen Sengun,alperen sengun,1,0,33,21,8,4,0,33,119,110
@@ -16782,7 +16770,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-20,401810469,CHI,Chicago Bulls,LAC,LA Clippers,1,4066372,Kevin Huerter,kevin huerter,0,0,29,14,4,7,4,25,138,110
 2025-26,2026-01-20,401810469,CHI,Chicago Bulls,LAC,LA Clippers,1,4711294,Matas Buzelis,matas buzelis,1,0,30,21,2,4,4,27,138,110
 2025-26,2026-01-20,401810469,CHI,Chicago Bulls,LAC,LA Clippers,1,6478,Nikola Vucevic,nikola vucevic,1,0,32,19,8,4,1,31,138,110
-2025-26,2026-01-20,401810469,CHI,Chicago Bulls,LAC,LA Clippers,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,138,110
 2025-26,2026-01-20,401810469,CHI,Chicago Bulls,LAC,LA Clippers,1,4395626,Tre Jones,tre jones,0,0,26,15,8,10,1,33,138,110
 2025-26,2026-01-20,401810469,LAC,LA Clippers,CHI,Chicago Bulls,0,3448,Brook Lopez,brook lopez,0,0,14,0,1,0,0,1,110,138
 2025-26,2026-01-20,401810469,LAC,LA Clippers,CHI,Chicago Bulls,0,4845363,Cam Christie,cam christie,0,0,23,7,5,1,0,13,110,138
@@ -17225,7 +17212,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-22,401810486,CHI,Chicago Bulls,MIN,Minnesota Timberwolves,0,4066372,Kevin Huerter,kevin huerter,0,0,8,3,0,2,1,5,120,115
 2025-26,2026-01-22,401810486,CHI,Chicago Bulls,MIN,Minnesota Timberwolves,0,4711294,Matas Buzelis,matas buzelis,1,0,28,12,6,3,2,21,120,115
 2025-26,2026-01-22,401810486,CHI,Chicago Bulls,MIN,Minnesota Timberwolves,0,6478,Nikola Vucevic,nikola vucevic,1,0,31,10,8,3,2,21,120,115
-2025-26,2026-01-22,401810486,CHI,Chicago Bulls,MIN,Minnesota Timberwolves,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,120,115
 2025-26,2026-01-22,401810486,CHI,Chicago Bulls,MIN,Minnesota Timberwolves,0,4431687,Patrick Williams,patrick williams,0,0,16,5,3,0,1,8,120,115
 2025-26,2026-01-22,401810486,CHI,Chicago Bulls,MIN,Minnesota Timberwolves,0,4395626,Tre Jones,tre jones,0,0,27,12,3,7,1,22,120,115
 2025-26,2026-01-22,401810486,MIN,Minnesota Timberwolves,CHI,Chicago Bulls,1,4594268,Anthony Edwards,anthony edwards,1,0,35,20,6,3,1,29,115,120
@@ -17632,7 +17618,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-24,401810502,CHI,Chicago Bulls,BOS,Boston Celtics,1,4066372,Kevin Huerter,kevin huerter,0,0,24,12,6,3,2,21,114,111
 2025-26,2026-01-24,401810502,CHI,Chicago Bulls,BOS,Boston Celtics,1,4711294,Matas Buzelis,matas buzelis,1,0,32,14,8,5,4,27,114,111
 2025-26,2026-01-24,401810502,CHI,Chicago Bulls,BOS,Boston Celtics,1,6478,Nikola Vucevic,nikola vucevic,1,0,35,16,7,6,2,29,114,111
-2025-26,2026-01-24,401810502,CHI,Chicago Bulls,BOS,Boston Celtics,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,114,111
 2025-26,2026-01-24,401810502,CHI,Chicago Bulls,BOS,Boston Celtics,1,4431687,Patrick Williams,patrick williams,0,0,16,10,1,0,2,11,114,111
 2025-26,2026-01-24,401810503,DAL,Dallas Mavericks,LAL,Los Angeles Lakers,1,4397040,Brandon Williams,brandon williams,0,0,23,20,4,4,0,28,110,116
 2025-26,2026-01-24,401810503,DAL,Dallas Mavericks,LAL,Los Angeles Lakers,1,3138160,Caleb Martin,caleb martin,1,0,24,17,3,1,3,21,110,116
@@ -17964,7 +17949,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-26,401810516,CHI,Chicago Bulls,LAL,Los Angeles Lakers,1,4066372,Kevin Huerter,kevin huerter,0,0,16,0,1,1,0,2,118,129
 2025-26,2026-01-26,401810516,CHI,Chicago Bulls,LAL,Los Angeles Lakers,1,4711294,Matas Buzelis,matas buzelis,1,0,22,11,5,4,2,20,118,129
 2025-26,2026-01-26,401810516,CHI,Chicago Bulls,LAL,Los Angeles Lakers,1,6478,Nikola Vucevic,nikola vucevic,1,0,36,18,11,5,1,34,118,129
-2025-26,2026-01-26,401810516,CHI,Chicago Bulls,LAL,Los Angeles Lakers,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,118,129
 2025-26,2026-01-26,401810516,CHI,Chicago Bulls,LAL,Los Angeles Lakers,1,4431687,Patrick Williams,patrick williams,0,0,12,7,0,1,1,8,118,129
 2025-26,2026-01-26,401810516,LAL,Los Angeles Lakers,CHI,Chicago Bulls,0,4683774,Bronny James,bronny james,0,1,0,0,0,0,0,0,129,118
 2025-26,2026-01-26,401810516,LAL,Los Angeles Lakers,CHI,Chicago Bulls,0,4897943,Dalton Knecht,dalton knecht,0,1,0,0,0,0,0,0,129,118
@@ -18247,7 +18231,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-28,401810527,CHI,Chicago Bulls,IND,Indiana Pacers,0,4066372,Kevin Huerter,kevin huerter,0,0,17,4,4,4,0,12,110,113
 2025-26,2026-01-28,401810527,CHI,Chicago Bulls,IND,Indiana Pacers,0,4711294,Matas Buzelis,matas buzelis,1,0,32,20,8,0,4,28,110,113
 2025-26,2026-01-28,401810527,CHI,Chicago Bulls,IND,Indiana Pacers,0,6478,Nikola Vucevic,nikola vucevic,1,0,30,25,9,4,3,38,110,113
-2025-26,2026-01-28,401810527,CHI,Chicago Bulls,IND,Indiana Pacers,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,110,113
 2025-26,2026-01-28,401810527,CHI,Chicago Bulls,IND,Indiana Pacers,0,4431687,Patrick Williams,patrick williams,0,0,17,0,3,1,0,4,110,113
 2025-26,2026-01-28,401810527,IND,Indiana Pacers,CHI,Chicago Bulls,1,4396909,Aaron Nesmith,aaron nesmith,1,0,34,14,4,4,3,22,113,110
 2025-26,2026-01-28,401810527,IND,Indiana Pacers,CHI,Chicago Bulls,1,4395712,Andrew Nembhard,andrew nembhard,1,0,34,18,6,9,2,33,113,110
@@ -18635,7 +18618,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-29,401850920,CHI,Chicago Bulls,MIA,Miami Heat,1,4066372,Kevin Huerter,kevin huerter,0,0,33,15,10,3,4,28,113,116
 2025-26,2026-01-29,401850920,CHI,Chicago Bulls,MIA,Miami Heat,1,4711294,Matas Buzelis,matas buzelis,1,0,34,16,9,4,2,29,113,116
 2025-26,2026-01-29,401850920,CHI,Chicago Bulls,MIA,Miami Heat,1,6478,Nikola Vucevic,nikola vucevic,1,0,37,15,10,3,1,28,113,116
-2025-26,2026-01-29,401850920,CHI,Chicago Bulls,MIA,Miami Heat,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,113,116
 2025-26,2026-01-29,401850920,CHI,Chicago Bulls,MIA,Miami Heat,1,4431687,Patrick Williams,patrick williams,0,0,12,0,1,0,0,1,113,116
 2025-26,2026-01-29,401850920,CHI,Chicago Bulls,MIA,Miami Heat,1,5159895,Yuki Kawamura,yuki kawamura,0,1,0,0,0,0,0,0,113,116
 2025-26,2026-01-29,401850920,MIA,Miami Heat,CHI,Chicago Bulls,0,3059319,Andrew Wiggins,andrew wiggins,1,0,33,10,3,2,1,15,116,113
@@ -18897,7 +18879,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-01-31,401810547,CHI,Chicago Bulls,MIA,Miami Heat,0,5105553,Julian Phillips,julian phillips,0,0,12,3,1,0,0,4,125,118
 2025-26,2026-01-31,401810547,CHI,Chicago Bulls,MIA,Miami Heat,0,4066372,Kevin Huerter,kevin huerter,1,0,22,9,7,5,1,21,125,118
 2025-26,2026-01-31,401810547,CHI,Chicago Bulls,MIA,Miami Heat,0,4711294,Matas Buzelis,matas buzelis,1,0,33,21,8,4,3,33,125,118
-2025-26,2026-01-31,401810547,CHI,Chicago Bulls,MIA,Miami Heat,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,125,118
 2025-26,2026-01-31,401810547,CHI,Chicago Bulls,MIA,Miami Heat,0,4431687,Patrick Williams,patrick williams,1,0,34,15,4,2,3,21,125,118
 2025-26,2026-01-31,401810547,CHI,Chicago Bulls,MIA,Miami Heat,0,5159895,Yuki Kawamura,yuki kawamura,0,0,11,6,3,2,2,11,125,118
 2025-26,2026-01-31,401810547,MIA,Miami Heat,CHI,Chicago Bulls,1,3059319,Andrew Wiggins,andrew wiggins,1,0,33,17,1,1,3,19,118,125
@@ -19133,7 +19114,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-02-01,401810560,CHI,Chicago Bulls,MIA,Miami Heat,0,4066372,Kevin Huerter,kevin huerter,0,1,0,0,0,0,0,0,91,134
 2025-26,2026-02-01,401810560,CHI,Chicago Bulls,MIA,Miami Heat,0,4711294,Matas Buzelis,matas buzelis,1,0,21,2,3,2,0,7,91,134
 2025-26,2026-02-01,401810560,CHI,Chicago Bulls,MIA,Miami Heat,0,6478,Nikola Vucevic,nikola vucevic,1,0,22,12,2,1,0,15,91,134
-2025-26,2026-02-01,401810560,CHI,Chicago Bulls,MIA,Miami Heat,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,91,134
 2025-26,2026-02-01,401810560,CHI,Chicago Bulls,MIA,Miami Heat,0,4431687,Patrick Williams,patrick williams,0,0,28,9,10,1,0,20,91,134
 2025-26,2026-02-01,401810560,CHI,Chicago Bulls,MIA,Miami Heat,0,4395626,Tre Jones,tre jones,0,1,0,0,0,0,0,0,91,134
 2025-26,2026-02-01,401810560,CHI,Chicago Bulls,MIA,Miami Heat,0,5159895,Yuki Kawamura,yuki kawamura,0,0,27,6,6,6,0,18,91,134
@@ -19574,7 +19554,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-02-03,401810577,CHI,Chicago Bulls,MIL,Milwaukee Bucks,0,4871145,Josh Giddey,josh giddey,0,1,0,0,0,0,0,0,115,131
 2025-26,2026-02-03,401810577,CHI,Chicago Bulls,MIL,Milwaukee Bucks,0,5105553,Julian Phillips,julian phillips,0,1,0,0,0,0,0,0,115,131
 2025-26,2026-02-03,401810577,CHI,Chicago Bulls,MIL,Milwaukee Bucks,0,4711294,Matas Buzelis,matas buzelis,1,0,36,22,2,1,5,25,115,131
-2025-26,2026-02-03,401810577,CHI,Chicago Bulls,MIL,Milwaukee Bucks,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,115,131
 2025-26,2026-02-03,401810577,CHI,Chicago Bulls,MIL,Milwaukee Bucks,0,4431687,Patrick Williams,patrick williams,0,0,27,17,5,3,3,25,115,131
 2025-26,2026-02-03,401810577,CHI,Chicago Bulls,MIL,Milwaukee Bucks,0,4395626,Tre Jones,tre jones,0,1,0,0,0,0,0,0,115,131
 2025-26,2026-02-03,401810577,CHI,Chicago Bulls,MIL,Milwaukee Bucks,0,5159895,Yuki Kawamura,yuki kawamura,0,0,26,5,5,7,1,17,115,131
@@ -19937,7 +19916,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-02-05,401810591,CHI,Chicago Bulls,TOR,Toronto Raptors,0,4871145,Josh Giddey,josh giddey,0,1,0,0,0,0,0,0,107,123
 2025-26,2026-02-05,401810591,CHI,Chicago Bulls,TOR,Toronto Raptors,0,4397071,Mac McClung,mac mcclung,0,0,13,4,1,1,0,6,107,123
 2025-26,2026-02-05,401810591,CHI,Chicago Bulls,TOR,Toronto Raptors,0,4711294,Matas Buzelis,matas buzelis,1,0,33,18,6,3,2,27,107,123
-2025-26,2026-02-05,401810591,CHI,Chicago Bulls,TOR,Toronto Raptors,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,107,123
 2025-26,2026-02-05,401810591,CHI,Chicago Bulls,TOR,Toronto Raptors,0,4431687,Patrick Williams,patrick williams,0,0,25,9,1,2,3,12,107,123
 2025-26,2026-02-05,401810591,CHI,Chicago Bulls,TOR,Toronto Raptors,0,4395626,Tre Jones,tre jones,0,1,0,0,0,0,0,0,107,123
 2025-26,2026-02-05,401810591,CHI,Chicago Bulls,TOR,Toronto Raptors,0,5159895,Yuki Kawamura,yuki kawamura,0,0,12,3,2,7,1,12,107,123
@@ -20351,7 +20329,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-02-07,401810607,CHI,Chicago Bulls,DEN,Denver Nuggets,1,5044385,Leonard Miller,leonard miller,0,0,3,0,0,0,0,0,120,136
 2025-26,2026-02-07,401810607,CHI,Chicago Bulls,DEN,Denver Nuggets,1,4711294,Matas Buzelis,matas buzelis,1,0,30,21,8,3,4,32,120,136
 2025-26,2026-02-07,401810607,CHI,Chicago Bulls,DEN,Denver Nuggets,1,4278076,Nick Richards,nick richards,0,0,19,15,7,0,1,22,120,136
-2025-26,2026-02-07,401810607,CHI,Chicago Bulls,DEN,Denver Nuggets,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,120,136
 2025-26,2026-02-07,401810607,CHI,Chicago Bulls,DEN,Denver Nuggets,1,4431687,Patrick Williams,patrick williams,0,0,20,8,2,2,2,12,120,136
 2025-26,2026-02-07,401810607,CHI,Chicago Bulls,DEN,Denver Nuggets,1,4684275,Rob Dillingham,rob dillingham,0,0,22,9,3,4,1,16,120,136
 2025-26,2026-02-07,401810607,CHI,Chicago Bulls,DEN,Denver Nuggets,1,4395626,Tre Jones,tre jones,0,1,0,0,0,0,0,0,120,136
@@ -20618,7 +20595,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-02-09,401810617,CHI,Chicago Bulls,BKN,Brooklyn Nets,0,5044385,Leonard Miller,leonard miller,0,1,0,0,0,0,0,0,115,123
 2025-26,2026-02-09,401810617,CHI,Chicago Bulls,BKN,Brooklyn Nets,0,4711294,Matas Buzelis,matas buzelis,1,0,26,18,4,1,3,23,115,123
 2025-26,2026-02-09,401810617,CHI,Chicago Bulls,BKN,Brooklyn Nets,0,4278076,Nick Richards,nick richards,0,0,26,12,6,1,0,19,115,123
-2025-26,2026-02-09,401810617,CHI,Chicago Bulls,BKN,Brooklyn Nets,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,115,123
 2025-26,2026-02-09,401810617,CHI,Chicago Bulls,BKN,Brooklyn Nets,0,4431687,Patrick Williams,patrick williams,0,0,18,7,2,1,1,10,115,123
 2025-26,2026-02-09,401810617,CHI,Chicago Bulls,BKN,Brooklyn Nets,0,4684275,Rob Dillingham,rob dillingham,0,0,22,8,7,1,0,16,115,123
 2025-26,2026-02-09,401810617,CHI,Chicago Bulls,BKN,Brooklyn Nets,0,4395626,Tre Jones,tre jones,0,1,0,0,0,0,0,0,115,123
@@ -21034,7 +21010,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-02-11,401810633,CHI,Chicago Bulls,BOS,Boston Celtics,0,5044385,Leonard Miller,leonard miller,0,0,7,5,3,0,0,8,105,124
 2025-26,2026-02-11,401810633,CHI,Chicago Bulls,BOS,Boston Celtics,0,4711294,Matas Buzelis,matas buzelis,1,0,29,15,8,4,3,27,105,124
 2025-26,2026-02-11,401810633,CHI,Chicago Bulls,BOS,Boston Celtics,0,4278076,Nick Richards,nick richards,0,0,21,5,4,0,1,9,105,124
-2025-26,2026-02-11,401810633,CHI,Chicago Bulls,BOS,Boston Celtics,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,105,124
 2025-26,2026-02-11,401810633,CHI,Chicago Bulls,BOS,Boston Celtics,0,4431687,Patrick Williams,patrick williams,1,0,35,12,3,6,2,21,105,124
 2025-26,2026-02-11,401810633,CHI,Chicago Bulls,BOS,Boston Celtics,0,4684275,Rob Dillingham,rob dillingham,0,0,30,16,1,7,0,24,105,124
 2025-26,2026-02-11,401810633,CHI,Chicago Bulls,BOS,Boston Celtics,0,4395626,Tre Jones,tre jones,0,1,0,0,0,0,0,0,105,124
@@ -21517,7 +21492,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-02-19,401810652,CHI,Chicago Bulls,TOR,Toronto Raptors,1,5044385,Leonard Miller,leonard miller,0,1,0,0,0,0,0,0,101,110
 2025-26,2026-02-19,401810652,CHI,Chicago Bulls,TOR,Toronto Raptors,1,4711294,Matas Buzelis,matas buzelis,1,0,31,4,6,1,0,11,101,110
 2025-26,2026-02-19,401810652,CHI,Chicago Bulls,TOR,Toronto Raptors,1,4278076,Nick Richards,nick richards,0,0,12,6,5,0,0,11,101,110
-2025-26,2026-02-19,401810652,CHI,Chicago Bulls,TOR,Toronto Raptors,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,101,110
 2025-26,2026-02-19,401810652,CHI,Chicago Bulls,TOR,Toronto Raptors,1,4431687,Patrick Williams,patrick williams,0,0,27,6,7,1,0,14,101,110
 2025-26,2026-02-19,401810652,CHI,Chicago Bulls,TOR,Toronto Raptors,1,4684275,Rob Dillingham,rob dillingham,0,0,10,4,1,2,0,7,101,110
 2025-26,2026-02-19,401810652,CHI,Chicago Bulls,TOR,Toronto Raptors,1,4395626,Tre Jones,tre jones,0,0,22,12,1,6,1,19,101,110
@@ -22248,7 +22222,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-02-22,401810680,CHI,Chicago Bulls,NY,New York Knicks,1,4397071,Mac McClung,mac mcclung,0,1,0,0,0,0,0,0,99,105
 2025-26,2026-02-22,401810680,CHI,Chicago Bulls,NY,New York Knicks,1,4711294,Matas Buzelis,matas buzelis,1,0,26,15,4,0,3,19,99,105
 2025-26,2026-02-22,401810680,CHI,Chicago Bulls,NY,New York Knicks,1,4278076,Nick Richards,nick richards,0,0,23,9,13,0,0,22,99,105
-2025-26,2026-02-22,401810680,CHI,Chicago Bulls,NY,New York Knicks,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,99,105
 2025-26,2026-02-22,401810680,CHI,Chicago Bulls,NY,New York Knicks,1,4431687,Patrick Williams,patrick williams,0,0,28,10,1,8,2,19,99,105
 2025-26,2026-02-22,401810680,CHI,Chicago Bulls,NY,New York Knicks,1,4684275,Rob Dillingham,rob dillingham,0,0,24,8,4,4,1,16,99,105
 2025-26,2026-02-22,401810680,CHI,Chicago Bulls,NY,New York Knicks,1,4395626,Tre Jones,tre jones,0,0,23,8,1,3,0,12,99,105
@@ -22547,7 +22520,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-02-24,401810691,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,5044385,Leonard Miller,leonard miller,0,0,5,5,2,0,1,7,99,131
 2025-26,2026-02-24,401810691,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,4711294,Matas Buzelis,matas buzelis,1,0,33,32,7,2,6,41,99,131
 2025-26,2026-02-24,401810691,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,4278076,Nick Richards,nick richards,0,0,22,6,5,0,0,11,99,131
-2025-26,2026-02-24,401810691,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,99,131
 2025-26,2026-02-24,401810691,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,4431687,Patrick Williams,patrick williams,1,0,26,11,2,1,3,14,99,131
 2025-26,2026-02-24,401810691,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,4684275,Rob Dillingham,rob dillingham,0,0,23,6,5,5,0,16,99,131
 2025-26,2026-02-24,401810691,CHI,Chicago Bulls,CHA,Charlotte Hornets,1,4395626,Tre Jones,tre jones,0,0,20,3,2,1,0,6,99,131
@@ -22977,7 +22949,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-02-26,401810708,CHI,Chicago Bulls,POR,Portland Trail Blazers,1,4397071,Mac McClung,mac mcclung,0,1,0,0,0,0,0,0,112,121
 2025-26,2026-02-26,401810708,CHI,Chicago Bulls,POR,Portland Trail Blazers,1,4711294,Matas Buzelis,matas buzelis,1,0,36,20,7,4,2,31,112,121
 2025-26,2026-02-26,401810708,CHI,Chicago Bulls,POR,Portland Trail Blazers,1,4278076,Nick Richards,nick richards,0,0,27,14,10,1,0,25,112,121
-2025-26,2026-02-26,401810708,CHI,Chicago Bulls,POR,Portland Trail Blazers,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,112,121
 2025-26,2026-02-26,401810708,CHI,Chicago Bulls,POR,Portland Trail Blazers,1,4684275,Rob Dillingham,rob dillingham,0,0,23,5,2,5,1,12,112,121
 2025-26,2026-02-26,401810708,CHI,Chicago Bulls,POR,Portland Trail Blazers,1,4395626,Tre Jones,tre jones,0,0,27,19,3,4,0,26,112,121
 2025-26,2026-02-26,401810708,CHI,Chicago Bulls,POR,Portland Trail Blazers,1,5159895,Yuki Kawamura,yuki kawamura,0,1,0,0,0,0,0,0,112,121
@@ -23418,7 +23389,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-03-01,401810725,CHI,Chicago Bulls,MIL,Milwaukee Bucks,1,4397071,Mac McClung,mac mcclung,0,1,0,0,0,0,0,0,120,97
 2025-26,2026-03-01,401810725,CHI,Chicago Bulls,MIL,Milwaukee Bucks,1,4711294,Matas Buzelis,matas buzelis,1,0,32,20,7,3,4,30,120,97
 2025-26,2026-03-01,401810725,CHI,Chicago Bulls,MIL,Milwaukee Bucks,1,4278076,Nick Richards,nick richards,0,0,27,11,7,0,0,18,120,97
-2025-26,2026-03-01,401810725,CHI,Chicago Bulls,MIL,Milwaukee Bucks,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,120,97
 2025-26,2026-03-01,401810725,CHI,Chicago Bulls,MIL,Milwaukee Bucks,1,4684275,Rob Dillingham,rob dillingham,0,0,5,0,0,1,0,1,120,97
 2025-26,2026-03-01,401810725,CHI,Chicago Bulls,MIL,Milwaukee Bucks,1,4395626,Tre Jones,tre jones,1,0,28,13,3,6,1,22,120,97
 2025-26,2026-03-01,401810725,CHI,Chicago Bulls,MIL,Milwaukee Bucks,1,5159895,Yuki Kawamura,yuki kawamura,0,0,1,0,0,0,0,0,120,97
@@ -23916,7 +23886,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-03-03,401810744,CHI,Chicago Bulls,OKC,Oklahoma City Thunder,1,4397071,Mac McClung,mac mcclung,0,1,0,0,0,0,0,0,108,116
 2025-26,2026-03-03,401810744,CHI,Chicago Bulls,OKC,Oklahoma City Thunder,1,4711294,Matas Buzelis,matas buzelis,1,0,20,11,5,3,2,19,108,116
 2025-26,2026-03-03,401810744,CHI,Chicago Bulls,OKC,Oklahoma City Thunder,1,4278076,Nick Richards,nick richards,0,0,23,12,13,0,0,25,108,116
-2025-26,2026-03-03,401810744,CHI,Chicago Bulls,OKC,Oklahoma City Thunder,1,,Olbrich,olbrich,0,1,0,0,0,0,0,0,108,116
 2025-26,2026-03-03,401810744,CHI,Chicago Bulls,OKC,Oklahoma City Thunder,1,4684275,Rob Dillingham,rob dillingham,0,0,24,6,5,5,0,16,108,116
 2025-26,2026-03-03,401810744,CHI,Chicago Bulls,OKC,Oklahoma City Thunder,1,4395626,Tre Jones,tre jones,1,0,26,15,2,2,3,19,108,116
 2025-26,2026-03-03,401810744,CHI,Chicago Bulls,OKC,Oklahoma City Thunder,1,5159895,Yuki Kawamura,yuki kawamura,0,1,0,0,0,0,0,0,108,116
@@ -24343,7 +24312,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-03-05,401810760,CHI,Chicago Bulls,PHX,Phoenix Suns,0,4397071,Mac McClung,mac mcclung,0,1,0,0,0,0,0,0,105,103
 2025-26,2026-03-05,401810760,CHI,Chicago Bulls,PHX,Phoenix Suns,0,4711294,Matas Buzelis,matas buzelis,0,1,0,0,0,0,0,0,105,103
 2025-26,2026-03-05,401810760,CHI,Chicago Bulls,PHX,Phoenix Suns,0,4278076,Nick Richards,nick richards,0,0,29,9,11,1,0,21,105,103
-2025-26,2026-03-05,401810760,CHI,Chicago Bulls,PHX,Phoenix Suns,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,105,103
 2025-26,2026-03-05,401810760,CHI,Chicago Bulls,PHX,Phoenix Suns,0,4684275,Rob Dillingham,rob dillingham,0,0,21,11,2,1,1,14,105,103
 2025-26,2026-03-05,401810760,CHI,Chicago Bulls,PHX,Phoenix Suns,0,4395626,Tre Jones,tre jones,1,0,29,21,6,5,1,32,105,103
 2025-26,2026-03-05,401810760,CHI,Chicago Bulls,PHX,Phoenix Suns,0,5159895,Yuki Kawamura,yuki kawamura,0,0,10,0,2,4,0,6,105,103
@@ -25007,7 +24975,6 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2025-26,2026-03-08,401810785,CHI,Chicago Bulls,SAC,Sacramento Kings,0,5044385,Leonard Miller,leonard miller,0,0,1,0,0,0,0,0,110,126
 2025-26,2026-03-08,401810785,CHI,Chicago Bulls,SAC,Sacramento Kings,0,4711294,Matas Buzelis,matas buzelis,1,0,30,20,8,4,2,32,110,126
 2025-26,2026-03-08,401810785,CHI,Chicago Bulls,SAC,Sacramento Kings,0,4278076,Nick Richards,nick richards,0,0,21,10,11,1,0,22,110,126
-2025-26,2026-03-08,401810785,CHI,Chicago Bulls,SAC,Sacramento Kings,0,,Olbrich,olbrich,0,1,0,0,0,0,0,0,110,126
 2025-26,2026-03-08,401810785,CHI,Chicago Bulls,SAC,Sacramento Kings,0,4431687,Patrick Williams,patrick williams,0,0,17,5,1,0,1,6,110,126
 2025-26,2026-03-08,401810785,CHI,Chicago Bulls,SAC,Sacramento Kings,0,4684275,Rob Dillingham,rob dillingham,0,0,15,3,5,0,1,8,110,126
 2025-26,2026-03-08,401810785,CHI,Chicago Bulls,SAC,Sacramento Kings,0,4395626,Tre Jones,tre jones,1,0,32,12,1,5,0,18,110,126

@@ -35,7 +35,8 @@ def load(season):
     if not path.exists():
         return []
     with open(path) as f:
-        return [r for r in csv.DictReader(f) if r["team"] in NBA]
+        # drop All-Star rows and ESPN rows with no player id (missing stat lines)
+        return [r for r in csv.DictReader(f) if r["team"] in NBA and r["player_id"]]
 
 
 def save(season, rows):
@@ -73,6 +74,8 @@ def game_rows(event_id, d_us, season):
             keys = stat.get("keys", [])
             for a in stat.get("athletes", []):
                 st = dict(zip(keys, a.get("stats", [])))
+                if not st and not a.get("didNotPlay"):
+                    continue  # ESPN has no stat line for this player (data gap) - don't record a fake DNP
                 dnp = bool(a.get("didNotPlay")) or not st or to_int(st.get("minutes")) == 0
                 pts, reb, ast = (0, 0, 0) if dnp else (to_int(st.get("points")), to_int(st.get("rebounds")),
                                                         to_int(st.get("assists")))
