@@ -87,6 +87,11 @@ def main():
     books = sorted({r["bookmaker"] for r in rows})
     print(f"{len(slate)} games, {len(rows)} prop prices, books: {books}")
     print(f"credits used this run: {credits}, remaining: {remaining}")
+    # Credit tracker the scans read to warn Darcy before the quota runs out
+    with open(out / "credits.json", "w") as f:
+        json.dump({"checked_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                   "used_this_run": credits, "remaining": remaining,
+                   "filtered": bool(wanted)}, f, indent=1)
 
 
 if __name__ == "__main__":
