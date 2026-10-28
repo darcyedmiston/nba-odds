@@ -33,12 +33,13 @@ def get(url):
 
 
 def commit(path, msg):
-    subprocess.run(["git", "add", str(path), "odds/credits.json"], check=True)
+    subprocess.run(["git", "add", str(path)], check=True)
     if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
         return
     subprocess.run(["git", "commit", "-q", "-m", msg], check=True)
     for _ in range(3):  # another workflow may have pushed meanwhile
-        subprocess.run(["git", "pull", "-q", "--rebase"], check=False)
+        if subprocess.run(["git", "pull", "-q", "--rebase"]).returncode != 0:
+            subprocess.run(["git", "rebase", "--abort"], check=False)
         if subprocess.run(["git", "push", "-q"]).returncode == 0:
             return
         time.sleep(10)
@@ -101,10 +102,6 @@ def main():
                     })
         with open(path, "a", newline="") as f:
             csv.DictWriter(f, fieldnames=FIELDS).writerows(rows)
-        with open("odds/credits.json", "w") as f:
-            json.dump({"checked_utc": captured.isoformat(timespec="seconds"),
-                       "used_this_run": int(used or 0), "remaining": remaining,
-                       "filtered": True, "source": "closing"}, f, indent=1)
         print(f"captured {len(rows)} prices for {e['away_team']} @ {e['home_team']}, credits left {remaining}")
         commit(path, f"Closing lines {e['away_team']} @ {e['home_team']} {stamp}")
 
