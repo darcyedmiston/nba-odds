@@ -1,0 +1,35 @@
+name: NBA box score pull
+
+on:
+  schedule:
+    - cron: "30 6 * * *"     # ~5:30pm Melbourne (AEDT) backup; the evening review also triggers this itself
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: "Melbourne slate to pull: 0 = today, 1 = yesterday"
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-commits
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch official box scores
+        run: python fetch_boxscores.py "${{ github.event.inputs.days_back || '0' }}"
+      - name: Commit box scores
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          git add boxscores/
+          git diff --cached --quiet || git commit -m "Box scores $(date -u +%F)"
+          git pull --rebase && git push
