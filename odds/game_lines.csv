@@ -1,265 +1,67 @@
 date_melb,tipoff_melb,game,home_team,away_team,bookmaker,market,name,point,odds
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,pointsbetau,spreads,Atlanta Hawks,-2.5,1.95
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,pointsbetau,spreads,Miami Heat,2.5,1.87
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,pointsbetau,totals,Over,241.5,1.9
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,pointsbetau,totals,Under,241.5,1.9
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,sportsbet,spreads,Atlanta Hawks,-2.5,1.96
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,sportsbet,spreads,Miami Heat,2.5,1.84
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,sportsbet,totals,Over,241.5,1.9
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,sportsbet,totals,Under,241.5,1.9
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,playup,spreads,Atlanta Hawks,-2.5,1.95
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,playup,spreads,Miami Heat,2.5,1.87
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,playup,totals,Over,241.5,1.88
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,playup,totals,Under,241.5,1.93
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,tab,spreads,Atlanta Hawks,-2.0,1.9
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,tab,spreads,Miami Heat,2.0,1.9
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,tab,totals,Over,241.5,1.9
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,tab,totals,Under,241.5,1.9
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,tabtouch,spreads,Atlanta Hawks,-2.5,1.89
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,tabtouch,spreads,Miami Heat,2.5,1.91
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,tabtouch,totals,Over,241.5,1.87
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,tabtouch,totals,Under,241.5,1.93
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,unibet,spreads,Atlanta Hawks,-2.5,1.9
-2026-10-29,10:10,Miami Heat @ Atlanta Hawks,Atlanta Hawks,Miami Heat,unibet,spreads,Miami Heat,2.5,1.92
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,tab,spreads,Charlotte Hornets,7.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,tab,spreads,Detroit Pistons,-7.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,tab,totals,Over,212.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,tab,totals,Under,212.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,pointsbetau,spreads,Charlotte Hornets,7.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,pointsbetau,spreads,Detroit Pistons,-7.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,pointsbetau,totals,Over,212.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,pointsbetau,totals,Under,212.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,sportsbet,spreads,Charlotte Hornets,7.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,sportsbet,spreads,Detroit Pistons,-7.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,sportsbet,totals,Over,212.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,sportsbet,totals,Under,212.5,1.9
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,playup,spreads,Charlotte Hornets,7.5,1.85
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,playup,spreads,Detroit Pistons,-7.5,1.98
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,playup,totals,Over,212.5,1.88
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,playup,totals,Under,212.5,1.93
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,tabtouch,spreads,Charlotte Hornets,7.5,1.93
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,tabtouch,spreads,Detroit Pistons,-7.5,1.87
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,tabtouch,totals,Over,213.5,1.92
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,tabtouch,totals,Under,213.5,1.88
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,unibet,spreads,Charlotte Hornets,7.5,1.94
-2026-10-29,10:10,Charlotte Hornets @ Detroit Pistons,Detroit Pistons,Charlotte Hornets,unibet,spreads,Detroit Pistons,-7.5,1.88
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,pointsbetau,spreads,Cleveland Cavaliers,-9.5,1.9
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,pointsbetau,spreads,Washington Wizards,9.5,1.9
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,pointsbetau,totals,Over,240.5,1.9
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,pointsbetau,totals,Under,240.5,1.9
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,sportsbet,spreads,Cleveland Cavaliers,-9.5,1.9
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,sportsbet,spreads,Washington Wizards,9.5,1.9
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,sportsbet,totals,Over,240.5,1.89
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,sportsbet,totals,Under,240.5,1.91
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,playup,spreads,Cleveland Cavaliers,-9.5,1.98
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,playup,spreads,Washington Wizards,9.5,1.85
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,playup,totals,Over,241.5,1.93
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,playup,totals,Under,241.5,1.88
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,tab,spreads,Cleveland Cavaliers,-10.0,1.9
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,tab,spreads,Washington Wizards,10.0,1.9
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,tab,totals,Over,240.5,1.9
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,tab,totals,Under,240.5,1.9
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,tabtouch,spreads,Cleveland Cavaliers,-9.5,1.85
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,tabtouch,spreads,Washington Wizards,9.5,1.94
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,tabtouch,totals,Over,240.5,1.87
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,tabtouch,totals,Under,240.5,1.93
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,unibet,spreads,Cleveland Cavaliers,-9.5,1.86
-2026-10-29,10:10,Washington Wizards @ Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,unibet,spreads,Washington Wizards,9.5,1.96
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,sportsbet,spreads,Indiana Pacers,6.5,1.96
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,sportsbet,spreads,Philadelphia 76ers,-6.5,1.84
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,sportsbet,totals,Over,233.5,1.89
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,sportsbet,totals,Under,233.5,1.91
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,pointsbetau,spreads,Indiana Pacers,7.5,1.9
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,pointsbetau,spreads,Philadelphia 76ers,-7.5,1.9
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,pointsbetau,totals,Over,233.5,1.87
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,pointsbetau,totals,Under,233.5,1.95
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,playup,spreads,Indiana Pacers,7.5,1.93
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,playup,spreads,Philadelphia 76ers,-7.5,1.88
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,playup,totals,Over,234.5,1.93
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,playup,totals,Under,234.5,1.88
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,tab,spreads,Indiana Pacers,7.5,1.9
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,tab,spreads,Philadelphia 76ers,-7.5,1.9
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,tab,totals,Over,234.5,1.9
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,tab,totals,Under,234.5,1.9
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,unibet,spreads,Indiana Pacers,7.5,1.9
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,unibet,spreads,Philadelphia 76ers,-7.5,1.92
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,tabtouch,spreads,Indiana Pacers,7.5,1.88
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,tabtouch,spreads,Philadelphia 76ers,-7.5,1.91
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,tabtouch,totals,Over,234.5,1.89
-2026-10-29,10:10,Philadelphia 76ers @ Indiana Pacers,Indiana Pacers,Philadelphia 76ers,tabtouch,totals,Under,234.5,1.89
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,sportsbet,spreads,Orlando Magic,4.5,1.95
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,sportsbet,spreads,Toronto Raptors,-4.5,1.85
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,sportsbet,totals,Over,223.5,1.89
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,sportsbet,totals,Under,223.5,1.91
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,pointsbetau,spreads,Orlando Magic,5.5,1.83
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,pointsbetau,spreads,Toronto Raptors,-5.5,2.0
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,pointsbetau,totals,Over,224.5,1.9
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,pointsbetau,totals,Under,224.5,1.9
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,tab,spreads,Orlando Magic,4.5,1.95
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,tab,spreads,Toronto Raptors,-4.5,1.85
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,tab,totals,Over,224.5,1.95
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,tab,totals,Under,224.5,1.85
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,playup,spreads,Orlando Magic,4.5,1.95
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,playup,spreads,Toronto Raptors,-4.5,1.87
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,playup,totals,Over,224.5,1.91
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,playup,totals,Under,224.5,1.9
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,tabtouch,spreads,Orlando Magic,5.5,1.85
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,tabtouch,spreads,Toronto Raptors,-5.5,1.94
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,tabtouch,totals,Over,224.5,1.93
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,tabtouch,totals,Under,224.5,1.85
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,unibet,spreads,Orlando Magic,5.5,1.86
-2026-10-29,10:40,Orlando Magic @ Toronto Raptors,Toronto Raptors,Orlando Magic,unibet,spreads,Toronto Raptors,-5.5,1.96
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,sportsbet,spreads,Chicago Bulls,6.5,1.96
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,sportsbet,spreads,New York Knicks,-6.5,1.84
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,sportsbet,totals,Over,232.5,1.91
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,sportsbet,totals,Under,232.5,1.89
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,pointsbetau,spreads,Chicago Bulls,7.5,1.87
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,pointsbetau,spreads,New York Knicks,-7.5,1.95
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,pointsbetau,totals,Over,231.5,1.9
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,pointsbetau,totals,Under,231.5,1.9
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,playup,spreads,Chicago Bulls,6.5,1.98
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,playup,spreads,New York Knicks,-6.5,1.85
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,playup,totals,Over,232.5,1.88
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,playup,totals,Under,232.5,1.93
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,tab,spreads,Chicago Bulls,7.0,1.9
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,tab,spreads,New York Knicks,-7.0,1.9
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,tab,totals,Over,232.5,1.95
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,tab,totals,Under,232.5,1.85
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,tabtouch,spreads,Chicago Bulls,7.5,1.88
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,tabtouch,spreads,New York Knicks,-7.5,1.92
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,tabtouch,totals,Over,232.5,1.93
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,tabtouch,totals,Under,232.5,1.85
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,unibet,spreads,Chicago Bulls,7.5,1.89
-2026-10-29,11:10,New York Knicks @ Chicago Bulls,Chicago Bulls,New York Knicks,unibet,spreads,New York Knicks,-7.5,1.93
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,sportsbet,spreads,Denver Nuggets,-4.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,sportsbet,spreads,New Orleans Pelicans,4.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,sportsbet,totals,Over,240.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,sportsbet,totals,Under,240.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,pointsbetau,spreads,Denver Nuggets,-4.5,1.87
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,pointsbetau,spreads,New Orleans Pelicans,4.5,1.95
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,pointsbetau,totals,Over,240.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,pointsbetau,totals,Under,240.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,playup,spreads,Denver Nuggets,-5.5,1.98
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,playup,spreads,New Orleans Pelicans,5.5,1.85
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,playup,totals,Over,240.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,playup,totals,Under,240.5,1.91
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,tab,spreads,Denver Nuggets,-4.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,tab,spreads,New Orleans Pelicans,4.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,tab,totals,Over,240.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,tab,totals,Under,240.5,1.9
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,tabtouch,spreads,Denver Nuggets,-4.5,1.87
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,tabtouch,spreads,New Orleans Pelicans,4.5,1.93
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,tabtouch,totals,Over,240.5,1.88
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,tabtouch,totals,Under,240.5,1.91
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,unibet,spreads,Denver Nuggets,-4.5,1.88
-2026-10-29,11:10,Denver Nuggets @ New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,unibet,spreads,New Orleans Pelicans,4.5,1.94
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,pointsbetau,spreads,Golden State Warriors,3.5,1.95
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,pointsbetau,spreads,Minnesota Timberwolves,-3.5,1.87
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,pointsbetau,totals,Over,227.5,1.9
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,pointsbetau,totals,Under,227.5,1.9
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,sportsbet,spreads,Golden State Warriors,3.5,1.95
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,sportsbet,spreads,Minnesota Timberwolves,-3.5,1.85
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,sportsbet,totals,Over,227.5,1.9
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,sportsbet,totals,Under,227.5,1.9
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,playup,spreads,Golden State Warriors,4.5,1.85
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,playup,spreads,Minnesota Timberwolves,-4.5,1.98
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,playup,totals,Over,227.5,1.87
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,playup,totals,Under,227.5,1.95
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,tab,spreads,Golden State Warriors,4.0,1.9
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,tab,spreads,Minnesota Timberwolves,-4.0,1.9
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,tab,totals,Over,227.5,1.9
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,tab,totals,Under,227.5,1.9
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,tabtouch,spreads,Golden State Warriors,3.5,1.89
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,tabtouch,spreads,Minnesota Timberwolves,-3.5,1.91
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,tabtouch,totals,Over,226.5,1.85
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,tabtouch,totals,Under,226.5,1.93
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,unibet,spreads,Golden State Warriors,3.5,1.9
-2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,unibet,spreads,Minnesota Timberwolves,-3.5,1.91
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,sportsbet,spreads,Houston Rockets,-8.5,1.97
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,sportsbet,spreads,Milwaukee Bucks,8.5,1.83
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,sportsbet,totals,Over,226.5,1.98
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,sportsbet,totals,Under,226.5,1.83
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,pointsbetau,spreads,Houston Rockets,-8.5,1.95
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,pointsbetau,spreads,Milwaukee Bucks,8.5,1.87
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,pointsbetau,totals,Over,226.5,1.9
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,pointsbetau,totals,Under,226.5,1.9
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,playup,spreads,Houston Rockets,-7.5,1.91
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,playup,spreads,Milwaukee Bucks,7.5,1.91
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,playup,totals,Over,226.5,1.9
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,playup,totals,Under,226.5,1.91
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,tab,spreads,Houston Rockets,-8.0,1.9
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,tab,spreads,Milwaukee Bucks,8.0,1.9
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,tab,totals,Over,225.5,1.85
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,tab,totals,Under,225.5,1.95
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,tabtouch,spreads,Houston Rockets,-8.5,1.91
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,tabtouch,spreads,Milwaukee Bucks,8.5,1.88
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,tabtouch,totals,Over,225.5,1.88
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,tabtouch,totals,Under,225.5,1.92
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,unibet,spreads,Houston Rockets,-8.5,1.92
-2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,unibet,spreads,Milwaukee Bucks,8.5,1.9
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,sportsbet,spreads,San Antonio Spurs,-13.5,1.9
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,sportsbet,spreads,Utah Jazz,13.5,1.9
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,sportsbet,totals,Over,234.5,1.97
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,sportsbet,totals,Under,234.5,1.84
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,pointsbetau,spreads,San Antonio Spurs,-14.5,1.95
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,pointsbetau,spreads,Utah Jazz,14.5,1.87
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,pointsbetau,totals,Over,233.5,1.9
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,pointsbetau,totals,Under,233.5,1.9
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,playup,spreads,San Antonio Spurs,-13.5,1.93
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,playup,spreads,Utah Jazz,13.5,1.88
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,playup,totals,Over,233.5,1.9
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,playup,totals,Under,233.5,1.91
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,tab,spreads,San Antonio Spurs,-13.5,1.9
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,tab,spreads,Utah Jazz,13.5,1.9
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,tab,totals,Over,233.5,1.9
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,tab,totals,Under,233.5,1.9
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,tabtouch,spreads,San Antonio Spurs,-13.5,1.92
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,tabtouch,spreads,Utah Jazz,13.5,1.88
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,tabtouch,totals,Over,233.5,1.93
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,tabtouch,totals,Under,233.5,1.87
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,unibet,spreads,San Antonio Spurs,-13.5,1.93
-2026-10-29,12:10,San Antonio Spurs @ Utah Jazz,Utah Jazz,San Antonio Spurs,unibet,spreads,Utah Jazz,13.5,1.89
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,pointsbetau,spreads,Dallas Mavericks,5.5,1.95
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,pointsbetau,spreads,Oklahoma City Thunder,-5.5,1.87
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,pointsbetau,totals,Over,227.5,1.9
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,pointsbetau,totals,Under,227.5,1.9
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,sportsbet,spreads,Dallas Mavericks,6.5,1.83
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,sportsbet,spreads,Oklahoma City Thunder,-6.5,1.97
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,sportsbet,totals,Over,228.5,1.91
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,sportsbet,totals,Under,228.5,1.89
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,playup,spreads,Dallas Mavericks,5.5,1.9
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,playup,spreads,Oklahoma City Thunder,-5.5,1.92
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,playup,totals,Over,228.5,1.9
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,playup,totals,Under,228.5,1.91
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,tab,spreads,Dallas Mavericks,5.5,1.9
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,tab,spreads,Oklahoma City Thunder,-5.5,1.9
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,tab,totals,Over,227.5,1.85
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,tab,totals,Under,227.5,1.95
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,tabtouch,spreads,Dallas Mavericks,5.5,1.94
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,tabtouch,spreads,Oklahoma City Thunder,-5.5,1.85
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,tabtouch,totals,Over,228.5,1.93
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,tabtouch,totals,Under,228.5,1.87
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,unibet,spreads,Dallas Mavericks,5.5,1.96
-2026-10-29,12:40,Oklahoma City Thunder @ Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,unibet,spreads,Oklahoma City Thunder,-5.5,1.86
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,pointsbetau,spreads,Los Angeles Clippers,-1.5,1.95
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,pointsbetau,spreads,Los Angeles Lakers,1.5,1.87
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,pointsbetau,totals,Over,223.5,1.9
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,pointsbetau,totals,Under,223.5,1.9
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,sportsbet,spreads,Los Angeles Clippers,-1.5,1.92
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,sportsbet,spreads,Los Angeles Lakers,1.5,1.88
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,sportsbet,totals,Over,224.5,1.91
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,sportsbet,totals,Under,224.5,1.89
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,playup,spreads,Los Angeles Clippers,-1.5,1.91
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,playup,spreads,Los Angeles Lakers,1.5,1.91
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,playup,totals,Over,224.5,1.9
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,playup,totals,Under,224.5,1.91
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,tab,spreads,Los Angeles Clippers,-1.5,1.95
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,tab,spreads,Los Angeles Lakers,1.5,1.85
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,tab,totals,Over,224.5,1.9
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,tab,totals,Under,224.5,1.9
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,tabtouch,spreads,Los Angeles Clippers,-1.5,1.93
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,tabtouch,spreads,Los Angeles Lakers,1.5,1.85
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,tabtouch,totals,Over,225.5,1.93
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,tabtouch,totals,Under,225.5,1.87
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,unibet,spreads,Los Angeles Clippers,-1.5,1.95
-2026-10-29,13:40,Los Angeles Lakers @ Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,unibet,spreads,Los Angeles Lakers,1.5,1.87
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,pointsbetau,spreads,Atlanta Hawks,-1.5,1.9
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,pointsbetau,spreads,Cleveland Cavaliers,1.5,1.9
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,pointsbetau,totals,Over,237.5,1.9
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,pointsbetau,totals,Under,237.5,1.9
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,tab,spreads,Atlanta Hawks,-1.5,1.95
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,tab,spreads,Cleveland Cavaliers,1.5,1.85
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,tab,totals,Over,237.5,1.9
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,tab,totals,Under,237.5,1.9
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,playup,spreads,Atlanta Hawks,-1.5,1.91
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,playup,spreads,Cleveland Cavaliers,1.5,1.91
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,playup,totals,Over,237.5,1.88
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,playup,totals,Under,237.5,1.93
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,tabtouch,spreads,Atlanta Hawks,-0.5,1.88
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,tabtouch,spreads,Cleveland Cavaliers,0.5,1.92
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,tabtouch,totals,Over,237.5,1.88
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,tabtouch,totals,Under,237.5,1.92
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,unibet,spreads,Atlanta Hawks,-0.5,1.89
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,unibet,spreads,Cleveland Cavaliers,0.5,1.93
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,sportsbet,spreads,Atlanta Hawks,-1.5,1.94
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,sportsbet,spreads,Cleveland Cavaliers,1.5,1.86
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,sportsbet,totals,Over,237.5,1.9
+2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,sportsbet,totals,Under,237.5,1.9
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,pointsbetau,spreads,New Orleans Pelicans,-6.5,1.95
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,pointsbetau,spreads,Sacramento Kings,6.5,1.87
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,pointsbetau,totals,Over,235.5,1.9
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,pointsbetau,totals,Under,235.5,1.9
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,sportsbet,spreads,New Orleans Pelicans,-5.5,1.83
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,sportsbet,spreads,Sacramento Kings,5.5,1.97
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,sportsbet,totals,Over,235.5,1.9
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,sportsbet,totals,Under,235.5,1.9
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,playup,spreads,New Orleans Pelicans,-6.5,1.98
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,playup,spreads,Sacramento Kings,6.5,1.85
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,playup,totals,Over,235.5,1.88
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,playup,totals,Under,235.5,1.92
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,tab,spreads,New Orleans Pelicans,-6.5,1.9
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,tab,spreads,Sacramento Kings,6.5,1.9
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,tab,totals,Over,235.5,1.9
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,tab,totals,Under,235.5,1.9
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,tabtouch,spreads,New Orleans Pelicans,-6.5,1.91
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,tabtouch,spreads,Sacramento Kings,6.5,1.88
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,tabtouch,totals,Over,236.5,1.93
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,tabtouch,totals,Under,236.5,1.87
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,unibet,spreads,New Orleans Pelicans,-6.5,1.92
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,unibet,spreads,Sacramento Kings,6.5,1.9
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,sportsbet,spreads,Memphis Grizzlies,7.5,1.95
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,sportsbet,spreads,Portland Trail Blazers,-7.5,1.85
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,sportsbet,totals,Over,232.5,1.9
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,sportsbet,totals,Under,232.5,1.9
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,pointsbetau,spreads,Memphis Grizzlies,7.5,1.9
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,pointsbetau,spreads,Portland Trail Blazers,-7.5,1.9
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,pointsbetau,totals,Over,233.5,1.95
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,pointsbetau,totals,Under,233.5,1.87
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,playup,spreads,Memphis Grizzlies,7.5,1.95
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,playup,spreads,Portland Trail Blazers,-7.5,1.87
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,playup,totals,Over,232.5,1.88
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,playup,totals,Under,232.5,1.93
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,tab,spreads,Memphis Grizzlies,8.0,1.85
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,tab,spreads,Portland Trail Blazers,-8.0,1.95
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,tab,totals,Over,233.5,1.95
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,tab,totals,Under,233.5,1.85
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,unibet,spreads,Memphis Grizzlies,8.5,1.87
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,unibet,spreads,Portland Trail Blazers,-8.5,1.96
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,tabtouch,spreads,Memphis Grizzlies,8.5,1.85
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,tabtouch,spreads,Portland Trail Blazers,-8.5,1.94
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,tabtouch,totals,Over,233.5,1.88
+2026-10-30,13:10,Memphis Grizzlies @ Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,tabtouch,totals,Under,233.5,1.93
