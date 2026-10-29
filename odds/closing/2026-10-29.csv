@@ -5852,3 +5852,676 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,unibet,player_threes,Yaxel Lendeborg,Under,1.5,1.87,2026-10-29T00:04:06Z,2026-10-29T00:05:03+00:00,4.9
 2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,unibet,player_threes,Al Horford,Over,1.5,2.8,2026-10-29T00:04:06Z,2026-10-29T00:05:03+00:00,4.9
 2026-10-29,11:10,Golden State Warriors @ Minnesota Timberwolves,unibet,player_threes,Al Horford,Under,1.5,1.4,2026-10-29T00:04:06Z,2026-10-29T00:05:03+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Fred VanVleet,Over,6.5,2.15,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Fred VanVleet,Under,6.5,1.64,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Jabari Smith Jr,Over,1.5,1.6,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Jabari Smith Jr,Under,1.5,2.2,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Amen Thompson,Over,5.5,2.15,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Amen Thompson,Under,5.5,1.64,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Kevin Durant,Over,4.5,2.15,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Kevin Durant,Under,4.5,1.64,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Tyler Herro,Over,4.5,1.86,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Tyler Herro,Under,4.5,1.9,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Ryan Rollins,Over,4.5,2.08,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Ryan Rollins,Under,4.5,1.72,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Jaime Jaquez Jr,Over,3.5,2.05,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Jaime Jaquez Jr,Under,3.5,1.74,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Kyle Kuzma,Over,2.5,1.76,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Kyle Kuzma,Under,2.5,2.02,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Kasparas Jakucionis,Over,2.5,1.56,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_assists,Kasparas Jakucionis,Under,2.5,2.3,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Amen Thompson,Over,17.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Amen Thompson,Under,17.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Clint Capela,Over,5.5,1.87,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Clint Capela,Under,5.5,1.89,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Fred VanVleet,Over,12.5,1.92,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Fred VanVleet,Under,12.5,1.84,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Jabari Smith Jr,Over,15.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Jabari Smith Jr,Under,15.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Kevin Durant,Over,25.5,1.76,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Kevin Durant,Under,25.5,2.02,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Tyler Herro,Over,20.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Tyler Herro,Under,20.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Ryan Rollins,Over,13.5,1.78,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Ryan Rollins,Under,13.5,2.0,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Myles Turner,Over,9.5,1.76,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Myles Turner,Under,9.5,2.02,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Jaime Jaquez Jr,Over,13.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Jaime Jaquez Jr,Under,13.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Kyle Kuzma,Over,11.5,1.92,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Kyle Kuzma,Under,11.5,1.85,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Kel'el Ware,Over,10.5,2.0,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Kel'el Ware,Under,10.5,1.78,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Tari Eason,Over,13.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Tari Eason,Under,13.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Reed Sheppard,Over,12.5,1.84,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Reed Sheppard,Under,12.5,1.92,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Kasparas Jakucionis,Over,7.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points,Kasparas Jakucionis,Under,7.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Kevin Durant,Over,36.5,1.91,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Kevin Durant,Under,36.5,1.85,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Amen Thompson,Over,31.5,1.84,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Amen Thompson,Under,31.5,1.92,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Jabari Smith Jr,Over,25.5,1.83,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Jabari Smith Jr,Under,25.5,1.92,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Fred VanVleet,Over,21.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Fred VanVleet,Under,21.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Ryan Rollins,Over,22.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Ryan Rollins,Under,22.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Tyler Herro,Over,30.5,1.85,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Tyler Herro,Under,30.5,1.91,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Jaime Jaquez Jr,Over,22.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Jaime Jaquez Jr,Under,22.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Kyle Kuzma,Over,19.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Kyle Kuzma,Under,19.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Kasparas Jakucionis,Over,13.5,1.86,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Kasparas Jakucionis,Under,13.5,1.9,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Amen Thompson,Over,8.5,2.02,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Amen Thompson,Under,8.5,1.76,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Jabari Smith Jr,Over,7.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Jabari Smith Jr,Under,7.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Fred VanVleet,Over,3.5,2.4,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Fred VanVleet,Under,3.5,1.52,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Clint Capela,Over,6.5,2.05,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Clint Capela,Under,6.5,1.74,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Kevin Durant,Over,5.5,1.86,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Kevin Durant,Under,5.5,1.9,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Ryan Rollins,Over,4.5,2.15,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Ryan Rollins,Under,4.5,1.64,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Tyler Herro,Over,4.5,1.85,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Tyler Herro,Under,4.5,1.91,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Myles Turner,Over,5.5,2.08,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Myles Turner,Under,5.5,1.72,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Jaime Jaquez Jr,Over,5.5,2.05,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Jaime Jaquez Jr,Under,5.5,1.74,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Kyle Kuzma,Over,5.5,2.02,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Kyle Kuzma,Under,5.5,1.76,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Kel'el Ware,Over,7.5,2.1,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Kel'el Ware,Under,7.5,1.68,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Tari Eason,Over,6.5,1.72,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Tari Eason,Under,6.5,2.08,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Kasparas Jakucionis,Over,2.5,1.68,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_rebounds,Kasparas Jakucionis,Under,2.5,2.1,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Kevin Durant,Over,2.5,2.5,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Kevin Durant,Under,2.5,1.48,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Fred VanVleet,Over,2.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Fred VanVleet,Under,2.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Jabari Smith Jr,Over,2.5,2.3,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Jabari Smith Jr,Under,2.5,1.56,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Ryan Rollins,Over,1.5,1.56,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Ryan Rollins,Under,1.5,2.3,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Tyler Herro,Over,2.5,1.9,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Tyler Herro,Under,2.5,1.86,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Myles Turner,Over,1.5,1.8,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Myles Turner,Under,1.5,1.96,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Jaime Jaquez Jr,Over,0.5,1.44,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Jaime Jaquez Jr,Under,0.5,2.6,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Kyle Kuzma,Over,1.5,2.25,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Kyle Kuzma,Under,1.5,1.58,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Tari Eason,Over,1.5,2.25,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Tari Eason,Under,1.5,1.58,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Reed Sheppard,Over,2.5,1.85,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Reed Sheppard,Under,2.5,1.91,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Kasparas Jakucionis,Over,1.5,2.75,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,sportsbet,player_threes,Kasparas Jakucionis,Under,1.5,1.4,2026-10-29T00:04:40Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Amen Thompson,Over,5.5,2.25,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Amen Thompson,Under,5.5,1.63,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Fred VanVleet,Over,6.5,1.95,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Fred VanVleet,Under,6.5,1.8,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Jaime Jaquez Jr,Over,3.5,2.1,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Jaime Jaquez Jr,Under,3.5,1.71,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Kasparas Jakucionis,Over,3.5,2.1,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Kasparas Jakucionis,Under,3.5,1.71,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Kevin Durant,Over,4.5,2.15,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Kevin Durant,Under,4.5,1.69,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Reed Sheppard,Over,3.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Reed Sheppard,Under,3.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Ryan Rollins,Over,4.5,2.05,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Ryan Rollins,Under,4.5,1.74,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Tyler Herro,Over,4.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_assists,Tyler Herro,Under,4.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Amen Thompson,Over,18.5,2.0,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Amen Thompson,Under,18.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Clint Capela,Over,5.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Clint Capela,Under,5.5,2.0,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Fred VanVleet,Over,12.5,1.95,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Fred VanVleet,Under,12.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Jabari Smith Jr,Over,16.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Jabari Smith Jr,Under,16.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Jaime Jaquez Jr,Over,14.5,2.0,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Jaime Jaquez Jr,Under,14.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Kasparas Jakucionis,Over,7.5,2.05,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Kasparas Jakucionis,Under,7.5,1.8,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Kel'el Ware,Over,10.5,2.05,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Kel'el Ware,Under,10.5,1.8,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Kevin Durant,Over,26.5,1.95,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Kevin Durant,Under,26.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Kyle Kuzma,Over,11.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Kyle Kuzma,Under,11.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Myles Turner,Over,10.5,2.0,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Myles Turner,Under,10.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Reed Sheppard,Over,12.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Reed Sheppard,Under,12.5,1.95,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Ryan Rollins,Over,14.5,2.05,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Ryan Rollins,Under,14.5,1.8,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Tari Eason,Over,12.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Tari Eason,Under,12.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Tyler Herro,Over,21.5,1.95,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points,Tyler Herro,Under,21.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Amen Thompson,Over,32.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Amen Thompson,Under,32.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Fred VanVleet,Over,21.5,1.8,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Fred VanVleet,Under,21.5,1.95,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Jabari Smith Jr,Over,26.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Jabari Smith Jr,Under,26.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Jaime Jaquez Jr,Over,23.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Jaime Jaquez Jr,Under,23.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Kasparas Jakucionis,Over,14.5,2.1,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Kasparas Jakucionis,Under,14.5,1.71,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Kevin Durant,Over,36.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Kevin Durant,Under,36.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Kyle Kuzma,Over,20.5,1.95,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Kyle Kuzma,Under,20.5,1.8,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Ryan Rollins,Over,22.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Ryan Rollins,Under,22.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Tyler Herro,Over,30.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Tyler Herro,Under,30.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Amen Thompson,Over,8.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Amen Thompson,Under,8.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Clint Capela,Over,5.5,1.77,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Clint Capela,Under,5.5,2.0,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Fred VanVleet,Over,3.5,2.35,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Fred VanVleet,Under,3.5,1.57,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Jabari Smith Jr,Over,7.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Jabari Smith Jr,Under,7.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Jaime Jaquez Jr,Over,5.5,1.95,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Jaime Jaquez Jr,Under,5.5,1.8,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kasparas Jakucionis,Over,2.5,1.59,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kasparas Jakucionis,Under,2.5,2.3,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kel'el Ware,Over,6.5,1.74,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kel'el Ware,Under,6.5,2.05,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kevin Durant,Over,5.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kevin Durant,Under,5.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kyle Kuzma,Over,5.5,2.05,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kyle Kuzma,Under,5.5,1.74,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Myles Turner,Over,5.5,1.95,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Myles Turner,Under,5.5,1.8,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Ryan Rollins,Over,3.5,1.63,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Ryan Rollins,Under,3.5,2.25,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Tari Eason,Over,6.5,1.83,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Tari Eason,Under,6.5,1.9,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Tyler Herro,Over,4.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_rebounds,Tyler Herro,Under,4.5,1.87,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Myles Turner,Over,1.5,1.77,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Myles Turner,Under,1.5,2.0,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Kyle Kuzma,Over,1.5,2.3,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Kyle Kuzma,Under,1.5,1.59,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Tyler Herro,Over,2.5,1.8,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Tyler Herro,Under,2.5,1.95,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Ryan Rollins,Over,1.5,1.59,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Ryan Rollins,Under,1.5,2.3,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Jaime Jaquez Jr,Over,0.5,1.42,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Jaime Jaquez Jr,Under,0.5,2.75,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Kevin Durant,Over,2.5,2.35,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Kevin Durant,Under,2.5,1.57,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Fred VanVleet,Over,2.5,2.15,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Fred VanVleet,Under,2.5,1.69,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Jabari Smith Jr,Over,2.5,2.45,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Jabari Smith Jr,Under,2.5,1.53,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Tari Eason,Over,1.5,2.25,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Tari Eason,Under,1.5,1.63,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Reed Sheppard,Over,2.5,1.74,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Reed Sheppard,Under,2.5,2.05,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Kel'el Ware,Over,0.5,1.56,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,pointsbetau,player_threes,Kel'el Ware,Under,0.5,2.4,2026-10-29T00:04:09Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Tyler Herro,Over,4.5,1.88,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Tyler Herro,Under,4.5,1.88,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Jaime Jaquez Jr,Over,3.5,2.1,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Jaime Jaquez Jr,Under,3.5,1.68,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Ryan Rollins,Over,4.5,2.05,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Ryan Rollins,Under,4.5,1.73,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Kevin Durant,Over,4.5,2.15,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Kevin Durant,Under,4.5,1.68,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Amen Thompson,Over,5.5,2.15,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Amen Thompson,Under,5.5,1.67,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Fred VanVleet,Over,6.5,2.03,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Fred VanVleet,Under,6.5,1.73,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Reed Sheppard,Over,3.5,1.75,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_assists,Reed Sheppard,Under,3.5,2.0,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Tyler Herro,Over,21.5,1.93,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Tyler Herro,Under,21.5,1.83,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Ryan Rollins,Over,13.5,1.78,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Ryan Rollins,Under,13.5,1.98,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Myles Turner,Over,10.5,1.98,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Myles Turner,Under,10.5,1.78,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Fred VanVleet,Over,12.5,1.85,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Fred VanVleet,Under,12.5,1.91,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Jaime Jaquez Jr,Over,14.5,1.95,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Jaime Jaquez Jr,Under,14.5,1.81,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Kel'el Ware,Over,10.5,1.98,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Kel'el Ware,Under,10.5,1.78,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Kevin Durant,Over,26.5,1.92,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Kevin Durant,Under,26.5,1.83,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Amen Thompson,Over,18.5,1.92,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Amen Thompson,Under,18.5,1.83,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Kyle Kuzma,Over,11.5,1.86,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Kyle Kuzma,Under,11.5,1.9,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Jabari Smith Jr,Over,16.5,2.0,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Jabari Smith Jr,Under,16.5,1.75,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Tari Eason,Over,13.5,1.92,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Tari Eason,Under,13.5,1.83,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Reed Sheppard,Over,12.5,1.98,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points,Reed Sheppard,Under,12.5,1.78,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Tyler Herro,Over,19.5,1.04,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Tyler Herro,Over,24.5,1.22,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Tyler Herro,Over,29.5,1.7,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Tyler Herro,Over,34.5,2.88,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Tyler Herro,Over,39.5,5.75,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Jaime Jaquez Jr,Over,14.5,1.05,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Jaime Jaquez Jr,Over,19.5,1.32,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Jaime Jaquez Jr,Over,24.5,2.1,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Jaime Jaquez Jr,Over,29.5,4.5,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Jaime Jaquez Jr,Over,34.5,10.0,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kyle Kuzma,Over,9.5,1.01,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kyle Kuzma,Over,14.5,1.15,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kyle Kuzma,Over,19.5,1.75,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kyle Kuzma,Over,24.5,3.6,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kyle Kuzma,Over,29.5,8.5,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Ryan Rollins,Over,14.5,1.08,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Ryan Rollins,Over,19.5,1.38,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Ryan Rollins,Over,24.5,2.3,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Ryan Rollins,Over,29.5,4.75,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kevin Durant,Over,24.5,1.04,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kevin Durant,Over,29.5,1.18,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kevin Durant,Over,34.5,1.57,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kevin Durant,Over,39.5,2.5,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kevin Durant,Over,44.5,4.75,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Amen Thompson,Over,19.5,1.02,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Amen Thompson,Over,24.5,1.11,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Amen Thompson,Over,29.5,1.46,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Amen Thompson,Over,34.5,2.3,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Amen Thompson,Over,39.5,4.5,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Fred VanVleet,Over,14.5,1.08,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Fred VanVleet,Over,19.5,1.42,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Fred VanVleet,Over,24.5,2.38,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Fred VanVleet,Over,29.5,5.0,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Tari Eason,Over,6.5,1.82,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Tari Eason,Under,6.5,1.95,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Tyler Herro,Over,4.5,1.8,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Tyler Herro,Under,4.5,1.95,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Jaime Jaquez Jr,Over,5.5,1.98,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Jaime Jaquez Jr,Under,5.5,1.78,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Kyle Kuzma,Over,5.5,2.0,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Kyle Kuzma,Under,5.5,1.75,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Ryan Rollins,Over,4.5,2.2,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Ryan Rollins,Under,4.5,1.62,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Myles Turner,Over,5.5,1.97,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Myles Turner,Under,5.5,1.8,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Kevin Durant,Over,5.5,1.73,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Kevin Durant,Under,5.5,2.01,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Amen Thompson,Over,8.5,1.95,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Amen Thompson,Under,8.5,1.8,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Jabari Smith Jr,Over,7.5,1.95,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Jabari Smith Jr,Under,7.5,1.8,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Fred VanVleet,Over,3.5,2.3,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,betright,player_rebounds,Fred VanVleet,Under,3.5,1.55,2026-10-29T00:03:51Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,A.J. Green,Over,6.5,1.85,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,A.J. Green,Under,6.5,1.9,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Amen Thompson,Over,18.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Amen Thompson,Under,18.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Fred VanVleet,Over,12.5,1.85,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Fred VanVleet,Under,12.5,1.9,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Jabari Smith Jr,Over,16.5,1.87,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Jabari Smith Jr,Under,16.5,1.87,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Kevin Durant,Over,26.5,1.9,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Kevin Durant,Under,26.5,1.85,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Kasparas Jakucionis,Over,7.5,2.0,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Kasparas Jakucionis,Under,7.5,1.75,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Kel'el Ware,Over,9.5,1.75,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Kel'el Ware,Under,9.5,2.0,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Kyle Kuzma,Over,12.5,1.9,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Kyle Kuzma,Under,12.5,1.85,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Myles Turner,Over,10.5,1.85,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Myles Turner,Under,10.5,1.9,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Ryan Rollins,Over,14.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Ryan Rollins,Under,14.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Reed Sheppard,Over,13.5,2.0,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Reed Sheppard,Under,13.5,1.75,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Tyler Herro,Over,21.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points,Tyler Herro,Under,21.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,A.J. Green,Over,9.5,1.87,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,A.J. Green,Under,9.5,1.87,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Amen Thompson,Over,33.5,1.9,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Amen Thompson,Under,33.5,1.85,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Clint Capela,Over,11.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Clint Capela,Under,11.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Fred VanVleet,Over,21.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Fred VanVleet,Under,21.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Jaime Jaquez Jr,Over,23.5,1.85,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Jaime Jaquez Jr,Under,23.5,1.9,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Jabari Smith Jr,Over,25.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Jabari Smith Jr,Under,25.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kevin Durant,Over,36.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kevin Durant,Under,36.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kasparas Jakucionis,Over,13.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kasparas Jakucionis,Under,13.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kel'el Ware,Over,17.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kel'el Ware,Under,17.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kyle Kuzma,Over,20.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kyle Kuzma,Under,20.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Myles Turner,Over,17.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Myles Turner,Under,17.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Ryan Rollins,Over,22.5,1.9,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Ryan Rollins,Under,22.5,1.85,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Reed Sheppard,Over,19.5,1.8,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Reed Sheppard,Under,19.5,1.95,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Tyler Herro,Over,30.5,1.87,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Tyler Herro,Under,30.5,1.87,2026-10-29T00:03:25Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Jaime Jaquez Jr,Over,3.5,2.2,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Jaime Jaquez Jr,Under,3.5,1.64,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Ryan Rollins,Over,4.5,2.05,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Ryan Rollins,Under,4.5,1.7,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Kevin Durant,Over,4.5,2.1,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Kevin Durant,Under,4.5,1.67,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Fred VanVleet,Over,6.5,2.1,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Fred VanVleet,Under,6.5,1.68,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Reed Sheppard,Over,3.5,1.82,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Reed Sheppard,Under,3.5,1.92,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Kasparas Jakucionis,Over,3.5,2.2,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Kasparas Jakucionis,Under,3.5,1.64,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Kyle Kuzma,Over,2.5,1.68,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Kyle Kuzma,Under,2.5,2.1,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Tyler Herro,Over,4.5,1.9,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Tyler Herro,Under,4.5,1.85,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Amen Thompson,Over,5.5,2.1,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_assists,Amen Thompson,Under,5.5,1.67,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Myles Turner,Over,10.5,1.9,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Myles Turner,Under,10.5,1.85,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Kel'el Ware,Over,10.5,2.0,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Kel'el Ware,Under,10.5,1.75,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Fred VanVleet,Over,12.5,1.94,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Fred VanVleet,Under,12.5,1.8,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Ryan Rollins,Over,14.5,1.91,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Ryan Rollins,Under,14.5,1.83,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Jabari Smith Jr,Over,15.5,1.85,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Jabari Smith Jr,Under,15.5,1.9,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Amen Thompson,Over,18.5,1.88,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Amen Thompson,Under,18.5,1.85,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Kyle Kuzma,Over,11.5,1.82,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Kyle Kuzma,Under,11.5,1.94,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Tyler Herro,Over,20.5,1.82,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Tyler Herro,Under,20.5,1.92,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Clint Capela,Over,5.5,1.85,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Clint Capela,Under,5.5,1.9,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Reed Sheppard,Over,12.5,1.88,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Reed Sheppard,Under,12.5,1.85,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Jaime Jaquez Jr,Over,14.5,1.9,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Jaime Jaquez Jr,Under,14.5,1.85,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Kevin Durant,Over,25.5,1.9,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Kevin Durant,Under,25.5,1.85,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Tari Eason,Over,13.5,1.92,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Tari Eason,Under,13.5,1.82,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Kasparas Jakucionis,Over,7.5,1.98,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points,Kasparas Jakucionis,Under,7.5,1.78,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Jaime Jaquez Jr,Over,22.5,1.78,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Jaime Jaquez Jr,Under,22.5,1.98,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Ryan Rollins,Over,22.5,1.73,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Ryan Rollins,Under,22.5,2.05,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Fred VanVleet,Over,21.5,1.8,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Fred VanVleet,Under,21.5,1.95,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Kyle Kuzma,Over,19.5,1.73,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Kyle Kuzma,Under,19.5,2.02,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Tyler Herro,Over,29.5,1.77,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Tyler Herro,Under,29.5,1.98,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Kevin Durant,Over,34.5,1.72,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Kevin Durant,Under,34.5,2.05,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Amen Thompson,Over,31.5,1.75,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Amen Thompson,Under,31.5,2.0,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Kasparas Jakucionis,Over,13.5,1.8,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Kasparas Jakucionis,Under,13.5,1.94,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Jabari Smith Jr,Over,7.5,2.0,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Jabari Smith Jr,Under,7.5,1.75,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kel'el Ware,Over,7.5,2.05,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kel'el Ware,Under,7.5,1.72,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Clint Capela,Over,6.5,2.05,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Clint Capela,Under,6.5,1.7,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Ryan Rollins,Over,4.5,2.05,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Ryan Rollins,Under,4.5,1.7,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Jaime Jaquez Jr,Over,5.5,2.1,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Jaime Jaquez Jr,Under,5.5,1.68,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Tyler Herro,Over,4.5,1.9,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Tyler Herro,Under,4.5,1.85,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Myles Turner,Over,5.5,2.05,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Myles Turner,Under,5.5,1.7,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Tari Eason,Over,6.5,1.82,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Tari Eason,Under,6.5,1.94,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Amen Thompson,Over,8.5,1.98,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Amen Thompson,Under,8.5,1.77,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kasparas Jakucionis,Over,2.5,1.53,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kasparas Jakucionis,Under,2.5,2.4,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kyle Kuzma,Over,5.5,2.05,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kyle Kuzma,Under,5.5,1.7,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kevin Durant,Over,5.5,1.83,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kevin Durant,Under,5.5,1.91,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Fred VanVleet,Over,3.5,2.1,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Fred VanVleet,Under,3.5,1.67,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Ryan Rollins,Over,1.5,1.6,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Ryan Rollins,Under,1.5,2.15,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Kevin Durant,Over,1.5,1.5,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Kevin Durant,Under,1.5,2.35,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Tyler Herro,Over,2.5,1.9,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Tyler Herro,Under,2.5,1.78,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Fred VanVleet,Over,2.5,2.1,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Fred VanVleet,Under,2.5,1.64,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Myles Turner,Over,1.5,1.92,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Myles Turner,Under,1.5,1.75,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Reed Sheppard,Over,2.5,1.85,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Reed Sheppard,Under,2.5,1.82,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Jabari Smith Jr,Over,1.5,1.48,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,ladbrokes_au,player_threes,Jabari Smith Jr,Under,1.5,2.4,2026-10-29T00:04:35Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Jaime Jaquez Jr,Over,3.5,2.2,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Jaime Jaquez Jr,Under,3.5,1.64,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Ryan Rollins,Over,4.5,2.05,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Ryan Rollins,Under,4.5,1.7,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Kevin Durant,Over,4.5,2.1,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Kevin Durant,Under,4.5,1.67,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Fred VanVleet,Over,6.5,2.1,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Fred VanVleet,Under,6.5,1.68,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Reed Sheppard,Over,3.5,1.82,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Reed Sheppard,Under,3.5,1.92,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Kasparas Jakucionis,Over,3.5,2.2,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Kasparas Jakucionis,Under,3.5,1.64,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Kyle Kuzma,Over,2.5,1.68,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Kyle Kuzma,Under,2.5,2.1,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Tyler Herro,Over,4.5,1.9,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Tyler Herro,Under,4.5,1.85,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Amen Thompson,Over,5.5,2.1,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_assists,Amen Thompson,Under,5.5,1.67,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Myles Turner,Over,10.5,1.9,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Myles Turner,Under,10.5,1.85,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Kel'el Ware,Over,10.5,2.0,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Kel'el Ware,Under,10.5,1.75,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Fred VanVleet,Over,12.5,1.94,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Fred VanVleet,Under,12.5,1.8,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Ryan Rollins,Over,14.5,1.91,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Ryan Rollins,Under,14.5,1.83,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Jabari Smith Jr,Over,15.5,1.85,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Jabari Smith Jr,Under,15.5,1.9,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Amen Thompson,Over,18.5,1.88,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Amen Thompson,Under,18.5,1.85,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Kyle Kuzma,Over,11.5,1.82,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Kyle Kuzma,Under,11.5,1.94,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Tyler Herro,Over,20.5,1.82,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Tyler Herro,Under,20.5,1.92,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Clint Capela,Over,5.5,1.85,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Clint Capela,Under,5.5,1.9,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Reed Sheppard,Over,12.5,1.88,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Reed Sheppard,Under,12.5,1.85,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Jaime Jaquez Jr,Over,14.5,1.9,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Jaime Jaquez Jr,Under,14.5,1.85,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Kevin Durant,Over,25.5,1.9,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Kevin Durant,Under,25.5,1.85,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Tari Eason,Over,13.5,1.92,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Tari Eason,Under,13.5,1.82,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Kasparas Jakucionis,Over,7.5,1.98,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points,Kasparas Jakucionis,Under,7.5,1.78,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Jaime Jaquez Jr,Over,22.5,1.78,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Jaime Jaquez Jr,Under,22.5,1.98,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Ryan Rollins,Over,22.5,1.73,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Ryan Rollins,Under,22.5,2.05,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Fred VanVleet,Over,21.5,1.8,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Fred VanVleet,Under,21.5,1.95,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Kyle Kuzma,Over,19.5,1.73,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Kyle Kuzma,Under,19.5,2.02,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Tyler Herro,Over,29.5,1.77,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Tyler Herro,Under,29.5,1.98,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Kevin Durant,Over,34.5,1.72,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Kevin Durant,Under,34.5,2.05,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Amen Thompson,Over,31.5,1.75,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Amen Thompson,Under,31.5,2.0,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Kasparas Jakucionis,Over,13.5,1.8,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Kasparas Jakucionis,Under,13.5,1.94,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Jabari Smith Jr,Over,7.5,2.0,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Jabari Smith Jr,Under,7.5,1.75,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Kel'el Ware,Over,7.5,2.05,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Kel'el Ware,Under,7.5,1.72,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Clint Capela,Over,6.5,2.05,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Clint Capela,Under,6.5,1.7,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Ryan Rollins,Over,4.5,2.05,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Ryan Rollins,Under,4.5,1.7,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Jaime Jaquez Jr,Over,5.5,2.1,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Jaime Jaquez Jr,Under,5.5,1.68,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Tyler Herro,Over,4.5,1.9,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Tyler Herro,Under,4.5,1.85,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Myles Turner,Over,5.5,2.05,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Myles Turner,Under,5.5,1.7,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Tari Eason,Over,6.5,1.82,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Tari Eason,Under,6.5,1.94,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Amen Thompson,Over,8.5,1.98,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Amen Thompson,Under,8.5,1.77,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Kasparas Jakucionis,Over,2.5,1.53,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Kasparas Jakucionis,Under,2.5,2.4,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Kyle Kuzma,Over,5.5,2.05,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Kyle Kuzma,Under,5.5,1.7,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Kevin Durant,Over,5.5,1.83,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Kevin Durant,Under,5.5,1.91,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Fred VanVleet,Over,3.5,2.1,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_rebounds,Fred VanVleet,Under,3.5,1.67,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Ryan Rollins,Over,1.5,1.6,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Ryan Rollins,Under,1.5,2.15,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Kevin Durant,Over,1.5,1.5,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Kevin Durant,Under,1.5,2.35,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Tyler Herro,Over,2.5,1.9,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Tyler Herro,Under,2.5,1.78,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Fred VanVleet,Over,2.5,2.1,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Fred VanVleet,Under,2.5,1.64,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Myles Turner,Over,1.5,1.92,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Myles Turner,Under,1.5,1.75,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Reed Sheppard,Over,2.5,1.85,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Reed Sheppard,Under,2.5,1.82,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Jabari Smith Jr,Over,1.5,1.48,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,neds,player_threes,Jabari Smith Jr,Under,1.5,2.4,2026-10-29T00:03:53Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Ryan Rollins,Over,4.5,2.07,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Ryan Rollins,Under,4.5,1.71,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Kyle Kuzma,Over,2.5,1.66,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Kyle Kuzma,Under,2.5,2.15,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Kevin Durant,Over,4.5,2.1,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Kevin Durant,Under,4.5,1.68,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Jaime Jaquez Jr,Over,3.5,2.02,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Jaime Jaquez Jr,Under,3.5,1.74,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Tyler Herro,Over,4.5,1.95,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Tyler Herro,Under,4.5,1.78,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Amen Thompson,Over,4.5,1.63,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Amen Thompson,Under,4.5,2.2,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Jabari Smith Jr,Over,2.5,2.35,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Jabari Smith Jr,Under,2.5,1.55,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Fred VanVleet,Over,5.5,1.7,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_assists,Fred VanVleet,Under,5.5,2.08,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Kel'el Ware,Over,10.5,1.94,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Kel'el Ware,Under,10.5,1.8,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Kyle Kuzma,Over,12.5,1.94,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Kyle Kuzma,Under,12.5,1.8,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Amen Thompson,Over,17.5,1.8,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Amen Thompson,Under,17.5,1.94,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Ryan Rollins,Over,13.5,1.79,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Ryan Rollins,Under,13.5,1.95,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Myles Turner,Over,10.5,1.96,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Myles Turner,Under,10.5,1.78,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Fred VanVleet,Over,12.5,1.91,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Fred VanVleet,Under,12.5,1.83,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Kevin Durant,Over,25.5,1.8,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Kevin Durant,Under,25.5,1.94,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Reed Sheppard,Over,11.5,1.79,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Reed Sheppard,Under,11.5,1.94,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Jaime Jaquez Jr,Over,14.5,1.93,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Jaime Jaquez Jr,Under,14.5,1.81,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Tyler Herro,Over,20.5,1.81,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Tyler Herro,Under,20.5,1.93,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Clint Capela,Over,5.5,1.72,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Clint Capela,Under,5.5,2.05,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Tari Eason,Over,13.5,1.8,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Tari Eason,Under,13.5,1.94,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Jabari Smith Jr,Over,16.5,1.95,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points,Jabari Smith Jr,Under,16.5,1.79,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Jaime Jaquez Jr,Over,23.5,1.88,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Jaime Jaquez Jr,Under,23.5,1.85,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Kyle Kuzma,Over,21.5,2.02,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Kyle Kuzma,Under,21.5,1.74,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Kevin Durant,Over,36.5,1.93,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Kevin Durant,Under,36.5,1.81,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Amen Thompson,Over,31.5,1.85,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Amen Thompson,Under,31.5,1.88,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Fred VanVleet,Over,21.5,1.85,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Fred VanVleet,Under,21.5,1.88,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Tyler Herro,Over,30.5,1.93,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Tyler Herro,Under,30.5,1.81,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Ryan Rollins,Over,23.5,2.0,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Ryan Rollins,Under,23.5,1.75,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Jabari Smith Jr,Over,26.5,1.96,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Jabari Smith Jr,Under,26.5,1.78,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Ryan Rollins,Over,4.5,2.18,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Ryan Rollins,Under,4.5,1.63,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Amen Thompson,Over,8.5,2.0,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Amen Thompson,Under,8.5,1.76,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Tyler Herro,Over,4.5,1.95,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Tyler Herro,Under,4.5,1.79,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Jaime Jaquez Jr,Over,5.5,1.93,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Jaime Jaquez Jr,Under,5.5,1.81,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Kyle Kuzma,Over,5.5,1.97,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Kyle Kuzma,Under,5.5,1.76,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Kevin Durant,Over,5.5,1.88,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Kevin Durant,Under,5.5,1.85,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Tari Eason,Over,6.5,1.77,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Tari Eason,Under,6.5,1.97,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Kel'el Ware,Over,7.5,2.1,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Kel'el Ware,Under,7.5,1.68,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Myles Turner,Over,5.5,2.0,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Myles Turner,Under,5.5,1.75,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Fred VanVleet,Over,2.5,1.61,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Fred VanVleet,Under,2.5,2.23,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Jabari Smith Jr,Over,7.5,1.97,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Jabari Smith Jr,Under,7.5,1.77,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Clint Capela,Over,6.5,1.87,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_rebounds,Clint Capela,Under,6.5,1.87,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Jaime Jaquez Jr,Over,0.5,1.49,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Jaime Jaquez Jr,Under,0.5,2.5,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Kyle Kuzma,Over,1.5,2.45,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Kyle Kuzma,Under,1.5,1.51,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Fred VanVleet,Over,2.5,2.1,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Fred VanVleet,Under,2.5,1.68,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Ryan Rollins,Over,1.5,1.62,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Ryan Rollins,Under,1.5,2.2,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Kel'el Ware,Over,0.5,1.64,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Kel'el Ware,Under,0.5,2.17,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Tyler Herro,Over,2.5,1.85,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Tyler Herro,Under,2.5,1.88,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Myles Turner,Over,1.5,1.85,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Myles Turner,Under,1.5,1.89,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Jabari Smith Jr,Over,2.5,2.45,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Jabari Smith Jr,Under,2.5,1.5,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Tari Eason,Over,1.5,2.45,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Tari Eason,Under,1.5,1.5,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Reed Sheppard,Over,2.5,1.93,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Reed Sheppard,Under,2.5,1.8,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Kevin Durant,Over,2.5,2.4,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
+2026-10-29,11:10,Houston Rockets @ Milwaukee Bucks,unibet,player_threes,Kevin Durant,Under,2.5,1.53,2026-10-29T00:04:34Z,2026-10-29T00:05:04+00:00,4.9
