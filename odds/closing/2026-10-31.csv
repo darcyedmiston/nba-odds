@@ -2757,3 +2757,711 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-10-31,10:40,New York Knicks @ Philadelphia 76ers,neds,player_threes,Landry Shamet,Under,1.5,1.95,2026-10-30T23:35:00Z,2026-10-30T23:35:03+00:00,4.9
 2026-10-31,10:40,New York Knicks @ Philadelphia 76ers,neds,player_threes,Tyrese Maxey,Over,2.5,2.05,2026-10-30T23:35:00Z,2026-10-30T23:35:03+00:00,4.9
 2026-10-31,10:40,New York Knicks @ Philadelphia 76ers,neds,player_threes,Tyrese Maxey,Under,2.5,1.67,2026-10-30T23:35:00Z,2026-10-30T23:35:03+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Anthony Black,Over,3.5,1.69,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Anthony Black,Under,3.5,2.15,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Desmond Bane,Over,3.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Desmond Bane,Under,3.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Franz Wagner,Over,6.5,2.05,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Franz Wagner,Under,6.5,1.74,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Immanuel Quickley,Over,5.5,1.69,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Immanuel Quickley,Under,5.5,2.15,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Jamal Shead,Over,5.5,2.2,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Jamal Shead,Under,5.5,1.67,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Jase Richardson,Over,2.5,2.35,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Jase Richardson,Under,2.5,1.57,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Jevon Carter,Over,1.5,1.69,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Jevon Carter,Under,1.5,2.15,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,R.J. Barrett,Over,3.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,R.J. Barrett,Under,3.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Scottie Barnes,Over,5.5,1.71,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Scottie Barnes,Under,5.5,2.1,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Wendell Carter Jr,Over,2.5,2.25,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_assists,Wendell Carter Jr,Under,2.5,1.63,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Anthony Black,Over,13.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Anthony Black,Under,13.5,2.0,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Collin Murray-Boyles,Over,9.5,2.0,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Collin Murray-Boyles,Under,9.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Desmond Bane,Over,19.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Desmond Bane,Under,19.5,2.0,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Franz Wagner,Over,21.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Franz Wagner,Under,21.5,2.0,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Immanuel Quickley,Over,18.5,2.0,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Immanuel Quickley,Under,18.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Ja'Kobe Walter,Over,11.5,1.77,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Ja'Kobe Walter,Under,11.5,2.1,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Jakob Poeltl,Over,6.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Jakob Poeltl,Under,6.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Jamal Shead,Over,7.5,2.0,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Jamal Shead,Under,7.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Jase Richardson,Over,7.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Jase Richardson,Under,7.5,2.0,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Jevon Carter,Over,4.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Jevon Carter,Under,4.5,2.0,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,R.J. Barrett,Over,22.5,1.95,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,R.J. Barrett,Under,22.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Scottie Barnes,Over,21.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Scottie Barnes,Under,21.5,1.95,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Tristan da Silva,Over,12.5,2.0,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Tristan da Silva,Under,12.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Wendell Carter Jr,Over,10.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points,Wendell Carter Jr,Under,10.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Anthony Black,Over,21.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Anthony Black,Under,21.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Desmond Bane,Over,28.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Desmond Bane,Under,28.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Franz Wagner,Over,34.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Franz Wagner,Under,34.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Immanuel Quickley,Over,28.5,1.95,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Immanuel Quickley,Under,28.5,1.8,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Jase Richardson,Over,12.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Jase Richardson,Under,12.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,R.J. Barrett,Over,31.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,R.J. Barrett,Under,31.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Scottie Barnes,Over,35.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Scottie Barnes,Under,35.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Wendell Carter Jr,Over,21.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Wendell Carter Jr,Under,21.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Anthony Black,Over,3.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Anthony Black,Under,3.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Collin Murray-Boyles,Over,5.5,2.05,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Collin Murray-Boyles,Under,5.5,1.74,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Desmond Bane,Over,4.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Desmond Bane,Under,4.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Franz Wagner,Over,6.5,2.1,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Franz Wagner,Under,6.5,1.71,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Immanuel Quickley,Over,3.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Immanuel Quickley,Under,3.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Ja'Kobe Walter,Over,3.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Ja'Kobe Walter,Under,3.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Jakob Poeltl,Over,5.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Jakob Poeltl,Under,5.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Jase Richardson,Over,2.5,1.95,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Jase Richardson,Under,2.5,1.8,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,R.J. Barrett,Over,5.5,1.83,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,R.J. Barrett,Under,5.5,1.9,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Scottie Barnes,Over,7.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Scottie Barnes,Under,7.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Tristan da Silva,Over,3.5,1.69,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Tristan da Silva,Under,3.5,2.15,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Wendell Carter Jr,Over,7.5,1.77,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_rebounds,Wendell Carter Jr,Under,7.5,2.0,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Desmond Bane,Over,2.5,1.69,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Desmond Bane,Under,2.5,2.15,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Wendell Carter Jr,Over,0.5,1.63,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Wendell Carter Jr,Under,0.5,2.25,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Franz Wagner,Over,1.5,2.35,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Franz Wagner,Under,1.5,1.57,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Anthony Black,Over,1.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Anthony Black,Under,1.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Tristan da Silva,Over,2.5,2.15,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Tristan da Silva,Under,2.5,1.69,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Jase Richardson,Over,0.5,1.63,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Jase Richardson,Under,0.5,2.25,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Immanuel Quickley,Over,2.5,2.1,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Immanuel Quickley,Under,2.5,1.71,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,R.J. Barrett,Over,1.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,R.J. Barrett,Under,1.5,1.87,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Scottie Barnes,Over,1.5,2.65,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Scottie Barnes,Under,1.5,1.44,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Ja'Kobe Walter,Over,2.5,2.05,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Ja'Kobe Walter,Under,2.5,1.74,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Jamal Shead,Over,0.5,1.57,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Jamal Shead,Under,0.5,2.35,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Jevon Carter,Over,1.5,2.45,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,pointsbetau,player_threes,Jevon Carter,Under,1.5,1.53,2026-10-30T23:34:41Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Anthony Black,Over,4.5,2.25,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Anthony Black,Under,4.5,1.6,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Collin Murray-Boyles,Over,1.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Collin Murray-Boyles,Under,1.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Desmond Bane,Over,3.5,2.0,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Desmond Bane,Under,3.5,1.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Franz Wagner,Over,6.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Franz Wagner,Under,6.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Immanuel Quickley,Over,6.5,2.35,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Immanuel Quickley,Under,6.5,1.55,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jamison Battle,Over,0.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jamison Battle,Under,0.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jevon Carter,Over,1.5,1.6,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jevon Carter,Under,1.5,2.25,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jakob Poeltl,Over,1.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jakob Poeltl,Under,1.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jamal Shead,Over,4.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jamal Shead,Under,4.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Ja'Kobe Walter,Over,1.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Ja'Kobe Walter,Under,1.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jamal Cain,Over,0.5,1.72,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jamal Cain,Under,0.5,2.05,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jase Richardson,Over,1.5,1.62,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Jase Richardson,Under,1.5,2.2,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,R.J. Barrett,Over,3.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,R.J. Barrett,Under,3.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Scottie Barnes,Over,6.5,2.2,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Scottie Barnes,Under,6.5,1.62,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Tristan da Silva,Over,2.5,2.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Tristan da Silva,Under,2.5,1.42,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Wendell Carter Jr,Over,2.5,2.4,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_assists,Wendell Carter Jr,Under,2.5,1.53,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Anthony Black,Over,14.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Anthony Black,Under,14.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Collin Murray-Boyles,Over,8.5,1.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Collin Murray-Boyles,Under,8.5,2.0,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Desmond Bane,Over,19.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Desmond Bane,Under,19.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Franz Wagner,Over,22.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Franz Wagner,Under,22.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Immanuel Quickley,Over,17.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Immanuel Quickley,Under,17.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jamison Battle,Over,5.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jamison Battle,Under,5.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jevon Carter,Over,5.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jevon Carter,Under,5.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jakob Poeltl,Over,6.5,1.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jakob Poeltl,Under,6.5,2.0,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jamal Shead,Over,7.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jamal Shead,Under,7.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Ja'Kobe Walter,Over,11.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Ja'Kobe Walter,Under,11.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jamal Cain,Over,5.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jamal Cain,Under,5.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jase Richardson,Over,8.5,2.0,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Jase Richardson,Under,8.5,1.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,R.J. Barrett,Over,23.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,R.J. Barrett,Under,23.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Scottie Barnes,Over,21.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Scottie Barnes,Under,21.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Tristan da Silva,Over,11.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Tristan da Silva,Under,11.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Wendell Carter Jr,Over,10.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points,Wendell Carter Jr,Under,10.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Anthony Black,Over,21.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Anthony Black,Under,21.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Collin Murray-Boyles,Over,16.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Collin Murray-Boyles,Under,16.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Desmond Bane,Over,28.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Desmond Bane,Under,28.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Franz Wagner,Over,35.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Franz Wagner,Under,35.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Immanuel Quickley,Over,26.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Immanuel Quickley,Under,26.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jamison Battle,Over,9.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jamison Battle,Under,9.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jevon Carter,Over,8.5,1.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jevon Carter,Under,8.5,2.0,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jakob Poeltl,Over,15.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jakob Poeltl,Under,15.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jamal Shead,Over,14.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jamal Shead,Under,14.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Ja'Kobe Walter,Over,16.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Ja'Kobe Walter,Under,16.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jamal Cain,Over,8.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jamal Cain,Under,8.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jase Richardson,Over,12.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Jase Richardson,Under,12.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,R.J. Barrett,Over,32.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,R.J. Barrett,Under,32.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Scottie Barnes,Over,34.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Scottie Barnes,Under,34.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Tristan da Silva,Over,17.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Tristan da Silva,Under,17.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Wendell Carter Jr,Over,21.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_points_rebounds_assists,Wendell Carter Jr,Under,21.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Anthony Black,Over,3.5,2.0,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Anthony Black,Under,3.5,1.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Collin Murray-Boyles,Over,5.5,2.05,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Collin Murray-Boyles,Under,5.5,1.72,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Desmond Bane,Over,4.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Desmond Bane,Under,4.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Franz Wagner,Over,6.5,2.05,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Franz Wagner,Under,6.5,1.72,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Immanuel Quickley,Over,3.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Immanuel Quickley,Under,3.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jamison Battle,Over,2.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jamison Battle,Under,2.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jevon Carter,Over,1.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jevon Carter,Under,1.5,1.87,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jakob Poeltl,Over,6.5,2.0,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jakob Poeltl,Under,6.5,1.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jamal Shead,Over,1.5,1.72,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jamal Shead,Under,1.5,2.05,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Ja'Kobe Walter,Over,3.5,1.72,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Ja'Kobe Walter,Under,3.5,2.05,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jamal Cain,Over,2.5,2.05,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jamal Cain,Under,2.5,1.72,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jase Richardson,Over,2.5,2.1,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Jase Richardson,Under,2.5,1.68,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,R.J. Barrett,Over,5.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,R.J. Barrett,Under,5.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Scottie Barnes,Over,7.5,2.1,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Scottie Barnes,Under,7.5,1.68,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Tristan da Silva,Over,3.5,1.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Tristan da Silva,Under,3.5,2.0,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Wendell Carter Jr,Over,8.5,2.0,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_rebounds,Wendell Carter Jr,Under,8.5,1.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Anthony Black,Over,1.5,1.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Anthony Black,Under,1.5,1.85,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Collin Murray-Boyles,Over,0.5,2.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Collin Murray-Boyles,Under,0.5,1.38,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Desmond Bane,Over,2.5,1.68,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Desmond Bane,Under,2.5,2.1,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Franz Wagner,Over,1.5,2.35,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Franz Wagner,Under,1.5,1.55,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Immanuel Quickley,Over,2.5,1.95,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Immanuel Quickley,Under,2.5,1.8,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Jamison Battle,Over,1.5,2.75,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Jamison Battle,Under,1.5,1.42,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Jevon Carter,Over,1.5,2.45,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Jevon Carter,Under,1.5,1.52,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Jamal Shead,Over,1.5,2.9,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Jamal Shead,Under,1.5,1.38,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Ja'Kobe Walter,Over,2.5,2.45,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Ja'Kobe Walter,Under,2.5,1.52,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Jamal Cain,Over,0.5,1.72,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Jamal Cain,Under,0.5,2.05,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Jase Richardson,Over,1.5,3.1,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Jase Richardson,Under,1.5,1.34,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,R.J. Barrett,Over,1.5,1.72,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,R.J. Barrett,Under,1.5,2.05,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Scottie Barnes,Over,1.5,2.6,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Scottie Barnes,Under,1.5,1.46,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Tristan da Silva,Over,2.5,2.15,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Tristan da Silva,Under,2.5,1.65,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Wendell Carter Jr,Over,0.5,1.6,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,tab,player_threes,Wendell Carter Jr,Under,0.5,2.25,2026-10-30T23:31:36Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Immanuel Quickley,Over,5.5,1.74,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Immanuel Quickley,Under,5.5,2.05,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Scottie Barnes,Over,5.5,1.76,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Scottie Barnes,Under,5.5,2.02,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Desmond Bane,Over,3.5,1.88,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Desmond Bane,Under,3.5,1.88,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,R.J. Barrett,Over,3.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,R.J. Barrett,Under,3.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Anthony Black,Over,3.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Anthony Black,Under,3.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Franz Wagner,Over,6.5,2.1,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Franz Wagner,Under,6.5,1.68,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Jamal Shead,Over,4.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Jamal Shead,Under,4.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Jevon Carter,Over,2.5,2.5,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Jevon Carter,Under,2.5,1.48,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Wendell Carter Jr,Over,1.5,1.52,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_assists,Wendell Carter Jr,Under,1.5,2.4,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Desmond Bane,Over,19.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Desmond Bane,Under,19.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Jamal Shead,Over,7.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Jamal Shead,Under,7.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,R.J. Barrett,Over,22.5,1.93,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,R.J. Barrett,Under,22.5,1.83,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Jase Richardson,Over,8.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Jase Richardson,Under,8.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Immanuel Quickley,Over,17.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Immanuel Quickley,Under,17.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Collin Murray-Boyles,Over,9.5,2.0,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Collin Murray-Boyles,Under,9.5,1.78,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Anthony Black,Over,14.5,2.02,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Anthony Black,Under,14.5,1.76,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Ja'Kobe Walter,Over,12.5,2.0,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Ja'Kobe Walter,Under,12.5,1.78,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Scottie Barnes,Over,21.5,1.85,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Scottie Barnes,Under,21.5,1.91,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Tristan da Silva,Over,11.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Tristan da Silva,Under,11.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Franz Wagner,Over,22.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Franz Wagner,Under,22.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Jakob Poeltl,Over,6.5,1.83,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Jakob Poeltl,Under,6.5,1.93,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Wendell Carter Jr,Over,10.5,1.87,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Wendell Carter Jr,Under,10.5,1.89,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Jevon Carter,Over,4.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points,Jevon Carter,Under,4.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Franz Wagner,Over,34.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Franz Wagner,Under,34.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Desmond Bane,Over,28.5,1.91,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Desmond Bane,Under,28.5,1.85,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Anthony Black,Over,21.5,1.89,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Anthony Black,Under,21.5,1.87,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Jase Richardson,Over,12.5,1.88,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Jase Richardson,Under,12.5,1.88,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,R.J. Barrett,Over,31.5,1.84,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,R.J. Barrett,Under,31.5,1.92,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Scottie Barnes,Over,35.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Scottie Barnes,Under,35.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Immanuel Quickley,Over,27.5,1.83,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Immanuel Quickley,Under,27.5,1.93,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Jamal Shead,Over,14.5,1.86,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Jamal Shead,Under,14.5,1.9,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Tristan da Silva,Over,17.5,1.83,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Tristan da Silva,Under,17.5,1.93,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Over,20.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Under,20.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Immanuel Quickley,Over,3.5,1.74,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Immanuel Quickley,Under,3.5,2.05,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Anthony Black,Over,3.5,1.92,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Anthony Black,Under,3.5,1.84,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Scottie Barnes,Over,7.5,2.05,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Scottie Barnes,Under,7.5,1.74,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Collin Murray-Boyles,Over,5.5,2.1,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Collin Murray-Boyles,Under,5.5,1.68,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Franz Wagner,Over,6.5,2.1,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Franz Wagner,Under,6.5,1.68,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Wendell Carter Jr,Over,7.5,1.68,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Wendell Carter Jr,Under,7.5,2.1,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Jamal Shead,Over,2.5,2.3,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Jamal Shead,Under,2.5,1.56,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,R.J. Barrett,Over,5.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,R.J. Barrett,Under,5.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Tristan da Silva,Over,3.5,1.72,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Tristan da Silva,Under,3.5,2.08,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Jakob Poeltl,Over,5.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Jakob Poeltl,Under,5.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Ja'Kobe Walter,Over,3.5,1.78,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Ja'Kobe Walter,Under,3.5,2.0,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Desmond Bane,Over,4.5,1.84,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_rebounds,Desmond Bane,Under,4.5,1.92,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Anthony Black,Over,1.5,1.92,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Anthony Black,Under,1.5,1.84,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Ja'Kobe Walter,Over,2.5,2.0,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Ja'Kobe Walter,Under,2.5,1.78,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Immanuel Quickley,Over,2.5,2.05,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Immanuel Quickley,Under,2.5,1.74,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Franz Wagner,Over,1.5,2.25,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Franz Wagner,Under,1.5,1.58,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,R.J. Barrett,Over,1.5,1.8,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,R.J. Barrett,Under,1.5,1.96,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Wendell Carter Jr,Over,0.5,1.6,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Wendell Carter Jr,Under,0.5,2.2,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Scottie Barnes,Over,1.5,2.6,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Scottie Barnes,Under,1.5,1.45,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Desmond Bane,Over,2.5,1.64,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Desmond Bane,Under,2.5,2.15,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Tristan da Silva,Over,2.5,2.3,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Tristan da Silva,Under,2.5,1.56,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Jamal Shead,Over,0.5,1.6,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Jamal Shead,Under,0.5,2.2,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Jevon Carter,Over,1.5,2.4,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,sportsbet,player_threes,Jevon Carter,Under,1.5,1.52,2026-10-30T23:34:13Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Immanuel Quickley,Over,5.5,1.83,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Immanuel Quickley,Under,5.5,1.91,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Wendell Carter Jr,Over,2.5,2.3,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Wendell Carter Jr,Under,2.5,1.56,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Jakob Poeltl,Over,1.5,1.93,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Jakob Poeltl,Under,1.5,1.81,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Collin Murray-Boyles,Over,1.5,1.88,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Collin Murray-Boyles,Under,1.5,1.85,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,R.J. Barrett,Over,3.5,2.02,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,R.J. Barrett,Under,3.5,1.74,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Desmond Bane,Over,3.5,1.83,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Desmond Bane,Under,3.5,1.89,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Jamal Shead,Over,4.5,1.68,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Jamal Shead,Under,4.5,2.1,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Tristan da Silva,Over,1.5,1.54,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Tristan da Silva,Under,1.5,2.38,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Jase Richardson,Over,2.5,2.28,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Jase Richardson,Under,2.5,1.57,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Scottie Barnes,Over,5.5,1.71,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Scottie Barnes,Under,5.5,2.07,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Ja'Kobe Walter,Over,1.5,1.95,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Ja'Kobe Walter,Under,1.5,1.79,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Franz Wagner,Over,6.5,2.04,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Franz Wagner,Under,6.5,1.73,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Anthony Black,Over,3.5,1.76,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_assists,Anthony Black,Under,3.5,1.97,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Anthony Black,Over,13.5,1.85,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Anthony Black,Under,13.5,1.88,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Wendell Carter Jr,Over,10.5,1.81,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Wendell Carter Jr,Under,10.5,1.93,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Scottie Barnes,Over,22.5,1.93,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Scottie Barnes,Under,22.5,1.82,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Franz Wagner,Over,22.5,1.89,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Franz Wagner,Under,22.5,1.83,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Jase Richardson,Over,7.5,1.77,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Jase Richardson,Under,7.5,1.97,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Jamal Shead,Over,6.5,1.79,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Jamal Shead,Under,6.5,1.94,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Jakob Poeltl,Over,6.5,1.79,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Jakob Poeltl,Under,6.5,1.95,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Immanuel Quickley,Over,17.5,1.87,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Immanuel Quickley,Under,17.5,1.87,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,R.J. Barrett,Over,22.5,1.78,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,R.J. Barrett,Under,22.5,1.96,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Tristan da Silva,Over,11.5,1.83,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Tristan da Silva,Under,11.5,1.91,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Desmond Bane,Over,20.5,1.88,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Desmond Bane,Under,20.5,1.85,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Ja'Kobe Walter,Over,12.5,1.94,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Ja'Kobe Walter,Under,12.5,1.8,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Collin Murray-Boyles,Over,9.5,1.92,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points,Collin Murray-Boyles,Under,9.5,1.83,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Jamal Shead,Over,14.5,1.93,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Jamal Shead,Under,14.5,1.82,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Scottie Barnes,Over,35.5,1.83,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Scottie Barnes,Under,35.5,1.89,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Immanuel Quickley,Over,27.5,1.91,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Immanuel Quickley,Under,27.5,1.83,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Wendell Carter Jr,Over,21.5,1.93,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Wendell Carter Jr,Under,21.5,1.8,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Anthony Black,Over,21.5,1.94,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Anthony Black,Under,21.5,1.79,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,R.J. Barrett,Over,32.5,1.89,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,R.J. Barrett,Under,32.5,1.85,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Tristan da Silva,Over,18.5,1.97,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Tristan da Silva,Under,18.5,1.76,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Franz Wagner,Over,35.5,1.93,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Franz Wagner,Under,35.5,1.81,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Jase Richardson,Over,12.5,1.82,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Jase Richardson,Under,12.5,1.93,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Jakob Poeltl,Over,14.5,1.81,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Jakob Poeltl,Under,14.5,1.93,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Ja'Kobe Walter,Over,17.5,1.83,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Ja'Kobe Walter,Under,17.5,1.91,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Desmond Bane,Over,29.5,1.93,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Desmond Bane,Under,29.5,1.8,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Collin Murray-Boyles,Over,16.5,1.88,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_points_rebounds_assists,Collin Murray-Boyles,Under,16.5,1.85,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Scottie Barnes,Over,7.5,2.04,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Scottie Barnes,Under,7.5,1.73,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Jakob Poeltl,Over,5.5,1.76,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Jakob Poeltl,Under,5.5,2.0,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Immanuel Quickley,Over,3.5,1.77,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Immanuel Quickley,Under,3.5,1.97,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,R.J. Barrett,Over,5.5,1.87,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,R.J. Barrett,Under,5.5,1.87,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Collin Murray-Boyles,Over,5.5,2.07,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Collin Murray-Boyles,Under,5.5,1.7,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Jamal Shead,Over,2.5,2.28,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Jamal Shead,Under,2.5,1.57,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Jase Richardson,Over,2.5,2.07,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Jase Richardson,Under,2.5,1.7,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Desmond Bane,Over,4.5,1.81,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Desmond Bane,Under,4.5,1.93,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Franz Wagner,Over,6.5,2.16,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Franz Wagner,Under,6.5,1.65,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Ja'Kobe Walter,Over,3.5,1.78,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Ja'Kobe Walter,Under,3.5,1.95,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Wendell Carter Jr,Over,7.5,1.77,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Wendell Carter Jr,Under,7.5,1.97,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Tristan da Silva,Over,3.5,1.73,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Tristan da Silva,Under,3.5,2.02,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Anthony Black,Over,3.5,2.0,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_rebounds,Anthony Black,Under,3.5,1.76,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Anthony Black,Over,1.5,1.92,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Anthony Black,Under,1.5,1.82,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Desmond Bane,Over,2.5,1.67,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Desmond Bane,Under,2.5,2.12,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Scottie Barnes,Over,1.5,2.6,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Scottie Barnes,Under,1.5,1.44,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Ja'Kobe Walter,Over,2.5,2.0,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Ja'Kobe Walter,Under,2.5,1.75,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Jase Richardson,Over,0.5,1.51,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Jase Richardson,Under,0.5,2.43,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Immanuel Quickley,Over,2.5,2.08,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Immanuel Quickley,Under,2.5,1.7,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Tristan da Silva,Over,2.5,2.25,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Tristan da Silva,Under,2.5,1.6,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Wendell Carter Jr,Over,0.5,1.62,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Wendell Carter Jr,Under,0.5,2.2,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,R.J. Barrett,Over,1.5,1.85,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,R.J. Barrett,Under,1.5,1.88,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Franz Wagner,Over,1.5,2.45,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Franz Wagner,Under,1.5,1.51,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Jamal Shead,Over,0.5,1.55,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,unibet,player_threes,Jamal Shead,Under,0.5,2.35,2026-10-30T23:34:05Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Scottie Barnes,Over,5.5,1.75,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Scottie Barnes,Under,5.5,2.0,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Franz Wagner,Over,6.5,2.1,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Franz Wagner,Under,6.5,1.68,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Desmond Bane,Over,3.5,1.88,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Desmond Bane,Under,3.5,1.85,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Jamal Shead,Over,4.5,1.75,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Jamal Shead,Under,4.5,2.0,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Anthony Black,Over,3.5,1.77,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Anthony Black,Under,3.5,1.98,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Immanuel Quickley,Over,5.5,1.73,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Immanuel Quickley,Under,5.5,2.02,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Jase Richardson,Over,2.5,2.3,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Jase Richardson,Under,2.5,1.58,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Wendell Carter Jr,Over,2.5,2.15,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Wendell Carter Jr,Under,2.5,1.64,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,R.J. Barrett,Over,3.5,1.94,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,R.J. Barrett,Under,3.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Jevon Carter,Over,2.5,2.3,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_assists,Jevon Carter,Under,2.5,1.58,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Jamal Shead,Over,7.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Jamal Shead,Under,7.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Jakob Poeltl,Over,6.5,1.83,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Jakob Poeltl,Under,6.5,1.91,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Tristan da Silva,Over,11.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Tristan da Silva,Under,11.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Scottie Barnes,Over,21.5,1.85,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Scottie Barnes,Under,21.5,1.9,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Desmond Bane,Over,19.5,1.87,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Desmond Bane,Under,19.5,1.87,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Wendell Carter Jr,Over,10.5,1.85,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Wendell Carter Jr,Under,10.5,1.88,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Ja'Kobe Walter,Over,12.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Ja'Kobe Walter,Under,12.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Anthony Black,Over,14.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Anthony Black,Under,14.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Immanuel Quickley,Over,17.5,1.91,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Immanuel Quickley,Under,17.5,1.83,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Jevon Carter,Over,4.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Jevon Carter,Under,4.5,1.94,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Collin Murray-Boyles,Over,9.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Collin Murray-Boyles,Under,9.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,R.J. Barrett,Over,22.5,1.88,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,R.J. Barrett,Under,22.5,1.85,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Franz Wagner,Over,22.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Franz Wagner,Under,22.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Jase Richardson,Over,7.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points,Jase Richardson,Under,7.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Over,34.5,1.83,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Under,34.5,1.9,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Over,27.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Under,27.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Jamal Shead,Over,14.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Jamal Shead,Under,14.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Wendell Carter Jr,Over,20.5,1.77,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Wendell Carter Jr,Under,20.5,1.98,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Over,21.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Under,21.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,R.J. Barrett,Over,31.5,1.78,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,R.J. Barrett,Under,31.5,1.96,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Scottie Barnes,Over,34.5,1.8,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Scottie Barnes,Under,34.5,1.95,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Immanuel Quickley,Over,26.5,1.75,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Immanuel Quickley,Under,26.5,2.0,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Anthony Black,Over,3.5,1.94,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Anthony Black,Under,3.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Franz Wagner,Over,6.5,2.15,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Franz Wagner,Under,6.5,1.67,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,R.J. Barrett,Over,5.5,1.85,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,R.J. Barrett,Under,5.5,1.88,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Tristan da Silva,Over,3.5,1.72,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Tristan da Silva,Under,3.5,2.05,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Desmond Bane,Over,4.5,1.9,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Desmond Bane,Under,4.5,1.85,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Ja'Kobe Walter,Over,3.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Ja'Kobe Walter,Under,3.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Scottie Barnes,Over,7.5,2.05,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Scottie Barnes,Under,7.5,1.72,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Immanuel Quickley,Over,3.5,1.82,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Immanuel Quickley,Under,3.5,1.92,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Jakob Poeltl,Over,5.5,1.88,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Jakob Poeltl,Under,5.5,1.85,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Collin Murray-Boyles,Over,5.5,2.15,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Collin Murray-Boyles,Under,5.5,1.67,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Jamal Shead,Over,2.5,2.3,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Jamal Shead,Under,2.5,1.58,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Wendell Carter Jr,Over,7.5,1.78,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_rebounds,Wendell Carter Jr,Under,7.5,1.98,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,Anthony Black,Over,1.5,1.96,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,Anthony Black,Under,1.5,1.72,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,Desmond Bane,Over,2.5,1.68,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,Desmond Bane,Under,2.5,2.02,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,Ja'Kobe Walter,Over,2.5,2.05,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,Ja'Kobe Walter,Under,2.5,1.67,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,Tristan da Silva,Over,2.5,2.15,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,Tristan da Silva,Under,2.5,1.62,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,Immanuel Quickley,Over,2.5,2.05,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,Immanuel Quickley,Under,2.5,1.65,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,R.J. Barrett,Over,1.5,1.9,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,ladbrokes_au,player_threes,R.J. Barrett,Under,1.5,1.78,2026-10-30T23:34:02Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Scottie Barnes,Over,5.5,1.75,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Scottie Barnes,Under,5.5,2.0,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Franz Wagner,Over,6.5,2.1,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Franz Wagner,Under,6.5,1.68,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Desmond Bane,Over,3.5,1.88,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Desmond Bane,Under,3.5,1.85,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Jamal Shead,Over,4.5,1.75,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Jamal Shead,Under,4.5,2.0,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Anthony Black,Over,3.5,1.77,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Anthony Black,Under,3.5,1.98,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Immanuel Quickley,Over,5.5,1.73,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Immanuel Quickley,Under,5.5,2.02,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Jase Richardson,Over,2.5,2.3,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Jase Richardson,Under,2.5,1.58,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Wendell Carter Jr,Over,2.5,2.15,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Wendell Carter Jr,Under,2.5,1.64,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,R.J. Barrett,Over,3.5,1.94,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,R.J. Barrett,Under,3.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Jevon Carter,Over,2.5,2.3,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_assists,Jevon Carter,Under,2.5,1.58,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Jamal Shead,Over,7.5,1.92,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Jamal Shead,Under,7.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Jakob Poeltl,Over,6.5,1.83,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Jakob Poeltl,Under,6.5,1.91,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Tristan da Silva,Over,11.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Tristan da Silva,Under,11.5,1.92,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Scottie Barnes,Over,21.5,1.85,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Scottie Barnes,Under,21.5,1.9,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Desmond Bane,Over,19.5,1.87,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Desmond Bane,Under,19.5,1.87,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Wendell Carter Jr,Over,10.5,1.85,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Wendell Carter Jr,Under,10.5,1.88,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Ja'Kobe Walter,Over,12.5,1.92,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Ja'Kobe Walter,Under,12.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Anthony Black,Over,14.5,1.92,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Anthony Black,Under,14.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Immanuel Quickley,Over,17.5,1.91,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Immanuel Quickley,Under,17.5,1.83,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Jevon Carter,Over,4.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Jevon Carter,Under,4.5,1.94,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Collin Murray-Boyles,Over,9.5,1.92,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Collin Murray-Boyles,Under,9.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,R.J. Barrett,Over,22.5,1.88,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,R.J. Barrett,Under,22.5,1.85,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Franz Wagner,Over,22.5,1.92,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Franz Wagner,Under,22.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Jase Richardson,Over,8.5,1.85,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points,Jase Richardson,Under,8.5,1.9,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Franz Wagner,Over,34.5,1.83,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Franz Wagner,Under,34.5,1.91,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Desmond Bane,Over,27.5,1.78,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Desmond Bane,Under,27.5,1.96,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Jamal Shead,Over,14.5,1.83,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Jamal Shead,Under,14.5,1.9,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Wendell Carter Jr,Over,20.5,1.77,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Wendell Carter Jr,Under,20.5,1.98,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Anthony Black,Over,21.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Anthony Black,Under,21.5,1.92,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,R.J. Barrett,Over,31.5,1.85,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,R.J. Barrett,Under,31.5,1.9,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Scottie Barnes,Over,34.5,1.78,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Scottie Barnes,Under,34.5,1.96,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Immanuel Quickley,Over,26.5,1.75,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_points_rebounds_assists,Immanuel Quickley,Under,26.5,2.0,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Anthony Black,Over,3.5,1.94,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Anthony Black,Under,3.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Franz Wagner,Over,6.5,2.15,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Franz Wagner,Under,6.5,1.67,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,R.J. Barrett,Over,5.5,1.85,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,R.J. Barrett,Under,5.5,1.88,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Tristan da Silva,Over,3.5,1.72,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Tristan da Silva,Under,3.5,2.05,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Desmond Bane,Over,4.5,1.9,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Desmond Bane,Under,4.5,1.85,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Ja'Kobe Walter,Over,3.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Ja'Kobe Walter,Under,3.5,1.92,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Scottie Barnes,Over,7.5,2.05,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Scottie Barnes,Under,7.5,1.72,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Immanuel Quickley,Over,3.5,1.82,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Immanuel Quickley,Under,3.5,1.92,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Jakob Poeltl,Over,5.5,1.88,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Jakob Poeltl,Under,5.5,1.85,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Collin Murray-Boyles,Over,5.5,2.15,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Collin Murray-Boyles,Under,5.5,1.67,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Jamal Shead,Over,2.5,2.3,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Jamal Shead,Under,2.5,1.58,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Wendell Carter Jr,Over,7.5,1.78,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_rebounds,Wendell Carter Jr,Under,7.5,1.98,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,Anthony Black,Over,1.5,1.96,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,Anthony Black,Under,1.5,1.72,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,Desmond Bane,Over,2.5,1.68,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,Desmond Bane,Under,2.5,2.02,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,Ja'Kobe Walter,Over,2.5,2.05,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,Ja'Kobe Walter,Under,2.5,1.67,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,Tristan da Silva,Over,2.5,2.15,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,Tristan da Silva,Under,2.5,1.62,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,Immanuel Quickley,Over,2.5,2.05,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,Immanuel Quickley,Under,2.5,1.65,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,R.J. Barrett,Over,1.5,1.9,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
+2026-10-31,10:40,Orlando Magic @ Toronto Raptors,neds,player_threes,R.J. Barrett,Under,1.5,1.78,2026-10-30T23:34:59Z,2026-10-30T23:35:04+00:00,4.9
