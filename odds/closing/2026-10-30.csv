@@ -890,3 +890,678 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,sportsbet,player_threes,Jaylon Tyson,Under,1.5,1.48,2026-10-30T00:04:37Z,2026-10-30T00:05:00+00:00,5.0
 2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,sportsbet,player_threes,Jock Landale,Over,0.5,1.8,2026-10-30T00:04:37Z,2026-10-30T00:05:00+00:00,5.0
 2026-10-30,11:10,Cleveland Cavaliers @ Atlanta Hawks,sportsbet,player_threes,Jock Landale,Under,0.5,1.96,2026-10-30T00:04:37Z,2026-10-30T00:05:00+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Darius Acuff Jr.,Over,4.5,1.74,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Darius Acuff Jr.,Under,4.5,2.05,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,De'Andre Hunter,Over,1.5,1.63,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Derik Queen,Over,3.5,2.0,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Derik Queen,Under,3.5,1.77,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Domantas Sabonis,Over,6.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Domantas Sabonis,Under,6.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Jeremiah Fears,Over,4.5,2.0,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Jeremiah Fears,Under,4.5,1.77,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Trey Murphy III,Over,3.5,2.0,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Trey Murphy III,Under,3.5,1.77,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Zach LaVine,Over,3.5,2.2,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Zach LaVine,Under,3.5,1.67,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Zion Williamson,Over,3.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_assists,Zion Williamson,Under,3.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Bennedict Mathurin,Over,12.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Bennedict Mathurin,Under,12.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Darius Acuff Jr.,Over,22.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Darius Acuff Jr.,Under,22.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,De'Andre Hunter,Over,12.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,De'Andre Hunter,Under,12.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Derik Queen,Over,11.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Derik Queen,Under,11.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Domantas Sabonis,Over,17.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Domantas Sabonis,Under,17.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Herb Jones,Over,7.5,1.95,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Herb Jones,Under,7.5,1.8,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Jeremiah Fears,Over,15.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Jeremiah Fears,Under,15.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Karlo Matkovic,Over,6.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Karlo Matkovic,Under,6.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Precious Achiuwa,Over,10.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Precious Achiuwa,Under,10.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Saddiq Bey,Over,12.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Saddiq Bey,Under,12.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Trey Murphy III,Over,19.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Trey Murphy III,Under,19.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Zach LaVine,Over,21.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Zach LaVine,Under,21.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Zion Williamson,Over,22.5,1.95,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points,Zion Williamson,Under,22.5,1.8,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Over,30.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Under,30.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,De'Andre Hunter,Over,19.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,De'Andre Hunter,Under,19.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Derik Queen,Over,22.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Derik Queen,Under,22.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Domantas Sabonis,Over,38.5,1.8,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Domantas Sabonis,Under,38.5,1.95,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Jeremiah Fears,Over,24.5,1.95,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Jeremiah Fears,Under,24.5,1.8,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Precious Achiuwa,Over,19.5,1.8,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Precious Achiuwa,Under,19.5,1.95,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Trey Murphy III,Over,28.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Trey Murphy III,Under,28.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Zach LaVine,Over,28.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Zach LaVine,Under,28.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Zion Williamson,Over,31.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_points_rebounds_assists,Zion Williamson,Under,31.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Bennedict Mathurin,Over,3.5,1.95,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Bennedict Mathurin,Under,3.5,1.8,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,De'Andre Hunter,Over,4.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,De'Andre Hunter,Under,4.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Derik Queen,Over,7.5,1.95,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Derik Queen,Under,7.5,1.8,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Domantas Sabonis,Over,14.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Domantas Sabonis,Under,14.5,1.87,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Jeremiah Fears,Over,3.5,1.77,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Jeremiah Fears,Under,3.5,2.0,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Karlo Matkovic,Over,5.5,2.05,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Karlo Matkovic,Under,5.5,1.74,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Precious Achiuwa,Over,7.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Precious Achiuwa,Under,7.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Saddiq Bey,Over,3.5,1.71,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Saddiq Bey,Under,3.5,2.1,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Trey Murphy III,Over,4.5,1.67,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Trey Murphy III,Under,4.5,2.2,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Zach LaVine,Over,3.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Zach LaVine,Under,3.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Zion Williamson,Over,5.5,2.15,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_rebounds,Zion Williamson,Under,5.5,1.69,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Zach LaVine,Over,2.5,1.77,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Zach LaVine,Under,2.5,2.0,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Domantas Sabonis,Over,0.5,4.75,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Domantas Sabonis,Under,0.5,1.17,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Darius Acuff Jr.,Over,2.5,2.0,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Darius Acuff Jr.,Under,2.5,1.77,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,De'Andre Hunter,Over,1.5,1.8,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,De'Andre Hunter,Under,1.5,1.95,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Zion Williamson,Over,0.5,3.1,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Zion Williamson,Under,0.5,1.36,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Trey Murphy III,Over,2.5,1.77,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Trey Murphy III,Under,2.5,2.0,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Jeremiah Fears,Over,1.5,2.3,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Jeremiah Fears,Under,1.5,1.59,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Precious Achiuwa,Over,0.5,2.85,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Precious Achiuwa,Under,0.5,1.4,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Bennedict Mathurin,Over,0.5,1.44,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Bennedict Mathurin,Under,0.5,2.65,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Saddiq Bey,Over,1.5,1.83,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,pointsbetau,player_threes,Saddiq Bey,Under,1.5,1.9,2026-10-30T00:04:34Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Darius Acuff Jr.,Over,4.5,1.6,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Darius Acuff Jr.,Under,4.5,2.2,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Domantas Sabonis,Over,6.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Domantas Sabonis,Under,6.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Zach LaVine,Over,3.5,2.15,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Zach LaVine,Under,3.5,1.64,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Jeremiah Fears,Over,4.5,2.15,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Jeremiah Fears,Under,4.5,1.64,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Zion Williamson,Over,3.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Zion Williamson,Under,3.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Trey Murphy III,Over,3.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Trey Murphy III,Under,3.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Derik Queen,Over,3.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_assists,Derik Queen,Under,3.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Zach LaVine,Over,21.5,1.83,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Zach LaVine,Under,21.5,1.93,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Precious Achiuwa,Over,10.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Precious Achiuwa,Under,10.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,De'Andre Hunter,Over,12.5,1.88,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,De'Andre Hunter,Under,12.5,1.88,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Domantas Sabonis,Over,17.5,1.89,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Domantas Sabonis,Under,17.5,1.87,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Darius Acuff Jr.,Over,22.5,1.86,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Darius Acuff Jr.,Under,22.5,1.89,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Trey Murphy III,Over,19.5,1.92,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Trey Murphy III,Under,19.5,1.84,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Zion Williamson,Over,21.5,1.76,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Zion Williamson,Under,21.5,2.02,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Jeremiah Fears,Over,16.5,2.0,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Jeremiah Fears,Under,16.5,1.78,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Derik Queen,Over,11.5,1.88,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Derik Queen,Under,11.5,1.88,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Bennedict Mathurin,Over,12.5,1.91,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Bennedict Mathurin,Under,12.5,1.85,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Herb Jones,Over,7.5,1.92,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Herb Jones,Under,7.5,1.84,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Saddiq Bey,Over,13.5,2.05,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Saddiq Bey,Under,13.5,1.74,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Karlo Matkovic,Over,6.5,1.78,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points,Karlo Matkovic,Under,6.5,2.0,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Over,31.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Under,31.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Zach LaVine,Over,28.5,1.85,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Zach LaVine,Under,28.5,1.91,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Domantas Sabonis,Over,39.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Domantas Sabonis,Under,39.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,De'Andre Hunter,Over,19.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,De'Andre Hunter,Under,19.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Precious Achiuwa,Over,19.5,1.84,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Precious Achiuwa,Under,19.5,1.92,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Zion Williamson,Over,31.5,1.9,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Zion Williamson,Under,31.5,1.86,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Trey Murphy III,Over,27.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Trey Murphy III,Under,27.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Jeremiah Fears,Over,24.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Jeremiah Fears,Under,24.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Derik Queen,Over,22.5,1.86,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Derik Queen,Under,22.5,1.9,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Saddiq Bey,Over,18.5,1.86,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_points_rebounds_assists,Saddiq Bey,Under,18.5,1.9,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Domantas Sabonis,Over,14.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Domantas Sabonis,Under,14.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,De'Andre Hunter,Over,4.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,De'Andre Hunter,Under,4.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Precious Achiuwa,Over,7.5,2.05,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Precious Achiuwa,Under,7.5,1.74,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Zach LaVine,Over,3.5,2.05,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Zach LaVine,Under,3.5,1.74,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Darius Acuff Jr.,Over,2.5,1.58,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Darius Acuff Jr.,Under,2.5,2.25,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Jeremiah Fears,Over,3.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Jeremiah Fears,Under,3.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Zion Williamson,Over,5.5,2.1,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Zion Williamson,Under,5.5,1.68,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Trey Murphy III,Over,4.5,1.68,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Trey Murphy III,Under,4.5,2.1,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Derik Queen,Over,7.5,2.1,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Derik Queen,Under,7.5,1.68,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Saddiq Bey,Over,3.5,1.78,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Saddiq Bey,Under,3.5,2.0,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Karlo Matkovic,Over,5.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Karlo Matkovic,Under,5.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Bennedict Mathurin,Over,3.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_rebounds,Bennedict Mathurin,Under,3.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,Darius Acuff Jr.,Over,2.5,2.05,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,Darius Acuff Jr.,Under,2.5,1.74,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,Zach LaVine,Over,2.5,1.8,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,Zach LaVine,Under,2.5,1.96,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,De'Andre Hunter,Over,1.5,1.91,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,De'Andre Hunter,Under,1.5,1.85,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,Jeremiah Fears,Over,1.5,2.08,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,Jeremiah Fears,Under,1.5,1.72,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,Trey Murphy III,Over,2.5,1.72,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,Trey Murphy III,Under,2.5,2.08,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,Saddiq Bey,Over,1.5,1.92,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,sportsbet,player_threes,Saddiq Bey,Under,1.5,1.84,2026-10-30T00:04:02Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_assists,Trey Murphy III,Over,3.5,1.96,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_assists,Trey Murphy III,Under,3.5,1.8,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_assists,Zach LaVine,Over,3.5,2.25,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_assists,Zach LaVine,Under,3.5,1.62,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_assists,Domantas Sabonis,Over,6.5,1.68,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_assists,Domantas Sabonis,Under,6.5,2.1,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_assists,Derik Queen,Over,3.5,1.96,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_assists,Derik Queen,Under,3.5,1.8,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_assists,Darius Acuff Jr.,Over,5.5,1.98,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_assists,Darius Acuff Jr.,Under,5.5,1.77,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Precious Achiuwa,Over,10.5,1.82,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Precious Achiuwa,Under,10.5,1.95,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Zion Williamson,Over,21.5,1.86,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Zion Williamson,Under,21.5,1.9,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Darius Acuff Jr.,Over,22.5,1.91,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Darius Acuff Jr.,Under,22.5,1.85,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Zach LaVine,Over,21.5,1.8,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Zach LaVine,Under,21.5,1.96,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,De'Andre Hunter,Over,11.5,1.78,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,De'Andre Hunter,Under,11.5,1.98,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Domantas Sabonis,Over,17.5,1.83,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Domantas Sabonis,Under,17.5,1.92,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Derik Queen,Over,11.5,1.94,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Derik Queen,Under,11.5,1.83,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Bennedict Mathurin,Over,12.5,1.88,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Bennedict Mathurin,Under,12.5,1.88,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Jeremiah Fears,Over,16.5,1.92,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Jeremiah Fears,Under,16.5,1.83,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Trey Murphy III,Over,19.5,1.85,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Trey Murphy III,Under,19.5,1.91,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Saddiq Bey,Over,12.5,1.88,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points,Saddiq Bey,Under,12.5,1.88,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Trey Murphy III,Over,19.5,1.1,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Trey Murphy III,Over,24.5,1.38,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Trey Murphy III,Over,29.5,2.1,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Trey Murphy III,Over,34.5,3.8,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Trey Murphy III,Over,39.5,8.0,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Zion Williamson,Over,19.5,1.05,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Zion Williamson,Over,24.5,1.24,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Zion Williamson,Over,29.5,1.7,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Zion Williamson,Over,34.5,2.9,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Zion Williamson,Over,39.5,5.5,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,19.5,1.04,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,24.5,1.2,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,29.5,1.65,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,34.5,2.75,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,39.5,5.25,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Zach LaVine,Over,19.5,1.09,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Zach LaVine,Over,24.5,1.35,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Zach LaVine,Over,29.5,2.05,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Zach LaVine,Over,34.5,3.75,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Zach LaVine,Over,39.5,7.5,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Domantas Sabonis,Over,29.5,1.08,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Domantas Sabonis,Over,34.5,1.32,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Domantas Sabonis,Over,39.5,1.92,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Domantas Sabonis,Over,44.5,3.3,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Domantas Sabonis,Over,49.5,6.5,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Jeremiah Fears,Over,14.5,1.04,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Jeremiah Fears,Over,19.5,1.24,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Jeremiah Fears,Over,24.5,1.88,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Jeremiah Fears,Over,29.5,3.6,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Jeremiah Fears,Over,34.5,8.5,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Derik Queen,Over,14.5,1.07,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Derik Queen,Over,19.5,1.42,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Derik Queen,Over,24.5,2.4,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_points_rebounds_assists,Derik Queen,Over,29.5,5.5,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,De'Andre Hunter,Over,4.5,1.75,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,De'Andre Hunter,Under,4.5,2.0,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Trey Murphy III,Over,4.5,1.65,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Trey Murphy III,Under,4.5,2.15,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Zion Williamson,Over,5.5,2.0,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Zion Williamson,Under,5.5,1.75,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Precious Achiuwa,Over,7.5,1.92,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Precious Achiuwa,Under,7.5,1.83,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Darius Acuff Jr.,Over,2.5,1.57,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Darius Acuff Jr.,Under,2.5,2.3,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Zach LaVine,Over,3.5,2.0,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Zach LaVine,Under,3.5,1.75,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Derik Queen,Over,7.5,2.0,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Derik Queen,Under,7.5,1.75,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Jeremiah Fears,Over,3.5,1.7,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Jeremiah Fears,Under,3.5,2.05,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Domantas Sabonis,Over,14.5,1.95,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Domantas Sabonis,Under,14.5,1.8,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Saddiq Bey,Over,3.5,1.7,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,betright,player_rebounds,Saddiq Bey,Under,3.5,2.1,2026-10-30T00:04:49Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Bennedict Mathurin,Over,2.5,2.6,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Bennedict Mathurin,Under,2.5,1.46,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Darius Acuff Jr.,Over,5.5,2.35,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Darius Acuff Jr.,Under,5.5,1.55,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,De'Andre Hunter,Over,1.5,1.65,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,De'Andre Hunter,Under,1.5,2.15,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Daeqwon Plowden,Over,0.5,1.58,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Daeqwon Plowden,Under,0.5,2.3,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Derik Queen,Over,3.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Derik Queen,Under,3.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Domantas Sabonis,Over,6.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Domantas Sabonis,Under,6.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Herb Jones,Over,2.5,1.65,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Herb Jones,Under,2.5,2.15,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Jeremiah Fears,Over,4.5,2.0,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Jeremiah Fears,Under,4.5,1.75,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Karlo Matkovic,Over,1.5,2.05,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Karlo Matkovic,Under,1.5,1.72,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Precious Achiuwa,Over,1.5,2.2,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Precious Achiuwa,Under,1.5,1.62,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Saddiq Bey,Over,2.5,2.3,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Saddiq Bey,Under,2.5,1.58,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Trey Murphy III,Over,3.5,1.75,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Trey Murphy III,Under,3.5,2.0,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Zion Williamson,Over,3.5,1.87,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Zion Williamson,Under,3.5,1.87,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Zach LaVine,Over,3.5,2.15,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_assists,Zach LaVine,Under,3.5,1.65,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Bennedict Mathurin,Over,12.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Bennedict Mathurin,Under,12.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Darius Acuff Jr.,Over,22.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Darius Acuff Jr.,Under,22.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,De'Andre Hunter,Over,12.5,1.75,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,De'Andre Hunter,Under,12.5,2.0,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Daeqwon Plowden,Over,5.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Daeqwon Plowden,Under,5.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Derik Queen,Over,12.5,2.0,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Derik Queen,Under,12.5,1.75,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Domantas Sabonis,Over,18.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Domantas Sabonis,Under,18.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Herb Jones,Over,7.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Herb Jones,Under,7.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Jeremiah Fears,Over,17.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Jeremiah Fears,Under,17.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Karlo Matkovic,Over,7.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Karlo Matkovic,Under,7.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Precious Achiuwa,Over,11.5,2.0,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Precious Achiuwa,Under,11.5,1.75,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Saddiq Bey,Over,13.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Saddiq Bey,Under,13.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Trey Murphy III,Over,18.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Trey Murphy III,Under,18.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Zion Williamson,Over,22.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Zion Williamson,Under,22.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Zach LaVine,Over,21.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points,Zach LaVine,Under,21.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Bennedict Mathurin,Over,18.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Bennedict Mathurin,Under,18.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Darius Acuff Jr.,Over,30.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Darius Acuff Jr.,Under,30.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,De'Andre Hunter,Over,19.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,De'Andre Hunter,Under,19.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Daeqwon Plowden,Over,8.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Daeqwon Plowden,Under,8.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Derik Queen,Over,23.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Derik Queen,Under,23.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Domantas Sabonis,Over,38.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Domantas Sabonis,Under,38.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Herb Jones,Over,13.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Herb Jones,Under,13.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Jeremiah Fears,Over,25.5,1.87,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Jeremiah Fears,Under,25.5,1.87,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Karlo Matkovic,Over,14.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Karlo Matkovic,Under,14.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Precious Achiuwa,Over,20.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Precious Achiuwa,Under,20.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Saddiq Bey,Over,19.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Saddiq Bey,Under,19.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Trey Murphy III,Over,28.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Trey Murphy III,Under,28.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Zion Williamson,Over,31.5,1.87,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Zion Williamson,Under,31.5,1.87,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Zach LaVine,Over,28.5,1.87,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_points_rebounds_assists,Zach LaVine,Under,28.5,1.87,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Bennedict Mathurin,Over,3.5,2.05,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Bennedict Mathurin,Under,3.5,1.72,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Darius Acuff Jr.,Over,3.5,2.55,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Darius Acuff Jr.,Under,3.5,1.48,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,De'Andre Hunter,Over,4.5,1.87,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,De'Andre Hunter,Under,4.5,1.87,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Daeqwon Plowden,Over,2.5,2.6,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Daeqwon Plowden,Under,2.5,1.46,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Derik Queen,Over,7.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Derik Queen,Under,7.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Domantas Sabonis,Over,13.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Domantas Sabonis,Under,13.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Herb Jones,Over,3.5,2.45,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Herb Jones,Under,3.5,1.52,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Jeremiah Fears,Over,3.5,1.85,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Jeremiah Fears,Under,3.5,1.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Karlo Matkovic,Over,5.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Karlo Matkovic,Under,5.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Precious Achiuwa,Over,7.5,1.75,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Precious Achiuwa,Under,7.5,2.0,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Saddiq Bey,Over,4.5,2.4,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Saddiq Bey,Under,4.5,1.53,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Trey Murphy III,Over,5.5,2.1,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Trey Murphy III,Under,5.5,1.68,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Zion Williamson,Over,5.5,1.95,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Zion Williamson,Under,5.5,1.8,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Zach LaVine,Over,3.5,2.0,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_rebounds,Zach LaVine,Under,3.5,1.75,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Bennedict Mathurin,Over,1.5,3.3,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Bennedict Mathurin,Under,1.5,1.3,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Darius Acuff Jr.,Over,2.5,2.1,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Darius Acuff Jr.,Under,2.5,1.68,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,De'Andre Hunter,Over,1.5,1.72,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,De'Andre Hunter,Under,1.5,2.05,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Daeqwon Plowden,Over,1.5,3.2,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Daeqwon Plowden,Under,1.5,1.32,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Derik Queen,Over,0.5,2.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Derik Queen,Under,0.5,1.38,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Domantas Sabonis,Over,0.5,4.5,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Domantas Sabonis,Under,0.5,1.18,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Herb Jones,Over,1.5,2.55,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Herb Jones,Under,1.5,1.48,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Jeremiah Fears,Over,1.5,2.1,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Jeremiah Fears,Under,1.5,1.68,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Karlo Matkovic,Over,0.5,1.72,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Karlo Matkovic,Under,0.5,2.05,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Precious Achiuwa,Over,0.5,3.0,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Precious Achiuwa,Under,0.5,1.36,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Saddiq Bey,Over,1.5,1.68,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Saddiq Bey,Under,1.5,2.1,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Trey Murphy III,Over,3.5,2.5,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Trey Murphy III,Under,3.5,1.5,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Zion Williamson,Over,0.5,2.9,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Zion Williamson,Under,0.5,1.38,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Zach LaVine,Over,2.5,1.68,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,tab,player_threes,Zach LaVine,Under,2.5,2.1,2026-10-30T00:02:43Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Jeremiah Fears,Over,4.5,2.15,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Jeremiah Fears,Under,4.5,1.65,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Bennedict Mathurin,Over,2.5,2.25,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Bennedict Mathurin,Under,2.5,1.6,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Darius Acuff Jr.,Over,4.5,1.75,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Darius Acuff Jr.,Under,4.5,2.0,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Domantas Sabonis,Over,6.5,1.85,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Domantas Sabonis,Under,6.5,1.9,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Zion Williamson,Over,3.5,1.91,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Zion Williamson,Under,3.5,1.83,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Derik Queen,Over,3.5,2.1,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Derik Queen,Under,3.5,1.68,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Zach LaVine,Over,3.5,2.2,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Zach LaVine,Under,3.5,1.62,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Trey Murphy III,Over,3.5,1.98,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_assists,Trey Murphy III,Under,3.5,1.77,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Herb Jones,Over,7.5,1.88,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Herb Jones,Under,7.5,1.85,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Jeremiah Fears,Over,15.5,1.88,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Jeremiah Fears,Under,15.5,1.85,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Zion Williamson,Over,21.5,1.82,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Zion Williamson,Under,21.5,1.92,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Derik Queen,Over,11.5,1.85,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Derik Queen,Under,11.5,1.88,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Darius Acuff Jr.,Over,22.5,1.92,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Darius Acuff Jr.,Under,22.5,1.82,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Zach LaVine,Over,21.5,1.83,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Zach LaVine,Under,21.5,1.91,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,De'Andre Hunter,Over,12.5,1.95,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,De'Andre Hunter,Under,12.5,1.8,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Precious Achiuwa,Over,10.5,1.85,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Precious Achiuwa,Under,10.5,1.88,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Bennedict Mathurin,Over,12.5,1.95,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Bennedict Mathurin,Under,12.5,1.8,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Trey Murphy III,Over,19.5,1.87,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Trey Murphy III,Under,19.5,1.87,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Domantas Sabonis,Over,17.5,1.85,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points,Domantas Sabonis,Under,17.5,1.88,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Bennedict Mathurin,Over,17.5,1.64,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Bennedict Mathurin,Under,17.5,2.2,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Over,29.5,1.75,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Under,29.5,2.0,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Domantas Sabonis,Over,38.5,1.85,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Domantas Sabonis,Under,38.5,1.9,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Zion Williamson,Over,30.5,1.83,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Zion Williamson,Under,30.5,1.91,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Trey Murphy III,Over,27.5,1.78,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Trey Murphy III,Under,27.5,1.96,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Derik Queen,Over,21.5,1.7,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Derik Queen,Under,21.5,2.05,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.72,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Zach LaVine,Under,27.5,2.05,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Jeremiah Fears,Over,23.5,1.85,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_points_rebounds_assists,Jeremiah Fears,Under,23.5,1.9,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Trey Murphy III,Over,4.5,1.72,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Trey Murphy III,Under,4.5,2.05,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Domantas Sabonis,Over,14.5,1.98,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Domantas Sabonis,Under,14.5,1.77,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Derik Queen,Over,7.5,2.05,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Derik Queen,Under,7.5,1.7,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Jeremiah Fears,Over,3.5,1.82,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Jeremiah Fears,Under,3.5,1.94,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Zach LaVine,Over,3.5,2.15,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Zach LaVine,Under,3.5,1.65,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Bennedict Mathurin,Over,3.5,1.7,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Bennedict Mathurin,Under,3.5,2.1,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Precious Achiuwa,Over,7.5,1.96,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Precious Achiuwa,Under,7.5,1.78,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Zion Williamson,Over,5.5,2.05,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Zion Williamson,Under,5.5,1.7,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Over,2.5,1.7,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Under,2.5,2.05,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,De'Andre Hunter,Over,4.5,1.83,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_rebounds,De'Andre Hunter,Under,4.5,1.9,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_threes,Darius Acuff Jr.,Over,2.5,2.02,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_threes,Darius Acuff Jr.,Under,2.5,1.68,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_threes,Zach LaVine,Over,2.5,1.73,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_threes,Zach LaVine,Under,2.5,1.95,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_threes,De'Andre Hunter,Over,1.5,1.95,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_threes,De'Andre Hunter,Under,1.5,1.73,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_threes,Trey Murphy III,Over,2.5,1.73,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,ladbrokes_au,player_threes,Trey Murphy III,Under,2.5,1.96,2026-10-30T00:04:33Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Jeremiah Fears,Over,4.5,2.15,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Jeremiah Fears,Under,4.5,1.65,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Bennedict Mathurin,Over,2.5,2.25,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Bennedict Mathurin,Under,2.5,1.6,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Darius Acuff Jr.,Over,4.5,1.75,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Darius Acuff Jr.,Under,4.5,2.0,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Domantas Sabonis,Over,6.5,1.85,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Domantas Sabonis,Under,6.5,1.9,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Zion Williamson,Over,3.5,1.91,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Zion Williamson,Under,3.5,1.83,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Derik Queen,Over,3.5,2.1,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Derik Queen,Under,3.5,1.68,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Zach LaVine,Over,3.5,2.2,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Zach LaVine,Under,3.5,1.62,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Trey Murphy III,Over,3.5,1.98,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_assists,Trey Murphy III,Under,3.5,1.77,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Herb Jones,Over,7.5,1.88,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Herb Jones,Under,7.5,1.85,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Jeremiah Fears,Over,15.5,1.88,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Jeremiah Fears,Under,15.5,1.85,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Zion Williamson,Over,21.5,1.82,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Zion Williamson,Under,21.5,1.92,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Derik Queen,Over,11.5,1.85,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Derik Queen,Under,11.5,1.88,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Darius Acuff Jr.,Over,22.5,1.92,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Darius Acuff Jr.,Under,22.5,1.82,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Zach LaVine,Over,21.5,1.83,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Zach LaVine,Under,21.5,1.91,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,De'Andre Hunter,Over,12.5,1.95,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,De'Andre Hunter,Under,12.5,1.8,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Precious Achiuwa,Over,10.5,1.85,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Precious Achiuwa,Under,10.5,1.88,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Bennedict Mathurin,Over,12.5,1.95,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Bennedict Mathurin,Under,12.5,1.8,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Trey Murphy III,Over,19.5,1.87,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Trey Murphy III,Under,19.5,1.87,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Domantas Sabonis,Over,17.5,1.85,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points,Domantas Sabonis,Under,17.5,1.88,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Bennedict Mathurin,Over,17.5,1.64,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Bennedict Mathurin,Under,17.5,2.2,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Darius Acuff Jr.,Over,29.5,1.75,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Darius Acuff Jr.,Under,29.5,2.0,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Domantas Sabonis,Over,38.5,1.85,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Domantas Sabonis,Under,38.5,1.9,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Zion Williamson,Over,30.5,1.83,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Zion Williamson,Under,30.5,1.91,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Trey Murphy III,Over,27.5,1.78,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Trey Murphy III,Under,27.5,1.96,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Derik Queen,Over,21.5,1.7,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Derik Queen,Under,21.5,2.05,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.72,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Zach LaVine,Under,27.5,2.05,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Jeremiah Fears,Over,23.5,1.85,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_points_rebounds_assists,Jeremiah Fears,Under,23.5,1.9,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Trey Murphy III,Over,4.5,1.72,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Trey Murphy III,Under,4.5,2.05,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Domantas Sabonis,Over,14.5,1.98,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Domantas Sabonis,Under,14.5,1.77,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Derik Queen,Over,7.5,2.05,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Derik Queen,Under,7.5,1.7,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Jeremiah Fears,Over,3.5,1.82,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Jeremiah Fears,Under,3.5,1.94,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Zach LaVine,Over,3.5,2.15,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Zach LaVine,Under,3.5,1.65,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Bennedict Mathurin,Over,3.5,1.7,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Bennedict Mathurin,Under,3.5,2.1,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Precious Achiuwa,Over,7.5,1.96,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Precious Achiuwa,Under,7.5,1.78,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Zion Williamson,Over,5.5,2.05,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Zion Williamson,Under,5.5,1.7,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Darius Acuff Jr.,Over,2.5,1.7,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,Darius Acuff Jr.,Under,2.5,2.05,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,De'Andre Hunter,Over,4.5,1.83,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_rebounds,De'Andre Hunter,Under,4.5,1.9,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_threes,Darius Acuff Jr.,Over,2.5,2.02,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_threes,Darius Acuff Jr.,Under,2.5,1.68,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_threes,Zach LaVine,Over,2.5,1.73,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_threes,Zach LaVine,Under,2.5,1.95,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_threes,De'Andre Hunter,Over,1.5,1.95,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_threes,De'Andre Hunter,Under,1.5,1.73,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_threes,Trey Murphy III,Over,2.5,1.73,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,neds,player_threes,Trey Murphy III,Under,2.5,1.96,2026-10-30T00:04:10Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Domantas Sabonis,Over,6.5,1.8,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Domantas Sabonis,Under,6.5,1.93,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Jeremiah Fears,Over,3.5,1.68,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Jeremiah Fears,Under,3.5,2.1,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Darius Acuff Jr.,Over,4.5,1.71,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Darius Acuff Jr.,Under,4.5,2.06,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Zach LaVine,Over,3.5,2.28,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Zach LaVine,Under,3.5,1.57,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Trey Murphy III,Over,3.5,1.85,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Trey Murphy III,Under,3.5,1.89,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Derik Queen,Over,3.5,2.05,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Derik Queen,Under,3.5,1.72,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Zion Williamson,Over,3.5,1.81,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_assists,Zion Williamson,Under,3.5,1.93,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Zach LaVine,Over,21.5,1.92,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Zach LaVine,Under,21.5,1.83,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Darius Acuff Jr.,Over,21.5,1.79,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Darius Acuff Jr.,Under,21.5,1.95,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Bennedict Mathurin,Over,11.5,1.91,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Bennedict Mathurin,Under,11.5,1.83,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Precious Achiuwa,Over,10.5,1.88,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Precious Achiuwa,Under,10.5,1.85,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,De'Andre Hunter,Over,11.5,1.83,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,De'Andre Hunter,Under,11.5,1.91,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Domantas Sabonis,Over,18.5,1.97,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Domantas Sabonis,Under,18.5,1.77,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Saddiq Bey,Over,12.5,1.85,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Saddiq Bey,Under,12.5,1.88,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Derik Queen,Over,11.5,1.85,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Derik Queen,Under,11.5,1.88,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Jeremiah Fears,Over,15.5,1.88,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Jeremiah Fears,Under,15.5,1.85,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Zion Williamson,Over,22.5,1.96,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Zion Williamson,Under,22.5,1.78,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Karlo Matkovic,Over,6.5,1.87,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Karlo Matkovic,Under,6.5,1.87,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Herb Jones,Over,6.5,1.75,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Herb Jones,Under,6.5,2.0,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Trey Murphy III,Over,19.5,1.89,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points,Trey Murphy III,Under,19.5,1.83,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Zach LaVine,Over,28.5,1.97,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Zach LaVine,Under,28.5,1.77,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Over,30.5,1.93,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Under,30.5,1.81,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Derik Queen,Over,22.5,1.87,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Derik Queen,Under,22.5,1.87,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Jeremiah Fears,Over,23.5,1.89,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Jeremiah Fears,Under,23.5,1.83,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Zion Williamson,Over,31.5,1.89,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Zion Williamson,Under,31.5,1.83,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Trey Murphy III,Over,28.5,1.91,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Trey Murphy III,Under,28.5,1.83,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Domantas Sabonis,Over,40.5,1.96,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_points_rebounds_assists,Domantas Sabonis,Under,40.5,1.78,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Zion Williamson,Over,5.5,2.05,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Zion Williamson,Under,5.5,1.72,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Trey Murphy III,Over,4.5,1.68,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Trey Murphy III,Under,4.5,2.1,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Domantas Sabonis,Over,14.5,1.83,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Domantas Sabonis,Under,14.5,1.89,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,De'Andre Hunter,Over,4.5,1.79,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,De'Andre Hunter,Under,4.5,1.94,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Jeremiah Fears,Over,3.5,1.83,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Jeremiah Fears,Under,3.5,1.91,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Saddiq Bey,Over,3.5,1.67,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Saddiq Bey,Under,3.5,2.12,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Zach LaVine,Over,3.5,2.15,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Zach LaVine,Under,3.5,1.65,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Darius Acuff Jr.,Over,2.5,1.68,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Darius Acuff Jr.,Under,2.5,2.12,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Precious Achiuwa,Over,7.5,1.82,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Precious Achiuwa,Under,7.5,1.92,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Derik Queen,Over,7.5,2.0,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Derik Queen,Under,7.5,1.74,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Karlo Matkovic,Over,5.5,2.07,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_rebounds,Karlo Matkovic,Under,5.5,1.71,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,Saddiq Bey,Over,1.5,2.0,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,Saddiq Bey,Under,1.5,1.75,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,Jeremiah Fears,Over,1.5,2.35,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,Jeremiah Fears,Under,1.5,1.55,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,De'Andre Hunter,Over,1.5,1.88,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,De'Andre Hunter,Under,1.5,1.85,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,Darius Acuff Jr.,Over,2.5,1.93,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,Darius Acuff Jr.,Under,2.5,1.81,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,Zach LaVine,Over,2.5,1.71,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,Zach LaVine,Under,2.5,2.07,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,Trey Murphy III,Over,2.5,1.71,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
+2026-10-30,11:10,Sacramento Kings @ New Orleans Pelicans,unibet,player_threes,Trey Murphy III,Under,2.5,2.05,2026-10-30T00:03:58Z,2026-10-30T00:05:01+00:00,5.0
