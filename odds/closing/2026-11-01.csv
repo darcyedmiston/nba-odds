@@ -726,3 +726,628 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-01,11:10,Cleveland Cavaliers @ Milwaukee Bucks,pointsbetau,player_threes,Peyton Watson,Under,1.5,1.69,2026-11-01T00:04:25Z,2026-11-01T00:05:00+00:00,5.0
 2026-11-01,11:10,Cleveland Cavaliers @ Milwaukee Bucks,pointsbetau,player_threes,Sam Merrill,Over,1.5,1.57,2026-11-01T00:04:25Z,2026-11-01T00:05:00+00:00,5.0
 2026-11-01,11:10,Cleveland Cavaliers @ Milwaukee Bucks,pointsbetau,player_threes,Sam Merrill,Under,1.5,2.35,2026-11-01T00:04:25Z,2026-11-01T00:05:00+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Darius Acuff Jr.,Over,5.5,1.72,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Darius Acuff Jr.,Under,5.5,2.08,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Zach LaVine,Over,3.5,2.4,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Zach LaVine,Under,3.5,1.52,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Domantas Sabonis,Over,6.5,2.1,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Domantas Sabonis,Under,6.5,1.68,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Cedric Coward,Over,3.5,2.25,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Cedric Coward,Under,3.5,1.58,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Cameron Boozer,Over,5.5,1.74,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Cameron Boozer,Under,5.5,2.05,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Cam Spencer,Over,6.5,1.83,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Cam Spencer,Under,6.5,1.93,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Jaylen Wells,Over,1.5,2.02,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_assists,Jaylen Wells,Under,1.5,1.76,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Darius Acuff Jr.,Over,23.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Darius Acuff Jr.,Under,23.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,De'Andre Hunter,Over,12.5,1.92,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,De'Andre Hunter,Under,12.5,1.85,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Zach LaVine,Over,21.5,1.88,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Zach LaVine,Under,21.5,1.88,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Precious Achiuwa,Over,12.5,1.93,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Precious Achiuwa,Under,12.5,1.83,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Domantas Sabonis,Over,15.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Domantas Sabonis,Under,15.5,1.93,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Zach Edey,Over,8.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Zach Edey,Under,8.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Cameron Boozer,Over,18.5,1.91,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Cameron Boozer,Under,18.5,1.85,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Cedric Coward,Over,16.5,1.87,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Cedric Coward,Under,16.5,1.89,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Jaylen Wells,Over,13.5,1.78,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Jaylen Wells,Under,13.5,2.0,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Isaiah Stewart,Over,7.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Isaiah Stewart,Under,7.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Cam Spencer,Over,11.5,1.78,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Cam Spencer,Under,11.5,2.0,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Jerami Grant,Over,10.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points,Jerami Grant,Under,10.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Over,32.5,1.86,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Under,32.5,1.9,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Zach LaVine,Over,28.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Zach LaVine,Under,28.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Domantas Sabonis,Over,36.5,1.9,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Domantas Sabonis,Under,36.5,1.86,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Cameron Boozer,Over,33.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Cameron Boozer,Under,33.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Cedric Coward,Over,26.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Cedric Coward,Under,26.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Cam Spencer,Over,23.5,1.89,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Cam Spencer,Under,23.5,1.87,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Jaylen Wells,Over,18.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_points_rebounds_assists,Jaylen Wells,Under,18.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,De'Andre Hunter,Over,4.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,De'Andre Hunter,Under,4.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Precious Achiuwa,Over,7.5,1.93,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Precious Achiuwa,Under,7.5,1.83,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Domantas Sabonis,Over,13.5,1.72,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Domantas Sabonis,Under,13.5,2.08,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Zach LaVine,Over,3.5,2.25,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Zach LaVine,Under,3.5,1.58,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Darius Acuff Jr.,Over,3.5,2.08,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Darius Acuff Jr.,Under,3.5,1.72,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Jaylen Wells,Over,3.5,2.4,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Jaylen Wells,Under,3.5,1.52,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Cedric Coward,Over,6.5,2.08,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Cedric Coward,Under,6.5,1.72,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Cameron Boozer,Over,8.5,2.02,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Cameron Boozer,Under,8.5,1.76,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Zach Edey,Over,8.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Zach Edey,Under,8.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Isaiah Stewart,Over,4.5,2.2,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Isaiah Stewart,Under,4.5,1.6,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Cam Spencer,Over,3.5,1.68,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_rebounds,Cam Spencer,Under,3.5,2.1,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Darius Acuff Jr.,Over,2.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Darius Acuff Jr.,Under,2.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Zach LaVine,Over,2.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Zach LaVine,Under,2.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,De'Andre Hunter,Over,1.5,1.72,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,De'Andre Hunter,Under,1.5,2.08,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Cedric Coward,Over,1.5,1.8,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Cedric Coward,Under,1.5,1.96,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Jaylen Wells,Over,1.5,1.68,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Jaylen Wells,Under,1.5,2.1,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Cameron Boozer,Over,1.5,1.74,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Cameron Boozer,Under,1.5,2.05,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Cam Spencer,Over,2.5,2.6,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Cam Spencer,Under,2.5,1.45,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Jerami Grant,Over,1.5,1.88,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,sportsbet,player_threes,Jerami Grant,Under,1.5,1.88,2026-11-01T00:04:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Cameron Boozer,Over,6.5,2.3,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Cameron Boozer,Under,6.5,1.58,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Cam Spencer,Over,6.5,2.0,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Cam Spencer,Under,6.5,1.75,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Cedric Coward,Over,3.5,2.3,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Cedric Coward,Under,3.5,1.58,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Darius Acuff Jr.,Over,6.5,2.3,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Darius Acuff Jr.,Under,6.5,1.58,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,De'Andre Hunter,Over,1.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,De'Andre Hunter,Under,1.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Domantas Sabonis,Over,6.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Domantas Sabonis,Under,6.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Jerami Grant,Over,2.5,2.5,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Jerami Grant,Under,2.5,1.5,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Jaylen Wells,Over,1.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Jaylen Wells,Under,1.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Precious Achiuwa,Over,1.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Precious Achiuwa,Under,1.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Zach Edey,Over,1.5,3.2,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Zach Edey,Under,1.5,1.32,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Zach LaVine,Over,3.5,2.4,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_assists,Zach LaVine,Under,3.5,1.53,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Cameron Boozer,Over,18.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Cameron Boozer,Under,18.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Cam Spencer,Over,12.5,1.87,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Cam Spencer,Under,12.5,1.87,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Cedric Coward,Over,15.5,1.75,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Cedric Coward,Under,15.5,2.0,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Darius Acuff Jr.,Over,23.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Darius Acuff Jr.,Under,23.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,De'Andre Hunter,Over,12.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,De'Andre Hunter,Under,12.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Domantas Sabonis,Over,16.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Domantas Sabonis,Under,16.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Jerami Grant,Over,12.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Jerami Grant,Under,12.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Jaylen Wells,Over,14.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Jaylen Wells,Under,14.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Precious Achiuwa,Over,12.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Precious Achiuwa,Under,12.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Zach Edey,Over,9.5,2.0,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Zach Edey,Under,9.5,1.75,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Zach LaVine,Over,21.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points,Zach LaVine,Under,21.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Cameron Boozer,Over,32.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Cameron Boozer,Under,32.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Cam Spencer,Over,22.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Cam Spencer,Under,22.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Cedric Coward,Over,25.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Cedric Coward,Under,25.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Darius Acuff Jr.,Over,33.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Darius Acuff Jr.,Under,33.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,De'Andre Hunter,Over,19.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,De'Andre Hunter,Under,19.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Domantas Sabonis,Over,37.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Domantas Sabonis,Under,37.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Jerami Grant,Over,17.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Jerami Grant,Under,17.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Jaylen Wells,Over,19.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Jaylen Wells,Under,19.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Precious Achiuwa,Over,22.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Precious Achiuwa,Under,22.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Zach Edey,Over,18.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Zach Edey,Under,18.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Zach LaVine,Over,28.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_points_rebounds_assists,Zach LaVine,Under,28.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Cameron Boozer,Over,8.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Cameron Boozer,Under,8.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Cam Spencer,Over,3.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Cam Spencer,Under,3.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Cedric Coward,Over,6.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Cedric Coward,Under,6.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Darius Acuff Jr.,Over,3.5,2.1,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Darius Acuff Jr.,Under,3.5,1.68,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,De'Andre Hunter,Over,4.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,De'Andre Hunter,Under,4.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Domantas Sabonis,Over,14.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Domantas Sabonis,Under,14.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Jerami Grant,Over,2.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Jerami Grant,Under,2.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Jaylen Wells,Over,3.5,2.15,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Jaylen Wells,Under,3.5,1.65,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Precious Achiuwa,Over,7.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Precious Achiuwa,Under,7.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Zach Edey,Over,8.5,1.95,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Zach Edey,Under,8.5,1.8,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Zach LaVine,Over,3.5,2.35,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_rebounds,Zach LaVine,Under,3.5,1.55,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Cameron Boozer,Over,1.5,1.62,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Cameron Boozer,Under,1.5,2.2,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Cam Spencer,Over,1.5,1.6,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Cam Spencer,Under,1.5,2.25,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Cedric Coward,Over,1.5,1.72,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Cedric Coward,Under,1.5,2.05,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Darius Acuff Jr.,Over,2.5,1.9,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Darius Acuff Jr.,Under,2.5,1.85,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,De'Andre Hunter,Over,1.5,1.65,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,De'Andre Hunter,Under,1.5,2.15,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Domantas Sabonis,Over,0.5,5.2,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Domantas Sabonis,Under,0.5,1.14,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Jerami Grant,Over,1.5,1.75,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Jerami Grant,Under,1.5,2.0,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Jaylen Wells,Over,2.5,2.7,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Jaylen Wells,Under,2.5,1.44,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Precious Achiuwa,Over,0.5,2.5,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Precious Achiuwa,Under,0.5,1.5,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Zach LaVine,Over,2.5,1.65,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,tab,player_threes,Zach LaVine,Under,2.5,2.15,2026-11-01T00:02:50Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Darius Acuff Jr.,Over,5.5,1.73,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Darius Acuff Jr.,Under,5.5,2.05,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Zach LaVine,Over,2.5,1.55,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Zach LaVine,Under,2.5,2.38,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Domantas Sabonis,Over,6.5,2.0,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Domantas Sabonis,Under,6.5,1.75,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Cedric Coward,Over,3.5,2.2,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Cedric Coward,Under,3.5,1.62,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Cam Spencer,Over,6.5,1.78,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Cam Spencer,Under,6.5,2.0,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Cameron Boozer,Over,6.5,2.15,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_assists,Cameron Boozer,Under,6.5,1.65,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Zach Edey,Over,8.5,1.83,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Zach Edey,Under,8.5,1.92,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Precious Achiuwa,Over,12.5,1.94,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Precious Achiuwa,Under,12.5,1.83,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,De'Andre Hunter,Over,12.5,1.92,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,De'Andre Hunter,Under,12.5,1.85,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Zach LaVine,Over,21.5,1.82,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Zach LaVine,Under,21.5,1.95,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Domantas Sabonis,Over,15.5,1.86,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Domantas Sabonis,Under,15.5,1.9,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Darius Acuff Jr.,Over,23.5,1.92,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Darius Acuff Jr.,Under,23.5,1.83,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Cedric Coward,Over,16.5,1.86,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Cedric Coward,Under,16.5,1.88,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Cameron Boozer,Over,18.5,1.93,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Cameron Boozer,Under,18.5,1.82,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Cam Spencer,Over,11.5,1.78,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Cam Spencer,Under,11.5,2.0,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Jaylen Wells,Over,14.5,2.0,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points,Jaylen Wells,Under,14.5,1.75,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cameron Boozer,Over,24.5,1.11,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cameron Boozer,Over,29.5,1.38,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cameron Boozer,Over,34.5,2.15,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cameron Boozer,Over,39.5,4.1,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cameron Boozer,Over,44.5,8.5,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cedric Coward,Over,14.5,1.02,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cedric Coward,Over,19.5,1.15,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cedric Coward,Over,24.5,1.57,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cedric Coward,Over,29.5,2.75,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cedric Coward,Over,34.5,6.0,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,19.5,1.02,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,24.5,1.13,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,29.5,1.45,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,34.5,2.25,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,39.5,4.1,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Zach LaVine,Over,19.5,1.09,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Zach LaVine,Over,24.5,1.38,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Zach LaVine,Over,29.5,2.1,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Zach LaVine,Over,34.5,3.9,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Zach LaVine,Over,39.5,8.0,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Domantas Sabonis,Over,24.5,1.03,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Domantas Sabonis,Over,29.5,1.17,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Domantas Sabonis,Over,34.5,1.57,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Domantas Sabonis,Over,39.5,2.5,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Domantas Sabonis,Over,44.5,5.0,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cam Spencer,Over,14.5,1.07,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cam Spencer,Over,19.5,1.38,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cam Spencer,Over,24.5,2.25,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_points_rebounds_assists,Cam Spencer,Over,29.5,4.75,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Cameron Boozer,Over,8.5,2.05,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Cameron Boozer,Under,8.5,1.7,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Cedric Coward,Over,6.5,2.1,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Cedric Coward,Under,6.5,1.7,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,De'Andre Hunter,Over,4.5,1.85,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,De'Andre Hunter,Under,4.5,1.91,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Zach Edey,Over,8.5,1.92,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Zach Edey,Under,8.5,1.83,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Jaylen Wells,Over,3.5,2.3,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Jaylen Wells,Under,3.5,1.57,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Precious Achiuwa,Over,7.5,1.92,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Precious Achiuwa,Under,7.5,1.83,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Darius Acuff Jr.,Over,3.5,2.05,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Darius Acuff Jr.,Under,3.5,1.7,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Zach LaVine,Over,3.5,2.2,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Zach LaVine,Under,3.5,1.62,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Domantas Sabonis,Over,14.5,1.96,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Domantas Sabonis,Under,14.5,1.8,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Cam Spencer,Over,3.5,1.68,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,betright,player_rebounds,Cam Spencer,Under,3.5,2.1,2026-11-01T00:04:53Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Cam Spencer,Over,6.5,1.77,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Cam Spencer,Under,6.5,2.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Cameron Boozer,Over,5.5,1.71,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Cameron Boozer,Under,5.5,2.1,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Cedric Coward,Over,3.5,2.3,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Cedric Coward,Under,3.5,1.59,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Darius Acuff Jr.,Over,5.5,1.74,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Darius Acuff Jr.,Under,5.5,2.05,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,De'Andre Hunter,Over,1.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,De'Andre Hunter,Under,1.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Domantas Sabonis,Over,6.5,2.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Domantas Sabonis,Under,6.5,1.77,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Precious Achiuwa,Over,1.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Precious Achiuwa,Under,1.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Zach Edey,Over,1.5,2.45,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Zach Edey,Under,1.5,1.53,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Zach LaVine,Over,3.5,2.3,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_assists,Zach LaVine,Under,3.5,1.59,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Cam Spencer,Over,12.5,2.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Cam Spencer,Under,12.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Cameron Boozer,Over,18.5,2.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Cameron Boozer,Under,18.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Cedric Coward,Over,16.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Cedric Coward,Under,16.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Darius Acuff Jr.,Over,23.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Darius Acuff Jr.,Under,23.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,De'Andre Hunter,Over,12.5,2.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,De'Andre Hunter,Under,12.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Domantas Sabonis,Over,15.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Domantas Sabonis,Under,15.5,2.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Isaiah Stewart,Over,7.5,2.05,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Isaiah Stewart,Under,7.5,1.8,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Jaylen Wells,Over,14.5,2.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Jaylen Wells,Under,14.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Jerami Grant,Over,10.5,1.8,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Jerami Grant,Under,10.5,2.05,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Precious Achiuwa,Over,12.5,1.95,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Precious Achiuwa,Under,12.5,1.87,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Zach LaVine,Over,21.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points,Zach LaVine,Under,21.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Cam Spencer,Over,22.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Cam Spencer,Under,22.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Cameron Boozer,Over,32.5,1.95,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Cameron Boozer,Under,32.5,1.8,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Cedric Coward,Over,25.5,1.8,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Cedric Coward,Under,25.5,1.95,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Over,33.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Under,33.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,De'Andre Hunter,Over,18.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,De'Andre Hunter,Under,18.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Domantas Sabonis,Over,36.5,1.87,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Domantas Sabonis,Under,36.5,1.87,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Jaylen Wells,Over,19.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Jaylen Wells,Under,19.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Precious Achiuwa,Over,21.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Precious Achiuwa,Under,21.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.8,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.95,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Cam Spencer,Over,3.5,1.74,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Cam Spencer,Under,3.5,2.05,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Cameron Boozer,Over,7.5,1.8,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Cameron Boozer,Under,7.5,1.95,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Cedric Coward,Over,6.5,2.15,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Cedric Coward,Under,6.5,1.69,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Darius Acuff Jr.,Over,3.5,2.1,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Darius Acuff Jr.,Under,3.5,1.71,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,De'Andre Hunter,Over,4.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,De'Andre Hunter,Under,4.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Domantas Sabonis,Over,14.5,2.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Domantas Sabonis,Under,14.5,1.77,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Isaiah Stewart,Over,3.5,1.87,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Isaiah Stewart,Under,3.5,1.87,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Jaylen Wells,Over,3.5,2.3,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Jaylen Wells,Under,3.5,1.59,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Precious Achiuwa,Over,7.5,1.95,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Precious Achiuwa,Under,7.5,1.8,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Zach Edey,Over,8.5,2.05,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Zach Edey,Under,8.5,1.74,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Zach LaVine,Over,3.5,2.2,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_rebounds,Zach LaVine,Under,3.5,1.67,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Zach LaVine,Over,2.5,1.83,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Zach LaVine,Under,2.5,1.9,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Domantas Sabonis,Over,0.5,4.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Domantas Sabonis,Under,0.5,1.24,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,De'Andre Hunter,Over,1.5,1.71,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,De'Andre Hunter,Under,1.5,2.1,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Precious Achiuwa,Over,0.5,3.2,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Precious Achiuwa,Under,0.5,1.33,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Darius Acuff Jr.,Over,2.5,2.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Darius Acuff Jr.,Under,2.5,1.77,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Jaylen Wells,Over,1.5,1.69,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Jaylen Wells,Under,1.5,2.15,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Cedric Coward,Over,1.5,1.77,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Cedric Coward,Under,1.5,2.0,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Zach Edey,Over,0.5,2.75,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Zach Edey,Under,0.5,1.42,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Cameron Boozer,Over,1.5,1.71,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Cameron Boozer,Under,1.5,2.1,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Cam Spencer,Over,1.5,1.5,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Cam Spencer,Under,1.5,2.5,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Jerami Grant,Over,1.5,1.87,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,pointsbetau,player_threes,Jerami Grant,Under,1.5,1.87,2026-11-01T00:04:36Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Zach LaVine,Over,3.5,2.25,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Zach LaVine,Under,3.5,1.6,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Darius Acuff Jr.,Over,5.5,1.75,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Darius Acuff Jr.,Under,5.5,2.0,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Cameron Boozer,Over,5.5,1.75,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Cameron Boozer,Under,5.5,2.0,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Domantas Sabonis,Over,6.5,2.05,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Domantas Sabonis,Under,6.5,1.72,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Cam Spencer,Over,6.5,1.87,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Cam Spencer,Under,6.5,1.87,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Cedric Coward,Over,3.5,2.25,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_assists,Cedric Coward,Under,3.5,1.6,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Cam Spencer,Over,11.5,1.82,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Cam Spencer,Under,11.5,1.92,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Zach LaVine,Over,21.5,1.87,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Zach LaVine,Under,21.5,1.87,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,De'Andre Hunter,Over,12.5,1.87,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,De'Andre Hunter,Under,12.5,1.87,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Cameron Boozer,Over,17.5,1.82,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Cameron Boozer,Under,17.5,1.92,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Precious Achiuwa,Over,12.5,1.85,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Precious Achiuwa,Under,12.5,1.88,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Darius Acuff Jr.,Over,23.5,1.88,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Darius Acuff Jr.,Under,23.5,1.85,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Zach Edey,Over,8.5,1.82,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Zach Edey,Under,8.5,1.92,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Cedric Coward,Over,16.5,1.9,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Cedric Coward,Under,16.5,1.85,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Isaiah Stewart,Over,7.5,1.88,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Isaiah Stewart,Under,7.5,1.85,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Jaylen Wells,Over,13.5,1.83,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Jaylen Wells,Under,13.5,1.91,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Domantas Sabonis,Over,15.5,1.83,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points,Domantas Sabonis,Under,15.5,1.91,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.78,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.98,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Darius Acuff Jr.,Over,32.5,1.8,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Darius Acuff Jr.,Under,32.5,1.94,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Cam Spencer,Over,21.5,1.7,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Cam Spencer,Under,21.5,2.05,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Cameron Boozer,Over,31.5,1.77,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Cameron Boozer,Under,31.5,1.98,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Cedric Coward,Over,25.5,1.77,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Cedric Coward,Under,25.5,1.98,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Domantas Sabonis,Over,35.5,1.78,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_points_rebounds_assists,Domantas Sabonis,Under,35.5,1.96,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Isaiah Stewart,Over,3.5,1.75,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Isaiah Stewart,Under,3.5,2.0,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Cam Spencer,Over,3.5,1.72,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Cam Spencer,Under,3.5,2.05,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,De'Andre Hunter,Over,4.5,1.98,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,De'Andre Hunter,Under,4.5,1.78,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Zach Edey,Over,8.5,2.02,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Zach Edey,Under,8.5,1.73,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Domantas Sabonis,Over,13.5,1.77,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Domantas Sabonis,Under,13.5,1.98,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Jaylen Wells,Over,3.5,2.15,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Jaylen Wells,Under,3.5,1.65,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Cedric Coward,Over,6.5,2.05,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Cedric Coward,Under,6.5,1.72,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Cameron Boozer,Over,8.5,2.05,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Cameron Boozer,Under,8.5,1.72,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Zach LaVine,Over,3.5,2.2,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Zach LaVine,Under,3.5,1.62,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Darius Acuff Jr.,Over,3.5,2.1,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Darius Acuff Jr.,Under,3.5,1.7,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Precious Achiuwa,Over,7.5,1.94,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_rebounds,Precious Achiuwa,Under,7.5,1.8,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Jaylen Wells,Over,1.5,1.65,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Jaylen Wells,Under,1.5,2.05,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Cam Spencer,Over,1.5,1.6,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Cam Spencer,Under,1.5,2.15,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Darius Acuff Jr.,Over,2.5,1.98,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Darius Acuff Jr.,Under,2.5,1.7,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Zach LaVine,Over,2.5,1.88,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Zach LaVine,Under,2.5,1.8,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,De'Andre Hunter,Over,1.5,1.7,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,De'Andre Hunter,Under,1.5,2.0,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Cedric Coward,Over,1.5,1.88,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Cedric Coward,Under,1.5,1.8,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Cameron Boozer,Over,1.5,1.7,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,neds,player_threes,Cameron Boozer,Under,1.5,2.0,2026-11-01T00:04:28Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Zach LaVine,Over,3.5,2.25,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Zach LaVine,Under,3.5,1.6,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Darius Acuff Jr.,Over,5.5,1.75,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Darius Acuff Jr.,Under,5.5,2.0,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Cameron Boozer,Over,5.5,1.75,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Cameron Boozer,Under,5.5,2.0,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Domantas Sabonis,Over,6.5,2.05,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Domantas Sabonis,Under,6.5,1.72,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Cam Spencer,Over,6.5,1.87,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Cam Spencer,Under,6.5,1.87,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Cedric Coward,Over,3.5,2.25,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_assists,Cedric Coward,Under,3.5,1.6,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Cam Spencer,Over,11.5,1.82,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Cam Spencer,Under,11.5,1.92,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Zach LaVine,Over,21.5,1.87,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Zach LaVine,Under,21.5,1.87,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,De'Andre Hunter,Over,12.5,1.87,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,De'Andre Hunter,Under,12.5,1.87,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Cameron Boozer,Over,17.5,1.82,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Cameron Boozer,Under,17.5,1.92,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Precious Achiuwa,Over,12.5,1.85,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Precious Achiuwa,Under,12.5,1.88,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Darius Acuff Jr.,Over,23.5,1.88,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Darius Acuff Jr.,Under,23.5,1.85,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Zach Edey,Over,8.5,1.82,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Zach Edey,Under,8.5,1.92,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Cedric Coward,Over,16.5,1.9,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Cedric Coward,Under,16.5,1.85,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Isaiah Stewart,Over,7.5,1.88,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Isaiah Stewart,Under,7.5,1.85,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Jaylen Wells,Over,13.5,1.83,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Jaylen Wells,Under,13.5,1.91,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Domantas Sabonis,Over,15.5,1.83,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points,Domantas Sabonis,Under,15.5,1.91,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.78,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.98,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Over,32.5,1.8,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Under,32.5,1.94,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Cam Spencer,Over,21.5,1.7,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Cam Spencer,Under,21.5,2.05,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Cameron Boozer,Over,31.5,1.77,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Cameron Boozer,Under,31.5,1.98,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Cedric Coward,Over,25.5,1.77,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Cedric Coward,Under,25.5,1.98,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Domantas Sabonis,Over,35.5,1.78,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_points_rebounds_assists,Domantas Sabonis,Under,35.5,1.96,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Isaiah Stewart,Over,3.5,1.75,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Isaiah Stewart,Under,3.5,2.0,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Cam Spencer,Over,3.5,1.72,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Cam Spencer,Under,3.5,2.05,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,De'Andre Hunter,Over,4.5,1.98,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,De'Andre Hunter,Under,4.5,1.78,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Zach Edey,Over,8.5,2.02,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Zach Edey,Under,8.5,1.73,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Domantas Sabonis,Over,13.5,1.77,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Domantas Sabonis,Under,13.5,1.98,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Jaylen Wells,Over,3.5,2.15,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Jaylen Wells,Under,3.5,1.65,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Cedric Coward,Over,6.5,2.05,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Cedric Coward,Under,6.5,1.72,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Cameron Boozer,Over,8.5,2.05,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Cameron Boozer,Under,8.5,1.72,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Zach LaVine,Over,3.5,2.2,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Zach LaVine,Under,3.5,1.62,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Over,3.5,2.1,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Under,3.5,1.7,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Precious Achiuwa,Over,7.5,1.94,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_rebounds,Precious Achiuwa,Under,7.5,1.8,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Jaylen Wells,Over,1.5,1.65,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Jaylen Wells,Under,1.5,2.05,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Cam Spencer,Over,1.5,1.6,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Cam Spencer,Under,1.5,2.15,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Darius Acuff Jr.,Over,2.5,1.98,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Darius Acuff Jr.,Under,2.5,1.7,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Zach LaVine,Over,2.5,1.88,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Zach LaVine,Under,2.5,1.8,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,De'Andre Hunter,Over,1.5,1.7,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,De'Andre Hunter,Under,1.5,2.0,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Cedric Coward,Over,1.5,1.88,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Cedric Coward,Under,1.5,1.8,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Cameron Boozer,Over,1.5,1.7,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,ladbrokes_au,player_threes,Cameron Boozer,Under,1.5,2.0,2026-11-01T00:04:04Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Cameron Boozer,Over,5.5,1.67,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Cameron Boozer,Under,5.5,2.12,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,De'Andre Hunter,Over,1.5,1.92,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,De'Andre Hunter,Under,1.5,1.82,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Zach LaVine,Over,3.5,2.25,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Zach LaVine,Under,3.5,1.57,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Darius Acuff Jr.,Over,5.5,1.77,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Darius Acuff Jr.,Under,5.5,1.97,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Jaylen Wells,Over,1.5,1.94,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Jaylen Wells,Under,1.5,1.79,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Domantas Sabonis,Over,6.5,2.02,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Domantas Sabonis,Under,6.5,1.74,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Precious Achiuwa,Over,1.5,1.91,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Precious Achiuwa,Under,1.5,1.83,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Cedric Coward,Over,3.5,2.32,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_assists,Cedric Coward,Under,3.5,1.56,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Zach Edey,Over,8.5,1.77,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Zach Edey,Under,8.5,1.97,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,De'Andre Hunter,Over,12.5,1.87,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,De'Andre Hunter,Under,12.5,1.87,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Zach LaVine,Over,21.5,1.93,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Zach LaVine,Under,21.5,1.81,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Domantas Sabonis,Over,15.5,1.89,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Domantas Sabonis,Under,15.5,1.85,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Precious Achiuwa,Over,12.5,1.93,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Precious Achiuwa,Under,12.5,1.82,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Darius Acuff Jr.,Over,23.5,1.91,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Darius Acuff Jr.,Under,23.5,1.83,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Jaylen Wells,Over,13.5,1.88,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Jaylen Wells,Under,13.5,1.85,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Cedric Coward,Over,15.5,1.85,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Cedric Coward,Under,15.5,1.88,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Cameron Boozer,Over,17.5,1.88,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points,Cameron Boozer,Under,17.5,1.85,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,De'Andre Hunter,Over,19.5,2.05,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,De'Andre Hunter,Under,19.5,1.72,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Over,32.5,1.83,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Under,32.5,1.89,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Precious Achiuwa,Over,22.5,1.97,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Precious Achiuwa,Under,22.5,1.77,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Domantas Sabonis,Over,36.5,1.88,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Domantas Sabonis,Under,36.5,1.85,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Jaylen Wells,Over,18.5,1.88,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Jaylen Wells,Under,18.5,1.85,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Cameron Boozer,Over,32.5,1.91,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Cameron Boozer,Under,32.5,1.83,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Cedric Coward,Over,25.5,1.91,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Cedric Coward,Under,25.5,1.83,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.83,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.89,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Cedric Coward,Over,6.5,2.1,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Cedric Coward,Under,6.5,1.68,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Precious Achiuwa,Over,7.5,1.8,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Precious Achiuwa,Under,7.5,1.94,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Darius Acuff Jr.,Over,3.5,2.07,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Darius Acuff Jr.,Under,3.5,1.7,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Cameron Boozer,Over,8.5,1.95,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Cameron Boozer,Under,8.5,1.79,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Zach LaVine,Over,3.5,2.32,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Zach LaVine,Under,3.5,1.56,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Domantas Sabonis,Over,14.5,1.96,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Domantas Sabonis,Under,14.5,1.78,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Zach Edey,Over,8.5,1.91,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Zach Edey,Under,8.5,1.83,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,De'Andre Hunter,Over,4.5,2.0,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,De'Andre Hunter,Under,4.5,1.76,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Jaylen Wells,Over,3.5,2.23,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_rebounds,Jaylen Wells,Under,3.5,1.61,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,De'Andre Hunter,Over,1.5,1.7,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,De'Andre Hunter,Under,1.5,2.07,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,Jaylen Wells,Over,1.5,1.64,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,Jaylen Wells,Under,1.5,2.17,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,Cedric Coward,Over,1.5,1.79,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,Cedric Coward,Under,1.5,1.94,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,Cameron Boozer,Over,1.5,1.77,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,Cameron Boozer,Under,1.5,1.97,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,Darius Acuff Jr.,Over,2.5,2.0,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,Darius Acuff Jr.,Under,2.5,1.76,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,Zach LaVine,Over,2.5,1.87,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
+2026-11-01,11:10,Sacramento Kings @ Memphis Grizzlies,unibet,player_threes,Zach LaVine,Under,2.5,1.87,2026-11-01T00:04:24Z,2026-11-01T00:05:02+00:00,5.0
