@@ -2,11 +2,15 @@ name: NBA box score pull
 
 on:
   schedule:
-    - cron: "30 6 * * *"     # ~5:30pm Melbourne (AEDT) backup; the evening review also triggers this itself
+    # GitHub often starts these hours late, so there are three chances a day. Each run only
+    # fetches slates that aren't fully Final yet. The evening review also triggers this itself.
+    - cron: "30 6 * * *"     # ~5:30pm Melbourne (AEDT)
+    - cron: "15 10 * * *"    # ~9:15pm Melbourne
+    - cron: "40 18 * * *"    # ~5:40am Melbourne, before the morning scan
   workflow_dispatch:
     inputs:
       days_back:
-        description: "Melbourne slate to pull: 0 = today, 1 = yesterday"
+        description: "Melbourne slate to re-pull (0 = today, 1 = yesterday, auto = none). Any unfinished slate from the last 7 days is always caught up."
         default: "0"
 
 permissions:
@@ -25,12 +29,14 @@ jobs:
         with:
           python-version: "3.12"
       - name: Fetch official box scores
-        run: python fetch_boxscores.py "${{ github.event.inputs.days_back || '0' }}"
+        run: python fetch_boxscores.py "${{ github.event.inputs.days_back || 'auto' }}"
       - name: Update game logs and settle the model's props
+        if: ${{ !cancelled() }}
         run: |
           python build_gamelogs.py --recent 3 || echo "game-log update failed"
           python settle.py || echo "settle failed"
       - name: Commit box scores
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "odds-bot"
           git config user.email "odds-bot@users.noreply.github.com"
