@@ -83,7 +83,9 @@ def report(results):
     def table(title, key):
         groups = defaultdict(list)
         for r in results:
-            groups[key(r)].append(r)
+            k = key(r)
+            if k is not None:
+                groups[k].append(r)
         md.extend([f"## {title}", "", "| Group | n | Wins | Hit % | P&L | ROI % |", "|---|---|---|---|---|---|"])
         for g in sorted(groups):
             n, w, hit, pnl, roi = summarise(groups[g])
@@ -91,7 +93,7 @@ def report(results):
         md.append("")
 
     table("By side and tier", lambda r: f"{r['side']} / {r['tier']}")
-    table("Overs by market (Diff 3+)", lambda r: r["stat"] if r["side"] == "Over" and r["tier"] in ("Diff 4", "Diff 3") else "other")
+    table("Overs by market (Diff 3+)", lambda r: r["stat"] if r["side"] == "Over" and r["tier"] in ("Diff 4", "Diff 3") else None)
     table("Calibration: model probability bucket (both sides)",
           lambda r: f"{int(float(r['model_prob']) * 20) * 5:02d}-{int(float(r['model_prob']) * 20) * 5 + 5}%")
     table("By D4 (model edge) score", lambda r: f"{r['side']} D4={r['D4']}")
