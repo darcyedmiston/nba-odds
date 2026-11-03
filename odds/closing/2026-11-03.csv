@@ -3631,3 +3631,667 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-03,11:40,Washington Wizards @ Orlando Magic,pointsbetau,player_threes,Jevon Carter,Under,1.5,1.56,2026-11-03T00:34:10Z,2026-11-03T00:35:05+00:00,4.9
 2026-11-03,11:40,Washington Wizards @ Orlando Magic,pointsbetau,player_threes,Jamal Cain,Over,1.5,2.5,2026-11-03T00:34:10Z,2026-11-03T00:35:05+00:00,4.9
 2026-11-03,11:40,Washington Wizards @ Orlando Magic,pointsbetau,player_threes,Jamal Cain,Under,1.5,1.5,2026-11-03T00:34:10Z,2026-11-03T00:35:05+00:00,4.9
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Cooper Flagg,Over,6.5,1.83,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Cooper Flagg,Under,6.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Darius Acuff Jr.,Over,5.5,1.74,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Darius Acuff Jr.,Under,5.5,2.05,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Domantas Sabonis,Over,6.5,2.05,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Domantas Sabonis,Under,6.5,1.74,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Marcus Sasser,Over,2.5,1.95,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Marcus Sasser,Under,2.5,1.8,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Naji Marshall,Over,3.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Naji Marshall,Under,3.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Zach LaVine,Over,2.5,1.71,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_assists,Zach LaVine,Under,2.5,2.1,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Caleb Martin,Over,5.5,1.83,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Caleb Martin,Under,5.5,2.0,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Cooper Flagg,Over,27.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Cooper Flagg,Under,27.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Daniel Gafford,Over,10.5,2.1,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Daniel Gafford,Under,10.5,1.77,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Darius Acuff Jr.,Over,23.5,1.83,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Darius Acuff Jr.,Under,23.5,2.0,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,De'Andre Hunter,Over,13.5,1.83,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,De'Andre Hunter,Under,13.5,2.0,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Domantas Sabonis,Over,14.5,1.8,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Domantas Sabonis,Under,14.5,2.05,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Marcus Sasser,Over,7.5,1.95,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Marcus Sasser,Under,7.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Max Christie,Over,9.5,2.1,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Max Christie,Under,9.5,1.77,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Morez Johnson Jr.,Over,5.5,1.74,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Morez Johnson Jr.,Under,5.5,2.15,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Naji Marshall,Over,14.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Naji Marshall,Under,14.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,P.J. Washington,Over,15.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,P.J. Washington,Under,15.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Precious Achiuwa,Over,11.5,2.0,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Precious Achiuwa,Under,11.5,1.83,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Zaccharie Risacher,Over,10.5,2.0,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Zaccharie Risacher,Under,10.5,1.83,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Zach LaVine,Over,21.5,1.95,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points,Zach LaVine,Under,21.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points_rebounds_assists,Cooper Flagg,Over,41.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points_rebounds_assists,Cooper Flagg,Under,41.5,1.83,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Over,33.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Under,33.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points_rebounds_assists,Domantas Sabonis,Over,35.5,1.95,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points_rebounds_assists,Domantas Sabonis,Under,35.5,1.8,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points_rebounds_assists,Naji Marshall,Over,21.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points_rebounds_assists,Naji Marshall,Under,21.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.83,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Cooper Flagg,Over,6.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Cooper Flagg,Under,6.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Daniel Gafford,Over,6.5,1.71,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Daniel Gafford,Under,6.5,2.1,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Darius Acuff Jr.,Over,3.5,1.95,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Darius Acuff Jr.,Under,3.5,1.8,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,De'Andre Hunter,Over,4.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,De'Andre Hunter,Under,4.5,1.83,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Domantas Sabonis,Over,13.5,1.9,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Domantas Sabonis,Under,13.5,1.83,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Morez Johnson Jr.,Over,3.5,1.77,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Morez Johnson Jr.,Under,3.5,2.0,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Naji Marshall,Over,3.5,1.95,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Naji Marshall,Under,3.5,1.8,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,P.J. Washington,Over,6.5,1.77,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,P.J. Washington,Under,6.5,2.0,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Precious Achiuwa,Over,7.5,1.8,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Precious Achiuwa,Under,7.5,1.95,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Zaccharie Risacher,Over,5.5,1.95,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_rebounds,Zaccharie Risacher,Under,5.5,1.8,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,P.J. Washington,Over,1.5,1.67,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,P.J. Washington,Under,1.5,2.2,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Max Christie,Over,1.5,1.67,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Max Christie,Under,1.5,2.2,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Cooper Flagg,Over,1.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Cooper Flagg,Under,1.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Zach LaVine,Over,2.5,1.8,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Zach LaVine,Under,2.5,1.95,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,De'Andre Hunter,Over,1.5,1.63,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,De'Andre Hunter,Under,1.5,2.25,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Darius Acuff Jr.,Over,2.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Darius Acuff Jr.,Under,2.5,1.87,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Marcus Sasser,Over,1.5,1.95,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Marcus Sasser,Under,1.5,1.8,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Naji Marshall,Over,0.5,1.59,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Naji Marshall,Under,0.5,2.3,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Zaccharie Risacher,Over,1.5,2.5,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,pointsbetau,player_threes,Zaccharie Risacher,Under,1.5,1.5,2026-11-03T01:04:14Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Cooper Flagg,Over,6.5,1.76,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Cooper Flagg,Under,6.5,2.02,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Darius Acuff Jr.,Over,5.5,1.72,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Darius Acuff Jr.,Under,5.5,2.08,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Domantas Sabonis,Over,6.5,2.05,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Domantas Sabonis,Under,6.5,1.74,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Zach LaVine,Over,2.5,1.72,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Zach LaVine,Under,2.5,2.08,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Marcus Sasser,Over,2.5,2.1,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Marcus Sasser,Under,2.5,1.68,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Naji Marshall,Over,3.5,2.02,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_assists,Naji Marshall,Under,3.5,1.76,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Cooper Flagg,Over,28.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Cooper Flagg,Under,28.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Daniel Gafford,Over,10.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Daniel Gafford,Under,10.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Max Christie,Over,9.5,1.84,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Max Christie,Under,9.5,1.92,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,P.J. Washington,Over,15.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,P.J. Washington,Under,15.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Darius Acuff Jr.,Over,23.5,1.83,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Darius Acuff Jr.,Under,23.5,1.93,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,De'Andre Hunter,Over,13.5,1.84,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,De'Andre Hunter,Under,13.5,1.92,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Domantas Sabonis,Over,15.5,2.02,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Domantas Sabonis,Under,15.5,1.76,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Precious Achiuwa,Over,10.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Precious Achiuwa,Under,10.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Zach LaVine,Over,21.5,1.93,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Zach LaVine,Under,21.5,1.83,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Zaccharie Risacher,Over,10.5,1.93,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Zaccharie Risacher,Under,10.5,1.83,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Marcus Sasser,Over,7.5,1.93,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Marcus Sasser,Under,7.5,1.83,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Naji Marshall,Over,13.5,2.02,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Naji Marshall,Under,13.5,1.76,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Morez Johnson Jr.,Over,6.5,2.0,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Morez Johnson Jr.,Under,6.5,1.78,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Caleb Martin,Over,6.5,1.84,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points,Caleb Martin,Under,6.5,1.92,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Cooper Flagg,Over,41.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Cooper Flagg,Under,41.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Precious Achiuwa,Over,20.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Precious Achiuwa,Under,20.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Morez Johnson Jr.,Over,11.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Morez Johnson Jr.,Under,11.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Over,33.5,1.85,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Under,33.5,1.91,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Domantas Sabonis,Over,35.5,1.9,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Domantas Sabonis,Under,35.5,1.86,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Naji Marshall,Over,20.5,1.92,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Naji Marshall,Under,20.5,1.84,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Zaccharie Risacher,Over,17.5,1.88,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Zaccharie Risacher,Under,17.5,1.88,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,P.J. Washington,Over,25.5,1.92,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,P.J. Washington,Under,25.5,1.84,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Max Christie,Over,14.5,1.78,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Max Christie,Under,14.5,2.0,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Marcus Sasser,Over,11.5,1.86,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Marcus Sasser,Under,11.5,1.9,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Daniel Gafford,Over,19.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,Daniel Gafford,Under,19.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,De'Andre Hunter,Over,19.5,1.84,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_points_rebounds_assists,De'Andre Hunter,Under,19.5,1.92,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Cooper Flagg,Over,6.5,1.74,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Cooper Flagg,Under,6.5,2.05,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Daniel Gafford,Over,7.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Daniel Gafford,Under,7.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Max Christie,Over,3.5,2.15,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Max Christie,Under,3.5,1.64,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,P.J. Washington,Over,7.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,P.J. Washington,Under,7.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Darius Acuff Jr.,Over,3.5,1.88,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Darius Acuff Jr.,Under,3.5,1.88,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,De'Andre Hunter,Over,4.5,2.08,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,De'Andre Hunter,Under,4.5,1.72,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Domantas Sabonis,Over,13.5,1.89,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Domantas Sabonis,Under,13.5,1.86,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Precious Achiuwa,Over,7.5,1.87,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Precious Achiuwa,Under,7.5,1.89,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Zach LaVine,Over,2.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Zach LaVine,Under,2.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Zaccharie Risacher,Over,5.5,2.05,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Zaccharie Risacher,Under,5.5,1.74,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Naji Marshall,Over,3.5,1.85,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Naji Marshall,Under,3.5,1.91,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Morez Johnson Jr.,Over,4.5,2.3,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Morez Johnson Jr.,Under,4.5,1.56,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Caleb Martin,Over,3.5,2.25,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_rebounds,Caleb Martin,Under,3.5,1.58,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Cooper Flagg,Over,1.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Cooper Flagg,Under,1.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Max Christie,Over,1.5,1.8,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Max Christie,Under,1.5,1.96,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,P.J. Washington,Over,1.5,1.78,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,P.J. Washington,Under,1.5,2.0,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Darius Acuff Jr.,Over,2.5,1.9,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Darius Acuff Jr.,Under,2.5,1.86,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,De'Andre Hunter,Over,1.5,1.72,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,De'Andre Hunter,Under,1.5,2.08,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Zach LaVine,Over,2.5,2.0,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Zach LaVine,Under,2.5,1.78,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Marcus Sasser,Over,1.5,2.1,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Marcus Sasser,Under,1.5,1.68,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Naji Marshall,Over,0.5,1.56,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Naji Marshall,Under,0.5,2.3,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Zaccharie Risacher,Over,1.5,2.4,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,sportsbet,player_threes,Zaccharie Risacher,Under,1.5,1.52,2026-11-03T01:04:54Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_assists,Darius Acuff Jr.,Over,5.5,1.7,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_assists,Darius Acuff Jr.,Under,5.5,2.05,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_assists,Domantas Sabonis,Over,6.5,1.94,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_assists,Domantas Sabonis,Under,6.5,1.83,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_assists,Cooper Flagg,Over,7.5,2.1,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_assists,Cooper Flagg,Under,7.5,1.68,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Daniel Gafford,Over,9.5,1.75,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Daniel Gafford,Under,9.5,2.0,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Precious Achiuwa,Over,11.5,2.0,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Precious Achiuwa,Under,11.5,1.78,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Domantas Sabonis,Over,15.5,2.0,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Domantas Sabonis,Under,15.5,1.75,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,De'Andre Hunter,Over,13.5,1.79,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,De'Andre Hunter,Under,13.5,1.96,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Zach LaVine,Over,21.5,1.88,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Zach LaVine,Under,21.5,1.88,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,P.J. Washington,Over,15.5,1.92,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,P.J. Washington,Under,15.5,1.83,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Cooper Flagg,Over,28.5,1.83,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Cooper Flagg,Under,28.5,1.92,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Darius Acuff Jr.,Over,23.5,1.85,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points,Darius Acuff Jr.,Under,23.5,1.91,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Cooper Flagg,Over,34.5,1.15,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Cooper Flagg,Over,39.5,1.44,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Cooper Flagg,Over,44.5,2.1,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Cooper Flagg,Over,49.5,3.8,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Cooper Flagg,Over,54.5,7.5,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,24.5,1.13,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,29.5,1.42,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,34.5,2.1,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,39.5,3.9,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,44.5,8.0,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Zach LaVine,Over,14.5,1.02,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Zach LaVine,Over,19.5,1.13,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Zach LaVine,Over,24.5,1.46,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Zach LaVine,Over,29.5,2.3,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Zach LaVine,Over,34.5,4.6,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Domantas Sabonis,Over,24.5,1.05,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Domantas Sabonis,Over,29.5,1.25,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Domantas Sabonis,Over,34.5,1.73,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Domantas Sabonis,Over,39.5,2.9,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Domantas Sabonis,Over,44.5,6.0,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Max Christie,Over,11.5,1.26,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Max Christie,Over,13.5,1.5,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Max Christie,Over,15.5,1.88,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Max Christie,Over,17.5,2.4,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Max Christie,Over,19.5,3.5,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Daniel Gafford,Over,15.5,1.26,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Daniel Gafford,Over,17.5,1.48,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Daniel Gafford,Over,19.5,1.82,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Daniel Gafford,Over,21.5,2.3,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_points_rebounds_assists,Daniel Gafford,Over,23.5,3.3,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,Cooper Flagg,Over,6.5,1.75,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,Cooper Flagg,Under,6.5,2.0,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,Daniel Gafford,Over,7.5,1.92,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,Daniel Gafford,Under,7.5,1.83,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,Domantas Sabonis,Over,13.5,1.91,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,Domantas Sabonis,Under,13.5,1.85,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,P.J. Washington,Over,7.5,1.98,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,P.J. Washington,Under,7.5,1.78,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,Darius Acuff Jr.,Over,3.5,2.0,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,Darius Acuff Jr.,Under,3.5,1.75,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,De'Andre Hunter,Over,4.5,2.0,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,betright,player_rebounds,De'Andre Hunter,Under,4.5,1.75,2026-11-03T01:04:22Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Zach LaVine,Over,2.5,1.62,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Zach LaVine,Under,2.5,2.2,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Daniel Gafford,Over,1.5,1.63,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Daniel Gafford,Under,1.5,2.18,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Domantas Sabonis,Over,6.5,1.87,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Domantas Sabonis,Under,6.5,1.87,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Naji Marshall,Over,3.5,1.79,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Naji Marshall,Under,3.5,1.94,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Darius Acuff Jr.,Over,5.5,1.68,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Darius Acuff Jr.,Under,5.5,2.1,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,De'Andre Hunter,Over,1.5,1.87,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,De'Andre Hunter,Under,1.5,1.87,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,P.J. Washington,Over,1.5,1.76,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,P.J. Washington,Under,1.5,1.97,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Cooper Flagg,Over,6.5,1.73,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Cooper Flagg,Under,6.5,2.02,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Precious Achiuwa,Over,1.5,1.97,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Precious Achiuwa,Under,1.5,1.77,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Max Christie,Over,2.5,2.2,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Max Christie,Under,2.5,1.63,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Marcus Sasser,Over,2.5,1.93,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_assists,Marcus Sasser,Under,2.5,1.81,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,De'Andre Hunter,Over,13.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,De'Andre Hunter,Under,13.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Daniel Gafford,Over,9.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Daniel Gafford,Under,9.5,1.89,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Domantas Sabonis,Over,14.5,1.79,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Domantas Sabonis,Under,14.5,1.95,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Zach LaVine,Over,20.5,1.78,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Zach LaVine,Under,20.5,1.96,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Naji Marshall,Over,13.5,1.8,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Naji Marshall,Under,13.5,1.94,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Max Christie,Over,9.5,1.89,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Max Christie,Under,9.5,1.83,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Cooper Flagg,Over,28.5,1.91,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Cooper Flagg,Under,28.5,1.83,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Zaccharie Risacher,Over,10.5,1.89,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Zaccharie Risacher,Under,10.5,1.83,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Marcus Sasser,Over,8.5,2.0,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Marcus Sasser,Under,8.5,1.76,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Precious Achiuwa,Over,10.5,1.81,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Precious Achiuwa,Under,10.5,1.93,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Morez Johnson Jr.,Over,6.5,1.94,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Morez Johnson Jr.,Under,6.5,1.8,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Darius Acuff Jr.,Over,23.5,1.79,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,Darius Acuff Jr.,Under,23.5,1.95,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,P.J. Washington,Over,15.5,1.92,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points,P.J. Washington,Under,15.5,1.83,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Precious Achiuwa,Over,20.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Precious Achiuwa,Under,20.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,De'Andre Hunter,Over,20.5,1.97,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,De'Andre Hunter,Under,20.5,1.76,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.93,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.8,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Domantas Sabonis,Over,35.5,1.89,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Domantas Sabonis,Under,35.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Over,33.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Under,33.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Daniel Gafford,Over,19.5,1.92,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Daniel Gafford,Under,19.5,1.83,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Max Christie,Over,15.5,1.94,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Max Christie,Under,15.5,1.8,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,P.J. Washington,Over,24.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,P.J. Washington,Under,24.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Cooper Flagg,Over,42.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Cooper Flagg,Under,42.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Naji Marshall,Over,22.5,2.0,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_points_rebounds_assists,Naji Marshall,Under,22.5,1.75,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Naji Marshall,Over,3.5,1.72,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Naji Marshall,Under,3.5,2.05,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Cooper Flagg,Over,6.5,1.72,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Cooper Flagg,Under,6.5,2.05,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Precious Achiuwa,Over,7.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Precious Achiuwa,Under,7.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Darius Acuff Jr.,Over,3.5,2.12,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Darius Acuff Jr.,Under,3.5,1.68,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Daniel Gafford,Over,7.5,1.89,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Daniel Gafford,Under,7.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,De'Andre Hunter,Over,4.5,2.0,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,De'Andre Hunter,Under,4.5,1.75,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Domantas Sabonis,Over,13.5,1.93,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Domantas Sabonis,Under,13.5,1.81,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Zach LaVine,Over,2.5,1.71,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Zach LaVine,Under,2.5,2.07,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Max Christie,Over,3.5,2.18,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Max Christie,Under,3.5,1.63,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Zaccharie Risacher,Over,5.5,1.92,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,Zaccharie Risacher,Under,5.5,1.82,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,P.J. Washington,Over,7.5,2.02,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_rebounds,P.J. Washington,Under,7.5,1.73,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,Cooper Flagg,Over,1.5,1.79,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,Cooper Flagg,Under,1.5,1.95,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,P.J. Washington,Over,1.5,1.66,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,P.J. Washington,Under,1.5,2.15,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,Zach LaVine,Over,2.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,Zach LaVine,Under,2.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,De'Andre Hunter,Over,1.5,1.56,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,De'Andre Hunter,Under,1.5,2.3,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,Max Christie,Over,1.5,1.77,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,Max Christie,Under,1.5,1.97,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,Darius Acuff Jr.,Over,2.5,1.72,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,Darius Acuff Jr.,Under,2.5,2.05,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,Marcus Sasser,Over,1.5,1.93,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,unibet,player_threes,Marcus Sasser,Under,1.5,1.81,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Caleb Martin,Over,2.5,2.3,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Caleb Martin,Under,2.5,1.58,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Cooper Flagg,Over,6.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Cooper Flagg,Under,6.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Darius Acuff Jr.,Over,5.5,1.75,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Darius Acuff Jr.,Under,5.5,2.0,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,De'Andre Hunter,Over,1.5,2.1,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,De'Andre Hunter,Under,1.5,1.68,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Domantas Sabonis,Over,6.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Domantas Sabonis,Under,6.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Daniel Gafford,Over,1.5,1.68,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Daniel Gafford,Under,1.5,2.1,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Max Christie,Over,2.5,2.45,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Max Christie,Under,2.5,1.52,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Marcus Sasser,Over,2.5,1.87,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Marcus Sasser,Under,2.5,1.87,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Naji Marshall,Over,3.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Naji Marshall,Under,3.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Precious Achiuwa,Over,1.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Precious Achiuwa,Under,1.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,P.J. Washington,Over,1.5,1.75,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,P.J. Washington,Under,1.5,2.0,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Zaccharie Risacher,Over,1.5,2.05,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Zaccharie Risacher,Under,1.5,1.72,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Zach LaVine,Over,3.5,2.35,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_assists,Zach LaVine,Under,3.5,1.55,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Cooper Flagg,Over,27.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Cooper Flagg,Under,27.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Darius Acuff Jr.,Over,23.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Darius Acuff Jr.,Under,23.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,De'Andre Hunter,Over,14.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,De'Andre Hunter,Under,14.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Domantas Sabonis,Over,15.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Domantas Sabonis,Under,15.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Daniel Gafford,Over,10.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Daniel Gafford,Under,10.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Max Christie,Over,10.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Max Christie,Under,10.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Marcus Sasser,Over,7.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Marcus Sasser,Under,7.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Naji Marshall,Over,13.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Naji Marshall,Under,13.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Precious Achiuwa,Over,11.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Precious Achiuwa,Under,11.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,P.J. Washington,Over,15.5,1.87,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,P.J. Washington,Under,15.5,1.87,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Zaccharie Risacher,Over,10.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Zaccharie Risacher,Under,10.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Zach LaVine,Over,21.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points,Zach LaVine,Under,21.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Caleb Martin,Over,12.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Caleb Martin,Under,12.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Cooper Flagg,Over,41.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Cooper Flagg,Under,41.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Darius Acuff Jr.,Over,32.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Darius Acuff Jr.,Under,32.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,De'Andre Hunter,Over,20.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,De'Andre Hunter,Under,20.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Domantas Sabonis,Over,35.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Domantas Sabonis,Under,35.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Daniel Gafford,Over,20.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Daniel Gafford,Under,20.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Max Christie,Over,15.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Max Christie,Under,15.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Marcus Sasser,Over,12.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Marcus Sasser,Under,12.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Naji Marshall,Over,21.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Naji Marshall,Under,21.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Precious Achiuwa,Over,20.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Precious Achiuwa,Under,20.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,P.J. Washington,Over,24.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,P.J. Washington,Under,24.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Zaccharie Risacher,Over,17.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Zaccharie Risacher,Under,17.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Caleb Martin,Over,3.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Caleb Martin,Under,3.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Cooper Flagg,Over,6.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Cooper Flagg,Under,6.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Darius Acuff Jr.,Over,3.5,2.05,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Darius Acuff Jr.,Under,3.5,1.72,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,De'Andre Hunter,Over,4.5,2.05,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,De'Andre Hunter,Under,4.5,1.72,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Domantas Sabonis,Over,13.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Domantas Sabonis,Under,13.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Daniel Gafford,Over,7.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Daniel Gafford,Under,7.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Max Christie,Over,2.5,1.72,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Max Christie,Under,2.5,2.05,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Marcus Sasser,Over,1.5,1.87,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Marcus Sasser,Under,1.5,1.87,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Naji Marshall,Over,3.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Naji Marshall,Under,3.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Precious Achiuwa,Over,7.5,1.8,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Precious Achiuwa,Under,7.5,1.95,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,P.J. Washington,Over,7.5,2.05,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,P.J. Washington,Under,7.5,1.72,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Zaccharie Risacher,Over,5.5,2.2,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Zaccharie Risacher,Under,5.5,1.62,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Zach LaVine,Over,3.5,2.5,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_rebounds,Zach LaVine,Under,3.5,1.5,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Caleb Martin,Over,0.5,1.5,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Caleb Martin,Under,0.5,2.5,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Cooper Flagg,Over,1.5,1.75,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Cooper Flagg,Under,1.5,2.0,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Darius Acuff Jr.,Over,2.5,1.85,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Darius Acuff Jr.,Under,2.5,1.9,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,De'Andre Hunter,Over,1.5,1.65,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,De'Andre Hunter,Under,1.5,2.15,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Domantas Sabonis,Over,0.5,4.6,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Domantas Sabonis,Under,0.5,1.17,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Max Christie,Over,1.5,1.62,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Max Christie,Under,1.5,2.2,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Marcus Sasser,Over,1.5,2.05,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Marcus Sasser,Under,1.5,1.72,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Naji Marshall,Over,0.5,1.52,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Naji Marshall,Under,0.5,2.45,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Precious Achiuwa,Over,0.5,3.0,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Precious Achiuwa,Under,0.5,1.36,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,P.J. Washington,Over,1.5,1.68,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,P.J. Washington,Under,1.5,2.1,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Zaccharie Risacher,Over,1.5,2.15,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Zaccharie Risacher,Under,1.5,1.65,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Zach LaVine,Over,2.5,1.72,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,tab,player_threes,Zach LaVine,Under,2.5,2.05,2026-11-03T01:02:53Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Darius Acuff Jr.,Over,5.5,1.8,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Darius Acuff Jr.,Under,5.5,1.95,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Marcus Sasser,Over,2.5,2.0,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Marcus Sasser,Under,2.5,1.75,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Cooper Flagg,Over,6.5,1.73,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Cooper Flagg,Under,6.5,2.02,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Zach LaVine,Over,2.5,1.7,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Zach LaVine,Under,2.5,2.05,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Naji Marshall,Over,3.5,1.92,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Naji Marshall,Under,3.5,1.82,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Domantas Sabonis,Over,6.5,1.98,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_assists,Domantas Sabonis,Under,6.5,1.77,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Darius Acuff Jr.,Over,23.5,1.85,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Darius Acuff Jr.,Under,23.5,1.88,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Zaccharie Risacher,Over,9.5,1.82,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Zaccharie Risacher,Under,9.5,1.94,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Cooper Flagg,Over,28.5,1.88,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Cooper Flagg,Under,28.5,1.85,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Daniel Gafford,Over,9.5,1.85,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Daniel Gafford,Under,9.5,1.88,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Precious Achiuwa,Over,11.5,1.9,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Precious Achiuwa,Under,11.5,1.85,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Caleb Martin,Over,6.5,1.85,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Caleb Martin,Under,6.5,1.88,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Zach LaVine,Over,21.5,1.88,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Zach LaVine,Under,21.5,1.85,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,De'Andre Hunter,Over,13.5,1.78,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,De'Andre Hunter,Under,13.5,1.98,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,P.J. Washington,Over,14.5,1.82,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,P.J. Washington,Under,14.5,1.94,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Naji Marshall,Over,13.5,1.96,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Naji Marshall,Under,13.5,1.78,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Marcus Sasser,Over,7.5,1.85,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Marcus Sasser,Under,7.5,1.88,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Max Christie,Over,9.5,1.85,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Max Christie,Under,9.5,1.88,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Domantas Sabonis,Over,15.5,1.96,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points,Domantas Sabonis,Under,15.5,1.78,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points_rebounds_assists,Naji Marshall,Over,19.5,1.7,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points_rebounds_assists,Naji Marshall,Under,19.5,2.05,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points_rebounds_assists,Cooper Flagg,Over,41.5,1.75,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points_rebounds_assists,Cooper Flagg,Under,41.5,2.02,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points_rebounds_assists,Domantas Sabonis,Over,34.5,1.75,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points_rebounds_assists,Domantas Sabonis,Under,34.5,2.02,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points_rebounds_assists,Darius Acuff Jr.,Over,32.5,1.77,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points_rebounds_assists,Darius Acuff Jr.,Under,32.5,1.98,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points_rebounds_assists,Zach LaVine,Over,26.5,1.75,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_points_rebounds_assists,Zach LaVine,Under,26.5,2.0,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Caleb Martin,Over,3.5,2.2,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Caleb Martin,Under,3.5,1.62,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Zaccharie Risacher,Over,5.5,2.1,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Zaccharie Risacher,Under,5.5,1.7,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Zach LaVine,Over,2.5,1.78,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Zach LaVine,Under,2.5,1.98,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,De'Andre Hunter,Over,4.5,2.05,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,De'Andre Hunter,Under,4.5,1.73,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Precious Achiuwa,Over,7.5,1.85,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Precious Achiuwa,Under,7.5,1.9,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Max Christie,Over,3.5,2.1,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Max Christie,Under,3.5,1.68,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,P.J. Washington,Over,7.5,2.02,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,P.J. Washington,Under,7.5,1.73,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Daniel Gafford,Over,7.5,2.05,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Daniel Gafford,Under,7.5,1.72,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Darius Acuff Jr.,Over,3.5,1.98,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Darius Acuff Jr.,Under,3.5,1.77,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Cooper Flagg,Over,6.5,1.82,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Cooper Flagg,Under,6.5,1.94,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Naji Marshall,Over,3.5,1.92,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Naji Marshall,Under,3.5,1.82,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Domantas Sabonis,Over,13.5,1.9,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_rebounds,Domantas Sabonis,Under,13.5,1.85,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,Zach LaVine,Over,2.5,1.92,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,Zach LaVine,Under,2.5,1.75,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,P.J. Washington,Over,1.5,1.6,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,P.J. Washington,Under,1.5,2.15,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,Darius Acuff Jr.,Over,2.5,1.9,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,Darius Acuff Jr.,Under,2.5,1.78,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,Max Christie,Over,1.5,1.7,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,Max Christie,Under,1.5,2.0,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,Marcus Sasser,Over,1.5,2.05,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,Marcus Sasser,Under,1.5,1.65,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,Cooper Flagg,Over,1.5,1.88,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,Cooper Flagg,Under,1.5,1.78,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,De'Andre Hunter,Over,1.5,1.68,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,neds,player_threes,De'Andre Hunter,Under,1.5,2.02,2026-11-03T01:04:27Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Darius Acuff Jr.,Over,5.5,1.8,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Darius Acuff Jr.,Under,5.5,1.95,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Marcus Sasser,Over,2.5,2.0,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Marcus Sasser,Under,2.5,1.75,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Cooper Flagg,Over,6.5,1.73,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Cooper Flagg,Under,6.5,2.02,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Zach LaVine,Over,2.5,1.7,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Zach LaVine,Under,2.5,2.05,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Naji Marshall,Over,3.5,1.92,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Naji Marshall,Under,3.5,1.82,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Domantas Sabonis,Over,6.5,1.98,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_assists,Domantas Sabonis,Under,6.5,1.77,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Darius Acuff Jr.,Over,23.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Darius Acuff Jr.,Under,23.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Zaccharie Risacher,Over,9.5,1.82,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Zaccharie Risacher,Under,9.5,1.94,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Cooper Flagg,Over,28.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Cooper Flagg,Under,28.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Daniel Gafford,Over,9.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Daniel Gafford,Under,9.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Precious Achiuwa,Over,11.5,1.9,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Precious Achiuwa,Under,11.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Caleb Martin,Over,6.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Caleb Martin,Under,6.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Zach LaVine,Over,21.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Zach LaVine,Under,21.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,De'Andre Hunter,Over,13.5,1.78,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,De'Andre Hunter,Under,13.5,1.98,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,P.J. Washington,Over,14.5,1.82,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,P.J. Washington,Under,14.5,1.94,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Naji Marshall,Over,13.5,1.96,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Naji Marshall,Under,13.5,1.78,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Marcus Sasser,Over,7.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Marcus Sasser,Under,7.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Max Christie,Over,9.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Max Christie,Under,9.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Domantas Sabonis,Over,15.5,1.96,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points,Domantas Sabonis,Under,15.5,1.78,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points_rebounds_assists,Naji Marshall,Over,19.5,1.7,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points_rebounds_assists,Naji Marshall,Under,19.5,2.05,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points_rebounds_assists,Cooper Flagg,Over,41.5,1.75,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points_rebounds_assists,Cooper Flagg,Under,41.5,2.02,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points_rebounds_assists,Domantas Sabonis,Over,34.5,1.75,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points_rebounds_assists,Domantas Sabonis,Under,34.5,2.02,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Over,32.5,1.77,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Under,32.5,1.98,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points_rebounds_assists,Zach LaVine,Over,26.5,1.75,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_points_rebounds_assists,Zach LaVine,Under,26.5,2.0,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Caleb Martin,Over,3.5,2.2,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Caleb Martin,Under,3.5,1.62,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Zaccharie Risacher,Over,5.5,2.1,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Zaccharie Risacher,Under,5.5,1.7,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Zach LaVine,Over,2.5,1.78,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Zach LaVine,Under,2.5,1.98,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,De'Andre Hunter,Over,4.5,2.05,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,De'Andre Hunter,Under,4.5,1.73,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Precious Achiuwa,Over,7.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Precious Achiuwa,Under,7.5,1.9,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Max Christie,Over,3.5,2.1,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Max Christie,Under,3.5,1.68,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,P.J. Washington,Over,7.5,2.02,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,P.J. Washington,Under,7.5,1.73,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Daniel Gafford,Over,7.5,2.05,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Daniel Gafford,Under,7.5,1.72,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Over,3.5,1.98,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Under,3.5,1.77,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Cooper Flagg,Over,6.5,1.82,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Cooper Flagg,Under,6.5,1.94,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Naji Marshall,Over,3.5,1.92,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Naji Marshall,Under,3.5,1.82,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Domantas Sabonis,Over,13.5,1.9,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_rebounds,Domantas Sabonis,Under,13.5,1.85,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,Zach LaVine,Over,2.5,1.92,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,Zach LaVine,Under,2.5,1.75,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,P.J. Washington,Over,1.5,1.6,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,P.J. Washington,Under,1.5,2.15,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,Darius Acuff Jr.,Over,2.5,1.9,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,Darius Acuff Jr.,Under,2.5,1.78,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,Max Christie,Over,1.5,1.7,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,Max Christie,Under,1.5,2.0,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,Marcus Sasser,Over,1.5,2.05,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,Marcus Sasser,Under,1.5,1.65,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,Cooper Flagg,Over,1.5,1.88,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,Cooper Flagg,Under,1.5,1.78,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,De'Andre Hunter,Over,1.5,1.68,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
+2026-11-03,12:10,Sacramento Kings @ Dallas Mavericks,ladbrokes_au,player_threes,De'Andre Hunter,Under,1.5,2.02,2026-11-03T01:04:52Z,2026-11-03T01:05:00+00:00,5.0
