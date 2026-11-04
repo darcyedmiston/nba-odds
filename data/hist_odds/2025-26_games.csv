@@ -1,0 +1,26 @@
+game_id,date_us,game,event_id,tip_utc,snapshot,status,books,rows,cost
+401809243,2025-10-21,Houston Rockets @ Oklahoma City Thunder,bbde7751a144b98ed150d7a5f7dc8f87,2025-10-21T23:35:00Z,2025-10-21T23:25:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,654,51
+401809933,2025-10-22,Brooklyn Nets @ Charlotte Hornets,2c566908fd21c1179a1affda3f24b101,2025-10-22T23:10:00Z,2025-10-22T23:00:40Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,508,51
+401809937,2025-10-22,Detroit Pistons @ Chicago Bulls,89733f00ce9f9896e48c1e0e9b45048e,2025-10-23T00:10:00Z,2025-10-23T00:00:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,632,50
+401809941,2025-10-22,Sacramento Kings @ Phoenix Suns,0042b0009547d8a7c9827977546613de,2025-10-23T02:10:00Z,2025-10-23T02:00:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,600,50
+401809943,2025-10-24,Atlanta Hawks @ Orlando Magic,2115811d6d5915d1d9ab317396776cf7,2025-10-24T23:10:00Z,2025-10-24T23:00:40Z,ok,ladbrokes_au pointsbetau sportsbet unibet,476,51
+401809948,2025-10-24,Miami Heat @ Memphis Grizzlies,934882eaef004213b7cf42357bfbb44f,2025-10-25T00:10:00Z,2025-10-25T00:00:44Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,640,50
+401809952,2025-10-24,Golden State Warriors @ Portland Trail Blazers,f0f386295d750ba657ca31c569493eb1,2025-10-25T02:10:00Z,2025-10-25T02:00:39Z,ok,ladbrokes_au pointsbetau sportsbet unibet,512,50
+401809956,2025-10-25,Oklahoma City Thunder @ Atlanta Hawks,16b697ea8401211dcb40a35f12b52b21,2025-10-25T23:30:00Z,2025-10-25T23:20:38Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,648,51
+401809960,2025-10-26,Brooklyn Nets @ San Antonio Spurs,8d848647dbb99720c5e9a8d6b6a1b4b5,2025-10-26T18:10:00Z,2025-10-26T18:00:38Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,712,51
+401809964,2025-10-26,Charlotte Hornets @ Washington Wizards,f55021b0ef635f12075e4b3429c45467,2025-10-26T22:10:00Z,2025-10-26T22:00:38Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,692,50
+401809245,2025-10-27,Cleveland Cavaliers @ Detroit Pistons,5c3141a83aab2381b9837f56079156fd,2025-10-27T23:00:00Z,2025-10-27T22:50:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,622,51
+401809971,2025-10-27,Brooklyn Nets @ Houston Rockets,3bb045e8e56483e4687e2aad7fc77870,2025-10-28T00:00:00Z,2025-10-27T23:50:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,562,50
+401809975,2025-10-27,Phoenix Suns @ Utah Jazz,f645a1acc849e1c50a8ed5f4b164fe76,2025-10-28T01:00:00Z,2025-10-28T00:50:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,646,50
+401809979,2025-10-28,Charlotte Hornets @ Miami Heat,070ca82391365631462414ecb4a0d327,2025-10-28T23:30:00Z,2025-10-28T23:20:40Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,612,51
+401809983,2025-10-29,Cleveland Cavaliers @ Boston Celtics,757e322d4beb7cad125cdcb50af7e897,2025-10-29T23:10:00Z,2025-10-29T23:00:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,672,51
+401809988,2025-10-29,Indiana Pacers @ Dallas Mavericks,be8fdc23284b02198349091c5ca89f27,2025-10-30T00:30:00Z,2025-10-30T00:20:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,628,50
+401809992,2025-10-29,Memphis Grizzlies @ Phoenix Suns,0150cdf67f18ee09b2207c17bd502b3d,2025-10-30T02:10:00Z,2025-10-30T02:00:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,626,50
+401809996,2025-10-30,Miami Heat @ San Antonio Spurs,d5a85890cd896ef217bea5f432e4a503,2025-10-31T00:30:00Z,2025-10-31T00:20:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,698,51
+401809505,2025-10-31,New York Knicks @ Chicago Bulls,dda8c805aac91a7a454acbfdf2ee3ed1,2025-11-01T00:00:00Z,2025-10-31T23:50:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,762,51
+401809509,2025-10-31,New Orleans Pelicans @ LA Clippers,c06e17e4142d0a944fb49b49e0a2de6c,2025-11-01T02:30:00Z,2025-11-01T02:20:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,734,50
+401810001,2025-11-01,Houston Rockets @ Boston Celtics,b406e64442d9cccd0d36a3ff6ba0aa86,2025-11-02T00:10:00Z,2025-11-02T00:00:39Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,650,51
+401810005,2025-11-02,Utah Jazz @ Charlotte Hornets,c48d638dc464add981a4016759f31262,2025-11-02T23:00:00Z,2025-11-02T22:50:38Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,550,51
+401810009,2025-11-02,San Antonio Spurs @ Phoenix Suns,c6d2116d84581cd75fb1360aef5efb6e,2025-11-03T01:00:00Z,2025-11-03T00:50:38Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,682,50
+401810013,2025-11-03,Utah Jazz @ Boston Celtics,08e29200254c376c5f4af4a9b18b9d24,2025-11-04T00:40:00Z,2025-11-04T00:30:38Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,608,51
+401810017,2025-11-03,Sacramento Kings @ Denver Nuggets,34f945e9809f0f47a9ea3af857fd899b,2025-11-04T02:00:00Z,2025-11-04T01:50:38Z,ok,ladbrokes_au pointsbetau sportsbet tab unibet,694,50
