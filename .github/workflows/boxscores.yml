@@ -37,6 +37,7 @@ jobs:
           python settle.py || echo "settle failed"
           python clv.py || echo "clv report failed"
           python picks.py settle || echo "pick log settle failed"
+          python shadow.py || echo "shadow report failed"
       - name: Commit box scores
         if: ${{ !cancelled() }}
         run: |

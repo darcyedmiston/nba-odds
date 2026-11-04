@@ -31,6 +31,11 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python fetch_odds.py
+      - name: Reference prices for the shadow report (the model doesn't read them)
+        if: ${{ github.event.inputs.pull_odds != 'false' }}
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python fetch_reference.py || echo "reference pull failed - model unaffected"
       - name: Update game logs (last 4 days)
         run: python build_gamelogs.py --recent 4
       - name: Injuries
