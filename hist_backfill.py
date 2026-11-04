@@ -30,6 +30,7 @@ SEASON = "2025-26"
 CREDIT_CAP = 15000       # approved budget for the whole backfill
 MIN_REMAINING = 3000     # never touch what the daily pipeline needs
 COST_PER_GAME = 50
+PILOT_LOST = 153         # pilot credits whose data wasn't saved (the folder was missing)
 OUT = Path(f"data/hist_odds/{SEASON}.csv.gz")
 GAMES = Path(f"data/hist_odds/{SEASON}_games.csv")
 ROW_FIELDS = ["game_id", "date_us", "tip_utc", "snapshot", "game", "bookmaker", "market", "player",
@@ -82,9 +83,11 @@ def load_done():
 
 
 def save(new_rows, done):
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    is_new = not OUT.exists()
     with gzip.open(OUT, "at", newline="") as f:
         w = csv.DictWriter(f, fieldnames=ROW_FIELDS)
-        if f.tell() == 0 and not OUT.stat().st_size:
+        if is_new:
             w.writeheader()
         w.writerows(new_rows)
     with open(GAMES, "w", newline="") as f:
@@ -112,10 +115,10 @@ def main():
     a = ap.parse_args()
     games = season_games()
     days = {g["date_us"] for g in sample(games, 295)}
-    target = (CREDIT_CAP - len(days)) // COST_PER_GAME
+    target = (CREDIT_CAP - PILOT_LOST - len(days)) // COST_PER_GAME
     chosen = sample(games, target)
     done = load_done()
-    spent = sum(int(r["cost"] or 0) for r in done.values())
+    spent = PILOT_LOST + sum(int(r["cost"] or 0) for r in done.values())
     todo = [g for g in chosen if g["game_id"] not in done]
     if a.limit:
         todo = [todo[int(i * len(todo) / a.limit)] for i in range(a.limit)]
