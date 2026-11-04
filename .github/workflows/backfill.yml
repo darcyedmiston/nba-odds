@@ -1,17 +1,18 @@
 name: NBA game-log backfill
 
-# Branch-only version for the one-off historical odds pull. Not for merging as is.
+# One-off: build a whole season's player game logs from ESPN box scores.
 on:
   workflow_dispatch:
     inputs:
-      limit:
-        default: "0"
+      season:
+        description: "Season to backfill, e.g. 2025-26"
+        default: "2025-26"
 
 permissions:
   contents: write
 
 concurrency:
-  group: hist-backfill
+  group: repo-commits
   cancel-in-progress: false
 
 jobs:
@@ -23,9 +24,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - env:
-          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      - name: Backfill
+        run: python -u build_gamelogs.py --season "${{ github.event.inputs.season }}"
+      - name: Commit
         run: |
           git config user.name "odds-bot"
           git config user.email "odds-bot@users.noreply.github.com"
-          python -u hist_backfill.py --limit ${{ github.event.inputs.limit }}
+          git add -A
+          git diff --cached --quiet || git commit -m "Game logs ${{ github.event.inputs.season }}"
+          git pull --rebase && git push
