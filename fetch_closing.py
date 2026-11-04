@@ -23,6 +23,7 @@ KEY = os.environ["ODDS_API_KEY"]
 MARKETS = "player_points,player_rebounds,player_assists,player_threes,player_points_rebounds_assists"
 MELB = timezone(timedelta(hours=11))  # AEDT; switch to +10 in April
 LEAD_MIN = int(os.environ.get("LEAD_MIN", "5"))
+MAX_RUN_MIN = 330  # closing.yml stops at 355; hand over to a new run before then
 FIELDS = ["date_melb", "tipoff_melb", "game", "bookmaker", "market", "player",
           "side", "line", "odds", "last_update", "captured_utc", "minutes_to_tip"]
 
@@ -49,6 +50,7 @@ def commit(path, msg):
 def main():
     wanted = [t.strip().lower() for t in os.environ.get("GAMES", "").split(",") if t.strip()]
     now = datetime.now(timezone.utc)
+    started = now
     events, _, _ = get(f"{API}/events?apiKey={KEY}")  # free endpoint
     slate = []
     for e in events:
@@ -69,9 +71,22 @@ def main():
     if not path.exists():
         with open(path, "w", newline="") as f:
             csv.DictWriter(f, fieldnames=FIELDS).writeheader()
+    with open(path, newline="") as f:
+        captured_games = {r["game"] for r in csv.DictReader(f)}
 
     for tip, e in slate:
+        if f"{e['away_team']} @ {e['home_team']}" in captured_games:
+            print(f"already captured {e['away_team']} @ {e['home_team']}")
+            continue
         wait = (tip - timedelta(minutes=LEAD_MIN) - datetime.now(timezone.utc)).total_seconds()
+        elapsed = (datetime.now(timezone.utc) - started).total_seconds()
+        if elapsed + wait > MAX_RUN_MIN * 60:
+            # Use up this run first, so a fresh run can't hand over straight away in a loop.
+            print("next capture is past the job limit, handing over to a new run")
+            time.sleep(max(MAX_RUN_MIN * 60 - elapsed, 0))
+            subprocess.run(["gh", "workflow", "run", "closing.yml", "-f", f"games={os.environ.get('GAMES', '')}",
+                            "-f", f"lead_min={LEAD_MIN}"], check=True)
+            return
         if wait > 0:
             print(f"waiting {wait / 60:.0f} min for {e['away_team']} @ {e['home_team']}")
             time.sleep(wait)

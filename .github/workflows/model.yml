@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: repo-commits
@@ -36,6 +37,10 @@ jobs:
         run: python fetch_injuries.py || echo "injury pull failed - model runs without it"
       - name: Score the slate
         run: python model.py
+      - name: Plan the day from the first tip-off
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python plan_day.py || echo "planning failed - scans keep yesterday's timing"
       - name: Commit
         run: |
           git config user.name "odds-bot"
@@ -43,3 +48,9 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "Model slate $(date -u +%F)"
           git pull --rebase && git push
+      - name: Start the timed refresh
+        if: ${{ github.event.inputs.pull_odds != 'false' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run refresh.yml || echo "could not start the timed refresh"

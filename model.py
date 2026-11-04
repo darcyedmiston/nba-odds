@@ -37,6 +37,7 @@ if _pp.exists():
 VERSION = "v4.1"
 WEIGHTS = {"D1": .20, "D2": .20, "D3": .15, "D4": .15, "D5": .10, "D6": .10, "D7": .05, "D8": .05}
 MIN_ODDS = 1.55
+MAX_ODDS = 3.00
 SHRINK = 0.8          # pull model probabilities toward 50% until calibrated
 STAT_SCALE = {"pts": 1.0, "pra": 1.3, "reb": 0.5, "ast": 0.5, "threes": 0.27}
 LINE_STEP = {"pts": 1.0, "pra": 1.0, "reb": 0.5, "ast": 0.5, "threes": 0.5}
@@ -158,10 +159,9 @@ def main_lines(rows):
         if both:
             ln = min(both, key=lambda x: abs(both[x]["over"] - both[x]["under"]))
             out[book] = {"line": ln, "over": both[ln]["over"], "under": both[ln]["under"]}
-        else:  # over-only books: keep a single near-even line, skip alternate ladders
-            ok = [ln for ln, p in lines.items() if 1.6 <= p.get("over", 0) <= 2.4]
-            if len(ok) == 1:
-                out[book] = {"line": ok[0], "over": lines[ok[0]]["over"], "under": None}
+        # Over-only books (BetRight's 5-point ladders) have no balanced main line, so
+        # they're left out. Counting a rung as a main line skewed the median and D8,
+        # and dropped the Under whenever the rung was the highest line.
     return out
 
 
@@ -392,6 +392,8 @@ def score_player_market(logs, pkey, stat, team, opp, slate_us, inj, game_ctx, ma
             f.append("soft at one book only - may be stale")
         if odds < MIN_ODDS:
             tier, _ = "Pass", f.append("odds below 1.55")
+        elif odds > MAX_ODDS:
+            tier, _ = "Pass", f.append("odds above 3.00")
         if s == "out":
             tier, _ = "Void", f.append("player OUT")
         elif s in GTD and tier in ("Diff 4", "Diff 3"):
@@ -523,12 +525,28 @@ def main():
         w = csv.DictWriter(f, fieldnames=fields)
         w.writeheader()
         w.writerows(results)
+    write_paper_selections(slate, results)
     write_summary(slate, results, skipped, logs, games, ctx)
     tiers = defaultdict(int)
     for r in results:
         tiers[(r["side"], r["tier"])] += 1
     print(f"{slate}: {len(games)} games, {len(results)} scored props, skipped {sum(map(len, skipped.values()))}")
     print(dict(tiers))
+
+
+def write_paper_selections(slate, results):
+    """The day's Diff 4 / Diff 3 Overs: the model's picks before any human or Claude review."""
+    fields = ["date_melb", "tipoff_melb", "game", "player", "market", "side", "line", "odds", "book",
+              "n_books_at_line", "n_books", "median_line", "implied", "model_prob", "ev_pct", "proj",
+              "proj_min", "status", "D1", "D2", "D3", "D4", "D5", "D6", "D7", "D8", "ces", "tier",
+              "flags", "model_version"]
+    picks = [r for r in results if r["side"] == "Over" and r["tier"] in ("Diff 4", "Diff 3")]
+    out = Path("model/paper_selections")
+    out.mkdir(parents=True, exist_ok=True)
+    with open(out / f"{slate.isoformat()}.csv", "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        w.writeheader()
+        w.writerows(picks)
 
 
 def write_summary(slate, results, skipped, logs, games, ctx):
