@@ -6,6 +6,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from model import best_option, main_lines
+from picks import settle_row, stakes
 from plan_day import build_plan, decide
 
 
@@ -64,6 +65,45 @@ class Plan(unittest.TestCase):
         now = datetime(2026, 11, 4, tzinfo=timezone.utc)
         self.assertIsNone(build_plan([], now))
         self.assertEqual(decide(None, now), (0, False, False, False))
+
+
+class Settle(unittest.TestCase):
+    def row(self, **kw):
+        base = {"player_key": "a b", "stat": "pts", "side": "Over", "line": "10.5", "odds": "1.90",
+                "actual": "", "margin": "", "result": "", "pnl_flat10": ""}
+        return {**base, **kw}
+
+    final = {"status": "Final", "minutes": "30", "pts": "12"}
+
+    def test_win(self):
+        r = self.row()
+        settle_row(r, {"a b": self.final})
+        self.assertEqual((r["actual"], r["result"], r["pnl_flat10"], r["margin"]), ("12", "Win", "9.00", "+1.5"))
+
+    def test_under_loses_when_stat_is_over(self):
+        r = self.row(side="Under")
+        settle_row(r, {"a b": self.final})
+        self.assertEqual((r["result"], r["pnl_flat10"]), ("Loss", "-10.00"))
+
+    def test_hand_result_is_kept(self):
+        r = self.row(actual="9", result="Win")
+        settle_row(r, {"a b": self.final})
+        self.assertEqual((r["actual"], r["result"]), ("9", "Win"))
+
+    def test_absent_player_voids_only_when_games_are_final(self):
+        r = self.row()
+        settle_row(r, {"c d": {"status": "In Progress"}})
+        self.assertEqual(r["result"], "")
+        settle_row(r, {"c d": self.final})
+        self.assertEqual(r["result"], "Void")
+
+    def test_stakes_follow_tier_and_cap(self):
+        r = stakes({"date_melb": "2026-11-05", "tier": "Diff 4", "placed": "Paper"})
+        self.assertEqual((r["model_stake"], r["rec_stake"]), (15, 10))
+        r = stakes({"date_melb": "2026-11-07", "tier": "Diff 4", "placed": "Paper"})
+        self.assertEqual(r["rec_stake"], 15)
+        r = stakes({"date_melb": "2026-11-07", "tier": "Watchlist", "placed": "No"})
+        self.assertEqual((r["rec_stake"], r["actual_stake"]), (0, ""))
 
 
 if __name__ == "__main__":

@@ -37,6 +37,8 @@ jobs:
         run: python fetch_injuries.py || echo "injury pull failed - model runs without it"
       - name: Score the slate
         run: python model.py
+      - name: Log the model's picks
+        run: python picks.py log-model --source scan
       - name: Plan the day from the first tip-off
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
