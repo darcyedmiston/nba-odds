@@ -466,8 +466,9 @@ def main():
     args = ap.parse_args()
 
     odds = read_csv(args.odds)
-    if not odds:
-        raise SystemExit(f"no odds in {args.odds}")
+    if not odds:  # a day with no games isn't an error
+        print(f"no odds in {args.odds}, nothing to score")
+        return
     slate = date.fromisoformat(args.as_of or odds[0]["date_melb"])
     odds = [r for r in odds if r["date_melb"] == slate.isoformat() and r["market"] in MARKETS]
     slate_us = melb_to_us(slate)

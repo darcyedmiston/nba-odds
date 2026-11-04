@@ -36,6 +36,7 @@ jobs:
           python build_gamelogs.py --recent 3 || echo "game-log update failed"
           python settle.py || echo "settle failed"
           python clv.py || echo "clv report failed"
+          python picks.py settle || echo "pick log settle failed"
       - name: Commit box scores
         if: ${{ !cancelled() }}
         run: |
