@@ -1,0 +1,90 @@
+name: NBA timed refresh (first tip - 90 min)
+
+# Started by model.yml after the morning run. Waits until 90 minutes before the
+# day's first tip-off, re-pulls the full slate and re-scores it (catching props posted
+# after the morning pull), then starts the closing-line capture for every game.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  wait:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    # A newer plan replaces any job still waiting. Waiting stays out of the
+    # repo-commits group so it never holds up the other jobs.
+    concurrency:
+      group: day-plan
+      cancel-in-progress: true
+    outputs:
+      pull: ${{ steps.plan.outputs.pull }}
+      closing: ${{ steps.plan.outputs.closing }}
+      again: ${{ steps.plan.outputs.again }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - id: plan
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python -u plan_day.py --wait
+
+  pull:
+    needs: wait
+    if: ${{ needs.wait.outputs.pull == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    concurrency:
+      group: repo-commits
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Keep the morning snapshot
+        run: |
+          D=$(TZ=Australia/Melbourne date +%F)
+          mkdir -p odds/morning model/scored_morning model/paper_selections
+          [ -f "odds/$D.csv" ] && cp "odds/$D.csv" "odds/morning/$D.csv"
+          [ -f "model/scored/$D.csv" ] && cp "model/scored/$D.csv" "model/scored_morning/$D.csv"
+          [ -f "model/paper_selections/$D.csv" ] && cp "model/paper_selections/$D.csv" "model/paper_selections/${D}_morning.csv"
+          true
+      - name: Pull odds
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python fetch_odds.py
+      - name: Injuries
+        run: python fetch_injuries.py || echo "injury pull failed - model runs without it"
+      - name: Score the slate
+        run: python model.py
+      - name: Commit
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Timed refresh $(date -u +%F)"
+          git pull --rebase && git push
+
+  next:
+    needs: [wait, pull]
+    # Closing lines still start if the refresh pull fails.
+    if: ${{ always() && needs.wait.result == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Restart the wait
+        if: ${{ needs.wait.outputs.again == 'true' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run refresh.yml
+      - name: Start closing lines
+        if: ${{ needs.wait.outputs.closing == 'true' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run closing.yml -f games= -f lead_min=5

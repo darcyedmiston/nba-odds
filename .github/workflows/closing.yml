@@ -1,6 +1,7 @@
 name: NBA closing lines (CLV)
 
-# Started by the 9:35am pre-tip check with the teams that have picks.
+# Started by refresh.yml for every game (or by a pre-tip check with chosen teams).
+# Restarts itself if the wait would pass GitHub's 6-hour job limit.
 # Waits until 5 min before each tip-off and saves that game's lines to
 # odds/closing/<date>.csv. Public repo, so the waiting is free.
 on:
@@ -15,6 +16,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: closing-lines
@@ -34,6 +36,8 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           GAMES: ${{ github.event.inputs.games }}
           LEAD_MIN: ${{ github.event.inputs.lead_min || '5' }}
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
         run: |
           git config user.name "odds-bot"
           git config user.email "odds-bot@users.noreply.github.com"
