@@ -1,14 +1,14 @@
 # CLV split: line shopping vs market movement
 
-4621 props across 6 slates. A positive market move means the market moved towards the pick. Samples under ~300 are noise.
+6301 props across 7 slates. A positive market move means the market moved towards the pick. Samples under ~300 are noise.
 
 | Side / tier | n | Avg line shop | Avg market move | Moved our way | Moved against | Flat |
 |---|---|---|---|---|---|---|
-| Over / Diff 4 | 36 | +0.42 | +0.00 | 13.9% | 13.9% | 72.2% |
-| Over / Diff 3 | 42 | +0.35 | +0.00 | 9.5% | 4.8% | 85.7% |
-| Over / Watchlist | 874 | +0.22 | +0.06 | 16.4% | 11.3% | 72.3% |
-| Over / Pass | 1384 | +0.18 | -0.03 | 8.0% | 12.1% | 79.8% |
-| Under / Diff 4 | 46 | +0.38 | +0.10 | 19.6% | 6.5% | 73.9% |
-| Under / Diff 3 | 174 | +0.28 | +0.11 | 21.3% | 8.6% | 70.1% |
-| Under / Watchlist | 331 | +0.22 | +0.03 | 12.4% | 8.8% | 78.9% |
-| Under / Pass | 1712 | +0.17 | -0.03 | 9.1% | 12.0% | 79.0% |
+| Over / Diff 4 | 53 | +0.43 | +0.02 | 18.9% | 15.1% | 66.0% |
+| Over / Diff 3 | 53 | +0.36 | -0.05 | 9.4% | 11.3% | 79.2% |
+| Over / Watchlist | 1229 | +0.23 | +0.03 | 14.7% | 12.1% | 73.1% |
+| Over / Pass | 1837 | +0.18 | -0.03 | 8.4% | 12.5% | 79.2% |
+| Under / Diff 4 | 58 | +0.37 | +0.09 | 17.2% | 5.2% | 77.6% |
+| Under / Diff 3 | 234 | +0.30 | +0.09 | 20.9% | 11.1% | 67.9% |
+| Under / Watchlist | 475 | +0.24 | +0.02 | 13.1% | 10.1% | 76.8% |
+| Under / Pass | 2332 | +0.18 | -0.01 | 10.2% | 11.2% | 78.5% |
