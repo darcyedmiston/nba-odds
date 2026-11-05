@@ -1,0 +1,5 @@
+date_melb,tipoff_melb,game,player,market,side,line,odds,book,n_books_at_line,n_books,median_line,implied,model_prob,ev_pct,proj,proj_min,status,D1,D2,D3,D4,D5,D6,D7,D8,ces,tier,flags,model_version
+2026-11-06,14:10,Miami Heat @ Golden State Warriors,Stephen Curry,player_threes,Over,3.5,1.64,neds,2,5,4.5,0.61,0.673,10.3,4.9,29.4,,2,1,0,1,1,2,2,1,1.2,Diff 4,key teammates out: gui santos,v4.1
+2026-11-06,14:10,Miami Heat @ Golden State Warriors,Brandin Podziemski,player_points,Over,15.5,1.78,sportsbet,1,5,16.5,0.562,0.604,7.5,17.4,32.5,,0,2,2,0,1,2,2,1,1.15,Diff 3,key teammates out: gui santos; soft at one book only - may be stale,v4.1
+2026-11-06,13:10,Orlando Magic @ Phoenix Suns,Devin Booker,player_assists,Over,4.5,1.8,neds,4,6,4.5,0.556,0.621,11.8,5.4,33.6,,1,1,2,1,0,0,0,0,0.85,Diff 3,back-to-back,v4.1
+2026-11-06,13:10,Orlando Magic @ Phoenix Suns,Dillon Brooks,player_points,Over,15.5,1.83,unibet,2,6,16.5,0.546,0.611,11.8,17.9,29.5,,2,1,0,1,0,0,0,1,0.8,Diff 3,back-to-back,v4.1
