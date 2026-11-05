@@ -1785,3 +1785,934 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-05,11:10,Atlanta Hawks @ Washington Wizards,unibet,player_threes,Trae Young,Under,2.5,1.5,2026-11-05T00:04:36Z,2026-11-05T00:05:00+00:00,5.0
 2026-11-05,11:10,Atlanta Hawks @ Washington Wizards,unibet,player_threes,Kingston Flemings,Over,0.5,1.54,2026-11-05T00:04:36Z,2026-11-05T00:05:00+00:00,5.0
 2026-11-05,11:10,Atlanta Hawks @ Washington Wizards,unibet,player_threes,Kingston Flemings,Under,0.5,2.38,2026-11-05T00:04:36Z,2026-11-05T00:05:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Brandon Miller,Over,3.5,2.4,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Brandon Miller,Under,3.5,1.52,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Julius Randle,Over,4.5,1.64,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Julius Randle,Under,4.5,2.15,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Naz Reid,Over,2.5,2.5,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Naz Reid,Under,2.5,1.48,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Kon Knueppel,Over,2.5,2.1,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Kon Knueppel,Under,2.5,1.68,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Coby White,Over,3.5,2.25,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Coby White,Under,3.5,1.58,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Grayson Allen,Over,2.5,2.15,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Grayson Allen,Under,2.5,1.64,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Dennis Schroder,Over,3.5,1.76,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Dennis Schroder,Under,3.5,2.02,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Michael Porter Jr,Over,1.5,1.72,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Michael Porter Jr,Under,1.5,2.08,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Day'Ron Sharpe,Over,2.5,2.45,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Day'Ron Sharpe,Under,2.5,1.5,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Mikel Brown Jr.,Over,3.5,1.74,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_assists,Mikel Brown Jr.,Under,3.5,2.05,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Naz Reid,Over,15.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Naz Reid,Under,15.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Brandon Miller,Over,22.5,1.86,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Brandon Miller,Under,22.5,1.9,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Julius Randle,Over,20.5,1.88,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Julius Randle,Under,20.5,1.88,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Michael Porter Jr,Over,20.5,1.85,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Michael Porter Jr,Under,20.5,1.92,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Kon Knueppel,Over,12.5,1.83,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Kon Knueppel,Under,12.5,1.93,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Moussa Diabate,Over,8.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Moussa Diabate,Under,8.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Coby White,Over,12.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Coby White,Under,12.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Grayson Allen,Over,10.5,1.84,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Grayson Allen,Under,10.5,1.92,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Dennis Schroder,Over,7.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Dennis Schroder,Under,7.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Nolan Traore,Over,10.5,1.88,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Nolan Traore,Under,10.5,1.88,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Day'Ron Sharpe,Over,7.5,1.84,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Day'Ron Sharpe,Under,7.5,1.92,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Mikel Brown Jr.,Over,12.5,1.88,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Mikel Brown Jr.,Under,12.5,1.88,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Moritz Wagner,Over,9.5,1.91,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Moritz Wagner,Under,9.5,1.85,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Noah Clowney,Over,5.5,1.78,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points,Noah Clowney,Under,5.5,2.0,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Brandon Miller,Over,31.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Brandon Miller,Under,31.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Julius Randle,Over,32.5,1.87,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Julius Randle,Under,32.5,1.89,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Naz Reid,Over,24.5,1.83,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Naz Reid,Under,24.5,1.93,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Moussa Diabate,Over,19.5,1.88,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Moussa Diabate,Under,19.5,1.88,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Kon Knueppel,Over,18.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Kon Knueppel,Under,18.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Coby White,Over,17.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Coby White,Under,17.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Grayson Allen,Over,15.5,1.83,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Grayson Allen,Under,15.5,1.93,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Dennis Schroder,Over,14.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Dennis Schroder,Under,14.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Over,28.5,1.84,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Under,28.5,1.92,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Nolan Traore,Over,16.5,1.91,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Nolan Traore,Under,16.5,1.85,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Over,17.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Under,17.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Under,19.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Brandon Miller,Over,5.5,2.2,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Brandon Miller,Under,5.5,1.6,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Naz Reid,Over,7.5,2.02,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Naz Reid,Under,7.5,1.76,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Michael Porter Jr,Over,6.5,2.1,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Michael Porter Jr,Under,6.5,1.68,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Julius Randle,Over,6.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Julius Randle,Under,6.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Moussa Diabate,Over,8.5,1.78,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Moussa Diabate,Under,8.5,2.0,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Kon Knueppel,Over,3.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Kon Knueppel,Under,3.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Coby White,Over,2.5,2.1,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Coby White,Under,2.5,1.68,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Grayson Allen,Over,2.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Grayson Allen,Under,2.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Dennis Schroder,Over,2.5,2.15,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Dennis Schroder,Under,2.5,1.64,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Day'Ron Sharpe,Over,6.5,1.72,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Day'Ron Sharpe,Under,6.5,2.08,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Mikel Brown Jr.,Over,2.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Mikel Brown Jr.,Under,2.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Moritz Wagner,Over,4.5,2.15,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Moritz Wagner,Under,4.5,1.64,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Noah Clowney,Over,3.5,1.85,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_rebounds,Noah Clowney,Under,3.5,1.91,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Naz Reid,Over,2.5,2.3,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Naz Reid,Under,2.5,1.56,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Brandon Miller,Over,3.5,2.08,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Brandon Miller,Under,3.5,1.72,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Julius Randle,Over,1.5,1.96,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Julius Randle,Under,1.5,1.8,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Michael Porter Jr,Over,2.5,1.76,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Michael Porter Jr,Under,2.5,2.02,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Kon Knueppel,Over,2.5,2.15,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Kon Knueppel,Under,2.5,1.64,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Coby White,Over,1.5,1.72,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Coby White,Under,1.5,2.08,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Grayson Allen,Over,2.5,2.25,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Grayson Allen,Under,2.5,1.58,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Nolan Traore,Over,1.5,2.15,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Nolan Traore,Under,1.5,1.64,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Mikel Brown Jr.,Over,1.5,1.72,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Mikel Brown Jr.,Under,1.5,2.08,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Noah Clowney,Over,0.5,1.56,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Noah Clowney,Under,0.5,2.4,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Moritz Wagner,Over,0.5,1.64,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,sportsbet,player_threes,Moritz Wagner,Under,0.5,2.15,2026-11-05T00:24:35Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Brandon Miller,Over,2.5,1.57,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Brandon Miller,Under,2.5,2.35,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Coby White,Over,3.5,2.05,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Coby White,Under,3.5,1.74,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Day'Ron Sharpe,Over,1.5,1.5,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Day'Ron Sharpe,Under,1.5,2.5,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Dennis Schroder,Over,3.5,1.67,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Dennis Schroder,Under,3.5,2.2,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Grayson Allen,Over,2.5,2.25,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Grayson Allen,Under,2.5,1.63,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Julius Randle,Over,4.5,1.67,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Julius Randle,Under,4.5,2.2,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Kon Knueppel,Over,2.5,2.25,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Kon Knueppel,Under,2.5,1.63,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Mikel Brown Jr.,Over,3.5,1.71,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Mikel Brown Jr.,Under,3.5,2.1,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Naz Reid,Over,2.5,2.35,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Naz Reid,Under,2.5,1.57,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Nolan Traore,Over,3.5,1.77,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_assists,Nolan Traore,Under,3.5,2.0,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Brandon Miller,Over,22.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Brandon Miller,Under,22.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Coby White,Over,11.5,1.8,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Coby White,Under,11.5,2.05,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Day'Ron Sharpe,Over,7.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Day'Ron Sharpe,Under,7.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Dennis Schroder,Over,7.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Dennis Schroder,Under,7.5,2.0,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Grayson Allen,Over,10.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Grayson Allen,Under,10.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Julius Randle,Over,20.5,1.95,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Julius Randle,Under,20.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Kon Knueppel,Over,12.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Kon Knueppel,Under,12.5,2.0,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Michael Porter Jr,Over,20.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Michael Porter Jr,Under,20.5,2.0,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Mikel Brown Jr.,Over,12.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Mikel Brown Jr.,Under,12.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Moritz Wagner,Over,9.5,1.95,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Moritz Wagner,Under,9.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Moussa Diabate,Over,8.5,2.0,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Moussa Diabate,Under,8.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Naz Reid,Over,14.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Naz Reid,Under,14.5,2.0,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Noah Clowney,Over,5.5,1.77,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Noah Clowney,Under,5.5,2.1,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Nolan Traore,Over,10.5,1.95,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points,Nolan Traore,Under,10.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Brandon Miller,Over,30.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Brandon Miller,Under,30.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Coby White,Over,18.5,1.95,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Coby White,Under,18.5,1.8,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Day'Ron Sharpe,Over,17.5,2.05,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Day'Ron Sharpe,Under,17.5,1.74,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Dennis Schroder,Over,14.5,1.95,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Dennis Schroder,Under,14.5,1.8,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Grayson Allen,Over,15.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Grayson Allen,Under,15.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Julius Randle,Over,32.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Julius Randle,Under,32.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Kon Knueppel,Over,18.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Kon Knueppel,Under,18.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Mikel Brown Jr.,Under,19.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Naz Reid,Over,24.5,1.8,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Naz Reid,Under,24.5,1.95,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Nolan Traore,Over,16.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Nolan Traore,Under,16.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Brandon Miller,Over,4.5,1.71,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Brandon Miller,Under,4.5,2.1,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Coby White,Over,2.5,1.95,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Coby White,Under,2.5,1.8,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Day'Ron Sharpe,Over,6.5,1.69,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Day'Ron Sharpe,Under,6.5,2.15,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Dennis Schroder,Over,2.5,2.2,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Dennis Schroder,Under,2.5,1.67,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Grayson Allen,Over,2.5,2.0,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Grayson Allen,Under,2.5,1.77,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Julius Randle,Over,6.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Julius Randle,Under,6.5,1.87,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Kon Knueppel,Over,3.5,1.95,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Kon Knueppel,Under,3.5,1.8,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Michael Porter Jr,Over,6.5,2.15,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Michael Porter Jr,Under,6.5,1.69,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Mikel Brown Jr.,Over,2.5,1.8,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Mikel Brown Jr.,Under,2.5,1.95,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Moritz Wagner,Over,4.5,2.05,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Moritz Wagner,Under,4.5,1.74,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Moussa Diabate,Over,8.5,1.77,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Moussa Diabate,Under,8.5,2.0,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Naz Reid,Over,7.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Naz Reid,Under,7.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Noah Clowney,Over,3.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Noah Clowney,Under,3.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Nolan Traore,Over,2.5,2.4,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_rebounds,Nolan Traore,Under,2.5,1.56,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Julius Randle,Over,1.5,1.9,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Julius Randle,Under,1.5,1.83,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Michael Porter Jr,Over,2.5,1.69,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Michael Porter Jr,Under,2.5,2.15,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Naz Reid,Over,2.5,2.35,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Naz Reid,Under,2.5,1.57,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Brandon Miller,Over,3.5,2.05,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Brandon Miller,Under,3.5,1.74,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Kon Knueppel,Over,2.5,2.15,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Kon Knueppel,Under,2.5,1.69,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Grayson Allen,Over,2.5,2.45,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Grayson Allen,Under,2.5,1.53,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Coby White,Over,1.5,1.69,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Coby White,Under,1.5,2.15,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Nolan Traore,Over,1.5,2.25,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Nolan Traore,Under,1.5,1.63,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Mikel Brown Jr.,Over,1.5,1.71,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Mikel Brown Jr.,Under,1.5,2.1,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Moritz Wagner,Over,0.5,1.59,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Moritz Wagner,Under,0.5,2.3,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Noah Clowney,Over,0.5,1.44,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,pointsbetau,player_threes,Noah Clowney,Under,0.5,2.65,2026-11-05T00:23:58Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Brandon Miller,Over,3.5,2.05,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Brandon Miller,Under,3.5,1.72,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Dennis Schroder,Over,3.5,1.75,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Dennis Schroder,Under,3.5,2.0,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Day'Ron Sharpe,Over,2.5,2.3,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Day'Ron Sharpe,Under,2.5,1.58,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Grayson Allen,Over,2.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Grayson Allen,Under,2.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Julius Randle,Over,4.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Julius Randle,Under,4.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Kon Knueppel,Over,2.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Kon Knueppel,Under,2.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Mikel Brown Jr.,Over,4.5,2.25,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Mikel Brown Jr.,Under,4.5,1.6,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Moussa Diabate,Over,2.5,2.7,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Moussa Diabate,Under,2.5,1.44,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Michael Porter Jr,Over,2.5,2.5,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Michael Porter Jr,Under,2.5,1.5,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Noah Clowney,Over,1.5,2.7,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Noah Clowney,Under,1.5,1.44,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Naz Reid,Over,2.5,2.2,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Naz Reid,Under,2.5,1.62,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Nolan Traore,Over,4.5,2.2,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_assists,Nolan Traore,Under,4.5,1.62,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Brandon Miller,Over,22.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Brandon Miller,Under,22.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Coby White,Over,12.5,1.75,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Coby White,Under,12.5,2.0,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Dennis Schroder,Over,7.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Dennis Schroder,Under,7.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Day'Ron Sharpe,Over,7.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Day'Ron Sharpe,Under,7.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Grayson Allen,Over,11.5,2.0,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Grayson Allen,Under,11.5,1.75,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Julius Randle,Over,19.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Julius Randle,Under,19.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Kon Knueppel,Over,13.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Kon Knueppel,Under,13.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Mikel Brown Jr.,Over,12.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Mikel Brown Jr.,Under,12.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Moussa Diabate,Over,8.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Moussa Diabate,Under,8.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Michael Porter Jr,Over,21.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Michael Porter Jr,Under,21.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Noah Clowney,Over,5.5,1.87,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Noah Clowney,Under,5.5,1.87,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Naz Reid,Over,15.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points,Naz Reid,Under,15.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Brandon Miller,Over,31.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Brandon Miller,Under,31.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Dennis Schroder,Over,13.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Dennis Schroder,Under,13.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Day'Ron Sharpe,Over,17.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Day'Ron Sharpe,Under,17.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Grayson Allen,Over,16.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Grayson Allen,Under,16.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Julius Randle,Over,31.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Julius Randle,Under,31.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Kon Knueppel,Over,19.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Kon Knueppel,Under,19.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Mikel Brown Jr.,Under,19.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Moussa Diabate,Over,19.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Moussa Diabate,Under,19.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Michael Porter Jr,Over,29.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Michael Porter Jr,Under,29.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Noah Clowney,Over,10.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Noah Clowney,Under,10.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Naz Reid,Over,24.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Naz Reid,Under,24.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Nolan Traore,Over,16.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_points_rebounds_assists,Nolan Traore,Under,16.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Brandon Miller,Over,5.5,2.35,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Brandon Miller,Under,5.5,1.55,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Coby White,Over,2.5,2.0,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Coby White,Under,2.5,1.75,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Dennis Schroder,Over,2.5,2.45,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Dennis Schroder,Under,2.5,1.52,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Day'Ron Sharpe,Over,7.5,2.1,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Day'Ron Sharpe,Under,7.5,1.68,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Grayson Allen,Over,2.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Grayson Allen,Under,2.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Julius Randle,Over,6.5,1.87,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Julius Randle,Under,6.5,1.87,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Kon Knueppel,Over,3.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Kon Knueppel,Under,3.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Mikel Brown Jr.,Over,2.5,1.75,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Mikel Brown Jr.,Under,2.5,2.0,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Moussa Diabate,Over,9.5,2.0,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Moussa Diabate,Under,9.5,1.75,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Michael Porter Jr,Over,6.5,1.95,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Michael Porter Jr,Under,6.5,1.8,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Noah Clowney,Over,3.5,1.75,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Noah Clowney,Under,3.5,2.0,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Naz Reid,Over,7.5,2.1,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Naz Reid,Under,7.5,1.68,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Nolan Traore,Over,2.5,2.55,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_rebounds,Nolan Traore,Under,2.5,1.48,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Brandon Miller,Over,3.5,2.05,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Brandon Miller,Under,3.5,1.72,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Coby White,Over,2.5,2.65,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Coby White,Under,2.5,1.45,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Dennis Schroder,Over,0.5,1.53,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Dennis Schroder,Under,0.5,2.4,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Day'Ron Sharpe,Over,0.5,3.7,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Day'Ron Sharpe,Under,0.5,1.25,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Grayson Allen,Over,2.5,2.2,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Grayson Allen,Under,2.5,1.62,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Julius Randle,Over,1.5,1.9,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Julius Randle,Under,1.5,1.85,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Kon Knueppel,Over,2.5,2.0,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Kon Knueppel,Under,2.5,1.75,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Mikel Brown Jr.,Over,1.5,1.65,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Mikel Brown Jr.,Under,1.5,2.15,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Michael Porter Jr,Over,3.5,2.45,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Michael Porter Jr,Under,3.5,1.52,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Noah Clowney,Over,1.5,3.3,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Noah Clowney,Under,1.5,1.3,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Naz Reid,Over,2.5,2.45,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Naz Reid,Under,2.5,1.52,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Nolan Traore,Over,1.5,2.05,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,tab,player_threes,Nolan Traore,Under,1.5,1.72,2026-11-05T00:21:59Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_assists,Julius Randle,Over,4.5,1.65,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_assists,Julius Randle,Under,4.5,2.15,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_assists,Dennis Schroder,Over,3.5,1.67,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_assists,Dennis Schroder,Under,3.5,2.15,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_assists,Coby White,Over,3.5,2.03,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_assists,Coby White,Under,3.5,1.73,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_assists,Nolan Traore,Over,3.5,1.82,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_assists,Nolan Traore,Under,3.5,1.95,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_assists,Mikel Brown Jr.,Over,3.5,1.75,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_assists,Mikel Brown Jr.,Under,3.5,2.0,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Nolan Traore,Over,10.5,1.83,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Nolan Traore,Under,10.5,1.92,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Grayson Allen,Over,10.5,1.92,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Grayson Allen,Under,10.5,1.83,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Moussa Diabate,Over,8.5,1.91,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Moussa Diabate,Under,8.5,1.85,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Kon Knueppel,Over,12.5,1.8,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Kon Knueppel,Under,12.5,1.96,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Brandon Miller,Over,22.5,1.85,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Brandon Miller,Under,22.5,1.91,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Coby White,Over,12.5,1.8,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Coby White,Under,12.5,1.96,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Michael Porter Jr,Over,20.5,1.86,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Michael Porter Jr,Under,20.5,1.87,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Naz Reid,Over,15.5,1.92,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Naz Reid,Under,15.5,1.85,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Moritz Wagner,Over,9.5,1.86,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Moritz Wagner,Under,9.5,1.91,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Mikel Brown Jr.,Over,12.5,1.94,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Mikel Brown Jr.,Under,12.5,1.81,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Julius Randle,Over,20.5,1.83,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points,Julius Randle,Under,20.5,1.94,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Julius Randle,Over,19.5,1.02,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Julius Randle,Over,24.5,1.13,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Julius Randle,Over,29.5,1.45,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Julius Randle,Over,34.5,2.3,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Julius Randle,Over,39.5,4.5,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Brandon Miller,Over,19.5,1.05,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Brandon Miller,Over,24.5,1.22,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Brandon Miller,Over,29.5,1.65,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Brandon Miller,Over,34.5,2.63,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Brandon Miller,Over,39.5,5.25,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Naz Reid,Over,14.5,1.04,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Naz Reid,Over,19.5,1.22,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Naz Reid,Over,24.5,1.78,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Naz Reid,Over,29.5,3.3,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Naz Reid,Over,34.5,7.0,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,15.5,1.3,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,17.5,1.55,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.94,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,21.5,2.5,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,23.5,3.5,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,11.5,1.11,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,13.5,1.26,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,15.5,1.5,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,17.5,1.92,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,19.5,2.6,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Nolan Traore,Over,11.5,1.15,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Nolan Traore,Over,13.5,1.33,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Nolan Traore,Over,15.5,1.62,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Nolan Traore,Over,17.5,2.1,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Nolan Traore,Over,19.5,2.9,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Moussa Diabate,Over,15.5,1.26,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Moussa Diabate,Over,17.5,1.5,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Moussa Diabate,Over,19.5,1.86,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Moussa Diabate,Over,21.5,2.4,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Moussa Diabate,Over,23.5,3.4,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Kon Knueppel,Over,15.5,1.35,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Kon Knueppel,Over,17.5,1.6,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Kon Knueppel,Over,19.5,2.0,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Kon Knueppel,Over,21.5,2.6,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Kon Knueppel,Over,23.5,3.6,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Coby White,Over,15.5,1.33,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Coby White,Over,17.5,1.6,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Coby White,Over,19.5,2.0,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Coby White,Over,21.5,2.63,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Coby White,Over,23.5,3.75,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Grayson Allen,Over,11.5,1.26,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Grayson Allen,Over,13.5,1.5,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Grayson Allen,Over,15.5,1.9,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Grayson Allen,Over,17.5,2.5,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Grayson Allen,Over,19.5,3.5,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Dennis Schroder,Over,9.5,1.17,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Dennis Schroder,Over,11.5,1.4,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Dennis Schroder,Over,13.5,1.8,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Dennis Schroder,Over,15.5,2.4,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_points_rebounds_assists,Dennis Schroder,Over,17.5,3.6,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Michael Porter Jr,Over,6.5,2.1,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Michael Porter Jr,Under,6.5,1.7,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Julius Randle,Over,6.5,1.83,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Julius Randle,Under,6.5,1.92,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Moussa Diabate,Over,8.5,1.73,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Moussa Diabate,Under,8.5,2.05,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Kon Knueppel,Over,3.5,1.88,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Kon Knueppel,Under,3.5,1.88,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Brandon Miller,Over,5.5,2.25,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Brandon Miller,Under,5.5,1.62,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Naz Reid,Over,7.5,1.96,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Naz Reid,Under,7.5,1.8,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Day'Ron Sharpe,Over,7.5,2.05,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Day'Ron Sharpe,Under,7.5,1.7,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Noah Clowney,Over,3.5,1.83,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Noah Clowney,Under,3.5,1.94,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Moritz Wagner,Over,4.5,2.15,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,betright,player_rebounds,Moritz Wagner,Under,4.5,1.67,2026-11-05T00:24:45Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Naz Reid,Over,2.5,2.45,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Naz Reid,Under,2.5,1.5,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Mikel Brown Jr.,Over,3.5,1.65,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Mikel Brown Jr.,Under,3.5,2.16,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Julius Randle,Over,4.5,1.73,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Julius Randle,Under,4.5,2.02,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Moussa Diabate,Over,1.5,1.62,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Moussa Diabate,Under,1.5,2.2,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Michael Porter Jr,Over,1.5,1.67,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Michael Porter Jr,Under,1.5,2.12,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Kon Knueppel,Over,2.5,2.0,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Kon Knueppel,Under,2.5,1.75,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Coby White,Over,3.5,2.04,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Coby White,Under,3.5,1.73,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Brandon Miller,Over,2.5,1.63,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Brandon Miller,Under,2.5,2.2,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Nolan Traore,Over,3.5,1.73,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Nolan Traore,Under,3.5,2.02,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Dennis Schroder,Over,3.5,1.67,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Dennis Schroder,Under,3.5,2.12,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Grayson Allen,Over,2.5,2.02,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Grayson Allen,Under,2.5,1.73,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Day'Ron Sharpe,Over,1.5,1.57,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_assists,Day'Ron Sharpe,Under,1.5,2.25,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Coby White,Over,12.5,1.88,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Coby White,Under,12.5,1.85,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Julius Randle,Over,19.5,1.83,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Julius Randle,Under,19.5,1.89,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Brandon Miller,Over,22.5,1.87,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Brandon Miller,Under,22.5,1.87,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Michael Porter Jr,Over,21.5,1.94,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Michael Porter Jr,Under,21.5,1.8,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Kon Knueppel,Over,12.5,1.78,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Kon Knueppel,Under,12.5,1.96,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Naz Reid,Over,15.5,1.87,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Naz Reid,Under,15.5,1.87,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Dennis Schroder,Over,7.5,1.88,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Dennis Schroder,Under,7.5,1.85,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Grayson Allen,Over,10.5,1.85,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Grayson Allen,Under,10.5,1.88,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Moussa Diabate,Over,8.5,1.95,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Moussa Diabate,Under,8.5,1.78,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Moritz Wagner,Over,9.5,1.92,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Moritz Wagner,Under,9.5,1.82,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Noah Clowney,Over,5.5,1.75,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Noah Clowney,Under,5.5,2.0,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Day'Ron Sharpe,Over,7.5,1.8,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Day'Ron Sharpe,Under,7.5,1.94,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Mikel Brown Jr.,Over,12.5,1.83,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Mikel Brown Jr.,Under,12.5,1.91,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Nolan Traore,Over,10.5,1.85,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points,Nolan Traore,Under,10.5,1.89,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Grayson Allen,Over,16.5,2.0,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Grayson Allen,Under,16.5,1.76,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Nolan Traore,Over,17.5,1.97,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Nolan Traore,Under,17.5,1.77,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Kon Knueppel,Over,19.5,1.89,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Kon Knueppel,Under,19.5,1.83,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Dennis Schroder,Over,14.5,1.96,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Dennis Schroder,Under,14.5,1.78,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Naz Reid,Over,25.5,1.89,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Naz Reid,Under,25.5,1.85,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Coby White,Over,18.5,1.85,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Coby White,Under,18.5,1.88,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Brandon Miller,Over,31.5,1.94,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Brandon Miller,Under,31.5,1.79,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Julius Randle,Over,31.5,1.85,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Julius Randle,Under,31.5,1.88,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Over,17.5,1.96,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Under,17.5,1.78,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Michael Porter Jr,Over,29.5,1.87,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Michael Porter Jr,Under,29.5,1.87,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Over,20.5,2.05,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Under,20.5,1.72,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Moussa Diabate,Over,19.5,1.94,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_points_rebounds_assists,Moussa Diabate,Under,19.5,1.8,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Naz Reid,Over,7.5,1.97,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Naz Reid,Under,7.5,1.77,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Brandon Miller,Over,5.5,2.14,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Brandon Miller,Under,5.5,1.66,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Michael Porter Jr,Over,6.5,2.02,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Michael Porter Jr,Under,6.5,1.74,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Day'Ron Sharpe,Over,7.5,2.1,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Day'Ron Sharpe,Under,7.5,1.68,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Dennis Schroder,Over,2.5,2.17,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Dennis Schroder,Under,2.5,1.64,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Grayson Allen,Over,2.5,1.91,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Grayson Allen,Under,2.5,1.83,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Kon Knueppel,Over,3.5,1.91,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Kon Knueppel,Under,3.5,1.83,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Mikel Brown Jr.,Over,2.5,1.85,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Mikel Brown Jr.,Under,2.5,1.88,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Nolan Traore,Over,2.5,2.28,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Nolan Traore,Under,2.5,1.57,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Moritz Wagner,Over,4.5,2.12,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Moritz Wagner,Under,4.5,1.67,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Noah Clowney,Over,3.5,1.83,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Noah Clowney,Under,3.5,1.91,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Julius Randle,Over,6.5,1.76,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Julius Randle,Under,6.5,1.97,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Coby White,Over,2.5,2.05,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Coby White,Under,2.5,1.72,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Moussa Diabate,Over,8.5,1.88,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_rebounds,Moussa Diabate,Under,8.5,1.85,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Brandon Miller,Over,3.5,2.08,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Brandon Miller,Under,3.5,1.7,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Naz Reid,Over,2.5,2.33,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Naz Reid,Under,2.5,1.56,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Kon Knueppel,Over,2.5,2.25,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Kon Knueppel,Under,2.5,1.6,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Julius Randle,Over,1.5,2.02,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Julius Randle,Under,1.5,1.73,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Coby White,Over,1.5,1.73,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Coby White,Under,1.5,2.04,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Mikel Brown Jr.,Over,1.5,1.7,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Mikel Brown Jr.,Under,1.5,2.08,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Michael Porter Jr,Over,2.5,1.72,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Michael Porter Jr,Under,2.5,2.05,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Nolan Traore,Over,1.5,2.3,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Nolan Traore,Under,1.5,1.56,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Dennis Schroder,Over,0.5,1.61,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Dennis Schroder,Under,0.5,2.23,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Noah Clowney,Over,0.5,1.5,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Noah Clowney,Under,0.5,2.48,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Moritz Wagner,Over,0.5,1.55,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Moritz Wagner,Under,0.5,2.35,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Grayson Allen,Over,2.5,2.28,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,unibet,player_threes,Grayson Allen,Under,2.5,1.57,2026-11-05T00:23:54Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Julius Randle,Over,4.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Julius Randle,Under,4.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Day'Ron Sharpe,Over,2.5,2.3,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Day'Ron Sharpe,Under,2.5,1.55,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Naz Reid,Over,2.5,2.2,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Naz Reid,Under,2.5,1.6,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Coby White,Over,3.5,1.9,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Coby White,Under,3.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Grayson Allen,Over,2.5,1.95,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Grayson Allen,Under,2.5,1.8,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Dennis Schroder,Over,3.5,1.78,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Dennis Schroder,Under,3.5,1.95,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Kon Knueppel,Over,2.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Kon Knueppel,Under,2.5,1.78,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Nolan Traore,Over,4.5,2.2,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Nolan Traore,Under,4.5,1.5,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Mikel Brown Jr.,Over,4.5,2.2,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_assists,Mikel Brown Jr.,Under,4.5,1.62,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Julius Randle,Over,19.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Julius Randle,Under,19.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Day'Ron Sharpe,Over,8.5,1.95,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Day'Ron Sharpe,Under,8.5,1.78,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Naz Reid,Over,14.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Naz Reid,Under,14.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Brandon Miller,Over,22.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Brandon Miller,Under,22.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Kon Knueppel,Over,12.5,1.78,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Kon Knueppel,Under,12.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Moritz Wagner,Over,9.5,1.9,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Moritz Wagner,Under,9.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Grayson Allen,Over,10.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Grayson Allen,Under,10.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Moussa Diabate,Over,8.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Moussa Diabate,Under,8.5,1.77,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Dennis Schroder,Over,7.5,1.78,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Dennis Schroder,Under,7.5,1.95,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Nolan Traore,Over,10.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Nolan Traore,Under,10.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Coby White,Over,13.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Coby White,Under,13.5,1.77,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Chaney Johnson,Over,5.5,1.8,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Chaney Johnson,Under,5.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Michael Porter Jr,Over,20.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Michael Porter Jr,Under,20.5,1.9,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Mikel Brown Jr.,Over,12.5,1.78,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points,Mikel Brown Jr.,Under,12.5,1.95,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Dennis Schroder,Over,13.5,1.75,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Dennis Schroder,Under,13.5,2.0,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Julius Randle,Over,30.5,1.8,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Julius Randle,Under,30.5,1.95,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Naz Reid,Over,24.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Naz Reid,Under,24.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Moussa Diabate,Over,19.5,1.8,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Moussa Diabate,Under,19.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Day'Ron Sharpe,Over,17.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Day'Ron Sharpe,Under,17.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Michael Porter Jr,Over,29.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Michael Porter Jr,Under,29.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Noah Clowney,Over,11.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Noah Clowney,Under,11.5,1.9,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Brandon Miller,Over,31.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Brandon Miller,Under,31.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Moritz Wagner,Over,15.5,1.95,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Moritz Wagner,Under,15.5,1.8,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Grayson Allen,Over,15.5,1.78,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Grayson Allen,Under,15.5,1.95,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Coby White,Over,19.5,1.9,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Coby White,Under,19.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Mikel Brown Jr.,Over,20.5,1.95,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Mikel Brown Jr.,Under,20.5,1.78,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Kon Knueppel,Over,19.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Kon Knueppel,Under,19.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Chaney Johnson,Over,11.5,1.95,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_points_rebounds_assists,Chaney Johnson,Under,11.5,1.8,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Naz Reid,Over,7.5,2.05,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Naz Reid,Under,7.5,1.7,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Julius Randle,Over,6.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Julius Randle,Under,6.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Michael Porter Jr,Over,6.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Michael Porter Jr,Under,6.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Brandon Miller,Over,4.5,1.68,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Brandon Miller,Under,4.5,2.1,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Moussa Diabate,Over,9.5,2.02,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Moussa Diabate,Under,9.5,1.72,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Kon Knueppel,Over,3.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Kon Knueppel,Under,3.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Noah Clowney,Over,3.5,1.75,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Noah Clowney,Under,3.5,2.0,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Moritz Wagner,Over,4.5,2.05,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Moritz Wagner,Under,4.5,1.72,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Day'Ron Sharpe,Over,6.5,1.68,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Day'Ron Sharpe,Under,6.5,2.1,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Chaney Johnson,Over,3.5,1.77,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_rebounds,Chaney Johnson,Under,3.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Julius Randle,Over,1.5,1.9,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Julius Randle,Under,1.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Naz Reid,Over,2.5,2.35,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Naz Reid,Under,2.5,1.52,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Nolan Traore,Over,1.5,2.02,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Nolan Traore,Under,1.5,1.72,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Kon Knueppel,Over,2.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Kon Knueppel,Under,2.5,1.78,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Coby White,Over,1.5,1.53,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Coby White,Under,1.5,2.35,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Grayson Allen,Over,2.5,2.2,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Grayson Allen,Under,2.5,1.64,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Dennis Schroder,Over,0.5,1.53,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Dennis Schroder,Under,0.5,2.35,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Noah Clowney,Over,0.5,1.48,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Noah Clowney,Under,0.5,2.45,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Day'Ron Sharpe,Over,0.5,3.75,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Day'Ron Sharpe,Under,0.5,1.22,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Michael Porter Jr,Over,2.5,1.53,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Michael Porter Jr,Under,2.5,2.3,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Mikel Brown Jr.,Over,1.5,1.66,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Mikel Brown Jr.,Under,1.5,2.15,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Moritz Wagner,Over,0.5,1.62,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Moritz Wagner,Under,0.5,2.2,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Brandon Miller,Over,3.5,2.02,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Brandon Miller,Under,3.5,1.72,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Chaney Johnson,Over,0.5,1.77,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,dabble_au,player_threes,Chaney Johnson,Under,0.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Day'Ron Sharpe,Over,2.5,2.25,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Day'Ron Sharpe,Under,2.5,1.6,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Dennis Schroder,Over,3.5,1.73,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Dennis Schroder,Under,3.5,2.02,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Brandon Miller,Over,2.5,1.73,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Brandon Miller,Under,2.5,2.02,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Kon Knueppel,Over,2.5,2.05,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Kon Knueppel,Under,2.5,1.7,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Mikel Brown Jr.,Over,3.5,1.73,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Mikel Brown Jr.,Under,3.5,2.02,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Grayson Allen,Over,2.5,2.1,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Grayson Allen,Under,2.5,1.68,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Julius Randle,Over,4.5,1.7,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Julius Randle,Under,4.5,2.05,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Coby White,Over,3.5,2.02,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Coby White,Under,3.5,1.73,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Nolan Traore,Over,3.5,1.75,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_assists,Nolan Traore,Under,3.5,2.0,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Julius Randle,Over,20.5,1.92,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Julius Randle,Under,20.5,1.82,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Brandon Miller,Over,22.5,1.87,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Brandon Miller,Under,22.5,1.88,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Naz Reid,Over,15.5,1.91,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Naz Reid,Under,15.5,1.83,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Kon Knueppel,Over,12.5,1.87,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Kon Knueppel,Under,12.5,1.88,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Nolan Traore,Over,10.5,1.87,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Nolan Traore,Under,10.5,1.87,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Dennis Schroder,Over,7.5,1.85,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Dennis Schroder,Under,7.5,1.9,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Michael Porter Jr,Over,20.5,1.85,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Michael Porter Jr,Under,20.5,1.9,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Grayson Allen,Over,10.5,1.85,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Grayson Allen,Under,10.5,1.88,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Coby White,Over,12.5,1.85,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Coby White,Under,12.5,1.88,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Noah Clowney,Over,5.5,1.78,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Noah Clowney,Under,5.5,1.96,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Moritz Wagner,Over,9.5,1.88,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Moritz Wagner,Under,9.5,1.87,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Day'Ron Sharpe,Over,7.5,1.83,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Day'Ron Sharpe,Under,7.5,1.91,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Mikel Brown Jr.,Over,12.5,1.88,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Mikel Brown Jr.,Under,12.5,1.87,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Moussa Diabate,Over,8.5,1.92,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points,Moussa Diabate,Under,8.5,1.82,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Mikel Brown Jr.,Over,18.5,1.77,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Mikel Brown Jr.,Under,18.5,1.98,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Coby White,Over,17.5,1.68,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Coby White,Under,17.5,2.1,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Grayson Allen,Over,14.5,1.68,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Grayson Allen,Under,14.5,2.1,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Brandon Miller,Over,29.5,1.72,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Brandon Miller,Under,29.5,2.05,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Over,31.5,1.8,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Under,31.5,1.94,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Over,16.5,1.8,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Under,16.5,1.94,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Kon Knueppel,Over,18.5,1.83,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Kon Knueppel,Under,18.5,1.91,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Dennis Schroder,Over,13.5,1.77,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Dennis Schroder,Under,13.5,1.98,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Nolan Traore,Over,16.5,1.82,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Nolan Traore,Under,16.5,1.92,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Kon Knueppel,Over,3.5,1.92,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Kon Knueppel,Under,3.5,1.82,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Mikel Brown Jr.,Over,2.5,1.92,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Mikel Brown Jr.,Under,2.5,1.82,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Julius Randle,Over,6.5,1.88,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Julius Randle,Under,6.5,1.87,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Moritz Wagner,Over,4.5,2.1,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Moritz Wagner,Under,4.5,1.7,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Grayson Allen,Over,2.5,2.0,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Grayson Allen,Under,2.5,1.75,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Over,6.5,1.77,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Under,6.5,1.98,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Nolan Traore,Over,2.5,2.25,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Nolan Traore,Under,2.5,1.6,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Coby White,Over,2.5,2.05,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Coby White,Under,2.5,1.7,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Dennis Schroder,Over,2.5,2.2,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Dennis Schroder,Under,2.5,1.62,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Naz Reid,Over,7.5,2.0,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Naz Reid,Under,7.5,1.75,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Noah Clowney,Over,3.5,1.85,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Noah Clowney,Under,3.5,1.88,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Michael Porter Jr,Over,6.5,2.1,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Michael Porter Jr,Under,6.5,1.68,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Brandon Miller,Over,4.5,1.77,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Brandon Miller,Under,4.5,1.98,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Moussa Diabate,Over,8.5,1.82,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_rebounds,Moussa Diabate,Under,8.5,1.92,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Michael Porter Jr,Over,2.5,1.72,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Michael Porter Jr,Under,2.5,1.98,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Brandon Miller,Over,3.5,2.05,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Brandon Miller,Under,3.5,1.65,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Naz Reid,Over,1.5,1.46,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Naz Reid,Under,1.5,2.45,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Grayson Allen,Over,1.5,1.46,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Grayson Allen,Under,1.5,2.45,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Coby White,Over,1.5,1.68,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Coby White,Under,1.5,2.02,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Mikel Brown Jr.,Over,1.5,1.72,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Mikel Brown Jr.,Under,1.5,1.96,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Kon Knueppel,Over,2.5,2.15,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Kon Knueppel,Under,2.5,1.6,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Julius Randle,Over,1.5,2.02,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,ladbrokes_au,player_threes,Julius Randle,Under,1.5,1.68,2026-11-05T00:23:55Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Day'Ron Sharpe,Over,2.5,2.25,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Day'Ron Sharpe,Under,2.5,1.6,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Dennis Schroder,Over,3.5,1.73,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Dennis Schroder,Under,3.5,2.02,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Brandon Miller,Over,2.5,1.73,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Brandon Miller,Under,2.5,2.02,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Kon Knueppel,Over,2.5,2.05,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Kon Knueppel,Under,2.5,1.7,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Mikel Brown Jr.,Over,3.5,1.73,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Mikel Brown Jr.,Under,3.5,2.02,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Grayson Allen,Over,2.5,2.1,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Grayson Allen,Under,2.5,1.68,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Julius Randle,Over,4.5,1.7,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Julius Randle,Under,4.5,2.05,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Coby White,Over,3.5,2.02,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Coby White,Under,3.5,1.73,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Nolan Traore,Over,3.5,1.75,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_assists,Nolan Traore,Under,3.5,2.0,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Julius Randle,Over,20.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Julius Randle,Under,20.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Brandon Miller,Over,22.5,1.87,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Brandon Miller,Under,22.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Naz Reid,Over,15.5,1.91,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Naz Reid,Under,15.5,1.83,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Kon Knueppel,Over,12.5,1.87,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Kon Knueppel,Under,12.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Nolan Traore,Over,10.5,1.87,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Nolan Traore,Under,10.5,1.87,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Dennis Schroder,Over,7.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Dennis Schroder,Under,7.5,1.9,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Michael Porter Jr,Over,20.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Michael Porter Jr,Under,20.5,1.9,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Grayson Allen,Over,10.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Grayson Allen,Under,10.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Coby White,Over,12.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Coby White,Under,12.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Noah Clowney,Over,5.5,1.78,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Noah Clowney,Under,5.5,1.96,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Moritz Wagner,Over,9.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Moritz Wagner,Under,9.5,1.87,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Day'Ron Sharpe,Over,7.5,1.83,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Day'Ron Sharpe,Under,7.5,1.91,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Mikel Brown Jr.,Over,12.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Mikel Brown Jr.,Under,12.5,1.87,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Moussa Diabate,Over,8.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points,Moussa Diabate,Under,8.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Mikel Brown Jr.,Over,18.5,1.77,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Mikel Brown Jr.,Under,18.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Coby White,Over,17.5,1.68,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Coby White,Under,17.5,2.1,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Grayson Allen,Over,14.5,1.68,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Grayson Allen,Under,14.5,2.1,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Brandon Miller,Over,29.5,1.72,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Brandon Miller,Under,29.5,2.05,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Julius Randle,Over,31.5,1.8,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Julius Randle,Under,31.5,1.94,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Day'Ron Sharpe,Over,16.5,1.8,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Day'Ron Sharpe,Under,16.5,1.94,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Kon Knueppel,Over,18.5,1.83,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Kon Knueppel,Under,18.5,1.91,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Dennis Schroder,Over,13.5,1.77,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Dennis Schroder,Under,13.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Nolan Traore,Over,16.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_points_rebounds_assists,Nolan Traore,Under,16.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Kon Knueppel,Over,3.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Kon Knueppel,Under,3.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Mikel Brown Jr.,Over,2.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Mikel Brown Jr.,Under,2.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Julius Randle,Over,6.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Julius Randle,Under,6.5,1.87,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Moritz Wagner,Over,4.5,2.1,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Moritz Wagner,Under,4.5,1.7,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Grayson Allen,Over,2.5,2.0,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Grayson Allen,Under,2.5,1.75,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Day'Ron Sharpe,Over,6.5,1.77,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Day'Ron Sharpe,Under,6.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Nolan Traore,Over,2.5,2.25,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Nolan Traore,Under,2.5,1.6,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Coby White,Over,2.5,2.05,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Coby White,Under,2.5,1.7,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Dennis Schroder,Over,2.5,2.2,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Dennis Schroder,Under,2.5,1.62,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Naz Reid,Over,7.5,2.0,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Naz Reid,Under,7.5,1.75,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Noah Clowney,Over,3.5,1.85,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Noah Clowney,Under,3.5,1.88,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Michael Porter Jr,Over,6.5,2.1,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Michael Porter Jr,Under,6.5,1.68,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Brandon Miller,Over,4.5,1.77,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Brandon Miller,Under,4.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Moussa Diabate,Over,8.5,1.82,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_rebounds,Moussa Diabate,Under,8.5,1.92,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Michael Porter Jr,Over,2.5,1.72,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Michael Porter Jr,Under,2.5,1.98,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Brandon Miller,Over,3.5,2.05,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Brandon Miller,Under,3.5,1.65,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Naz Reid,Over,1.5,1.46,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Naz Reid,Under,1.5,2.45,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Grayson Allen,Over,1.5,1.46,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Grayson Allen,Under,1.5,2.45,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Coby White,Over,1.5,1.68,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Coby White,Under,1.5,2.02,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Mikel Brown Jr.,Over,1.5,1.72,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Mikel Brown Jr.,Under,1.5,1.96,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Kon Knueppel,Over,2.5,2.15,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Kon Knueppel,Under,2.5,1.6,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Julius Randle,Over,1.5,2.02,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
+2026-11-05,11:30,Charlotte Hornets @ Brooklyn Nets,neds,player_threes,Julius Randle,Under,1.5,1.68,2026-11-05T00:24:49Z,2026-11-05T00:25:00+00:00,5.0
