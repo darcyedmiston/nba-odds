@@ -5,6 +5,10 @@ name: NBA timed refresh (first tip - 90 min)
 # after the morning pull), then starts the closing-line capture for every game.
 on:
   workflow_dispatch:
+    inputs:
+      restarted:
+        description: "Set by the job itself after a long wait"
+        default: "false"
 
 permissions:
   contents: write
@@ -31,7 +35,8 @@ jobs:
       - id: plan
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python -u plan_day.py --wait
+          RESTARTED: ${{ inputs.restarted }}
+        run: python -u plan_day.py --wait $([ "$RESTARTED" = "true" ] && echo --restarted)
 
   pull:
     needs: wait
@@ -83,7 +88,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
-        run: gh workflow run refresh.yml
+        run: gh workflow run refresh.yml -f restarted=true
       - name: Start closing lines
         if: ${{ needs.wait.outputs.closing == 'true' }}
         env:

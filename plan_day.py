@@ -52,13 +52,20 @@ def build_plan(events, now):
     }
 
 
-def decide(plan, now):
-    """What refresh.yml should do: (wait_minutes, pull, closing, again)."""
+def decide(plan, now, restarted=False):
+    """What refresh.yml should do: (wait_minutes, pull, closing, again).
+
+    restarted=True means this job follows a long wait, so the morning pull is
+    hours old and the "already fresh" skip must not apply, however close the
+    refresh time now is.
+    """
     if plan is None:
         return 0, False, False, False
     wait = (datetime.fromisoformat(plan["refresh_utc"]) - now).total_seconds() / 60
     if wait > MAX_WAIT_MIN:          # too far off for one job: wait, then restart
         return MAX_WAIT_MIN, False, False, True
+    if restarted:
+        return max(wait, 0), True, True, False
     if wait < MIN_GAP_MIN:           # early game: the morning pull is already fresh
         return 0, False, True, False
     return wait, True, True, False
@@ -73,6 +80,7 @@ def get_events():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--wait", action="store_true")
+    ap.add_argument("--restarted", action="store_true")
     args = ap.parse_args()
     now = datetime.now(timezone.utc)
     plan = build_plan(get_events(), now)
@@ -81,7 +89,7 @@ def main():
         out.write_text(json.dumps(plan or {"games": 0, "closing_auto": False}, indent=1) + "\n")
         print(plan or "no games")
         return
-    wait, pull, closing, again = decide(plan, now)
+    wait, pull, closing, again = decide(plan, now, args.restarted)
     print(f"plan: {plan}\nwait {wait:.0f} min, pull={pull}, closing={closing}, again={again}", flush=True)
     time.sleep(max(wait, 0) * 60)
     with open(os.environ["GITHUB_OUTPUT"], "a") as f:
