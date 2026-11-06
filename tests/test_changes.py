@@ -57,6 +57,21 @@ class Plan(unittest.TestCase):
         e, now = ev(23.0)
         self.assertEqual(decide(build_plan(e, now), now), (340, False, False, True))
 
+    def test_restart_near_refresh_time_still_pulls(self):
+        # 6 Nov: the restart landed 10 min before the refresh and skipped it.
+        e, now = ev(100 / 60)
+        wait, pull, closing, again = decide(build_plan(e, now), now, restarted=True)
+        self.assertEqual((pull, closing, again), (True, True, False))
+        self.assertAlmostEqual(wait, 10, places=3)
+
+    def test_restart_after_refresh_time_pulls_straight_away(self):
+        e, now = ev(1.0)
+        self.assertEqual(decide(build_plan(e, now), now, restarted=True), (0, True, True, False))
+
+    def test_restart_can_wait_again(self):
+        e, now = ev(23.0)
+        self.assertEqual(decide(build_plan(e, now), now, restarted=True), (340, False, False, True))
+
     def test_next_day_games_stay_out_of_the_slate(self):
         e, now = ev(5.0, 29.0)
         self.assertEqual(build_plan(e, now)["games"], 1)
