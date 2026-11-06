@@ -3282,3 +3282,56 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2026-27,2026-11-04,401909935,MIA,Miami Heat,LAC,LA Clippers,0,5107157,Ryan Conwell,ryan conwell,0,0,17,0,2,2,0,4,117,116
 2026-27,2026-11-04,401909935,MIA,Miami Heat,LAC,LA Clippers,0,3899664,Simone Fontecchio,simone fontecchio,0,0,5,0,0,0,0,0,117,116
 2026-27,2026-11-04,401909935,MIA,Miami Heat,LAC,LA Clippers,0,2528210,Tim Hardaway Jr.,tim hardaway,0,0,7,0,0,0,0,0,117,116
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,4593034,Alex Morales,alex morales,0,0,6,0,0,0,0,0,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,4712849,Anthony Black,anthony black,1,0,31,10,7,6,1,23,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,4397204,Colin Castleton,colin castleton,0,0,2,0,0,1,0,1,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,4066320,Desmond Bane,desmond bane,1,0,32,15,6,0,3,21,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,4566434,Franz Wagner,franz wagner,1,0,38,15,8,15,0,38,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,4348700,Goga Bitadze,goga bitadze,0,0,8,4,5,0,0,9,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,4278572,Jamal Cain,jamal cain,0,0,25,5,5,0,1,10,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,5239561,Jase Richardson,jase richardson,1,0,26,10,2,3,2,15,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,3133635,Jevon Carter,jevon carter,0,0,3,0,0,0,0,0,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,6478,Nikola Vucevic,nikola vucevic,0,0,4,0,0,0,0,0,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,4702382,Tristan da Silva,tristan da silva,0,0,30,18,2,1,4,21,104,117
+2026-27,2026-11-05,401909936,ORL,Orlando Magic,PHX,Phoenix Suns,0,4277847,Wendell Carter Jr.,wendell carter,1,0,34,27,13,2,2,42,104,117
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,4278585,Collin Gillespie,collin gillespie,0,0,24,6,2,2,2,10,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,3136193,Devin Booker,devin booker,1,0,34,30,1,8,4,39,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,3155526,Dillon Brooks,dillon brooks,1,0,29,24,1,1,4,26,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,4066268,Duop Reath,duop reath,0,0,2,0,0,0,0,0,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,4437244,Jalen Green,jalen green,1,0,24,6,0,3,0,9,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,4280245,Jamaree Bouyea,jamaree bouyea,0,0,2,0,0,0,0,0,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,5203685,Khaman Maluach,khaman maluach,0,0,22,8,6,2,0,16,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,5041953,Koa Peat,koa peat,0,0,2,0,1,0,0,1,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,3913174,Luke Kennard,luke kennard,0,0,21,12,1,5,3,18,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,4066383,Miles Bridges,miles bridges,1,0,31,18,13,5,3,36,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,4601023,Oso Ighodaro,oso ighodaro,1,0,24,2,5,1,0,8,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,4592714,Pat Spencer,pat spencer,0,0,2,0,0,0,0,0,117,104
+2026-27,2026-11-05,401909936,PHX,Phoenix Suns,ORL,Orlando Magic,1,4888725,Ryan Dunn,ryan dunn,0,0,25,11,3,3,1,17,117,104
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,3213,Al Horford,al horford,0,0,18,8,5,1,2,14,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,4709138,Brandin Podziemski,brandin podziemski,1,0,32,9,6,3,2,18,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,4397040,Brandon Williams,brandon williams,0,0,21,10,1,4,0,15,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,4397886,Charles Bassey,charles bassey,0,0,14,8,7,0,0,15,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,4066436,De'Anthony Melton,deanthony melton,0,0,17,5,6,2,0,13,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,6589,Draymond Green,draymond green,1,0,27,2,5,11,0,18,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,3134903,Gary Payton II,gary payton,0,0,10,9,0,0,1,9,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,2990969,Georges Niang,georges niang,0,0,22,13,4,3,2,20,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,4703396,Graham Ike,graham ike,0,0,1,0,1,0,0,1,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,4433149,LJ Cryer,lj cryer,0,0,1,0,0,0,0,0,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,4897449,Malevy Leons,malevy leons,0,0,1,0,0,0,0,0,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,3975,Stephen Curry,stephen curry,1,0,28,29,1,4,6,34,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,4897262,Will Richard,will richard,1,0,16,10,0,2,2,12,120,100
+2026-27,2026-11-05,401909937,GS,Golden State Warriors,MIA,Miami Heat,1,5175737,Yaxel Lendeborg,yaxel lendeborg,1,0,30,17,8,6,1,31,120,100
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,3059319,Andrew Wiggins,andrew wiggins,1,0,21,2,6,4,0,12,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,4066261,Bam Adebayo,bam adebayo,1,0,33,18,10,0,0,28,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,3064482,Bobby Portis,bobby portis,0,0,14,0,5,0,0,5,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,4278053,Davion Mitchell,davion mitchell,1,0,38,22,2,8,4,32,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,4066993,Dru Smith,dru smith,0,0,1,0,0,0,0,0,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,3032977,Giannis Antetokounmpo,giannis antetokounmpo,1,0,31,20,14,4,1,38,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,6475,Klay Thompson,klay thompson,1,0,23,11,0,3,2,14,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,4431772,Myron Gardner,myron gardner,0,0,1,0,0,0,0,0,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,4278076,Nick Richards,nick richards,0,0,1,0,0,0,0,0,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,4997528,Nikola Jovic,nikola jovic,0,0,12,1,0,1,0,2,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,4601025,Pelle Larsson,pelle larsson,0,0,29,13,1,4,3,18,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,5107157,Ryan Conwell,ryan conwell,0,0,30,13,1,2,3,16,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,3899664,Simone Fontecchio,simone fontecchio,0,1,0,0,0,0,0,0,100,120
+2026-27,2026-11-05,401909937,MIA,Miami Heat,GS,Golden State Warriors,0,2528210,Tim Hardaway Jr.,tim hardaway,0,0,4,0,0,1,0,1,100,120
