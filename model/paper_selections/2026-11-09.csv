@@ -1,0 +1,15 @@
+date_melb,tipoff_melb,game,player,market,side,line,odds,book,n_books_at_line,n_books,median_line,implied,model_prob,ev_pct,proj,proj_min,status,D1,D2,D3,D4,D5,D6,D7,D8,ces,tier,flags,model_version
+2026-11-09,07:40,Philadelphia 76ers @ Chicago Bulls,Tyrese Maxey,player_points_rebounds_assists,Over,33.5,1.75,ladbrokes_au,2,6,34.5,0.571,0.699,22.4,38.0,35.9,,2,1,2,2,0,2,2,1,1.55,Diff 4,,v4.1
+2026-11-09,13:10,New Orleans Pelicans @ Los Angeles Clippers,Saddiq Bey,player_points,Over,12.5,1.8,unibet,2,6,13.5,0.556,0.76,36.9,17.3,28.7,,2,2,2,2,0,0,0,1,1.45,Diff 4,,v4.1
+2026-11-09,07:40,Philadelphia 76ers @ Chicago Bulls,Jaylen Brown,player_points,Over,20.5,1.82,dabble_au,1,7,21.5,0.549,0.677,23.2,24.7,35.7,,1,1,2,2,0,2,2,1,1.35,Diff 4,traded/role change: last season down-weighted; soft at one book only - may be stale,v4.1
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,Precious Achiuwa,player_points,Over,7.5,1.77,pointsbetau,1,6,8.5,0.565,0.69,22.2,11.8,26.6,,1,1,2,2,0,2,2,1,1.35,Diff 4,soft at one book only - may be stale,v4.1
+2026-11-09,13:10,New Orleans Pelicans @ Los Angeles Clippers,Trey Murphy III,player_points_rebounds_assists,Over,22.5,1.8,dabble_au,1,4,23.5,0.556,0.685,23.3,27.1,33.8,,2,1,2,2,0,0,0,1,1.25,Diff 4,soft at one book only - may be stale,v4.1
+2026-11-09,12:10,Boston Celtics @ Milwaukee Bucks,Jayson Tatum,player_rebounds,Over,6.5,1.87,neds,3,6,7.0,0.535,0.605,13.2,7.7,33.5,,2,1,2,1,0,1,0,1,1.2,Diff 4,,v4.1
+2026-11-09,10:10,Los Angeles Lakers @ Detroit Pistons,Ziaire Williams,player_points,Over,8.5,1.97,unibet,3,3,8.5,0.508,0.609,20.0,10.1,24.0,,1,2,2,2,1,-2,0,1,1.15,Diff 3,traded/role change: last season down-weighted; key teammates out: luka doncic,v4.1
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,Domantas Sabonis,player_points,Over,13.5,1.8,pointsbetau,1,6,14.5,0.556,0.622,12.0,16.2,33.8,,1,2,0,1,0,2,2,1,1.1,Diff 3,soft at one book only - may be stale,v4.1
+2026-11-09,12:10,Boston Celtics @ Milwaukee Bucks,Paul George,player_threes,Over,2.5,1.9,neds,6,6,2.5,0.526,0.607,15.4,3.3,29.7,,1,1,2,1,0,2,0,1,1.1,Diff 3,traded/role change: last season down-weighted,v4.1
+2026-11-09,11:40,Brooklyn Nets @ Dallas Mavericks,Naji Marshall,player_points,Over,10.5,1.8,dabble_au,1,7,11.5,0.556,0.629,13.2,13.8,27.1,,2,1,1,1,0,0,1,1,1.0,Diff 3,soft at one book only - may be stale,v4.1
+2026-11-09,11:10,Utah Jazz @ Minnesota Timberwolves,Jaden McDaniels,player_assists,Over,2.5,1.85,dabble_au,7,7,2.5,0.541,0.636,17.7,3.3,33.5,,0,2,2,1,0,0,1,1,0.95,Diff 3,,v4.1
+2026-11-09,11:40,Brooklyn Nets @ Dallas Mavericks,Zaccharie Risacher,player_points_rebounds_assists,Over,10.5,1.92,dabble_au,1,2,11.0,0.521,0.636,22.1,13.2,25.0,,1,2,0,2,0,0,1,0,0.95,Diff 3,traded/role change: last season down-weighted,v4.1
+2026-11-09,10:10,Los Angeles Lakers @ Detroit Pistons,Daniss Jenkins,player_assists,Over,3.5,1.76,sportsbet,7,7,3.5,0.568,0.624,9.8,4.6,24.5,,0,1,2,1,0,1,0,1,0.8,Diff 3,,v4.1
+2026-11-09,11:10,Utah Jazz @ Minnesota Timberwolves,Jonathan Kuminga,player_assists,Over,2.5,2.15,pointsbetau,6,6,2.5,0.465,0.588,26.4,3.0,30.9,,0,2,0,2,0,0,1,1,0.8,Diff 3,traded/role change: last season down-weighted,v4.1
