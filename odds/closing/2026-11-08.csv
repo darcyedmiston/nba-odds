@@ -810,3 +810,923 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-08,09:10,Denver Nuggets @ Indiana Pacers,neds,player_threes,Obi Toppin,Under,1.5,1.67,2026-11-07T22:04:05Z,2026-11-07T22:05:00+00:00,5.0
 2026-11-08,09:10,Denver Nuggets @ Indiana Pacers,neds,player_threes,Jamal Murray,Over,2.5,1.67,2026-11-07T22:04:05Z,2026-11-07T22:05:00+00:00,5.0
 2026-11-08,09:10,Denver Nuggets @ Indiana Pacers,neds,player_threes,Jamal Murray,Under,2.5,2.02,2026-11-07T22:04:05Z,2026-11-07T22:05:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Nolan Traore,Over,4.5,2.15,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Nolan Traore,Under,4.5,1.64,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Julius Randle,Over,4.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Julius Randle,Under,4.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Kingston Flemings,Over,4.5,1.92,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Kingston Flemings,Under,4.5,1.84,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Jalen Johnson,Over,7.5,2.15,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Jalen Johnson,Under,7.5,1.64,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Dyson Daniels,Over,4.5,1.64,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Dyson Daniels,Under,4.5,2.15,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Nickeil Alexander-Walker,Over,3.5,2.4,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Nickeil Alexander-Walker,Under,3.5,1.52,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Onyeka Okongwu,Over,2.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Onyeka Okongwu,Under,2.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,C.J. McCollum,Over,3.5,2.08,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,C.J. McCollum,Under,3.5,1.72,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Mikel Brown Jr.,Over,3.5,1.68,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Mikel Brown Jr.,Under,3.5,2.1,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Danny Wolf,Over,2.5,2.25,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_assists,Danny Wolf,Under,2.5,1.58,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Day'Ron Sharpe,Over,8.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Day'Ron Sharpe,Under,8.5,1.93,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Michael Porter Jr,Over,22.5,2.02,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Michael Porter Jr,Under,22.5,1.76,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Julius Randle,Over,20.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Julius Randle,Under,20.5,1.86,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Nolan Traore,Over,11.5,2.05,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Nolan Traore,Under,11.5,1.74,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Dyson Daniels,Over,10.5,1.92,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Dyson Daniels,Under,10.5,1.84,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Kingston Flemings,Over,8.5,1.74,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Kingston Flemings,Under,8.5,2.05,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Nickeil Alexander-Walker,Over,19.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Nickeil Alexander-Walker,Under,19.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Onyeka Okongwu,Over,13.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Onyeka Okongwu,Under,13.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Jalen Johnson,Over,19.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Jalen Johnson,Under,19.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Luguentz Dort,Over,8.5,1.88,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Luguentz Dort,Under,8.5,1.88,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,C.J. McCollum,Over,12.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,C.J. McCollum,Under,12.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Moritz Wagner,Over,9.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Moritz Wagner,Under,9.5,1.93,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Mikel Brown Jr.,Over,11.5,1.78,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Mikel Brown Jr.,Under,11.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Danny Wolf,Over,8.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points,Danny Wolf,Under,8.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Over,31.5,1.92,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Under,31.5,1.84,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Danny Wolf,Over,16.5,1.93,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Danny Wolf,Under,16.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Julius Randle,Over,32.5,1.92,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Julius Randle,Under,32.5,1.84,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Nolan Traore,Over,17.5,1.92,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Nolan Traore,Under,17.5,1.84,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Over,19.5,1.85,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Under,19.5,1.92,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Onyeka Okongwu,Over,23.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Onyeka Okongwu,Under,23.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,26.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Nickeil Alexander-Walker,Under,26.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Jalen Johnson,Over,36.5,1.84,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Jalen Johnson,Under,36.5,1.92,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Kingston Flemings,Over,16.5,1.84,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Kingston Flemings,Under,16.5,1.92,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Dyson Daniels,Over,22.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Dyson Daniels,Under,22.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Luguentz Dort,Over,13.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Luguentz Dort,Under,13.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,C.J. McCollum,Over,19.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,C.J. McCollum,Under,19.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Over,18.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Under,18.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Julius Randle,Over,6.5,1.76,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Julius Randle,Under,6.5,2.02,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Day'Ron Sharpe,Over,7.5,1.74,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Day'Ron Sharpe,Under,7.5,2.05,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Michael Porter Jr,Over,7.5,2.1,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Michael Porter Jr,Under,7.5,1.68,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Jalen Johnson,Over,9.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Jalen Johnson,Under,9.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Nickeil Alexander-Walker,Over,3.5,2.3,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Nickeil Alexander-Walker,Under,3.5,1.56,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Dyson Daniels,Over,6.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Dyson Daniels,Under,6.5,1.78,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Onyeka Okongwu,Over,7.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Onyeka Okongwu,Under,7.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Luguentz Dort,Over,3.5,2.45,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Luguentz Dort,Under,3.5,1.5,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Kingston Flemings,Over,2.5,1.64,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Kingston Flemings,Under,2.5,2.15,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,C.J. McCollum,Over,2.5,2.05,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,C.J. McCollum,Under,2.5,1.74,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Mikel Brown Jr.,Over,2.5,1.92,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Mikel Brown Jr.,Under,2.5,1.84,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Moritz Wagner,Over,4.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Moritz Wagner,Under,4.5,1.78,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Danny Wolf,Over,4.5,1.72,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_rebounds,Danny Wolf,Under,4.5,2.08,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Michael Porter Jr,Over,3.5,2.25,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Michael Porter Jr,Under,3.5,1.58,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Julius Randle,Over,1.5,2.15,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Julius Randle,Under,1.5,1.64,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Nolan Traore,Over,1.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Nolan Traore,Under,1.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Nickeil Alexander-Walker,Over,3.5,2.2,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Nickeil Alexander-Walker,Under,3.5,1.6,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Luguentz Dort,Over,1.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Luguentz Dort,Under,1.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Onyeka Okongwu,Over,1.5,2.05,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Onyeka Okongwu,Under,1.5,1.74,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Jalen Johnson,Over,1.5,2.1,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Jalen Johnson,Under,1.5,1.68,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,C.J. McCollum,Over,1.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,C.J. McCollum,Under,1.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Mikel Brown Jr.,Over,1.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Mikel Brown Jr.,Under,1.5,1.96,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Kingston Flemings,Over,0.5,1.56,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Kingston Flemings,Under,0.5,2.3,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Danny Wolf,Over,1.5,2.45,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,sportsbet,player_threes,Danny Wolf,Under,1.5,1.5,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Jalen Johnson,Over,7.5,2.05,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Jalen Johnson,Under,7.5,1.7,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,C.J. McCollum,Over,3.5,2.1,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,C.J. McCollum,Under,3.5,1.68,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Nickeil Alexander-Walker,Over,2.5,1.57,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Nickeil Alexander-Walker,Under,2.5,2.3,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Kingston Flemings,Over,4.5,1.83,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Kingston Flemings,Under,4.5,1.92,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Julius Randle,Over,4.5,1.96,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Julius Randle,Under,4.5,1.8,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Nolan Traore,Over,4.5,2.15,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Nolan Traore,Under,4.5,1.67,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Dyson Daniels,Over,4.5,1.65,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Dyson Daniels,Under,4.5,2.15,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Mikel Brown Jr.,Over,3.5,1.7,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_assists,Mikel Brown Jr.,Under,3.5,2.1,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Michael Porter Jr,Over,22.5,1.93,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Michael Porter Jr,Under,22.5,1.84,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Julius Randle,Over,20.5,1.81,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Julius Randle,Under,20.5,1.93,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Jalen Johnson,Over,20.5,1.94,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Jalen Johnson,Under,20.5,1.82,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Nolan Traore,Over,11.5,1.9,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Nolan Traore,Under,11.5,1.86,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Nickeil Alexander-Walker,Over,19.5,1.83,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Nickeil Alexander-Walker,Under,19.5,1.94,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Dyson Daniels,Over,10.5,1.83,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Dyson Daniels,Under,10.5,1.92,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Luguentz Dort,Over,8.5,1.85,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Luguentz Dort,Under,8.5,1.91,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,C.J. McCollum,Over,13.5,1.96,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,C.J. McCollum,Under,13.5,1.8,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Onyeka Okongwu,Over,12.5,1.75,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Onyeka Okongwu,Under,12.5,2.0,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Day'Ron Sharpe,Over,8.5,1.83,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Day'Ron Sharpe,Under,8.5,1.92,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Kingston Flemings,Over,8.5,1.75,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Kingston Flemings,Under,8.5,2.0,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Mikel Brown Jr.,Over,11.5,1.7,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Mikel Brown Jr.,Under,11.5,2.05,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Moritz Wagner,Over,9.5,1.7,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points,Moritz Wagner,Under,9.5,2.05,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Michael Porter Jr,Over,19.5,1.04,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Michael Porter Jr,Over,24.5,1.18,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Michael Porter Jr,Over,29.5,1.55,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Michael Porter Jr,Over,34.5,2.5,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Michael Porter Jr,Over,39.5,4.6,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Julius Randle,Over,19.5,1.03,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Julius Randle,Over,24.5,1.14,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Julius Randle,Over,29.5,1.5,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Julius Randle,Over,34.5,2.4,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Julius Randle,Over,39.5,4.75,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,15.5,1.26,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,17.5,1.48,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,19.5,1.86,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,21.5,2.4,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,23.5,3.4,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Nolan Traore,Over,11.5,1.11,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Nolan Traore,Over,13.5,1.22,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Nolan Traore,Over,15.5,1.42,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Nolan Traore,Over,17.5,1.75,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Nolan Traore,Over,19.5,2.3,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,14.5,1.02,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,19.5,1.18,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,24.5,1.62,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,29.5,2.8,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,34.5,5.75,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Dyson Daniels,Over,14.5,1.06,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Dyson Daniels,Over,19.5,1.36,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Dyson Daniels,Over,24.5,2.38,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Dyson Daniels,Over,29.5,5.5,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Kingston Flemings,Over,11.5,1.14,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Kingston Flemings,Over,13.5,1.3,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Kingston Flemings,Over,15.5,1.6,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Kingston Flemings,Over,17.5,2.1,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Kingston Flemings,Over,19.5,3.0,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Jalen Johnson,Over,24.5,1.04,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Jalen Johnson,Over,29.5,1.17,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Jalen Johnson,Over,34.5,1.53,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Jalen Johnson,Over,39.5,2.4,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Jalen Johnson,Over,44.5,4.75,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,C.J. McCollum,Over,15.5,1.3,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,C.J. McCollum,Over,17.5,1.55,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,C.J. McCollum,Over,19.5,1.95,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,C.J. McCollum,Over,21.5,2.6,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,C.J. McCollum,Over,23.5,3.6,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Onyeka Okongwu,Over,14.5,1.05,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Onyeka Okongwu,Over,19.5,1.33,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Onyeka Okongwu,Over,24.5,2.1,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Onyeka Okongwu,Over,29.5,4.33,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Onyeka Okongwu,Over,34.5,10.0,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,13.5,1.15,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,15.5,1.33,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,17.5,1.6,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,2.0,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,21.5,2.63,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Kingston Flemings,Over,2.5,1.65,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Kingston Flemings,Under,2.5,2.15,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Onyeka Okongwu,Over,7.5,1.8,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Onyeka Okongwu,Under,7.5,1.96,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Jalen Johnson,Over,9.5,1.96,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Jalen Johnson,Under,9.5,1.8,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Julius Randle,Over,6.5,1.68,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Julius Randle,Under,6.5,2.1,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Nickeil Alexander-Walker,Over,2.5,1.6,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Nickeil Alexander-Walker,Under,2.5,2.25,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Dyson Daniels,Over,6.5,1.7,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Dyson Daniels,Under,6.5,2.05,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Luguentz Dort,Over,2.5,1.57,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Luguentz Dort,Under,2.5,2.3,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Moritz Wagner,Over,4.5,1.9,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Moritz Wagner,Under,4.5,1.86,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Michael Porter Jr,Over,6.5,1.68,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Michael Porter Jr,Under,6.5,2.1,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Day'Ron Sharpe,Over,7.5,1.7,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,betright,player_rebounds,Day'Ron Sharpe,Under,7.5,2.1,2026-11-08T00:34:35Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Onyeka Okongwu,Over,2.5,2.15,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Onyeka Okongwu,Under,2.5,1.66,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Nickeil Alexander-Walker,Over,2.5,1.65,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Nickeil Alexander-Walker,Under,2.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Julius Randle,Over,4.5,1.88,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Julius Randle,Under,4.5,1.85,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Day'Ron Sharpe,Over,2.5,1.82,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Day'Ron Sharpe,Under,2.5,1.92,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Nolan Traore,Over,4.5,2.15,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Nolan Traore,Under,4.5,1.64,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Mikel Brown Jr.,Over,4.5,2.2,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Mikel Brown Jr.,Under,4.5,1.6,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,C.J. McCollum,Over,3.5,2.3,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,C.J. McCollum,Under,3.5,1.55,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Jalen Johnson,Over,7.5,2.1,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Jalen Johnson,Under,7.5,1.67,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Kingston Flemings,Over,4.5,1.9,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Kingston Flemings,Under,4.5,1.7,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Dyson Daniels,Over,4.5,1.77,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_assists,Dyson Daniels,Under,4.5,1.98,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Danny Wolf,Over,7.5,1.82,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Danny Wolf,Under,7.5,1.92,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Nolan Traore,Over,11.5,1.98,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Nolan Traore,Under,11.5,1.77,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Jalen Johnson,Over,20.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Jalen Johnson,Under,20.5,1.8,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Onyeka Okongwu,Over,12.5,1.8,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Onyeka Okongwu,Under,12.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Julius Randle,Over,19.5,1.85,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Julius Randle,Under,19.5,1.88,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Day'Ron Sharpe,Over,8.5,1.78,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Day'Ron Sharpe,Under,8.5,1.98,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Michael Porter Jr,Over,21.5,1.85,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Michael Porter Jr,Under,21.5,1.88,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Kingston Flemings,Over,9.5,1.88,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Kingston Flemings,Under,9.5,1.85,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Nickeil Alexander-Walker,Over,19.5,1.8,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Nickeil Alexander-Walker,Under,19.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,C.J. McCollum,Over,12.5,1.65,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,C.J. McCollum,Under,12.5,2.1,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Moritz Wagner,Over,9.5,1.98,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Moritz Wagner,Under,9.5,1.77,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Dyson Daniels,Over,11.5,2.0,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Dyson Daniels,Under,11.5,1.75,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Luguentz Dort,Over,8.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Luguentz Dort,Under,8.5,1.78,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Mikel Brown Jr.,Over,11.5,1.85,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points,Mikel Brown Jr.,Under,11.5,1.9,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Michael Porter Jr,Over,30.5,1.8,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Michael Porter Jr,Under,30.5,1.92,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Julius Randle,Over,31.5,1.92,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Julius Randle,Under,31.5,1.82,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Onyeka Okongwu,Over,23.5,1.85,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Onyeka Okongwu,Under,23.5,1.88,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Kingston Flemings,Over,17.5,1.98,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Kingston Flemings,Under,17.5,1.78,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Day'Ron Sharpe,Over,20.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Day'Ron Sharpe,Under,20.5,1.78,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,C.J. McCollum,Over,18.5,1.88,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,C.J. McCollum,Under,18.5,1.85,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,25.5,1.8,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Nickeil Alexander-Walker,Under,25.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Dyson Daniels,Over,22.5,1.78,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Dyson Daniels,Under,22.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Luguentz Dort,Over,12.5,1.85,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Luguentz Dort,Under,12.5,1.9,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Jalen Johnson,Over,36.5,1.82,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Jalen Johnson,Under,36.5,1.92,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Nolan Traore,Over,17.5,1.82,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Nolan Traore,Under,17.5,1.92,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Mikel Brown Jr.,Over,18.5,1.82,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Mikel Brown Jr.,Under,18.5,1.9,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Moritz Wagner,Over,15.5,1.85,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Moritz Wagner,Under,15.5,1.88,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Danny Wolf,Over,14.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_points_rebounds_assists,Danny Wolf,Under,14.5,1.8,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Jalen Johnson,Over,9.5,2.1,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Jalen Johnson,Under,9.5,1.68,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Julius Randle,Over,6.5,1.8,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Julius Randle,Under,6.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Day'Ron Sharpe,Over,8.5,2.05,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Day'Ron Sharpe,Under,8.5,1.72,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Onyeka Okongwu,Over,8.5,2.08,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Onyeka Okongwu,Under,8.5,1.7,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Dyson Daniels,Over,6.5,1.78,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Dyson Daniels,Under,6.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Michael Porter Jr,Over,6.5,1.72,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Michael Porter Jr,Under,6.5,2.05,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Moritz Wagner,Over,4.5,1.72,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Moritz Wagner,Under,4.5,1.78,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Danny Wolf,Over,4.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_rebounds,Danny Wolf,Under,4.5,1.78,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Jalen Johnson,Over,1.5,1.95,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Jalen Johnson,Under,1.5,1.8,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Onyeka Okongwu,Over,1.5,2.05,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Onyeka Okongwu,Under,1.5,1.7,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Nickeil Alexander-Walker,Over,3.5,1.9,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Nickeil Alexander-Walker,Under,3.5,1.72,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Julius Randle,Over,1.5,2.05,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Julius Randle,Under,1.5,1.72,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Day'Ron Sharpe,Over,0.5,3.1,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Day'Ron Sharpe,Under,0.5,1.3,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Nolan Traore,Over,1.5,2.02,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Nolan Traore,Under,1.5,1.72,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Michael Porter Jr,Over,3.5,2.02,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Michael Porter Jr,Under,3.5,1.72,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Mikel Brown Jr.,Over,1.5,1.82,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Mikel Brown Jr.,Under,1.5,1.92,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Moritz Wagner,Over,0.5,1.92,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Moritz Wagner,Under,0.5,1.82,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Dyson Daniels,Over,0.5,2.3,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Dyson Daniels,Under,0.5,1.53,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Kingston Flemings,Over,0.5,1.48,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Kingston Flemings,Under,0.5,2.45,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,C.J. McCollum,Over,1.5,1.68,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,C.J. McCollum,Under,1.5,2.1,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Luguentz Dort,Over,1.5,1.9,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Luguentz Dort,Under,1.5,1.85,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Danny Wolf,Over,1.5,2.45,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,dabble_au,player_threes,Danny Wolf,Under,1.5,1.48,2026-11-08T00:34:34Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,C.J. McCollum,Over,3.5,2.2,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,C.J. McCollum,Under,3.5,1.67,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Danny Wolf,Over,2.5,2.25,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Danny Wolf,Under,2.5,1.63,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Dyson Daniels,Over,5.5,2.25,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Dyson Daniels,Under,5.5,1.63,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Jalen Johnson,Over,7.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Jalen Johnson,Under,7.5,1.77,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Julius Randle,Over,4.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Julius Randle,Under,4.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Kingston Flemings,Over,4.5,1.74,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Kingston Flemings,Under,4.5,2.05,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Mikel Brown Jr.,Over,4.5,2.25,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Mikel Brown Jr.,Under,4.5,1.63,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Nickeil Alexander-Walker,Over,2.5,1.57,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Nickeil Alexander-Walker,Under,2.5,2.35,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Nolan Traore,Over,4.5,2.15,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_assists,Nolan Traore,Under,4.5,1.69,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,C.J. McCollum,Over,12.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,C.J. McCollum,Under,12.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Danny Wolf,Over,8.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Danny Wolf,Under,8.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Day'Ron Sharpe,Over,8.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Day'Ron Sharpe,Under,8.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Dyson Daniels,Over,10.5,1.95,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Dyson Daniels,Under,10.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Jalen Johnson,Over,20.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Jalen Johnson,Under,20.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Julius Randle,Over,20.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Julius Randle,Under,20.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Kingston Flemings,Over,8.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Kingston Flemings,Under,8.5,2.05,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Luguentz Dort,Over,8.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Luguentz Dort,Under,8.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Michael Porter Jr,Over,21.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Michael Porter Jr,Under,21.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Mikel Brown Jr.,Over,12.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Mikel Brown Jr.,Under,12.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Moritz Wagner,Over,9.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Moritz Wagner,Under,9.5,1.95,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Nickeil Alexander-Walker,Over,19.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Nickeil Alexander-Walker,Under,19.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Nolan Traore,Over,11.5,2.05,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Nolan Traore,Under,11.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Onyeka Okongwu,Over,12.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points,Onyeka Okongwu,Under,12.5,1.95,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,C.J. McCollum,Over,19.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,C.J. McCollum,Under,19.5,1.77,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Danny Wolf,Over,16.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Danny Wolf,Under,16.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Dyson Daniels,Over,22.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Dyson Daniels,Under,22.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Jalen Johnson,Over,37.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Jalen Johnson,Under,37.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Julius Randle,Over,32.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Julius Randle,Under,32.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Kingston Flemings,Over,17.5,1.95,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Kingston Flemings,Under,17.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Mikel Brown Jr.,Under,19.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,26.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Nickeil Alexander-Walker,Under,26.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Onyeka Okongwu,Over,23.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_points_rebounds_assists,Onyeka Okongwu,Under,23.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Danny Wolf,Over,5.5,2.2,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Danny Wolf,Under,5.5,1.67,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Day'Ron Sharpe,Over,7.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Day'Ron Sharpe,Under,7.5,1.95,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Dyson Daniels,Over,6.5,1.77,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Dyson Daniels,Under,6.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Jalen Johnson,Over,9.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Jalen Johnson,Under,9.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Julius Randle,Over,6.5,1.77,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Julius Randle,Under,6.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Kingston Flemings,Over,2.5,1.63,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Kingston Flemings,Under,2.5,2.25,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Luguentz Dort,Over,2.5,1.63,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Luguentz Dort,Under,2.5,2.25,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Michael Porter Jr,Over,6.5,1.71,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Michael Porter Jr,Under,6.5,2.1,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Mikel Brown Jr.,Over,2.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Mikel Brown Jr.,Under,2.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Moritz Wagner,Over,4.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Moritz Wagner,Under,4.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Nickeil Alexander-Walker,Over,2.5,1.67,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Nickeil Alexander-Walker,Under,2.5,2.2,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Onyeka Okongwu,Over,7.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_rebounds,Onyeka Okongwu,Under,7.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Onyeka Okongwu,Over,1.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Onyeka Okongwu,Under,1.5,1.87,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Jalen Johnson,Over,1.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Jalen Johnson,Under,1.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Michael Porter Jr,Over,3.5,2.25,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Michael Porter Jr,Under,3.5,1.63,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Nolan Traore,Over,1.5,1.95,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Nolan Traore,Under,1.5,1.8,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Julius Randle,Over,1.5,2.3,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Julius Randle,Under,1.5,1.59,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Nickeil Alexander-Walker,Over,3.5,2.15,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Nickeil Alexander-Walker,Under,3.5,1.69,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,C.J. McCollum,Over,1.5,1.83,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,C.J. McCollum,Under,1.5,1.9,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Luguentz Dort,Over,1.5,1.77,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Luguentz Dort,Under,1.5,2.0,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Mikel Brown Jr.,Over,1.5,1.74,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Mikel Brown Jr.,Under,1.5,2.05,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Kingston Flemings,Over,0.5,1.48,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Kingston Flemings,Under,0.5,2.6,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Danny Wolf,Over,1.5,2.45,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,pointsbetau,player_threes,Danny Wolf,Under,1.5,1.53,2026-11-08T00:34:45Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Jalen Johnson,Over,7.5,2.15,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Jalen Johnson,Under,7.5,1.65,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Onyeka Okongwu,Over,2.5,1.96,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Onyeka Okongwu,Under,2.5,1.77,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Nolan Traore,Over,4.5,2.2,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Nolan Traore,Under,4.5,1.61,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Mikel Brown Jr.,Over,3.5,1.73,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Mikel Brown Jr.,Under,3.5,2.02,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Day'Ron Sharpe,Over,2.5,1.89,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Day'Ron Sharpe,Under,2.5,1.83,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Julius Randle,Over,4.5,2.02,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Julius Randle,Under,4.5,1.73,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Nickeil Alexander-Walker,Over,3.5,2.35,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Nickeil Alexander-Walker,Under,3.5,1.54,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Dyson Daniels,Over,5.5,2.25,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Dyson Daniels,Under,5.5,1.57,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Michael Porter Jr,Over,2.5,2.48,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Michael Porter Jr,Under,2.5,1.5,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,C.J. McCollum,Over,3.5,2.28,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,C.J. McCollum,Under,3.5,1.57,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Kingston Flemings,Over,4.5,1.85,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_assists,Kingston Flemings,Under,4.5,1.88,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Moritz Wagner,Over,9.5,1.78,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Moritz Wagner,Under,9.5,1.95,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Day'Ron Sharpe,Over,8.5,1.85,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Day'Ron Sharpe,Under,8.5,1.87,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Julius Randle,Over,20.5,1.85,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Julius Randle,Under,20.5,1.87,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Jalen Johnson,Over,20.5,1.96,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Jalen Johnson,Under,20.5,1.77,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Onyeka Okongwu,Over,13.5,2.02,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Onyeka Okongwu,Under,13.5,1.73,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Dyson Daniels,Over,10.5,1.91,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Dyson Daniels,Under,10.5,1.82,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Luguentz Dort,Over,8.5,1.82,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Luguentz Dort,Under,8.5,1.89,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Nolan Traore,Over,10.5,1.77,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Nolan Traore,Under,10.5,1.95,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,C.J. McCollum,Over,13.5,2.0,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,C.J. McCollum,Under,13.5,1.75,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Michael Porter Jr,Over,22.5,1.85,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Michael Porter Jr,Under,22.5,1.88,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Kingston Flemings,Over,9.5,1.93,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Kingston Flemings,Under,9.5,1.8,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Nickeil Alexander-Walker,Over,19.5,1.88,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Nickeil Alexander-Walker,Under,19.5,1.83,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Mikel Brown Jr.,Over,11.5,1.89,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points,Mikel Brown Jr.,Under,11.5,1.83,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Julius Randle,Over,32.5,1.96,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Julius Randle,Under,32.5,1.77,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Jalen Johnson,Over,37.5,1.96,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Jalen Johnson,Under,37.5,1.77,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Michael Porter Jr,Over,32.5,1.92,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Michael Porter Jr,Under,32.5,1.81,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Onyeka Okongwu,Over,23.5,1.85,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Onyeka Okongwu,Under,23.5,1.88,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Nolan Traore,Over,17.5,1.88,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Nolan Traore,Under,17.5,1.83,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,C.J. McCollum,Over,19.5,1.97,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,C.J. McCollum,Under,19.5,1.76,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,26.5,1.96,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Nickeil Alexander-Walker,Under,26.5,1.77,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Over,19.5,1.91,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Under,19.5,1.82,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Kingston Flemings,Over,17.5,1.92,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Kingston Flemings,Under,17.5,1.81,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Dyson Daniels,Over,23.5,2.02,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Dyson Daniels,Under,23.5,1.72,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Over,18.5,1.94,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Under,18.5,1.78,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Moritz Wagner,Over,4.5,1.85,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Moritz Wagner,Under,4.5,1.85,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Mikel Brown Jr.,Over,2.5,2.0,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Mikel Brown Jr.,Under,2.5,1.74,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Julius Randle,Over,6.5,1.87,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Julius Randle,Under,6.5,1.85,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Nickeil Alexander-Walker,Over,3.5,2.25,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Nickeil Alexander-Walker,Under,3.5,1.57,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Nolan Traore,Over,2.5,2.48,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Nolan Traore,Under,2.5,1.49,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Jalen Johnson,Over,9.5,1.95,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Jalen Johnson,Under,9.5,1.78,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Michael Porter Jr,Over,7.5,2.1,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Michael Porter Jr,Under,7.5,1.67,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Luguentz Dort,Over,3.5,2.2,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Luguentz Dort,Under,3.5,1.62,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Dyson Daniels,Over,6.5,1.77,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Dyson Daniels,Under,6.5,1.96,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,C.J. McCollum,Over,2.5,1.93,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,C.J. McCollum,Under,2.5,1.8,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Onyeka Okongwu,Over,7.5,1.82,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Onyeka Okongwu,Under,7.5,1.91,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Kingston Flemings,Over,2.5,1.65,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Kingston Flemings,Under,2.5,2.15,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Day'Ron Sharpe,Over,7.5,1.83,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_rebounds,Day'Ron Sharpe,Under,7.5,1.88,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Michael Porter Jr,Over,3.5,2.05,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Michael Porter Jr,Under,3.5,1.71,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Mikel Brown Jr.,Over,1.5,1.73,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Mikel Brown Jr.,Under,1.5,2.02,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Nickeil Alexander-Walker,Over,3.5,2.14,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Nickeil Alexander-Walker,Under,3.5,1.65,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Jalen Johnson,Over,1.5,2.1,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Jalen Johnson,Under,1.5,1.68,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Julius Randle,Over,1.5,2.3,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Julius Randle,Under,1.5,1.56,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Onyeka Okongwu,Over,1.5,2.07,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Onyeka Okongwu,Under,1.5,1.7,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Luguentz Dort,Over,1.5,1.73,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Luguentz Dort,Under,1.5,2.02,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,C.J. McCollum,Over,1.5,1.81,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,C.J. McCollum,Under,1.5,1.92,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Nolan Traore,Over,1.5,2.02,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,unibet,player_threes,Nolan Traore,Under,1.5,1.72,2026-11-08T00:34:29Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,C.J. McCollum,Over,3.5,2.3,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,C.J. McCollum,Under,3.5,1.58,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Dyson Daniels,Over,4.5,1.75,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Dyson Daniels,Under,4.5,2.0,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Day'Ron Sharpe,Over,2.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Day'Ron Sharpe,Under,2.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Danny Wolf,Over,1.5,1.72,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Danny Wolf,Under,1.5,2.05,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Julius Randle,Over,4.5,1.85,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Julius Randle,Under,4.5,1.9,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Jalen Johnson,Over,7.5,2.15,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Jalen Johnson,Under,7.5,1.65,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Kingston Flemings,Over,4.5,2.05,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Kingston Flemings,Under,4.5,1.72,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Luguentz Dort,Over,1.5,2.6,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Luguentz Dort,Under,1.5,1.46,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Mikel Brown Jr.,Over,4.5,2.25,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Mikel Brown Jr.,Under,4.5,1.6,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Michael Porter Jr,Over,2.5,2.5,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Michael Porter Jr,Under,2.5,1.5,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Nickeil Alexander-Walker,Over,2.5,1.75,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Nickeil Alexander-Walker,Under,2.5,2.0,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Nolan Traore,Over,4.5,2.15,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Nolan Traore,Under,4.5,1.65,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Onyeka Okongwu,Over,2.5,2.15,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_assists,Onyeka Okongwu,Under,2.5,1.65,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,C.J. McCollum,Over,13.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,C.J. McCollum,Under,13.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Day'Ron Sharpe,Over,9.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Day'Ron Sharpe,Under,9.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Danny Wolf,Over,8.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Danny Wolf,Under,8.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Julius Randle,Over,20.5,1.85,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Julius Randle,Under,20.5,1.9,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Jalen Johnson,Over,20.5,1.87,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Jalen Johnson,Under,20.5,1.87,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Kingston Flemings,Over,9.5,2.0,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Kingston Flemings,Under,9.5,1.75,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Luguentz Dort,Over,8.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Luguentz Dort,Under,8.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Mikel Brown Jr.,Over,12.5,2.0,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Mikel Brown Jr.,Under,12.5,1.75,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Michael Porter Jr,Over,22.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Michael Porter Jr,Under,22.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Nolan Traore,Over,11.5,1.87,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Nolan Traore,Under,11.5,1.87,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Onyeka Okongwu,Over,13.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points,Onyeka Okongwu,Under,13.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,C.J. McCollum,Over,18.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,C.J. McCollum,Under,18.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Dyson Daniels,Over,23.5,1.9,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Dyson Daniels,Under,23.5,1.85,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Day'Ron Sharpe,Over,20.5,1.9,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Day'Ron Sharpe,Under,20.5,1.85,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Danny Wolf,Over,14.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Danny Wolf,Under,14.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Julius Randle,Over,32.5,1.9,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Julius Randle,Under,32.5,1.85,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Jalen Johnson,Over,36.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Jalen Johnson,Under,36.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Kingston Flemings,Over,16.5,1.85,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Kingston Flemings,Under,16.5,1.9,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Luguentz Dort,Over,13.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Luguentz Dort,Under,13.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Michael Porter Jr,Over,31.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Michael Porter Jr,Under,31.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,27.5,1.9,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Nickeil Alexander-Walker,Under,27.5,1.85,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Nolan Traore,Over,18.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Nolan Traore,Under,18.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Onyeka Okongwu,Over,23.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_points_rebounds_assists,Onyeka Okongwu,Under,23.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,C.J. McCollum,Over,2.5,2.05,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,C.J. McCollum,Under,2.5,1.72,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Dyson Daniels,Over,6.5,1.75,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Dyson Daniels,Under,6.5,2.0,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Day'Ron Sharpe,Over,8.5,2.05,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Day'Ron Sharpe,Under,8.5,1.72,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Danny Wolf,Over,4.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Danny Wolf,Under,4.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Julius Randle,Over,6.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Julius Randle,Under,6.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Jalen Johnson,Over,9.5,2.1,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Jalen Johnson,Under,9.5,1.68,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Kingston Flemings,Over,3.5,2.45,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Kingston Flemings,Under,3.5,1.52,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Luguentz Dort,Over,3.5,2.4,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Luguentz Dort,Under,3.5,1.53,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Mikel Brown Jr.,Over,2.5,1.85,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Mikel Brown Jr.,Under,2.5,1.9,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Michael Porter Jr,Over,6.5,1.75,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Michael Porter Jr,Under,6.5,2.0,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Nickeil Alexander-Walker,Over,3.5,2.5,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Nickeil Alexander-Walker,Under,3.5,1.5,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Nolan Traore,Over,2.5,2.3,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Nolan Traore,Under,2.5,1.58,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Onyeka Okongwu,Over,8.5,2.15,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_rebounds,Onyeka Okongwu,Under,8.5,1.65,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,C.J. McCollum,Over,1.5,1.65,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,C.J. McCollum,Under,1.5,2.15,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Dyson Daniels,Over,0.5,2.35,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Dyson Daniels,Under,0.5,1.55,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Day'Ron Sharpe,Over,0.5,3.1,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Day'Ron Sharpe,Under,0.5,1.34,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Danny Wolf,Over,1.5,2.5,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Danny Wolf,Under,1.5,1.5,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Julius Randle,Over,1.5,2.1,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Julius Randle,Under,1.5,1.68,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Jalen Johnson,Over,1.5,1.95,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Jalen Johnson,Under,1.5,1.8,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Kingston Flemings,Over,1.5,3.3,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Kingston Flemings,Under,1.5,1.3,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Luguentz Dort,Over,1.5,1.9,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Luguentz Dort,Under,1.5,1.85,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Mikel Brown Jr.,Over,1.5,1.85,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Mikel Brown Jr.,Under,1.5,1.9,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Michael Porter Jr,Over,3.5,2.05,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Michael Porter Jr,Under,3.5,1.72,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Nolan Traore,Over,1.5,2.05,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Nolan Traore,Under,1.5,1.72,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Onyeka Okongwu,Over,1.5,2.05,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,tab,player_threes,Onyeka Okongwu,Under,1.5,1.72,2026-11-08T00:31:01Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Onyeka Okongwu,Over,2.5,1.94,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Onyeka Okongwu,Under,2.5,1.8,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Day'Ron Sharpe,Over,2.5,1.88,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Day'Ron Sharpe,Under,2.5,1.87,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Nolan Traore,Over,4.5,2.1,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Nolan Traore,Under,4.5,1.7,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Dyson Daniels,Over,4.5,1.77,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Dyson Daniels,Under,4.5,1.98,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Jalen Johnson,Over,7.5,2.05,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Jalen Johnson,Under,7.5,1.72,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Mikel Brown Jr.,Over,3.5,1.68,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Mikel Brown Jr.,Under,3.5,2.1,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Julius Randle,Over,4.5,1.95,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Julius Randle,Under,4.5,1.8,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,C.J. McCollum,Over,3.5,2.15,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,C.J. McCollum,Under,3.5,1.67,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Kingston Flemings,Over,4.5,1.87,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Kingston Flemings,Under,4.5,1.87,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Michael Porter Jr,Over,2.5,2.25,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Michael Porter Jr,Under,2.5,1.6,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Nickeil Alexander-Walker,Over,2.5,1.75,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_assists,Nickeil Alexander-Walker,Under,2.5,2.0,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Julius Randle,Over,20.5,1.87,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Julius Randle,Under,20.5,1.87,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Day'Ron Sharpe,Over,8.5,1.82,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Day'Ron Sharpe,Under,8.5,1.92,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Kingston Flemings,Over,8.5,1.87,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Kingston Flemings,Under,8.5,1.88,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Danny Wolf,Over,8.5,1.82,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Danny Wolf,Under,8.5,1.92,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Michael Porter Jr,Over,22.5,1.92,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Michael Porter Jr,Under,22.5,1.82,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Moritz Wagner,Over,9.5,1.83,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Moritz Wagner,Under,9.5,1.91,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Mikel Brown Jr.,Over,11.5,1.85,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Mikel Brown Jr.,Under,11.5,1.9,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Jalen Johnson,Over,19.5,1.83,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Jalen Johnson,Under,19.5,1.91,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,C.J. McCollum,Over,12.5,1.8,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,C.J. McCollum,Under,12.5,1.94,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Dyson Daniels,Over,10.5,1.85,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Dyson Daniels,Under,10.5,1.88,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Nolan Traore,Over,11.5,1.92,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Nolan Traore,Under,11.5,1.82,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Onyeka Okongwu,Over,12.5,1.85,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Onyeka Okongwu,Under,12.5,1.9,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Nickeil Alexander-Walker,Over,19.5,1.85,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points,Nickeil Alexander-Walker,Under,19.5,1.88,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Onyeka Okongwu,Over,22.5,1.78,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Onyeka Okongwu,Under,22.5,1.96,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Kingston Flemings,Over,15.5,1.72,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Kingston Flemings,Under,15.5,2.05,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Julius Randle,Over,31.5,1.75,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Julius Randle,Under,31.5,2.0,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,24.5,1.73,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Nickeil Alexander-Walker,Under,24.5,2.05,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Michael Porter Jr,Over,30.5,1.75,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Michael Porter Jr,Under,30.5,2.02,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Nolan Traore,Over,17.5,1.8,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Nolan Traore,Under,17.5,1.95,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Dyson Daniels,Over,21.5,1.73,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Dyson Daniels,Under,21.5,2.02,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,C.J. McCollum,Over,18.5,1.8,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,C.J. McCollum,Under,18.5,1.94,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Mikel Brown Jr.,Over,17.5,1.7,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Mikel Brown Jr.,Under,17.5,2.05,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Day'Ron Sharpe,Over,18.5,1.73,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Day'Ron Sharpe,Under,18.5,2.02,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Jalen Johnson,Over,35.5,1.7,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_points_rebounds_assists,Jalen Johnson,Under,35.5,2.1,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,C.J. McCollum,Over,2.5,1.98,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,C.J. McCollum,Under,2.5,1.77,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Nickeil Alexander-Walker,Over,2.5,1.73,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Nickeil Alexander-Walker,Under,2.5,2.05,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Julius Randle,Over,6.5,1.8,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Julius Randle,Under,6.5,1.95,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Moritz Wagner,Over,4.5,1.94,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Moritz Wagner,Under,4.5,1.8,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Mikel Brown Jr.,Over,2.5,1.91,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Mikel Brown Jr.,Under,2.5,1.83,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Jalen Johnson,Over,9.5,1.98,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Jalen Johnson,Under,9.5,1.77,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Danny Wolf,Over,4.5,1.7,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Danny Wolf,Under,4.5,2.1,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Michael Porter Jr,Over,6.5,1.82,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Michael Porter Jr,Under,6.5,1.92,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Kingston Flemings,Over,2.5,1.68,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Kingston Flemings,Under,2.5,2.1,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Dyson Daniels,Over,6.5,1.85,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Dyson Daniels,Under,6.5,1.88,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Nolan Traore,Over,2.5,2.25,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Nolan Traore,Under,2.5,1.6,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Day'Ron Sharpe,Over,7.5,1.85,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Day'Ron Sharpe,Under,7.5,1.9,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Onyeka Okongwu,Over,7.5,1.91,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_rebounds,Onyeka Okongwu,Under,7.5,1.83,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,Onyeka Okongwu,Over,1.5,2.05,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,Onyeka Okongwu,Under,1.5,1.67,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,C.J. McCollum,Over,1.5,1.87,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,C.J. McCollum,Under,1.5,1.8,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,Nickeil Alexander-Walker,Over,3.5,2.1,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,Nickeil Alexander-Walker,Under,3.5,1.62,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,Michael Porter Jr,Over,2.5,1.6,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,Michael Porter Jr,Under,2.5,2.15,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,Jalen Johnson,Over,1.5,2.05,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,Jalen Johnson,Under,1.5,1.67,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,Mikel Brown Jr.,Over,1.5,1.9,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,neds,player_threes,Mikel Brown Jr.,Under,1.5,1.78,2026-11-08T00:34:22Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Onyeka Okongwu,Over,2.5,1.94,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Onyeka Okongwu,Under,2.5,1.8,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Day'Ron Sharpe,Over,2.5,1.88,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Day'Ron Sharpe,Under,2.5,1.87,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Nolan Traore,Over,4.5,2.1,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Nolan Traore,Under,4.5,1.7,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Dyson Daniels,Over,4.5,1.77,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Dyson Daniels,Under,4.5,1.98,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Jalen Johnson,Over,7.5,2.05,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Jalen Johnson,Under,7.5,1.72,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Mikel Brown Jr.,Over,3.5,1.68,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Mikel Brown Jr.,Under,3.5,2.1,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Julius Randle,Over,4.5,1.95,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Julius Randle,Under,4.5,1.8,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,C.J. McCollum,Over,3.5,2.15,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,C.J. McCollum,Under,3.5,1.67,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Kingston Flemings,Over,4.5,1.87,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Kingston Flemings,Under,4.5,1.87,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Michael Porter Jr,Over,2.5,2.25,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Michael Porter Jr,Under,2.5,1.6,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Nickeil Alexander-Walker,Over,2.5,1.75,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_assists,Nickeil Alexander-Walker,Under,2.5,2.0,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Julius Randle,Over,20.5,1.87,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Julius Randle,Under,20.5,1.87,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Day'Ron Sharpe,Over,8.5,1.82,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Day'Ron Sharpe,Under,8.5,1.92,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Kingston Flemings,Over,8.5,1.87,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Kingston Flemings,Under,8.5,1.88,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Danny Wolf,Over,8.5,1.82,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Danny Wolf,Under,8.5,1.92,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Michael Porter Jr,Over,22.5,1.92,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Michael Porter Jr,Under,22.5,1.82,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Moritz Wagner,Over,9.5,1.83,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Moritz Wagner,Under,9.5,1.91,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Mikel Brown Jr.,Over,11.5,1.85,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Mikel Brown Jr.,Under,11.5,1.9,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Jalen Johnson,Over,19.5,1.83,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Jalen Johnson,Under,19.5,1.91,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,C.J. McCollum,Over,12.5,1.8,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,C.J. McCollum,Under,12.5,1.94,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Dyson Daniels,Over,10.5,1.85,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Dyson Daniels,Under,10.5,1.88,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Nolan Traore,Over,11.5,1.92,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Nolan Traore,Under,11.5,1.82,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Onyeka Okongwu,Over,12.5,1.85,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Onyeka Okongwu,Under,12.5,1.9,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Nickeil Alexander-Walker,Over,19.5,1.85,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points,Nickeil Alexander-Walker,Under,19.5,1.88,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Onyeka Okongwu,Over,22.5,1.8,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Onyeka Okongwu,Under,22.5,1.95,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Kingston Flemings,Over,15.5,1.72,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Kingston Flemings,Under,15.5,2.05,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Over,31.5,1.77,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Under,31.5,1.98,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Nickeil Alexander-Walker,Over,24.5,1.72,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Nickeil Alexander-Walker,Under,24.5,2.05,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Michael Porter Jr,Over,30.5,1.73,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Michael Porter Jr,Under,30.5,2.05,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Nolan Traore,Over,17.5,1.77,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Nolan Traore,Under,17.5,1.98,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Dyson Daniels,Over,21.5,1.75,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Dyson Daniels,Under,21.5,2.02,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,C.J. McCollum,Over,18.5,1.82,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,C.J. McCollum,Under,18.5,1.92,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Mikel Brown Jr.,Over,17.5,1.7,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Mikel Brown Jr.,Under,17.5,2.05,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Over,18.5,1.73,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Under,18.5,2.05,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Jalen Johnson,Over,35.5,1.73,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_points_rebounds_assists,Jalen Johnson,Under,35.5,2.02,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,C.J. McCollum,Over,2.5,1.98,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,C.J. McCollum,Under,2.5,1.77,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Nickeil Alexander-Walker,Over,2.5,1.73,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Nickeil Alexander-Walker,Under,2.5,2.05,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Julius Randle,Over,6.5,1.8,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Julius Randle,Under,6.5,1.95,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Moritz Wagner,Over,4.5,1.94,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Moritz Wagner,Under,4.5,1.8,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Mikel Brown Jr.,Over,2.5,1.91,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Mikel Brown Jr.,Under,2.5,1.83,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Jalen Johnson,Over,9.5,1.98,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Jalen Johnson,Under,9.5,1.77,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Danny Wolf,Over,4.5,1.7,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Danny Wolf,Under,4.5,2.1,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Michael Porter Jr,Over,6.5,1.82,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Michael Porter Jr,Under,6.5,1.92,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Kingston Flemings,Over,2.5,1.68,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Kingston Flemings,Under,2.5,2.1,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Dyson Daniels,Over,6.5,1.85,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Dyson Daniels,Under,6.5,1.88,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Nolan Traore,Over,2.5,2.25,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Nolan Traore,Under,2.5,1.6,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Over,7.5,1.85,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Under,7.5,1.9,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Onyeka Okongwu,Over,7.5,1.91,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_rebounds,Onyeka Okongwu,Under,7.5,1.83,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,Onyeka Okongwu,Over,1.5,2.05,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,Onyeka Okongwu,Under,1.5,1.67,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,C.J. McCollum,Over,1.5,1.87,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,C.J. McCollum,Under,1.5,1.8,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,Nickeil Alexander-Walker,Over,3.5,2.1,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,Nickeil Alexander-Walker,Under,3.5,1.62,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,Michael Porter Jr,Over,2.5,1.6,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,Michael Porter Jr,Under,2.5,2.15,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,Jalen Johnson,Over,1.5,2.05,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,Jalen Johnson,Under,1.5,1.67,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,Mikel Brown Jr.,Over,1.5,1.9,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
+2026-11-08,11:40,Brooklyn Nets @ Atlanta Hawks,ladbrokes_au,player_threes,Mikel Brown Jr.,Under,1.5,1.78,2026-11-08T00:34:44Z,2026-11-08T00:35:00+00:00,5.0
