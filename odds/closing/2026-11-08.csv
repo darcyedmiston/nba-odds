@@ -3466,3 +3466,726 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-08,12:10,Washington Wizards @ Oklahoma City Thunder,ladbrokes_au,player_threes,Kyshawn George,Under,1.5,2.45,2026-11-08T01:05:00Z,2026-11-08T01:05:01+00:00,5.0
 2026-11-08,12:10,Washington Wizards @ Oklahoma City Thunder,ladbrokes_au,player_threes,Tre Johnson,Over,1.5,1.73,2026-11-08T01:05:00Z,2026-11-08T01:05:01+00:00,5.0
 2026-11-08,12:10,Washington Wizards @ Oklahoma City Thunder,ladbrokes_au,player_threes,Tre Johnson,Under,1.5,1.96,2026-11-08T01:05:00Z,2026-11-08T01:05:01+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Anthony Black,Over,4.5,1.74,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Anthony Black,Under,4.5,2.05,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Wendell Carter Jr,Over,1.5,1.83,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Wendell Carter Jr,Under,1.5,1.92,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Tristan da Silva,Over,2.5,2.5,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Tristan da Silva,Under,2.5,1.48,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Jase Richardson,Over,3.5,2.15,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Jase Richardson,Under,3.5,1.64,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Franz Wagner,Over,7.5,2.08,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Franz Wagner,Under,7.5,1.72,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Stephen Curry,Over,4.5,1.74,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Stephen Curry,Under,4.5,2.05,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Draymond Green,Over,5.5,1.72,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Draymond Green,Under,5.5,2.08,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Yaxel Lendeborg,Over,4.5,1.96,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Yaxel Lendeborg,Under,4.5,1.8,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Brandin Podziemski,Over,3.5,1.72,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_assists,Brandin Podziemski,Under,3.5,2.08,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Wendell Carter Jr,Over,13.5,2.0,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Wendell Carter Jr,Under,13.5,1.78,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Tristan da Silva,Over,13.5,1.8,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Tristan da Silva,Under,13.5,1.96,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Anthony Black,Over,17.5,1.84,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Anthony Black,Under,17.5,1.92,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Franz Wagner,Over,24.5,1.89,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Franz Wagner,Under,24.5,1.86,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Jase Richardson,Over,9.5,1.85,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Jase Richardson,Under,9.5,1.91,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Yaxel Lendeborg,Over,17.5,1.74,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Yaxel Lendeborg,Under,17.5,2.05,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Brandin Podziemski,Over,14.5,1.84,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Brandin Podziemski,Under,14.5,1.92,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Draymond Green,Over,4.5,1.8,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Draymond Green,Under,4.5,1.96,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Stephen Curry,Over,25.5,1.86,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Stephen Curry,Under,25.5,1.9,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,De'Anthony Melton,Over,8.5,2.05,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,De'Anthony Melton,Under,8.5,1.74,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Georges Niang,Over,6.5,1.9,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Georges Niang,Under,6.5,1.86,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Jamal Cain,Over,8.5,2.02,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Jamal Cain,Under,8.5,1.76,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Gui Santos,Over,8.5,1.96,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points,Gui Santos,Under,8.5,1.8,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.89,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.86,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Anthony Black,Over,27.5,1.86,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Anthony Black,Under,27.5,1.9,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Over,23.5,1.8,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Under,23.5,1.96,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Tristan da Silva,Over,20.5,1.83,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Tristan da Silva,Under,20.5,1.93,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Jase Richardson,Over,16.5,1.96,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Jase Richardson,Under,16.5,1.8,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Brandin Podziemski,Over,24.5,1.96,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Brandin Podziemski,Under,24.5,1.8,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Draymond Green,Over,16.5,1.96,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Draymond Green,Under,16.5,1.8,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Stephen Curry,Over,34.5,1.87,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Stephen Curry,Under,34.5,1.89,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Yaxel Lendeborg,Over,30.5,1.96,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Yaxel Lendeborg,Under,30.5,1.8,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,De'Anthony Melton,Over,13.5,1.93,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_points_rebounds_assists,De'Anthony Melton,Under,13.5,1.83,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Wendell Carter Jr,Over,9.5,2.1,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Wendell Carter Jr,Under,9.5,1.68,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Tristan da Silva,Over,4.5,1.87,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Tristan da Silva,Under,4.5,1.89,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Anthony Black,Over,4.5,1.86,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Anthony Black,Under,4.5,1.9,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Jase Richardson,Over,3.5,2.4,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Jase Richardson,Under,3.5,1.52,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Franz Wagner,Over,6.5,2.1,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Franz Wagner,Under,6.5,1.68,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Brandin Podziemski,Over,5.5,2.1,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Brandin Podziemski,Under,5.5,1.68,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Draymond Green,Over,5.5,2.02,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Draymond Green,Under,5.5,1.76,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Yaxel Lendeborg,Over,7.5,2.1,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Yaxel Lendeborg,Under,7.5,1.68,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Stephen Curry,Over,3.5,1.68,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Stephen Curry,Under,3.5,2.1,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Georges Niang,Over,2.5,1.64,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Georges Niang,Under,2.5,2.15,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,De'Anthony Melton,Over,3.5,2.3,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,De'Anthony Melton,Under,3.5,1.56,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Gui Santos,Over,3.5,1.96,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_rebounds,Gui Santos,Under,3.5,1.8,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Franz Wagner,Over,1.5,2.15,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Franz Wagner,Under,1.5,1.64,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Jase Richardson,Over,1.5,2.25,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Jase Richardson,Under,1.5,1.58,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Tristan da Silva,Over,2.5,1.72,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Tristan da Silva,Under,2.5,2.08,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Anthony Black,Over,1.5,1.68,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Anthony Black,Under,1.5,2.1,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Yaxel Lendeborg,Over,1.5,1.68,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Yaxel Lendeborg,Under,1.5,2.1,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Brandin Podziemski,Over,2.5,2.5,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Brandin Podziemski,Under,2.5,1.48,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Stephen Curry,Over,4.5,2.15,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Stephen Curry,Under,4.5,1.64,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,De'Anthony Melton,Over,1.5,2.15,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,De'Anthony Melton,Under,1.5,1.64,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Georges Niang,Over,1.5,2.15,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,sportsbet,player_threes,Georges Niang,Under,1.5,1.64,2026-11-08T01:34:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Brandin Podziemski,Over,3.5,1.62,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Brandin Podziemski,Under,3.5,2.2,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Stephen Curry,Over,4.5,1.73,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Stephen Curry,Under,4.5,2.05,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Draymond Green,Over,6.5,2.15,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Draymond Green,Under,6.5,1.65,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Yaxel Lendeborg,Over,4.5,1.92,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Yaxel Lendeborg,Under,4.5,1.85,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Anthony Black,Over,4.5,1.71,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Anthony Black,Under,4.5,2.05,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Franz Wagner,Over,6.5,1.65,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_assists,Franz Wagner,Under,6.5,2.15,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Yaxel Lendeborg,Over,17.5,1.83,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Yaxel Lendeborg,Under,17.5,1.92,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Wendell Carter Jr,Over,13.5,1.92,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Wendell Carter Jr,Under,13.5,1.83,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Anthony Black,Over,17.5,1.86,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Anthony Black,Under,17.5,1.9,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Tristan da Silva,Over,13.5,1.86,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Tristan da Silva,Under,13.5,1.9,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Franz Wagner,Over,25.5,1.92,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Franz Wagner,Under,25.5,1.83,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Brandin Podziemski,Over,14.5,1.83,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Brandin Podziemski,Under,14.5,1.92,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Stephen Curry,Over,25.5,1.82,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points,Stephen Curry,Under,25.5,1.95,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Stephen Curry,Over,24.5,1.07,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Stephen Curry,Over,29.5,1.3,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Stephen Curry,Over,34.5,1.83,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Stephen Curry,Over,39.5,3.0,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Stephen Curry,Over,44.5,6.0,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Draymond Green,Over,11.5,1.14,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Draymond Green,Over,13.5,1.33,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Draymond Green,Over,15.5,1.65,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Draymond Green,Over,17.5,2.25,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Draymond Green,Over,19.5,3.2,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Yaxel Lendeborg,Over,19.5,1.06,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Yaxel Lendeborg,Over,24.5,1.26,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Yaxel Lendeborg,Over,29.5,1.88,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Yaxel Lendeborg,Over,34.5,3.4,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Yaxel Lendeborg,Over,39.5,8.0,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Brandin Podziemski,Over,14.5,1.05,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Brandin Podziemski,Over,19.5,1.26,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Brandin Podziemski,Over,24.5,1.95,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Brandin Podziemski,Over,29.5,3.9,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Brandin Podziemski,Over,34.5,9.0,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Anthony Black,Over,14.5,1.01,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Anthony Black,Over,19.5,1.1,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Anthony Black,Over,24.5,1.44,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Anthony Black,Over,29.5,2.4,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Anthony Black,Over,34.5,5.0,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Jase Richardson,Over,11.5,1.18,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Jase Richardson,Over,13.5,1.36,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Jase Richardson,Over,15.5,1.7,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Jase Richardson,Over,17.5,2.25,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Jase Richardson,Over,19.5,3.2,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Franz Wagner,Over,29.5,1.11,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Franz Wagner,Over,34.5,1.36,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Franz Wagner,Over,39.5,2.05,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Franz Wagner,Over,44.5,3.8,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_points_rebounds_assists,Franz Wagner,Over,49.5,7.5,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Brandin Podziemski,Over,5.5,2.05,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Brandin Podziemski,Under,5.5,1.73,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Stephen Curry,Over,3.5,1.7,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Stephen Curry,Under,3.5,2.1,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Draymond Green,Over,5.5,1.98,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Draymond Green,Under,5.5,1.78,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Yaxel Lendeborg,Over,7.5,2.05,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Yaxel Lendeborg,Under,7.5,1.7,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Anthony Black,Over,4.5,1.86,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Anthony Black,Under,4.5,1.88,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Wendell Carter Jr,Over,9.5,2.05,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Wendell Carter Jr,Under,9.5,1.73,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Tristan da Silva,Over,4.5,1.88,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Tristan da Silva,Under,4.5,1.86,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,De'Anthony Melton,Over,2.5,1.57,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,De'Anthony Melton,Under,2.5,2.3,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Franz Wagner,Over,6.5,2.1,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Franz Wagner,Under,6.5,1.68,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Gui Santos,Over,3.5,1.91,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,betright,player_rebounds,Gui Santos,Under,3.5,1.86,2026-11-08T01:33:58Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Brandin Podziemski,Over,3.5,1.68,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Brandin Podziemski,Under,3.5,1.88,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Yaxel Lendeborg,Over,3.5,1.68,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Yaxel Lendeborg,Under,3.5,1.98,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Draymond Green,Over,5.5,1.78,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Draymond Green,Under,5.5,1.95,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Anthony Black,Over,4.5,1.78,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Anthony Black,Under,4.5,1.98,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Franz Wagner,Over,7.5,2.05,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Franz Wagner,Under,7.5,1.72,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Stephen Curry,Over,4.5,1.95,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Stephen Curry,Under,4.5,1.8,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Jase Richardson,Over,3.5,2.3,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_assists,Jase Richardson,Under,3.5,1.55,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Gui Santos,Over,7.5,1.85,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Gui Santos,Under,7.5,1.88,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Georges Niang,Over,7.5,1.98,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Georges Niang,Under,7.5,1.78,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Jase Richardson,Over,9.5,1.9,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Jase Richardson,Under,9.5,1.85,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Jamal Cain,Over,7.5,1.98,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Jamal Cain,Under,7.5,1.78,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Wendell Carter Jr,Over,13.5,1.9,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Wendell Carter Jr,Under,13.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Stephen Curry,Over,26.5,1.92,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Stephen Curry,Under,26.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Yaxel Lendeborg,Over,17.5,1.7,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Yaxel Lendeborg,Under,17.5,1.95,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Franz Wagner,Over,24.5,1.85,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Franz Wagner,Under,24.5,1.88,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Anthony Black,Over,17.5,1.88,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Anthony Black,Under,17.5,1.78,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Tristan da Silva,Over,14.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Tristan da Silva,Under,14.5,1.92,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Brandin Podziemski,Over,14.5,1.85,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,Brandin Podziemski,Under,14.5,1.88,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,De'Anthony Melton,Over,7.5,1.92,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points,De'Anthony Melton,Under,7.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Draymond Green,Over,16.5,1.92,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Draymond Green,Under,16.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Yaxel Lendeborg,Over,28.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Yaxel Lendeborg,Under,28.5,1.92,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Georges Niang,Over,11.5,1.92,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Georges Niang,Under,11.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Stephen Curry,Over,34.5,1.92,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Stephen Curry,Under,34.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Wendell Carter Jr,Over,24.5,1.85,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Wendell Carter Jr,Under,24.5,1.88,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Jase Richardson,Over,16.5,1.95,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Jase Richardson,Under,16.5,1.78,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Anthony Black,Over,26.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Anthony Black,Under,26.5,1.92,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Jamal Cain,Over,11.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Jamal Cain,Under,11.5,1.92,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.88,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.85,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Brandin Podziemski,Over,23.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Brandin Podziemski,Under,23.5,1.92,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Tristan da Silva,Over,21.5,1.88,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Tristan da Silva,Under,21.5,1.85,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Gui Santos,Over,13.5,1.85,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,Gui Santos,Under,13.5,1.88,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,De'Anthony Melton,Over,11.5,1.78,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_points_rebounds_assists,De'Anthony Melton,Under,11.5,1.95,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Yaxel Lendeborg,Over,6.5,1.8,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Yaxel Lendeborg,Under,6.5,1.95,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Tristan da Silva,Over,4.5,1.98,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Tristan da Silva,Under,4.5,1.78,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Draymond Green,Over,5.5,2.1,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Draymond Green,Under,5.5,1.68,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Wendell Carter Jr,Over,9.5,2.05,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Wendell Carter Jr,Under,9.5,1.72,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Anthony Black,Over,4.5,1.95,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Anthony Black,Under,4.5,1.8,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Jase Richardson,Over,3.5,2.05,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Jase Richardson,Under,3.5,1.72,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Franz Wagner,Over,6.5,2.0,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Franz Wagner,Under,6.5,1.75,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Jamal Cain,Over,3.5,1.9,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Jamal Cain,Under,3.5,1.82,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Stephen Curry,Over,3.5,1.9,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Stephen Curry,Under,3.5,1.85,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Brandin Podziemski,Over,5.5,2.1,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_rebounds,Brandin Podziemski,Under,5.5,1.68,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Georges Niang,Over,1.5,2.25,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Georges Niang,Under,1.5,1.58,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Stephen Curry,Over,4.5,2.05,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Stephen Curry,Under,4.5,1.72,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Brandin Podziemski,Over,1.5,1.48,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Brandin Podziemski,Under,1.5,2.45,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Wendell Carter Jr,Over,0.5,1.45,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Wendell Carter Jr,Under,0.5,2.55,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,De'Anthony Melton,Over,1.5,2.4,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,De'Anthony Melton,Under,1.5,1.5,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Tristan da Silva,Over,2.5,1.64,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Tristan da Silva,Under,2.5,2.02,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Anthony Black,Over,1.5,1.66,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Anthony Black,Under,1.5,2.15,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Franz Wagner,Over,1.5,2.05,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Franz Wagner,Under,1.5,1.72,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Draymond Green,Over,0.5,1.9,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Draymond Green,Under,0.5,1.85,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Jamal Cain,Over,1.5,2.5,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Jamal Cain,Under,1.5,1.46,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Jase Richardson,Over,1.5,2.4,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Jase Richardson,Under,1.5,1.5,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Yaxel Lendeborg,Over,1.5,1.62,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Yaxel Lendeborg,Under,1.5,2.2,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Gui Santos,Over,0.5,1.64,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,dabble_au,player_threes,Gui Santos,Under,0.5,2.15,2026-11-08T01:33:54Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Anthony Black,Over,4.5,1.74,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Anthony Black,Under,4.5,2.05,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Brandin Podziemski,Over,3.5,1.8,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Brandin Podziemski,Under,3.5,1.95,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Draymond Green,Over,5.5,1.74,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Draymond Green,Under,5.5,2.05,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Franz Wagner,Over,7.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Franz Wagner,Under,7.5,1.83,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Jase Richardson,Over,3.5,2.15,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Jase Richardson,Under,3.5,1.69,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Stephen Curry,Over,4.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Stephen Curry,Under,4.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Tristan da Silva,Over,2.5,2.45,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Tristan da Silva,Under,2.5,1.53,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Yaxel Lendeborg,Over,4.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_assists,Yaxel Lendeborg,Under,4.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Al Horford,Over,5.5,2.1,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Al Horford,Under,5.5,1.77,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Anthony Black,Over,17.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Anthony Black,Under,17.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Brandin Podziemski,Over,14.5,1.8,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Brandin Podziemski,Under,14.5,2.05,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,De'Anthony Melton,Over,8.5,2.1,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,De'Anthony Melton,Under,8.5,1.77,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Draymond Green,Over,5.5,2.15,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Draymond Green,Under,5.5,1.74,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Franz Wagner,Over,24.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Franz Wagner,Under,24.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Gui Santos,Over,8.5,2.1,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Gui Santos,Under,8.5,1.77,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Jamal Cain,Over,8.5,2.05,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Jamal Cain,Under,8.5,1.8,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Jase Richardson,Over,9.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Jase Richardson,Under,9.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Stephen Curry,Over,26.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Stephen Curry,Under,26.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Tristan da Silva,Over,13.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Tristan da Silva,Under,13.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Wendell Carter Jr,Over,12.5,1.83,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Wendell Carter Jr,Under,12.5,2.0,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Yaxel Lendeborg,Over,18.5,1.95,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points,Yaxel Lendeborg,Under,18.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Anthony Black,Over,27.5,1.95,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Anthony Black,Under,27.5,1.8,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Brandin Podziemski,Over,24.5,1.95,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Brandin Podziemski,Under,24.5,1.8,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Draymond Green,Over,16.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Draymond Green,Under,16.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Jase Richardson,Over,16.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Jase Richardson,Under,16.5,1.83,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Stephen Curry,Over,35.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Stephen Curry,Under,35.5,1.83,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Tristan da Silva,Over,20.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Tristan da Silva,Under,20.5,1.87,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Wendell Carter Jr,Over,24.5,1.95,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Wendell Carter Jr,Under,24.5,1.8,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Yaxel Lendeborg,Over,30.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Yaxel Lendeborg,Under,30.5,1.83,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Anthony Black,Over,4.5,1.95,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Anthony Black,Under,4.5,1.8,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Brandin Podziemski,Over,5.5,2.15,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Brandin Podziemski,Under,5.5,1.69,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,De'Anthony Melton,Over,2.5,1.63,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,De'Anthony Melton,Under,2.5,2.25,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Draymond Green,Over,5.5,2.2,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Draymond Green,Under,5.5,1.67,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Franz Wagner,Over,6.5,2.05,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Franz Wagner,Under,6.5,1.74,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Georges Niang,Over,2.5,1.83,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Georges Niang,Under,2.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Gui Santos,Over,3.5,1.8,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Gui Santos,Under,3.5,1.95,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Jase Richardson,Over,3.5,2.2,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Jase Richardson,Under,3.5,1.67,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Stephen Curry,Over,3.5,1.74,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Stephen Curry,Under,3.5,2.05,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Tristan da Silva,Over,4.5,1.83,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Tristan da Silva,Under,4.5,1.9,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Wendell Carter Jr,Over,9.5,2.05,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Wendell Carter Jr,Under,9.5,1.74,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Yaxel Lendeborg,Over,6.5,1.71,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_rebounds,Yaxel Lendeborg,Under,6.5,2.1,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Stephen Curry,Over,4.5,2.25,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Stephen Curry,Under,4.5,1.63,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Brandin Podziemski,Over,1.5,1.57,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Brandin Podziemski,Under,1.5,2.35,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Yaxel Lendeborg,Over,1.5,1.71,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Yaxel Lendeborg,Under,1.5,2.1,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Franz Wagner,Over,1.5,2.05,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Franz Wagner,Under,1.5,1.74,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Anthony Black,Over,1.5,1.77,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Anthony Black,Under,1.5,2.0,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Tristan da Silva,Over,2.5,1.74,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Tristan da Silva,Under,2.5,2.05,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Jase Richardson,Over,1.5,2.35,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Jase Richardson,Under,1.5,1.57,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,De'Anthony Melton,Over,1.5,2.0,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,De'Anthony Melton,Under,1.5,1.77,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Will Richard,Over,0.5,1.69,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,pointsbetau,player_threes,Will Richard,Under,0.5,2.15,2026-11-08T01:33:55Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Wendell Carter Jr,Over,12.5,1.77,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Wendell Carter Jr,Under,12.5,1.96,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Draymond Green,Over,4.5,1.74,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Draymond Green,Under,4.5,2.0,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Brandin Podziemski,Over,15.5,1.85,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Brandin Podziemski,Under,15.5,1.87,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Franz Wagner,Over,23.5,1.75,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Franz Wagner,Under,23.5,2.0,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Anthony Black,Over,17.5,1.83,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Anthony Black,Under,17.5,1.89,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Jase Richardson,Over,9.5,1.81,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Jase Richardson,Under,9.5,1.92,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Tristan da Silva,Over,14.5,1.78,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Tristan da Silva,Under,14.5,1.94,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Yaxel Lendeborg,Over,18.5,1.91,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Yaxel Lendeborg,Under,18.5,1.82,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,De'Anthony Melton,Over,7.5,1.66,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,De'Anthony Melton,Under,7.5,2.12,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Stephen Curry,Over,25.5,1.83,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Stephen Curry,Under,25.5,1.88,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Georges Niang,Over,6.5,1.73,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Georges Niang,Under,6.5,2.02,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Will Richard,Over,3.5,1.63,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Will Richard,Under,3.5,2.18,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Jamal Cain,Over,7.5,1.74,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_points,Jamal Cain,Under,7.5,2.0,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Tristan da Silva,Over,2.5,1.68,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Tristan da Silva,Under,2.5,2.08,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Georges Niang,Over,1.5,2.3,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Georges Niang,Under,1.5,1.56,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Yaxel Lendeborg,Over,1.5,1.54,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Yaxel Lendeborg,Under,1.5,2.38,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Will Richard,Over,0.5,1.53,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Will Richard,Under,0.5,2.4,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Anthony Black,Over,1.5,1.57,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Anthony Black,Under,1.5,2.28,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Franz Wagner,Over,1.5,2.12,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Franz Wagner,Under,1.5,1.66,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,De'Anthony Melton,Over,1.5,2.17,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,De'Anthony Melton,Under,1.5,1.63,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Brandin Podziemski,Over,1.5,1.57,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Brandin Podziemski,Under,1.5,2.25,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Stephen Curry,Over,4.5,2.2,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Stephen Curry,Under,4.5,1.62,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Jase Richardson,Over,1.5,2.38,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,unibet,player_threes,Jase Richardson,Under,1.5,1.53,2026-11-08T01:34:57Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Anthony Black,Over,4.5,1.72,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Anthony Black,Under,4.5,2.05,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Brandin Podziemski,Over,3.5,1.85,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Brandin Podziemski,Under,3.5,1.9,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Draymond Green,Over,5.5,1.75,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Draymond Green,Under,5.5,2.0,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Franz Wagner,Over,7.5,2.1,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Franz Wagner,Under,7.5,1.68,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Gui Santos,Over,1.5,1.75,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Gui Santos,Under,1.5,2.0,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Jamal Cain,Over,0.5,1.52,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Jamal Cain,Under,0.5,2.45,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Jase Richardson,Over,3.5,2.3,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Jase Richardson,Under,3.5,1.58,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Tristan da Silva,Over,2.5,2.75,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Tristan da Silva,Under,2.5,1.42,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Wendell Carter Jr,Over,1.5,1.68,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_assists,Wendell Carter Jr,Under,1.5,2.1,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Brandin Podziemski,Over,14.5,1.75,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Brandin Podziemski,Under,14.5,2.0,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,De'Anthony Melton,Over,7.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,De'Anthony Melton,Under,7.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Franz Wagner,Over,24.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Franz Wagner,Under,24.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Gui Santos,Over,8.5,2.0,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Gui Santos,Under,8.5,1.75,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Jamal Cain,Over,7.5,1.85,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Jamal Cain,Under,7.5,1.9,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Jase Richardson,Over,9.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Jase Richardson,Under,9.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Stephen Curry,Over,25.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points,Stephen Curry,Under,25.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Anthony Black,Over,26.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Anthony Black,Under,26.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Brandin Podziemski,Over,24.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Brandin Podziemski,Under,24.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,De'Anthony Melton,Over,12.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,De'Anthony Melton,Under,12.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Draymond Green,Over,16.5,1.85,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Draymond Green,Under,16.5,1.9,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.87,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.87,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Gui Santos,Over,13.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Gui Santos,Under,13.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Jamal Cain,Over,12.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Jamal Cain,Under,12.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Jase Richardson,Over,16.5,1.87,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Jase Richardson,Under,16.5,1.87,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Stephen Curry,Over,34.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Stephen Curry,Under,34.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Tristan da Silva,Over,21.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Tristan da Silva,Under,21.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Wendell Carter Jr,Over,24.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_points_rebounds_assists,Wendell Carter Jr,Under,24.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Anthony Black,Over,4.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Anthony Black,Under,4.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Brandin Podziemski,Over,5.5,2.1,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Brandin Podziemski,Under,5.5,1.68,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,De'Anthony Melton,Over,2.5,1.75,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,De'Anthony Melton,Under,2.5,2.0,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Draymond Green,Over,5.5,2.15,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Draymond Green,Under,5.5,1.65,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Franz Wagner,Over,6.5,2.0,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Franz Wagner,Under,6.5,1.75,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Gui Santos,Over,4.5,2.3,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Gui Santos,Under,4.5,1.58,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Jamal Cain,Over,3.5,1.95,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Jamal Cain,Under,3.5,1.8,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Jase Richardson,Over,3.5,2.05,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Jase Richardson,Under,3.5,1.72,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Stephen Curry,Over,4.5,2.4,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Stephen Curry,Under,4.5,1.53,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Tristan da Silva,Over,4.5,2.0,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Tristan da Silva,Under,4.5,1.75,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Wendell Carter Jr,Over,9.5,2.1,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_rebounds,Wendell Carter Jr,Under,9.5,1.68,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Anthony Black,Over,1.5,1.62,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Anthony Black,Under,1.5,2.2,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Brandin Podziemski,Over,2.5,2.6,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Brandin Podziemski,Under,2.5,1.46,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,De'Anthony Melton,Over,1.5,2.5,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,De'Anthony Melton,Under,1.5,1.5,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Draymond Green,Over,0.5,1.87,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Draymond Green,Under,0.5,1.87,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Franz Wagner,Over,1.5,2.05,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Franz Wagner,Under,1.5,1.72,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Gui Santos,Over,0.5,1.62,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Gui Santos,Under,0.5,2.2,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Jamal Cain,Over,1.5,2.5,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Jamal Cain,Under,1.5,1.5,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Jase Richardson,Over,1.5,2.45,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Jase Richardson,Under,1.5,1.52,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Stephen Curry,Over,4.5,2.05,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Stephen Curry,Under,4.5,1.72,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Tristan da Silva,Over,3.5,2.6,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Tristan da Silva,Under,3.5,1.46,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Wendell Carter Jr,Over,1.5,3.2,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,tab,player_threes,Wendell Carter Jr,Under,1.5,1.32,2026-11-08T01:32:52Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Anthony Black,Over,4.5,1.78,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Anthony Black,Under,4.5,1.96,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Jase Richardson,Over,2.5,1.57,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Jase Richardson,Under,2.5,2.3,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Yaxel Lendeborg,Over,4.5,1.98,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Yaxel Lendeborg,Under,4.5,1.77,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Draymond Green,Over,5.5,1.77,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Draymond Green,Under,5.5,1.98,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Stephen Curry,Over,4.5,1.83,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Stephen Curry,Under,4.5,1.9,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Franz Wagner,Over,6.5,1.68,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Franz Wagner,Under,6.5,2.1,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Brandin Podziemski,Over,3.5,1.7,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_assists,Brandin Podziemski,Under,3.5,2.05,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Will Richard,Over,4.5,1.9,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Will Richard,Under,4.5,1.85,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Yaxel Lendeborg,Over,17.5,1.8,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Yaxel Lendeborg,Under,17.5,1.94,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Brandin Podziemski,Over,15.5,1.92,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Brandin Podziemski,Under,15.5,1.82,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Tristan da Silva,Over,13.5,1.87,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Tristan da Silva,Under,13.5,1.88,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Jase Richardson,Over,9.5,1.83,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Jase Richardson,Under,9.5,1.9,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,De'Anthony Melton,Over,8.5,2.0,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,De'Anthony Melton,Under,8.5,1.75,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Gui Santos,Over,8.5,2.0,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Gui Santos,Under,8.5,1.75,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Stephen Curry,Over,25.5,1.87,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Stephen Curry,Under,25.5,1.88,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Anthony Black,Over,17.5,1.91,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Anthony Black,Under,17.5,1.83,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Franz Wagner,Over,24.5,1.85,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Franz Wagner,Under,24.5,1.88,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Wendell Carter Jr,Over,12.5,1.78,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Wendell Carter Jr,Under,12.5,1.96,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Jamal Cain,Over,7.5,1.85,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Jamal Cain,Under,7.5,1.9,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Al Horford,Over,5.5,1.94,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Al Horford,Under,5.5,1.8,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Draymond Green,Over,4.5,1.77,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points,Draymond Green,Under,4.5,1.98,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Draymond Green,Over,15.5,1.68,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Draymond Green,Under,15.5,2.1,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Franz Wagner,Over,37.5,1.75,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Franz Wagner,Under,37.5,2.0,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Stephen Curry,Over,33.5,1.72,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Stephen Curry,Under,33.5,2.05,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Yaxel Lendeborg,Over,29.5,1.8,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Yaxel Lendeborg,Under,29.5,1.94,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Anthony Black,Over,26.5,1.78,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Anthony Black,Under,26.5,1.96,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Jase Richardson,Over,15.5,1.72,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Jase Richardson,Under,15.5,2.05,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Brandin Podziemski,Over,24.5,1.83,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_points_rebounds_assists,Brandin Podziemski,Under,24.5,1.9,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Stephen Curry,Over,3.5,1.75,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Stephen Curry,Under,3.5,2.02,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Wendell Carter Jr,Over,9.5,2.02,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Wendell Carter Jr,Under,9.5,1.73,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Franz Wagner,Over,6.5,2.1,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Franz Wagner,Under,6.5,1.7,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Al Horford,Over,3.5,1.88,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Al Horford,Under,3.5,1.85,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Jase Richardson,Over,3.5,2.2,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Jase Richardson,Under,3.5,1.64,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Anthony Black,Over,4.5,1.94,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Anthony Black,Under,4.5,1.8,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,De'Anthony Melton,Over,3.5,2.2,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,De'Anthony Melton,Under,3.5,1.64,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Brandin Podziemski,Over,5.5,2.05,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Brandin Podziemski,Under,5.5,1.72,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Draymond Green,Over,5.5,2.0,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Draymond Green,Under,5.5,1.75,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Gui Santos,Over,3.5,1.96,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Gui Santos,Under,3.5,1.78,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Yaxel Lendeborg,Over,7.5,2.02,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Yaxel Lendeborg,Under,7.5,1.73,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Tristan da Silva,Over,4.5,1.9,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_rebounds,Tristan da Silva,Under,4.5,1.85,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_threes,Stephen Curry,Over,4.5,2.1,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_threes,Stephen Curry,Under,4.5,1.64,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_threes,Brandin Podziemski,Over,1.5,1.57,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_threes,Brandin Podziemski,Under,1.5,2.2,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_threes,Tristan da Silva,Over,2.5,1.72,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_threes,Tristan da Silva,Under,2.5,1.96,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_threes,Anthony Black,Over,1.5,1.72,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_threes,Anthony Black,Under,1.5,1.98,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_threes,Yaxel Lendeborg,Over,1.5,1.67,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,neds,player_threes,Yaxel Lendeborg,Under,1.5,2.05,2026-11-08T01:33:59Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Anthony Black,Over,4.5,1.78,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Anthony Black,Under,4.5,1.96,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Jase Richardson,Over,2.5,1.57,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Jase Richardson,Under,2.5,2.3,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Yaxel Lendeborg,Over,4.5,1.98,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Yaxel Lendeborg,Under,4.5,1.77,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Draymond Green,Over,5.5,1.77,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Draymond Green,Under,5.5,1.98,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Stephen Curry,Over,4.5,1.83,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Stephen Curry,Under,4.5,1.9,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Franz Wagner,Over,6.5,1.68,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Franz Wagner,Under,6.5,2.1,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Brandin Podziemski,Over,3.5,1.7,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_assists,Brandin Podziemski,Under,3.5,2.05,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Will Richard,Over,4.5,1.9,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Will Richard,Under,4.5,1.85,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Yaxel Lendeborg,Over,17.5,1.8,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Yaxel Lendeborg,Under,17.5,1.94,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Brandin Podziemski,Over,15.5,1.92,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Brandin Podziemski,Under,15.5,1.82,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Tristan da Silva,Over,13.5,1.87,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Tristan da Silva,Under,13.5,1.88,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Jase Richardson,Over,9.5,1.83,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Jase Richardson,Under,9.5,1.9,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,De'Anthony Melton,Over,8.5,2.0,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,De'Anthony Melton,Under,8.5,1.75,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Gui Santos,Over,8.5,2.0,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Gui Santos,Under,8.5,1.75,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Stephen Curry,Over,25.5,1.87,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Stephen Curry,Under,25.5,1.88,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Anthony Black,Over,17.5,1.91,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Anthony Black,Under,17.5,1.83,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Franz Wagner,Over,24.5,1.85,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Franz Wagner,Under,24.5,1.88,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Wendell Carter Jr,Over,12.5,1.78,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Wendell Carter Jr,Under,12.5,1.96,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Jamal Cain,Over,7.5,1.85,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Jamal Cain,Under,7.5,1.9,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Al Horford,Over,5.5,1.94,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Al Horford,Under,5.5,1.8,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Draymond Green,Over,4.5,1.77,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points,Draymond Green,Under,4.5,1.98,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Draymond Green,Over,15.5,1.68,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Draymond Green,Under,15.5,2.1,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Over,37.5,1.75,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Under,37.5,2.0,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Stephen Curry,Over,33.5,1.75,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Stephen Curry,Under,33.5,2.0,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Yaxel Lendeborg,Over,29.5,1.8,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Yaxel Lendeborg,Under,29.5,1.94,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Over,26.5,1.82,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Under,26.5,1.92,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Jase Richardson,Over,15.5,1.72,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Jase Richardson,Under,15.5,2.05,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Brandin Podziemski,Over,24.5,1.83,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Brandin Podziemski,Under,24.5,1.91,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Stephen Curry,Over,3.5,1.75,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Stephen Curry,Under,3.5,2.02,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Wendell Carter Jr,Over,9.5,2.02,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Wendell Carter Jr,Under,9.5,1.73,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Franz Wagner,Over,6.5,2.1,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Franz Wagner,Under,6.5,1.7,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Al Horford,Over,3.5,1.88,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Al Horford,Under,3.5,1.85,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Jase Richardson,Over,3.5,2.2,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Jase Richardson,Under,3.5,1.64,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Anthony Black,Over,4.5,1.94,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Anthony Black,Under,4.5,1.8,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,De'Anthony Melton,Over,3.5,2.2,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,De'Anthony Melton,Under,3.5,1.64,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Brandin Podziemski,Over,5.5,2.05,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Brandin Podziemski,Under,5.5,1.72,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Draymond Green,Over,5.5,2.0,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Draymond Green,Under,5.5,1.75,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Gui Santos,Over,3.5,1.96,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Gui Santos,Under,3.5,1.78,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Yaxel Lendeborg,Over,7.5,2.02,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Yaxel Lendeborg,Under,7.5,1.73,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Tristan da Silva,Over,4.5,1.9,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_rebounds,Tristan da Silva,Under,4.5,1.85,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_threes,Stephen Curry,Over,4.5,2.1,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_threes,Stephen Curry,Under,4.5,1.64,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_threes,Brandin Podziemski,Over,1.5,1.57,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_threes,Brandin Podziemski,Under,1.5,2.2,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_threes,Tristan da Silva,Over,2.5,1.72,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_threes,Tristan da Silva,Under,2.5,1.96,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_threes,Anthony Black,Over,1.5,1.72,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_threes,Anthony Black,Under,1.5,1.98,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_threes,Yaxel Lendeborg,Over,1.5,1.67,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
+2026-11-08,12:40,Orlando Magic @ Golden State Warriors,ladbrokes_au,player_threes,Yaxel Lendeborg,Under,1.5,2.05,2026-11-08T01:34:47Z,2026-11-08T01:35:00+00:00,5.0
