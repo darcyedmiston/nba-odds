@@ -1,0 +1,16 @@
+date_melb,tipoff_melb,game,player,market,side,line,odds,book,n_books_at_line,n_books,median_line,implied,model_prob,ev_pct,proj,proj_min,status,D1,D2,D3,D4,D5,D6,D7,D8,ces,tier,flags,model_version
+2026-11-10,12:40,Denver Nuggets @ Houston Rockets,Fred VanVleet,player_assists,Over,4.5,1.75,neds,5,6,4.5,0.571,0.691,20.9,6.1,30.1,,2,1,2,2,0,2,0,0,1.4,Diff 4,,v4.1
+2026-11-10,11:10,Los Angeles Lakers @ Atlanta Hawks,Ziaire Williams,player_points,Over,7.5,1.83,neds,3,6,8.0,0.546,0.706,29.2,10.7,22.7,,2,1,2,2,1,1,0,0,1.4,Diff 4,traded/role change: last season down-weighted; key teammates out: quentin grimes; back-to-back,v4.1
+2026-11-10,13:10,San Antonio Spurs @ Phoenix Suns,Keldon Johnson,player_rebounds,Over,4.5,1.98,neds,3,4,4.5,0.505,0.609,20.7,5.3,23.7,,1,2,2,2,0,1,0,0,1.3,Diff 4,,v4.1
+2026-11-10,12:40,Denver Nuggets @ Houston Rockets,Kevin Durant,player_points,Over,19.5,1.8,unibet,1,6,20.5,0.556,0.672,21.0,22.7,34.5,,2,1,2,2,0,0,0,1,1.25,Diff 4,soft at one book only - may be stale,v4.1
+2026-11-10,12:10,Indiana Pacers @ Dallas Mavericks,Obi Toppin,player_points,Over,10.5,1.8,pointsbetau,2,7,11.5,0.556,0.677,21.8,13.5,21.1,,1,2,2,2,0,0,0,1,1.25,Diff 4,,v4.1
+2026-11-10,11:10,Los Angeles Lakers @ Atlanta Hawks,C.J. McCollum,player_points,Over,12.5,1.95,dabble_au,7,7,12.5,0.513,0.612,19.3,14.9,26.1,,2,1,2,1,0,0,2,1,1.2,Diff 4,,v4.1
+2026-11-10,11:10,Cleveland Cavaliers @ Charlotte Hornets,Peyton Watson,player_assists,Over,1.5,1.56,unibet,1,4,2.5,0.641,0.704,9.9,2.6,28.0,,1,2,2,1,1,0,0,1,1.2,Diff 4,traded/role change: last season down-weighted; key teammates out: sam merrill; soft at one book only - may be stale,v4.1
+2026-11-10,13:10,San Antonio Spurs @ Phoenix Suns,Stephon Castle,player_rebounds,Over,4.5,1.77,pointsbetau,4,7,4.5,0.565,0.63,11.5,5.6,28.9,,1,2,2,1,0,1,0,1,1.2,Diff 4,,v4.1
+2026-11-10,14:10,New Orleans Pelicans @ Golden State Warriors,Saddiq Bey,player_points,Over,13.5,1.93,sportsbet,5,5,13.5,0.518,0.685,32.2,16.7,27.6,,2,1,2,2,0,0,-1,0,1.15,Diff 3,back-to-back,v4.1
+2026-11-10,12:10,Indiana Pacers @ Dallas Mavericks,Andrew Nembhard,player_points_rebounds_assists,Over,24.5,1.8,dabble_au,1,4,25.5,0.556,0.674,21.4,27.9,32.7,,1,1,2,2,0,0,0,1,1.05,Diff 3,soft at one book only - may be stale,v4.1
+2026-11-10,14:10,New Orleans Pelicans @ Golden State Warriors,Derik Queen,player_points,Over,8.5,1.81,unibet,3,5,8.5,0.552,0.601,8.9,10.7,21.8,,2,2,2,0,0,0,-1,0,1.05,Diff 3,back-to-back,v4.1
+2026-11-10,11:10,Cleveland Cavaliers @ Charlotte Hornets,Evan Mobley,player_assists,Over,2.5,1.58,dabble_au,1,6,3.5,0.633,0.669,5.7,3.5,32.0,,1,2,2,0,1,0,0,1,1.05,Diff 3,key teammates out: sam merrill; soft at one book only - may be stale,v4.1
+2026-11-10,11:10,Washington Wizards @ Detroit Pistons,Daniss Jenkins,player_assists,Over,3.5,1.73,unibet,6,6,3.5,0.578,0.628,8.7,4.7,24.6,,0,2,2,1,0,2,-2,0,0.95,Diff 3,back-to-back,v4.1
+2026-11-10,11:40,Memphis Grizzlies @ Toronto Raptors,Cameron Boozer,player_rebounds,Over,8.5,1.83,pointsbetau,4,6,8.5,0.546,0.616,12.7,9.7,31.9,,2,1,2,1,0,-2,0,0,0.85,Diff 3,,v4.1
+2026-11-10,11:40,Memphis Grizzlies @ Toronto Raptors,Cam Spencer,player_points,Over,7.5,1.77,pointsbetau,1,6,8.5,0.565,0.619,9.5,9.2,20.8,,1,1,2,1,0,-1,0,1,0.8,Diff 3,soft at one book only - may be stale,v4.1
