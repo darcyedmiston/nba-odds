@@ -5260,3 +5260,799 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-09,13:10,New Orleans Pelicans @ Los Angeles Clippers,ladbrokes_au,player_threes,Brook Lopez,Under,1.5,1.65,2026-11-09T02:03:54Z,2026-11-09T02:05:00+00:00,5.0
 2026-11-09,13:10,New Orleans Pelicans @ Los Angeles Clippers,ladbrokes_au,player_threes,Darius Garland,Over,2.5,2.05,2026-11-09T02:03:54Z,2026-11-09T02:05:00+00:00,5.0
 2026-11-09,13:10,New Orleans Pelicans @ Los Angeles Clippers,ladbrokes_au,player_threes,Darius Garland,Under,2.5,1.65,2026-11-09T02:03:54Z,2026-11-09T02:05:00+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Giannis Antetokounmpo,Over,6.5,2.0,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Giannis Antetokounmpo,Under,6.5,1.78,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Bam Adebayo,Over,3.5,2.1,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Bam Adebayo,Under,3.5,1.68,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Davion Mitchell,Over,7.5,1.89,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Davion Mitchell,Under,7.5,1.87,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Pelle Larsson,Over,3.5,1.96,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Pelle Larsson,Under,3.5,1.8,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Darius Acuff Jr.,Over,7.5,2.1,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Darius Acuff Jr.,Under,7.5,1.68,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Zach LaVine,Over,3.5,2.1,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Zach LaVine,Under,3.5,1.68,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Malik Monk,Over,3.5,1.78,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_assists,Malik Monk,Under,3.5,2.0,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Giannis Antetokounmpo,Over,29.5,1.83,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Giannis Antetokounmpo,Under,29.5,1.93,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Bam Adebayo,Over,19.5,1.88,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Bam Adebayo,Under,19.5,1.88,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Davion Mitchell,Over,13.5,1.89,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Davion Mitchell,Under,13.5,1.86,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Andrew Wiggins,Over,9.5,1.85,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Andrew Wiggins,Under,9.5,1.91,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Klay Thompson,Over,12.5,2.02,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Klay Thompson,Under,12.5,1.76,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Pelle Larsson,Over,12.5,2.02,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Pelle Larsson,Under,12.5,1.76,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Bobby Portis,Over,8.5,2.05,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Bobby Portis,Under,8.5,1.74,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Darius Acuff Jr.,Over,25.5,1.89,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Darius Acuff Jr.,Under,25.5,1.87,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Zach LaVine,Over,21.5,1.89,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Zach LaVine,Under,21.5,1.87,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,De'Andre Hunter,Over,13.5,1.93,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,De'Andre Hunter,Under,13.5,1.83,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Keegan Murray,Over,8.5,1.86,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Keegan Murray,Under,8.5,1.9,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Precious Achiuwa,Over,11.5,2.02,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Precious Achiuwa,Under,11.5,1.76,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Malik Monk,Over,10.5,1.96,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Malik Monk,Under,10.5,1.8,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Dylan Cardwell,Over,5.5,1.78,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points,Dylan Cardwell,Under,5.5,2.0,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Giannis Antetokounmpo,Over,48.5,1.86,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Giannis Antetokounmpo,Under,48.5,1.9,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Bam Adebayo,Over,32.5,1.84,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Bam Adebayo,Under,32.5,1.92,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Davion Mitchell,Over,24.5,1.96,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Davion Mitchell,Under,24.5,1.8,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Klay Thompson,Over,16.5,1.91,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Klay Thompson,Under,16.5,1.85,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Pelle Larsson,Over,19.5,1.88,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Pelle Larsson,Under,19.5,1.88,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Over,36.5,1.8,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Under,36.5,1.96,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Zach LaVine,Over,28.5,1.93,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Zach LaVine,Under,28.5,1.83,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Giannis Antetokounmpo,Over,12.5,2.08,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Giannis Antetokounmpo,Under,12.5,1.72,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Bam Adebayo,Over,9.5,1.8,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Bam Adebayo,Under,9.5,1.96,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Davion Mitchell,Over,2.5,1.92,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Davion Mitchell,Under,2.5,1.84,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Andrew Wiggins,Over,3.5,2.3,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Andrew Wiggins,Under,3.5,1.56,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Klay Thompson,Over,2.5,2.3,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Klay Thompson,Under,2.5,1.56,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Pelle Larsson,Over,3.5,1.84,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Pelle Larsson,Under,3.5,1.92,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Bobby Portis,Over,5.5,2.1,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Bobby Portis,Under,5.5,1.68,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Darius Acuff Jr.,Over,3.5,1.8,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Darius Acuff Jr.,Under,3.5,1.96,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Zach LaVine,Over,3.5,2.15,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Zach LaVine,Under,3.5,1.64,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,De'Andre Hunter,Over,4.5,1.72,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,De'Andre Hunter,Under,4.5,2.08,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Keegan Murray,Over,3.5,1.64,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Keegan Murray,Under,3.5,2.15,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Precious Achiuwa,Over,8.5,1.96,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Precious Achiuwa,Under,8.5,1.8,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Dylan Cardwell,Over,6.5,1.64,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_rebounds,Dylan Cardwell,Under,6.5,2.15,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Bam Adebayo,Over,1.5,2.6,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Bam Adebayo,Under,1.5,1.45,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Davion Mitchell,Over,1.5,1.64,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Davion Mitchell,Under,1.5,2.15,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Andrew Wiggins,Over,1.5,2.5,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Andrew Wiggins,Under,1.5,1.48,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Klay Thompson,Over,3.5,2.15,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Klay Thompson,Under,3.5,1.64,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Pelle Larsson,Over,1.5,2.9,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Pelle Larsson,Under,1.5,1.36,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Bobby Portis,Over,1.5,2.6,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Bobby Portis,Under,1.5,1.45,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Darius Acuff Jr.,Over,2.5,1.68,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Darius Acuff Jr.,Under,2.5,2.1,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Zach LaVine,Over,2.5,1.8,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Zach LaVine,Under,2.5,1.96,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,De'Andre Hunter,Over,1.5,1.64,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,De'Andre Hunter,Under,1.5,2.15,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Keegan Murray,Over,1.5,2.6,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Keegan Murray,Under,1.5,1.44,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Malik Monk,Over,1.5,1.96,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,sportsbet,player_threes,Malik Monk,Under,1.5,1.8,2026-11-09T02:04:35Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Andrew Wiggins,Over,1.5,2.15,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Andrew Wiggins,Under,1.5,1.69,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Bam Adebayo,Over,3.5,2.1,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Bam Adebayo,Under,3.5,1.71,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Darius Acuff Jr.,Over,6.5,1.71,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Darius Acuff Jr.,Under,6.5,2.1,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Davion Mitchell,Over,7.5,2.1,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Davion Mitchell,Under,7.5,1.71,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Giannis Antetokounmpo,Over,6.5,2.15,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Giannis Antetokounmpo,Under,6.5,1.69,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Klay Thompson,Over,1.5,1.71,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Klay Thompson,Under,1.5,2.1,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Malik Monk,Over,3.5,1.67,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Malik Monk,Under,3.5,2.2,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Pelle Larsson,Over,3.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Pelle Larsson,Under,3.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Zach LaVine,Over,3.5,2.2,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_assists,Zach LaVine,Under,3.5,1.67,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Andrew Wiggins,Over,10.5,2.0,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Andrew Wiggins,Under,10.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Bam Adebayo,Over,19.5,2.0,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Bam Adebayo,Under,19.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Bobby Portis,Over,7.5,1.77,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Bobby Portis,Under,7.5,2.1,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Darius Acuff Jr.,Over,25.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Darius Acuff Jr.,Under,25.5,1.95,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Davion Mitchell,Over,13.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Davion Mitchell,Under,13.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,De'Andre Hunter,Over,13.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,De'Andre Hunter,Under,13.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Giannis Antetokounmpo,Over,29.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Giannis Antetokounmpo,Under,29.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Keegan Murray,Over,8.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Keegan Murray,Under,8.5,2.0,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Klay Thompson,Over,11.5,1.8,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Klay Thompson,Under,11.5,2.05,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Malik Monk,Over,10.5,2.05,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Malik Monk,Under,10.5,1.8,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Pelle Larsson,Over,11.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Pelle Larsson,Under,11.5,2.0,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Precious Achiuwa,Over,11.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Precious Achiuwa,Under,11.5,1.95,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Zach LaVine,Over,21.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points,Zach LaVine,Under,21.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Andrew Wiggins,Over,15.5,1.95,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Andrew Wiggins,Under,15.5,1.8,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Bam Adebayo,Over,32.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Bam Adebayo,Under,32.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Over,37.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Under,37.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Davion Mitchell,Over,23.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Davion Mitchell,Under,23.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Giannis Antetokounmpo,Over,48.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Giannis Antetokounmpo,Under,48.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Klay Thompson,Over,16.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Klay Thompson,Under,16.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Pelle Larsson,Over,19.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Pelle Larsson,Under,19.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Zach LaVine,Over,28.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Zach LaVine,Under,28.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Andrew Wiggins,Over,3.5,2.15,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Andrew Wiggins,Under,3.5,1.69,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Bam Adebayo,Over,9.5,1.74,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Bam Adebayo,Under,9.5,2.05,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Bobby Portis,Over,5.5,2.1,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Bobby Portis,Under,5.5,1.71,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Darius Acuff Jr.,Over,3.5,1.74,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Darius Acuff Jr.,Under,3.5,2.05,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Davion Mitchell,Over,2.5,2.2,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Davion Mitchell,Under,2.5,1.67,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,De'Andre Hunter,Over,4.5,1.77,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,De'Andre Hunter,Under,4.5,2.0,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Dylan Cardwell,Over,7.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Dylan Cardwell,Under,7.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Giannis Antetokounmpo,Over,12.5,2.0,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Giannis Antetokounmpo,Under,12.5,1.77,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Keegan Murray,Over,3.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Keegan Murray,Under,3.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Klay Thompson,Over,2.5,2.25,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Klay Thompson,Under,2.5,1.63,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Pelle Larsson,Over,3.5,1.77,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Pelle Larsson,Under,3.5,2.0,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Precious Achiuwa,Over,8.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Precious Achiuwa,Under,8.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Zach LaVine,Over,3.5,2.1,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_rebounds,Zach LaVine,Under,3.5,1.71,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Bam Adebayo,Over,1.5,2.75,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Bam Adebayo,Under,1.5,1.42,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Davion Mitchell,Over,1.5,1.63,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Davion Mitchell,Under,1.5,2.25,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Klay Thompson,Over,3.5,2.2,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Klay Thompson,Under,3.5,1.67,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Andrew Wiggins,Over,1.5,2.65,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Andrew Wiggins,Under,1.5,1.44,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Pelle Larsson,Over,0.5,1.48,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Pelle Larsson,Under,0.5,2.6,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Zach LaVine,Over,2.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Zach LaVine,Under,2.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,De'Andre Hunter,Over,1.5,1.63,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,De'Andre Hunter,Under,1.5,2.25,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Darius Acuff Jr.,Over,2.5,1.59,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Darius Acuff Jr.,Under,2.5,2.3,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Malik Monk,Over,1.5,2.15,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Malik Monk,Under,1.5,1.69,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Bobby Portis,Over,1.5,2.85,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,pointsbetau,player_threes,Bobby Portis,Under,1.5,1.4,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_assists,Malik Monk,Over,3.5,1.86,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_assists,Malik Monk,Under,3.5,1.9,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_assists,Giannis Antetokounmpo,Over,6.5,1.96,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_assists,Giannis Antetokounmpo,Under,6.5,1.8,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_assists,Bam Adebayo,Over,3.5,2.1,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_assists,Bam Adebayo,Under,3.5,1.7,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_assists,Darius Acuff Jr.,Over,7.5,2.1,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_assists,Darius Acuff Jr.,Under,7.5,1.68,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Malik Monk,Over,9.5,1.85,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Malik Monk,Under,9.5,1.92,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Darius Acuff Jr.,Over,24.5,1.75,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Darius Acuff Jr.,Under,24.5,2.0,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,De'Andre Hunter,Over,13.5,1.96,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,De'Andre Hunter,Under,13.5,1.8,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Klay Thompson,Over,12.5,2.0,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Klay Thompson,Under,12.5,1.73,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Bam Adebayo,Over,19.5,1.91,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Bam Adebayo,Under,19.5,1.86,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Giannis Antetokounmpo,Over,30.5,2.05,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Giannis Antetokounmpo,Under,30.5,1.73,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Zach LaVine,Over,21.5,1.85,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Zach LaVine,Under,21.5,1.92,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Precious Achiuwa,Over,10.5,1.85,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points,Precious Achiuwa,Under,10.5,1.85,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,24.5,1.05,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,29.5,1.21,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,34.5,1.62,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,39.5,2.63,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,44.5,5.25,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Zach LaVine,Over,19.5,1.09,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Zach LaVine,Over,24.5,1.38,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Zach LaVine,Over,29.5,2.1,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Zach LaVine,Over,34.5,4.1,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Zach LaVine,Over,39.5,9.0,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Bam Adebayo,Over,24.5,1.11,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Bam Adebayo,Over,29.5,1.44,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Bam Adebayo,Over,34.5,2.25,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Bam Adebayo,Over,39.5,4.33,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Bam Adebayo,Over,44.5,10.0,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Giannis Antetokounmpo,Over,39.5,1.17,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Giannis Antetokounmpo,Over,44.5,1.46,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Giannis Antetokounmpo,Over,49.5,2.05,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Giannis Antetokounmpo,Over,54.5,3.4,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_points_rebounds_assists,Giannis Antetokounmpo,Over,59.5,6.25,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,Darius Acuff Jr.,Over,3.5,1.78,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,Darius Acuff Jr.,Under,3.5,1.98,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,De'Andre Hunter,Over,4.5,1.75,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,De'Andre Hunter,Under,4.5,2.0,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,Bam Adebayo,Over,9.5,1.8,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,Bam Adebayo,Under,9.5,1.96,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,Giannis Antetokounmpo,Over,12.5,2.05,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,Giannis Antetokounmpo,Under,12.5,1.73,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,Bobby Portis,Over,5.5,2.0,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,Bobby Portis,Under,5.5,1.75,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,Zach LaVine,Over,3.5,2.2,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,betright,player_rebounds,Zach LaVine,Under,3.5,1.62,2026-11-09T02:04:19Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Pelle Larsson,Over,3.5,2.0,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Pelle Larsson,Under,3.5,1.75,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Malik Monk,Over,3.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Malik Monk,Under,3.5,1.92,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Zach LaVine,Over,2.5,1.62,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Zach LaVine,Under,2.5,2.2,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Giannis Antetokounmpo,Over,6.5,2.15,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Giannis Antetokounmpo,Under,6.5,1.65,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Bam Adebayo,Over,3.5,2.1,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Bam Adebayo,Under,3.5,1.7,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Davion Mitchell,Over,7.5,1.96,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Davion Mitchell,Under,7.5,1.8,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Darius Acuff Jr.,Over,7.5,1.88,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,Darius Acuff Jr.,Under,7.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,De'Andre Hunter,Over,2.5,2.4,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_assists,De'Andre Hunter,Under,2.5,1.5,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Pelle Larsson,Over,12.5,1.92,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Pelle Larsson,Under,12.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Bobby Portis,Over,8.5,2.02,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Bobby Portis,Under,8.5,1.75,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Andrew Wiggins,Over,9.5,1.78,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Andrew Wiggins,Under,9.5,1.95,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Dylan Cardwell,Over,6.5,2.1,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Dylan Cardwell,Under,6.5,1.68,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Keegan Murray,Over,7.5,1.75,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Keegan Murray,Under,7.5,2.0,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Klay Thompson,Over,12.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Klay Thompson,Under,12.5,1.92,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Bam Adebayo,Over,19.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Bam Adebayo,Under,19.5,1.88,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Malik Monk,Over,9.5,1.78,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Malik Monk,Under,9.5,1.98,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Zach LaVine,Over,21.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Zach LaVine,Under,21.5,1.9,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Davion Mitchell,Over,12.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Davion Mitchell,Under,12.5,1.88,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,De'Andre Hunter,Over,13.5,1.77,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,De'Andre Hunter,Under,13.5,1.98,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Giannis Antetokounmpo,Over,29.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Giannis Antetokounmpo,Under,29.5,1.9,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Darius Acuff Jr.,Over,25.5,1.95,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Darius Acuff Jr.,Under,25.5,1.8,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Precious Achiuwa,Over,12.5,2.02,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points,Precious Achiuwa,Under,12.5,1.75,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Bobby Portis,Over,15.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Bobby Portis,Under,15.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Pelle Larsson,Over,19.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Pelle Larsson,Under,19.5,1.92,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Giannis Antetokounmpo,Over,49.5,1.88,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Giannis Antetokounmpo,Under,49.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Klay Thompson,Over,17.5,1.88,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Klay Thompson,Under,17.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Davion Mitchell,Over,23.5,1.95,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Davion Mitchell,Under,23.5,1.8,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Malik Monk,Over,15.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Malik Monk,Under,15.5,1.92,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Bam Adebayo,Over,34.5,1.92,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Bam Adebayo,Under,34.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,De'Andre Hunter,Over,21.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,De'Andre Hunter,Under,21.5,1.92,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Darius Acuff Jr.,Over,36.5,1.8,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Darius Acuff Jr.,Under,36.5,1.92,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Zach LaVine,Over,28.5,1.88,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Zach LaVine,Under,28.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Andrew Wiggins,Over,15.5,1.88,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Andrew Wiggins,Under,15.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Precious Achiuwa,Over,22.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Precious Achiuwa,Under,22.5,1.92,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Dylan Cardwell,Over,15.5,1.9,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Dylan Cardwell,Under,15.5,1.82,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Keegan Murray,Over,13.5,1.88,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_points_rebounds_assists,Keegan Murray,Under,13.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Bam Adebayo,Over,9.5,1.8,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Bam Adebayo,Under,9.5,1.96,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Keegan Murray,Over,4.5,2.2,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Keegan Murray,Under,4.5,1.62,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Bobby Portis,Over,5.5,2.08,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Bobby Portis,Under,5.5,1.7,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Pelle Larsson,Over,3.5,1.8,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Pelle Larsson,Under,3.5,1.95,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Andrew Wiggins,Over,3.5,1.85,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Andrew Wiggins,Under,3.5,1.88,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,De'Andre Hunter,Over,4.5,1.72,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,De'Andre Hunter,Under,4.5,2.08,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Darius Acuff Jr.,Over,3.5,1.68,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Darius Acuff Jr.,Under,3.5,2.1,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Zach LaVine,Over,3.5,1.95,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Zach LaVine,Under,3.5,1.8,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Giannis Antetokounmpo,Over,12.5,2.1,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Giannis Antetokounmpo,Under,12.5,1.68,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Precious Achiuwa,Over,8.5,1.8,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Precious Achiuwa,Under,8.5,1.95,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Dylan Cardwell,Over,7.5,1.92,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_rebounds,Dylan Cardwell,Under,7.5,1.8,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Klay Thompson,Over,3.5,2.08,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Klay Thompson,Under,3.5,1.7,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Malik Monk,Over,1.5,2.1,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Malik Monk,Under,1.5,1.68,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Bobby Portis,Over,1.5,2.4,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Bobby Portis,Under,1.5,1.5,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Andrew Wiggins,Over,1.5,2.05,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Andrew Wiggins,Under,1.5,1.72,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Davion Mitchell,Over,1.5,1.7,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Davion Mitchell,Under,1.5,2.08,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Bam Adebayo,Over,1.5,2.45,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Bam Adebayo,Under,1.5,1.48,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,De'Andre Hunter,Over,1.5,1.68,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,De'Andre Hunter,Under,1.5,2.1,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Darius Acuff Jr.,Over,2.5,1.68,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Darius Acuff Jr.,Under,2.5,2.1,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Zach LaVine,Over,2.5,1.72,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Zach LaVine,Under,2.5,2.05,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Giannis Antetokounmpo,Over,0.5,1.66,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Giannis Antetokounmpo,Under,0.5,2.15,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Pelle Larsson,Over,1.5,2.8,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Pelle Larsson,Under,1.5,1.38,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Precious Achiuwa,Over,0.5,2.75,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Precious Achiuwa,Under,0.5,1.38,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Keegan Murray,Over,0.5,1.5,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,dabble_au,player_threes,Keegan Murray,Under,0.5,2.4,2026-11-09T02:04:29Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Andrew Wiggins,Over,1.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Andrew Wiggins,Under,1.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Bobby Portis,Over,1.5,2.3,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Bobby Portis,Under,1.5,1.58,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Bam Adebayo,Over,3.5,2.0,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Bam Adebayo,Under,3.5,1.75,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Darius Acuff Jr.,Over,7.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Darius Acuff Jr.,Under,7.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Dylan Cardwell,Over,1.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Dylan Cardwell,Under,1.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,De'Andre Hunter,Over,2.5,2.4,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,De'Andre Hunter,Under,2.5,1.53,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Davion Mitchell,Over,7.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Davion Mitchell,Under,7.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Klay Thompson,Over,2.5,2.6,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Klay Thompson,Under,2.5,1.46,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Keegan Murray,Over,1.5,2.65,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Keegan Murray,Under,1.5,1.45,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Malik Monk,Over,3.5,1.75,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Malik Monk,Under,3.5,2.0,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Precious Achiuwa,Over,1.5,1.68,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Precious Achiuwa,Under,1.5,2.1,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Pelle Larsson,Over,3.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Pelle Larsson,Under,3.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Zach LaVine,Over,3.5,2.45,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_assists,Zach LaVine,Under,3.5,1.52,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Andrew Wiggins,Over,9.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Andrew Wiggins,Under,9.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Bobby Portis,Over,7.5,1.75,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Bobby Portis,Under,7.5,2.0,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Bam Adebayo,Over,19.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Bam Adebayo,Under,19.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Darius Acuff Jr.,Over,25.5,1.87,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Darius Acuff Jr.,Under,25.5,1.87,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Dylan Cardwell,Over,6.5,2.0,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Dylan Cardwell,Under,6.5,1.75,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,De'Andre Hunter,Over,13.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,De'Andre Hunter,Under,13.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Davion Mitchell,Over,12.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Davion Mitchell,Under,12.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Klay Thompson,Over,12.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Klay Thompson,Under,12.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Keegan Murray,Over,7.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Keegan Murray,Under,7.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Malik Monk,Over,9.5,1.87,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Malik Monk,Under,9.5,1.87,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Precious Achiuwa,Over,11.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Precious Achiuwa,Under,11.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Pelle Larsson,Over,12.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Pelle Larsson,Under,12.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Zach LaVine,Over,22.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points,Zach LaVine,Under,22.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Andrew Wiggins,Over,14.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Andrew Wiggins,Under,14.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Bobby Portis,Over,15.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Bobby Portis,Under,15.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Bam Adebayo,Over,32.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Bam Adebayo,Under,32.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Darius Acuff Jr.,Over,37.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Darius Acuff Jr.,Under,37.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Dylan Cardwell,Over,15.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Dylan Cardwell,Under,15.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,De'Andre Hunter,Over,20.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,De'Andre Hunter,Under,20.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Davion Mitchell,Over,22.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Davion Mitchell,Under,22.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Klay Thompson,Over,17.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Klay Thompson,Under,17.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Keegan Murray,Over,12.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Keegan Murray,Under,12.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Malik Monk,Over,15.5,1.87,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Malik Monk,Under,15.5,1.87,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Precious Achiuwa,Over,22.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Precious Achiuwa,Under,22.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Pelle Larsson,Over,19.5,1.87,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Pelle Larsson,Under,19.5,1.87,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Zach LaVine,Over,28.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_points_rebounds_assists,Zach LaVine,Under,28.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Andrew Wiggins,Over,3.5,2.05,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Andrew Wiggins,Under,3.5,1.72,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Bobby Portis,Over,6.5,2.3,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Bobby Portis,Under,6.5,1.58,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Bam Adebayo,Over,10.5,2.0,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Bam Adebayo,Under,10.5,1.75,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Darius Acuff Jr.,Over,3.5,1.72,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Darius Acuff Jr.,Under,3.5,2.05,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Dylan Cardwell,Over,7.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Dylan Cardwell,Under,7.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,De'Andre Hunter,Over,5.5,2.35,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,De'Andre Hunter,Under,5.5,1.55,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Davion Mitchell,Over,2.5,1.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Davion Mitchell,Under,2.5,1.85,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Klay Thompson,Over,2.5,2.05,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Klay Thompson,Under,2.5,1.72,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Keegan Murray,Over,4.5,2.25,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Keegan Murray,Under,4.5,1.6,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Malik Monk,Over,2.5,2.5,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Malik Monk,Under,2.5,1.5,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Precious Achiuwa,Over,8.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Precious Achiuwa,Under,8.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Pelle Larsson,Over,3.5,1.8,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Pelle Larsson,Under,3.5,1.95,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Zach LaVine,Over,3.5,2.0,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_rebounds,Zach LaVine,Under,3.5,1.75,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Andrew Wiggins,Over,1.5,2.1,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Andrew Wiggins,Under,1.5,1.68,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Bobby Portis,Over,1.5,2.45,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Bobby Portis,Under,1.5,1.52,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Bam Adebayo,Over,1.5,2.5,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Bam Adebayo,Under,1.5,1.5,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Darius Acuff Jr.,Over,2.5,1.68,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Darius Acuff Jr.,Under,2.5,2.1,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,De'Andre Hunter,Over,1.5,1.68,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,De'Andre Hunter,Under,1.5,2.1,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Davion Mitchell,Over,1.5,1.72,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Davion Mitchell,Under,1.5,2.05,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Klay Thompson,Over,3.5,2.1,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Klay Thompson,Under,3.5,1.68,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Keegan Murray,Over,0.5,1.48,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Keegan Murray,Under,0.5,2.55,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Malik Monk,Over,1.5,2.1,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Malik Monk,Under,1.5,1.68,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Precious Achiuwa,Over,0.5,2.7,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Precious Achiuwa,Under,0.5,1.44,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Pelle Larsson,Over,1.5,2.9,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Pelle Larsson,Under,1.5,1.38,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Zach LaVine,Over,2.5,1.72,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,tab,player_threes,Zach LaVine,Under,2.5,2.05,2026-11-09T02:00:51Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Bam Adebayo,Over,3.5,2.12,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Bam Adebayo,Under,3.5,1.66,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Davion Mitchell,Over,7.5,1.89,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Davion Mitchell,Under,7.5,1.83,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Klay Thompson,Over,1.5,1.57,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Klay Thompson,Under,1.5,2.25,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Malik Monk,Over,3.5,1.88,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Malik Monk,Under,3.5,1.85,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Andrew Wiggins,Over,1.5,1.96,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Andrew Wiggins,Under,1.5,1.77,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Pelle Larsson,Over,3.5,1.91,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Pelle Larsson,Under,3.5,1.82,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Giannis Antetokounmpo,Over,6.5,2.04,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Giannis Antetokounmpo,Under,6.5,1.72,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Zach LaVine,Over,3.5,2.2,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Zach LaVine,Under,3.5,1.62,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Darius Acuff Jr.,Over,7.5,2.04,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Darius Acuff Jr.,Under,7.5,1.72,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Precious Achiuwa,Over,1.5,2.02,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_assists,Precious Achiuwa,Under,1.5,1.72,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Zach LaVine,Over,20.5,1.77,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Zach LaVine,Under,20.5,1.97,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,De'Andre Hunter,Over,13.5,1.93,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,De'Andre Hunter,Under,13.5,1.8,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Malik Monk,Over,9.5,1.75,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Malik Monk,Under,9.5,2.0,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Klay Thompson,Over,12.5,1.81,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Klay Thompson,Under,12.5,1.92,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Bam Adebayo,Over,19.5,1.97,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Bam Adebayo,Under,19.5,1.76,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Giannis Antetokounmpo,Over,29.5,1.81,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Giannis Antetokounmpo,Under,29.5,1.92,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Bobby Portis,Over,8.5,1.96,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Bobby Portis,Under,8.5,1.77,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Pelle Larsson,Over,12.5,1.88,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Pelle Larsson,Under,12.5,1.85,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Andrew Wiggins,Over,9.5,1.88,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Andrew Wiggins,Under,9.5,1.85,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Davion Mitchell,Over,13.5,1.95,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Davion Mitchell,Under,13.5,1.78,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Darius Acuff Jr.,Over,25.5,1.85,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Darius Acuff Jr.,Under,25.5,1.87,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Precious Achiuwa,Over,11.5,1.93,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Precious Achiuwa,Under,11.5,1.8,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Keegan Murray,Over,8.5,1.83,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points,Keegan Murray,Under,8.5,1.88,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Bam Adebayo,Over,32.5,1.91,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Bam Adebayo,Under,32.5,1.82,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Klay Thompson,Over,17.5,1.92,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Klay Thompson,Under,17.5,1.81,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Giannis Antetokounmpo,Over,48.5,1.83,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Giannis Antetokounmpo,Under,48.5,1.89,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Davion Mitchell,Over,23.5,1.92,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Davion Mitchell,Under,23.5,1.81,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.83,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.88,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Pelle Larsson,Over,20.5,2.0,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Pelle Larsson,Under,20.5,1.74,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Precious Achiuwa,Over,21.5,1.85,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Precious Achiuwa,Under,21.5,1.87,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Andrew Wiggins,Over,14.5,1.87,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Andrew Wiggins,Under,14.5,1.85,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Over,36.5,1.8,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Under,36.5,1.93,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Davion Mitchell,Over,2.5,2.15,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Davion Mitchell,Under,2.5,1.65,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Giannis Antetokounmpo,Over,12.5,1.95,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Giannis Antetokounmpo,Under,12.5,1.78,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,De'Andre Hunter,Over,4.5,1.72,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,De'Andre Hunter,Under,4.5,2.04,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Andrew Wiggins,Over,3.5,2.2,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Andrew Wiggins,Under,3.5,1.61,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Bam Adebayo,Over,9.5,1.85,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Bam Adebayo,Under,9.5,1.87,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Pelle Larsson,Over,3.5,1.94,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Pelle Larsson,Under,3.5,1.79,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Bobby Portis,Over,5.5,1.95,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Bobby Portis,Under,5.5,1.78,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Klay Thompson,Over,2.5,2.38,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Klay Thompson,Under,2.5,1.53,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Darius Acuff Jr.,Over,3.5,1.71,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Darius Acuff Jr.,Under,3.5,2.05,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Zach LaVine,Over,3.5,2.25,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Zach LaVine,Under,3.5,1.57,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Precious Achiuwa,Over,8.5,1.85,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Precious Achiuwa,Under,8.5,1.87,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Keegan Murray,Over,3.5,1.68,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_rebounds,Keegan Murray,Under,3.5,2.08,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Bam Adebayo,Over,0.5,1.41,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Bam Adebayo,Under,0.5,2.75,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,De'Andre Hunter,Over,1.5,1.63,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,De'Andre Hunter,Under,1.5,2.18,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Zach LaVine,Over,2.5,1.78,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Zach LaVine,Under,2.5,1.95,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Andrew Wiggins,Over,1.5,2.14,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Andrew Wiggins,Under,1.5,1.65,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Darius Acuff Jr.,Over,2.5,1.61,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Darius Acuff Jr.,Under,2.5,2.2,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Bobby Portis,Over,1.5,2.6,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Bobby Portis,Under,1.5,1.44,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Davion Mitchell,Over,1.5,1.54,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Davion Mitchell,Under,1.5,2.35,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Malik Monk,Over,1.5,1.93,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Malik Monk,Under,1.5,1.79,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Keegan Murray,Over,1.5,2.43,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Keegan Murray,Under,1.5,1.5,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Pelle Larsson,Over,1.5,2.55,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Pelle Larsson,Under,1.5,1.45,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Klay Thompson,Over,3.5,2.25,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,unibet,player_threes,Klay Thompson,Under,3.5,1.57,2026-11-09T02:04:33Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Malik Monk,Over,3.5,1.6,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Malik Monk,Under,3.5,2.25,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Davion Mitchell,Over,7.5,1.98,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Davion Mitchell,Under,7.5,1.78,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Bam Adebayo,Over,3.5,2.15,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Bam Adebayo,Under,3.5,1.65,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Darius Acuff Jr.,Over,7.5,2.05,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Darius Acuff Jr.,Under,7.5,1.7,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Giannis Antetokounmpo,Over,6.5,1.98,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Giannis Antetokounmpo,Under,6.5,1.77,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Zach LaVine,Over,2.5,1.55,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Zach LaVine,Under,2.5,2.35,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Pelle Larsson,Over,3.5,1.85,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_assists,Pelle Larsson,Under,3.5,1.88,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Bam Adebayo,Over,19.5,1.87,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Bam Adebayo,Under,19.5,1.87,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Pelle Larsson,Over,12.5,1.96,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Pelle Larsson,Under,12.5,1.78,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Klay Thompson,Over,12.5,1.94,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Klay Thompson,Under,12.5,1.8,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Davion Mitchell,Over,13.5,1.9,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Davion Mitchell,Under,13.5,1.85,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Andrew Wiggins,Over,9.5,1.87,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Andrew Wiggins,Under,9.5,1.87,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Bobby Portis,Over,8.5,1.94,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Bobby Portis,Under,8.5,1.8,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Zach LaVine,Over,21.5,1.87,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Zach LaVine,Under,21.5,1.88,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Giannis Antetokounmpo,Over,29.5,1.85,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Giannis Antetokounmpo,Under,29.5,1.9,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,De'Andre Hunter,Over,13.5,1.85,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,De'Andre Hunter,Under,13.5,1.88,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Precious Achiuwa,Over,11.5,1.95,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Precious Achiuwa,Under,11.5,1.8,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Keegan Murray,Over,8.5,1.85,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Keegan Murray,Under,8.5,1.88,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Darius Acuff Jr.,Over,25.5,1.9,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Darius Acuff Jr.,Under,25.5,1.85,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Malik Monk,Over,10.5,1.95,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points,Malik Monk,Under,10.5,1.8,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Darius Acuff Jr.,Over,35.5,1.73,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Darius Acuff Jr.,Under,35.5,2.02,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.77,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.98,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Giannis Antetokounmpo,Over,47.5,1.75,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Giannis Antetokounmpo,Under,47.5,2.02,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Pelle Larsson,Over,19.5,1.83,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Pelle Larsson,Under,19.5,1.9,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Bam Adebayo,Over,32.5,1.83,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Bam Adebayo,Under,32.5,1.9,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Davion Mitchell,Over,22.5,1.75,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_points_rebounds_assists,Davion Mitchell,Under,22.5,2.02,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Giannis Antetokounmpo,Over,12.5,2.02,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Giannis Antetokounmpo,Under,12.5,1.73,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Bobby Portis,Over,5.5,2.02,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Bobby Portis,Under,5.5,1.73,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Klay Thompson,Over,2.5,2.2,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Klay Thompson,Under,2.5,1.62,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Davion Mitchell,Over,2.5,2.1,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Davion Mitchell,Under,2.5,1.67,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Pelle Larsson,Over,3.5,1.8,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Pelle Larsson,Under,3.5,1.95,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Bam Adebayo,Over,9.5,1.82,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Bam Adebayo,Under,9.5,1.92,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,De'Andre Hunter,Over,4.5,1.77,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,De'Andre Hunter,Under,4.5,1.98,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Andrew Wiggins,Over,3.5,2.2,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Andrew Wiggins,Under,3.5,1.64,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Precious Achiuwa,Over,8.5,2.0,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Precious Achiuwa,Under,8.5,1.75,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Keegan Murray,Over,4.5,1.95,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Keegan Murray,Under,4.5,1.8,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Zach LaVine,Over,3.5,2.15,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Zach LaVine,Under,3.5,1.65,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Darius Acuff Jr.,Over,3.5,1.8,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_rebounds,Darius Acuff Jr.,Under,3.5,1.94,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_threes,Darius Acuff Jr.,Over,2.5,1.67,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_threes,Darius Acuff Jr.,Under,2.5,2.05,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_threes,Klay Thompson,Over,3.5,2.1,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_threes,Klay Thompson,Under,3.5,1.62,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_threes,Zach LaVine,Over,2.5,1.9,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_threes,Zach LaVine,Under,2.5,1.78,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_threes,De'Andre Hunter,Over,1.5,1.67,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_threes,De'Andre Hunter,Under,1.5,2.05,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_threes,Davion Mitchell,Over,1.5,1.65,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,neds,player_threes,Davion Mitchell,Under,1.5,2.05,2026-11-09T02:04:38Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Malik Monk,Over,3.5,1.6,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Malik Monk,Under,3.5,2.25,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Davion Mitchell,Over,7.5,1.98,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Davion Mitchell,Under,7.5,1.78,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Bam Adebayo,Over,3.5,2.15,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Bam Adebayo,Under,3.5,1.65,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Darius Acuff Jr.,Over,7.5,2.05,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Darius Acuff Jr.,Under,7.5,1.7,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Giannis Antetokounmpo,Over,6.5,1.98,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Giannis Antetokounmpo,Under,6.5,1.77,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Zach LaVine,Over,2.5,1.55,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Zach LaVine,Under,2.5,2.35,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Pelle Larsson,Over,3.5,1.85,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_assists,Pelle Larsson,Under,3.5,1.88,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Bam Adebayo,Over,19.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Bam Adebayo,Under,19.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Pelle Larsson,Over,12.5,1.96,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Pelle Larsson,Under,12.5,1.78,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Klay Thompson,Over,12.5,1.94,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Klay Thompson,Under,12.5,1.8,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Davion Mitchell,Over,13.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Davion Mitchell,Under,13.5,1.85,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Andrew Wiggins,Over,9.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Andrew Wiggins,Under,9.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Bobby Portis,Over,8.5,1.94,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Bobby Portis,Under,8.5,1.8,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Zach LaVine,Over,21.5,1.87,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Zach LaVine,Under,21.5,1.88,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Giannis Antetokounmpo,Over,29.5,1.85,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Giannis Antetokounmpo,Under,29.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,De'Andre Hunter,Over,13.5,1.85,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,De'Andre Hunter,Under,13.5,1.88,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Precious Achiuwa,Over,11.5,1.95,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Precious Achiuwa,Under,11.5,1.8,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Keegan Murray,Over,8.5,1.85,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Keegan Murray,Under,8.5,1.88,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Darius Acuff Jr.,Over,25.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Darius Acuff Jr.,Under,25.5,1.85,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Malik Monk,Over,10.5,1.95,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points,Malik Monk,Under,10.5,1.8,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Over,35.5,1.73,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Under,35.5,2.02,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Zach LaVine,Over,27.5,1.77,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Zach LaVine,Under,27.5,1.98,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Giannis Antetokounmpo,Over,47.5,1.75,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Giannis Antetokounmpo,Under,47.5,2.02,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Pelle Larsson,Over,19.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Pelle Larsson,Under,19.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Bam Adebayo,Over,32.5,1.83,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Bam Adebayo,Under,32.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Davion Mitchell,Over,22.5,1.75,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Davion Mitchell,Under,22.5,2.02,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Giannis Antetokounmpo,Over,12.5,2.02,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Giannis Antetokounmpo,Under,12.5,1.73,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Bobby Portis,Over,5.5,2.02,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Bobby Portis,Under,5.5,1.73,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Klay Thompson,Over,2.5,2.2,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Klay Thompson,Under,2.5,1.62,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Davion Mitchell,Over,2.5,2.1,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Davion Mitchell,Under,2.5,1.67,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Pelle Larsson,Over,3.5,1.8,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Pelle Larsson,Under,3.5,1.95,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Bam Adebayo,Over,9.5,1.82,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Bam Adebayo,Under,9.5,1.92,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,De'Andre Hunter,Over,4.5,1.77,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,De'Andre Hunter,Under,4.5,1.98,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Andrew Wiggins,Over,3.5,2.2,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Andrew Wiggins,Under,3.5,1.64,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Precious Achiuwa,Over,8.5,2.0,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Precious Achiuwa,Under,8.5,1.75,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Keegan Murray,Over,4.5,1.95,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Keegan Murray,Under,4.5,1.8,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Zach LaVine,Over,3.5,2.15,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Zach LaVine,Under,3.5,1.65,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Over,3.5,1.8,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Under,3.5,1.94,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_threes,Darius Acuff Jr.,Over,2.5,1.67,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_threes,Darius Acuff Jr.,Under,2.5,2.05,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_threes,Klay Thompson,Over,3.5,2.1,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_threes,Klay Thompson,Under,3.5,1.62,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_threes,Zach LaVine,Over,2.5,1.9,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_threes,Zach LaVine,Under,2.5,1.78,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_threes,De'Andre Hunter,Over,1.5,1.67,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_threes,De'Andre Hunter,Under,1.5,2.05,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_threes,Davion Mitchell,Over,1.5,1.65,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
+2026-11-09,13:10,Miami Heat @ Sacramento Kings,ladbrokes_au,player_threes,Davion Mitchell,Under,1.5,2.05,2026-11-09T02:04:48Z,2026-11-09T02:05:02+00:00,5.0
