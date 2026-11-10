@@ -1,10 +1,12 @@
 date_melb,tipoff_melb,game,player,market,side,line,odds,book,n_books_at_line,n_books,median_line,implied,model_prob,ev_pct,proj,proj_min,status,D1,D2,D3,D4,D5,D6,D7,D8,ces,tier,flags,model_version
-2026-11-11,13:10,Los Angeles Clippers @ Phoenix Suns,Keaton Wagler,player_points_rebounds_assists,Over,14.5,1.89,unibet,2,3,14.5,0.529,0.774,46.4,18.9,22.4,,2,1,2,2,0,0,0,0,1.2,Diff 4,,v4.1
+2026-11-11,13:10,Miami Heat @ Utah Jazz,Bam Adebayo,player_points_rebounds_assists,Over,29.5,1.73,neds,2,6,30.5,0.578,0.686,18.7,35.0,33.3,,1,1,2,2,0,2,0,1,1.25,Diff 4,,v4.1
+2026-11-11,13:10,Los Angeles Clippers @ Phoenix Suns,Keaton Wagler,player_points_rebounds_assists,Over,14.5,1.72,ladbrokes_au,2,5,15.5,0.581,0.774,33.2,18.9,22.4,,2,1,2,2,0,0,0,1,1.25,Diff 4,,v4.1
 2026-11-11,12:10,Boston Celtics @ Philadelphia 76ers,Kentavious Caldwell-Pope,player_threes,Over,0.5,1.92,dabble_au,1,1,0.5,0.521,0.682,31.0,1.3,21.1,,1,1,2,2,0,2,0,0,1.2,Diff 4,traded/role change: last season down-weighted,v4.1
-2026-11-11,12:10,Boston Celtics @ Philadelphia 76ers,Sam Hauser,player_rebounds,Over,2.5,1.85,unibet,2,2,2.5,0.541,0.641,18.5,3.3,22.0,,1,1,2,2,0,2,0,0,1.2,Diff 4,,v4.1
-2026-11-11,11:40,Milwaukee Bucks @ New York Knicks,Landry Shamet,player_threes,Over,1.5,1.63,pointsbetau,3,4,1.5,0.613,0.638,4.0,2.3,25.3,,1,2,1,0,0,2,1,1,1.05,Diff 3,,v4.1
-2026-11-11,11:40,Milwaukee Bucks @ New York Knicks,OG Anunoby,player_assists,Over,1.5,1.67,pointsbetau,1,5,2.5,0.599,0.632,5.5,2.2,32.2,,1,2,1,0,0,1,1,1,0.95,Diff 3,soft at one book only - may be stale,v4.1
-2026-11-11,13:10,Miami Heat @ Utah Jazz,Bobby Portis,player_points_rebounds_assists,Over,14.5,1.85,dabble_au,1,1,14.5,0.541,0.568,5.0,16.4,20.2,,1,1,2,0,0,2,0,0,0.9,Diff 3,traded/role change: last season down-weighted,v4.1
-2026-11-11,13:10,Miami Heat @ Utah Jazz,Ace Bailey,player_assists,Over,1.5,1.61,unibet,2,2,1.5,0.621,0.636,2.3,2.1,30.8,,0,1,1,0,2,2,1,0,0.8,Diff 3,"key teammates out: lauri markkanen, keyonte george",v4.1
-2026-11-11,13:10,Los Angeles Clippers @ Phoenix Suns,Kobe Sanders,player_points,Over,6.5,1.77,unibet,1,3,7.5,0.565,0.631,11.7,9.2,23.2,,1,2,0,1,0,0,0,1,0.8,Diff 3,soft at one book only - may be stale,v4.1
-2026-11-11,15:10,Oklahoma City Thunder @ Portland Trail Blazers,Toumani Camara,player_threes,Over,2.5,1.77,pointsbetau,5,5,2.5,0.565,0.529,-6.3,2.8,28.6,,0,2,2,-1,0,1,1,0,0.7,Diff 3,,v4.1
+2026-11-11,12:10,Boston Celtics @ Philadelphia 76ers,Sam Hauser,player_rebounds,Over,2.5,1.88,ladbrokes_au,4,4,2.5,0.532,0.641,20.5,3.3,22.0,,1,1,2,2,0,2,0,0,1.2,Diff 4,,v4.1
+2026-11-11,14:10,Orlando Magic @ Sacramento Kings,Keegan Murray,player_points_rebounds_assists,Over,13.5,1.82,dabble_au,1,2,14.0,0.549,0.606,10.3,16.1,28.6,,2,1,2,1,0,0,1,0,1.1,Diff 3,"early season: 3 games this season, blended with last season",v4.1
+2026-11-11,13:10,Miami Heat @ Utah Jazz,Mo Bamba,player_points,Over,5.5,1.87,pointsbetau,2,2,5.5,0.535,0.675,26.3,7.8,17.2,,0,1,1,2,2,2,1,0,1.1,Diff 3,"key teammates out: lauri markkanen, keyonte george",v4.1
+2026-11-11,14:10,Orlando Magic @ Sacramento Kings,Precious Achiuwa,player_points,Over,7.5,1.95,pointsbetau,6,6,7.5,0.513,0.668,30.3,11.3,27.7,,1,1,2,2,0,0,1,1,1.1,Diff 3,,v4.1
+2026-11-11,11:40,Milwaukee Bucks @ New York Knicks,Andre Drummond,player_rebounds,Over,6.5,1.87,pointsbetau,5,6,6.5,0.535,0.576,7.6,7.5,13.3,,1,2,0,0,1,2,1,0,0.95,Diff 3,traded/role change: last season down-weighted; key teammates out: josh hart,v4.1
+2026-11-11,11:40,Milwaukee Bucks @ New York Knicks,A.J. Green,player_threes,Over,1.5,1.67,neds,4,4,1.5,0.599,0.642,7.3,2.3,22.1,,2,1,2,0,0,0,0,0,0.9,Diff 3,,v4.1
+2026-11-11,15:10,Oklahoma City Thunder @ Portland Trail Blazers,Bennett Stirtz,player_points,Over,5.5,1.74,pointsbetau,1,5,6.5,0.575,0.668,16.3,8.3,19.7,,1,1,2,1,0,0,0,1,0.9,Diff 3,soft at one book only - may be stale,v4.1
+2026-11-11,13:10,Los Angeles Clippers @ Phoenix Suns,Collin Gillespie,player_assists,Over,2.5,1.67,pointsbetau,1,6,3.5,0.599,0.628,4.9,3.7,24.0,,2,1,1,0,0,0,0,1,0.8,Diff 3,back-to-back; soft at one book only - may be stale,v4.1
