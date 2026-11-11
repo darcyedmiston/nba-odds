@@ -1,0 +1,15 @@
+date_melb,tipoff_melb,game,player,market,side,line,odds,book,n_books_at_line,n_books,median_line,implied,model_prob,ev_pct,proj,proj_min,status,D1,D2,D3,D4,D5,D6,D7,D8,ces,tier,flags,model_version
+2026-11-12,11:10,Cleveland Cavaliers @ New York Knicks,Meleek Thomas,player_threes,Over,1.5,1.9,pointsbetau,3,3,1.5,0.526,0.733,39.3,2.9,23.4,,2,1,2,2,1,1,0,1,1.45,Diff 4,key teammates out: sam merrill,v4.1
+2026-11-12,12:10,Denver Nuggets @ Memphis Grizzlies,Cam Spencer,player_points_rebounds_assists,Over,13.5,1.87,pointsbetau,1,3,14.5,0.535,0.656,22.7,16.8,20.3,,2,1,2,2,0,1,1,1,1.4,Diff 4,soft at one book only - may be stale,v4.1
+2026-11-12,12:10,San Antonio Spurs @ Chicago Bulls,Stephon Castle,player_rebounds,Over,4.5,1.72,sportsbet,6,6,4.5,0.581,0.677,16.4,5.9,28.3,,1,2,2,1,0,2,2,0,1.35,Diff 4,,v4.1
+2026-11-12,12:10,Denver Nuggets @ Memphis Grizzlies,Jamal Murray,player_threes,Over,2.5,1.68,sportsbet,5,5,2.5,0.595,0.666,12.0,3.7,36.5,,2,2,2,1,0,0,0,0,1.25,Diff 4,,v4.1
+2026-11-12,11:10,Washington Wizards @ Indiana Pacers,Obi Toppin,player_points,Over,10.5,1.72,unibet,1,4,11.5,0.581,0.664,14.3,13.3,20.8,,1,2,2,1,0,1,1,1,1.25,Diff 4,soft at one book only - may be stale,v4.1
+2026-11-12,12:10,Brooklyn Nets @ New Orleans Pelicans,Saddiq Bey,player_points,Over,14.5,1.93,unibet,3,3,14.5,0.518,0.628,21.2,16.7,27.9,,1,1,2,2,1,1,1,0,1.25,Diff 4,key teammates out: trey murphy,v4.1
+2026-11-12,11:10,Washington Wizards @ Indiana Pacers,Andrew Nembhard,player_assists,Over,6.5,1.74,pointsbetau,2,6,7.5,0.575,0.633,10.1,8.2,32.8,,1,1,2,1,0,2,1,1,1.15,Diff 3,,v4.1
+2026-11-12,12:10,Brooklyn Nets @ New Orleans Pelicans,Derik Queen,player_points,Over,9.5,1.95,pointsbetau,2,3,9.5,0.513,0.587,14.4,11.3,22.4,,1,1,2,1,1,1,1,1,1.15,Diff 3,key teammates out: trey murphy,v4.1
+2026-11-12,12:10,Los Angeles Lakers @ Milwaukee Bucks,Kyle Kuzma,player_assists,Over,2.5,2.1,sportsbet,4,4,2.5,0.476,0.565,18.6,2.9,26.1,,0,2,2,1,1,1,0,1,1.1,Diff 3,key teammates out: tyler herro; back-to-back,v4.1
+2026-11-12,12:10,Los Angeles Lakers @ Milwaukee Bucks,Ziaire Williams,player_points,Over,8.5,1.92,sportsbet,3,3,8.5,0.521,0.714,37.0,11.4,24.2,,1,1,2,2,0,1,0,0,1.1,Diff 3,traded/role change: last season down-weighted,v4.1
+2026-11-12,12:10,San Antonio Spurs @ Chicago Bulls,De'Aaron Fox,player_points,Over,13.5,1.87,neds,4,6,13.5,0.535,0.643,20.3,15.9,28.4,,1,1,0,2,0,2,2,0,1.0,Diff 3,,v4.1
+2026-11-12,13:40,Golden State Warriors @ Houston Rockets,Tari Eason,player_rebounds,Over,4.5,1.8,sportsbet,4,4,4.5,0.556,0.625,12.5,5.7,24.1,,2,2,1,1,0,-1,0,0,1.0,Diff 3,,v4.1
+2026-11-12,13:40,Golden State Warriors @ Houston Rockets,Marcus Smart,player_points,Over,5.5,1.81,unibet,2,2,5.5,0.552,0.637,15.3,7.9,21.8,,2,1,1,1,0,0,0,0,0.9,Diff 3,traded/role change: last season down-weighted,v4.1
+2026-11-12,11:10,Cleveland Cavaliers @ New York Knicks,James Harden,player_threes,Over,2.5,2.25,unibet,5,5,2.5,0.444,0.512,15.1,2.7,32.3,,0,1,1,1,1,1,0,1,0.75,Diff 3,key teammates out: sam merrill,v4.1
