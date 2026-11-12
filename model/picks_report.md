@@ -2,7 +2,7 @@
 
 Generated from `model/picks_log.csv`. Samples under ~300 are noise.
 
-**Paper P&L at logged stakes:** -134.10 on 1580 staked (-8.5%). Pending rows: 0.
+**Paper P&L at logged stakes:** -134.10 on 1580 staked (-8.5%). Pending rows: 41.
 
 ## By tier (Superseded reported separately)
 
@@ -27,5 +27,5 @@ Line CLV includes line shopping. Market move is the morning median to the closin
 
 | Tier | With close | Beat CLV | Beat % | Avg market move | Moved our way | Moved against |
 |---|---|---|---|---|---|---|
-| Diff 4 | 58 | 41 | 70.7 | +0.09 | 15 | 8 |
-| Diff 3 | 77 | 57 | 74.0 | -0.05 | 8 | 9 |
+| Diff 4 | 60 | 43 | 71.7 | +0.08 | 15 | 8 |
+| Diff 3 | 78 | 57 | 73.1 | -0.05 | 8 | 9 |
