@@ -2,7 +2,7 @@
 
 Generated from `model/picks_log.csv`. Samples under ~300 are noise.
 
-**Paper P&L at logged stakes:** -93.40 on 1800 staked (-5.2%). Pending rows: 0.
+**Paper P&L at logged stakes:** -93.40 on 1800 staked (-5.2%). Pending rows: 45.
 
 ## By tier (Superseded reported separately)
 
