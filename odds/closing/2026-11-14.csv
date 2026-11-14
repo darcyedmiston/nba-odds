@@ -649,3 +649,747 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-14,11:10,New York Knicks @ Indiana Pacers,neds,player_threes,Landry Shamet,Under,1.5,2.05,2026-11-14T00:04:20Z,2026-11-14T00:05:00+00:00,5.0
 2026-11-14,11:10,New York Knicks @ Indiana Pacers,neds,player_threes,Pascal Siakam,Over,1.5,1.96,2026-11-14T00:04:20Z,2026-11-14T00:05:00+00:00,5.0
 2026-11-14,11:10,New York Knicks @ Indiana Pacers,neds,player_threes,Pascal Siakam,Under,1.5,1.72,2026-11-14T00:04:20Z,2026-11-14T00:05:00+00:00,5.0
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Anthony Black,Over,4.5,1.67,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Anthony Black,Under,4.5,2.2,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Brayden Burries,Over,2.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Brayden Burries,Under,2.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Desmond Bane,Over,3.5,2.25,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Desmond Bane,Under,3.5,1.63,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Franz Wagner,Over,6.5,1.69,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Franz Wagner,Under,6.5,2.15,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Jaime Jaquez Jr,Over,3.5,2.25,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Jaime Jaquez Jr,Under,3.5,1.63,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Jalen Suggs,Over,3.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Jalen Suggs,Under,3.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Kyle Kuzma,Over,2.5,2.2,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Kyle Kuzma,Under,2.5,1.67,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Ryan Rollins,Over,3.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Ryan Rollins,Under,3.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Tyler Herro,Over,4.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_assists,Tyler Herro,Under,4.5,1.77,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Anthony Black,Over,16.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Anthony Black,Under,16.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Brayden Burries,Over,11.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Brayden Burries,Under,11.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Desmond Bane,Over,19.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Desmond Bane,Under,19.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Franz Wagner,Over,24.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Franz Wagner,Under,24.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Jaime Jaquez Jr,Over,13.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Jaime Jaquez Jr,Under,13.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Jalen Suggs,Over,8.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Jalen Suggs,Under,8.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Jamal Cain,Over,6.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Jamal Cain,Under,6.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Kel'el Ware,Over,6.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Kel'el Ware,Under,6.5,1.95,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Kyle Kuzma,Over,10.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Kyle Kuzma,Under,10.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Myles Turner,Over,9.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Myles Turner,Under,9.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Nate Ament,Over,6.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Nate Ament,Under,6.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Ousmane Dieng,Over,8.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Ousmane Dieng,Under,8.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Ryan Rollins,Over,9.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Ryan Rollins,Under,9.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Tristan da Silva,Over,13.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Tristan da Silva,Under,13.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Tyler Herro,Over,20.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Tyler Herro,Under,20.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Wendell Carter Jr,Over,12.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points,Wendell Carter Jr,Under,12.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Anthony Black,Over,26.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Anthony Black,Under,26.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Brayden Burries,Over,19.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Brayden Burries,Under,19.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Desmond Bane,Over,27.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Desmond Bane,Under,27.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Franz Wagner,Over,37.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Franz Wagner,Under,37.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Jaime Jaquez Jr,Over,20.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Jaime Jaquez Jr,Under,20.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Jalen Suggs,Over,14.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Jalen Suggs,Under,14.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Kyle Kuzma,Over,17.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Kyle Kuzma,Under,17.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Ryan Rollins,Over,17.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Ryan Rollins,Under,17.5,1.74,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Tyler Herro,Over,29.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Tyler Herro,Under,29.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Anthony Black,Over,4.5,1.69,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Anthony Black,Under,4.5,2.15,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Brayden Burries,Over,4.5,1.69,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Brayden Burries,Under,4.5,2.15,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Desmond Bane,Over,4.5,2.2,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Desmond Bane,Under,4.5,1.67,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Franz Wagner,Over,6.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Franz Wagner,Under,6.5,1.74,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Jaime Jaquez Jr,Over,4.5,2.2,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Jaime Jaquez Jr,Under,4.5,1.67,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Jalen Suggs,Over,2.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Jalen Suggs,Under,2.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Kel'el Ware,Over,4.5,1.77,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Kel'el Ware,Under,4.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Kyle Kuzma,Over,4.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Kyle Kuzma,Under,4.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Myles Turner,Over,4.5,1.74,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Myles Turner,Under,4.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Nate Ament,Over,3.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Nate Ament,Under,3.5,1.74,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Ryan Rollins,Over,2.5,1.67,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Ryan Rollins,Under,2.5,2.2,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Tristan da Silva,Over,4.5,2.1,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Tristan da Silva,Under,4.5,1.71,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Tyler Herro,Over,4.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Tyler Herro,Under,4.5,1.74,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Wendell Carter Jr,Over,8.5,1.74,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_rebounds,Wendell Carter Jr,Under,8.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Myles Turner,Over,1.5,2.2,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Myles Turner,Under,1.5,1.67,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Kyle Kuzma,Over,1.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Kyle Kuzma,Under,1.5,1.74,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Tyler Herro,Over,2.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Tyler Herro,Under,2.5,1.95,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Brayden Burries,Over,1.5,2.65,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Brayden Burries,Under,1.5,1.44,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Jaime Jaquez Jr,Over,1.5,2.3,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Jaime Jaquez Jr,Under,1.5,1.59,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Franz Wagner,Over,1.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Franz Wagner,Under,1.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Jalen Suggs,Over,1.5,2.35,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Jalen Suggs,Under,1.5,1.57,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Desmond Bane,Over,3.5,2.2,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Desmond Bane,Under,3.5,1.67,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Wendell Carter Jr,Over,0.5,1.57,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Wendell Carter Jr,Under,0.5,2.35,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Anthony Black,Over,1.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Anthony Black,Under,1.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Tristan da Silva,Over,2.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Tristan da Silva,Under,2.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Ryan Rollins,Over,1.5,2.15,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,pointsbetau,player_threes,Ryan Rollins,Under,1.5,1.69,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Tyler Herro,Over,4.5,1.92,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Tyler Herro,Under,4.5,1.84,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Brayden Burries,Over,2.5,1.78,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Brayden Burries,Under,2.5,2.0,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Jalen Suggs,Over,3.5,1.87,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Jalen Suggs,Under,3.5,1.89,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Anthony Black,Over,4.5,1.64,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Anthony Black,Under,4.5,2.15,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Desmond Bane,Over,2.5,1.6,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Desmond Bane,Under,2.5,2.2,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Franz Wagner,Over,6.5,1.68,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Franz Wagner,Under,6.5,2.1,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Jaime Jaquez Jr,Over,3.5,2.15,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Jaime Jaquez Jr,Under,3.5,1.64,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Ryan Rollins,Over,3.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Ryan Rollins,Under,3.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Ousmane Dieng,Over,2.5,1.88,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_assists,Ousmane Dieng,Under,2.5,1.88,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Tyler Herro,Over,21.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Tyler Herro,Under,21.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Brayden Burries,Over,11.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Brayden Burries,Under,11.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Nate Ament,Over,6.5,1.87,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Nate Ament,Under,6.5,1.89,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Myles Turner,Over,9.5,2.0,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Myles Turner,Under,9.5,1.78,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Kyle Kuzma,Over,10.5,1.91,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Kyle Kuzma,Under,10.5,1.85,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Franz Wagner,Over,24.5,1.91,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Franz Wagner,Under,24.5,1.85,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Jalen Suggs,Over,8.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Jalen Suggs,Under,8.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Wendell Carter Jr,Over,12.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Wendell Carter Jr,Under,12.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Anthony Black,Over,15.5,1.78,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Anthony Black,Under,15.5,2.0,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Desmond Bane,Over,20.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Desmond Bane,Under,20.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Tristan da Silva,Over,12.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Tristan da Silva,Under,12.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Jaime Jaquez Jr,Over,13.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Jaime Jaquez Jr,Under,13.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Ryan Rollins,Over,9.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Ryan Rollins,Under,9.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Kel'el Ware,Over,6.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Kel'el Ware,Under,6.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Jamal Cain,Over,6.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Jamal Cain,Under,6.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Ousmane Dieng,Over,7.5,1.9,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points,Ousmane Dieng,Under,7.5,1.86,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Tyler Herro,Over,30.5,1.9,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Tyler Herro,Under,30.5,1.86,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Brayden Burries,Over,19.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Brayden Burries,Under,19.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Myles Turner,Over,16.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Myles Turner,Under,16.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Kyle Kuzma,Over,17.5,1.88,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Kyle Kuzma,Under,17.5,1.88,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Anthony Black,Over,26.5,1.84,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Anthony Black,Under,26.5,1.92,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Desmond Bane,Over,27.5,1.86,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Desmond Bane,Under,27.5,1.9,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.93,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.83,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Jalen Suggs,Over,15.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Jalen Suggs,Under,15.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Over,23.5,1.93,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Under,23.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Jaime Jaquez Jr,Over,20.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Jaime Jaquez Jr,Under,20.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Ryan Rollins,Over,16.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Ryan Rollins,Under,16.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Ousmane Dieng,Over,13.5,1.84,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_points_rebounds_assists,Ousmane Dieng,Under,13.5,1.92,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Brayden Burries,Over,5.5,2.1,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Brayden Burries,Under,5.5,1.68,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Nate Ament,Over,3.5,2.45,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Nate Ament,Under,3.5,1.5,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Tyler Herro,Over,4.5,1.93,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Tyler Herro,Under,4.5,1.83,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Kyle Kuzma,Over,4.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Kyle Kuzma,Under,4.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Myles Turner,Over,5.5,2.15,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Myles Turner,Under,5.5,1.64,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Wendell Carter Jr,Over,8.5,1.68,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Wendell Carter Jr,Under,8.5,2.1,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Franz Wagner,Over,6.5,2.0,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Franz Wagner,Under,6.5,1.78,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Jalen Suggs,Over,2.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Jalen Suggs,Under,2.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Desmond Bane,Over,4.5,2.1,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Desmond Bane,Under,4.5,1.68,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Anthony Black,Over,4.5,1.64,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Anthony Black,Under,4.5,2.15,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Tristan da Silva,Over,4.5,2.1,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Tristan da Silva,Under,4.5,1.68,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Jaime Jaquez Jr,Over,4.5,2.1,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Jaime Jaquez Jr,Under,4.5,1.68,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Ryan Rollins,Over,2.5,1.64,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Ryan Rollins,Under,2.5,2.15,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Kel'el Ware,Over,4.5,1.72,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Kel'el Ware,Under,4.5,2.08,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Jamal Cain,Over,2.5,1.64,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Jamal Cain,Under,2.5,2.15,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Ousmane Dieng,Over,3.5,2.1,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_rebounds,Ousmane Dieng,Under,3.5,1.68,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Nate Ament,Over,0.5,1.6,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Nate Ament,Under,0.5,2.2,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Brayden Burries,Over,1.5,2.6,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Brayden Burries,Under,1.5,1.44,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Tyler Herro,Over,2.5,1.9,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Tyler Herro,Under,2.5,1.86,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Kyle Kuzma,Over,1.5,2.1,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Kyle Kuzma,Under,1.5,1.68,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Franz Wagner,Over,1.5,1.84,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Franz Wagner,Under,1.5,1.92,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Jalen Suggs,Over,1.5,2.25,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Jalen Suggs,Under,1.5,1.58,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Anthony Black,Over,1.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Anthony Black,Under,1.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Desmond Bane,Over,3.5,2.05,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Desmond Bane,Under,3.5,1.74,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Tristan da Silva,Over,2.5,1.8,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Tristan da Silva,Under,2.5,1.96,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Jaime Jaquez Jr,Over,1.5,2.15,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Jaime Jaquez Jr,Under,1.5,1.64,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Ryan Rollins,Over,1.5,2.05,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,sportsbet,player_threes,Ryan Rollins,Under,1.5,1.74,2026-11-14T00:04:05Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Wendell Carter Jr,Over,1.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Wendell Carter Jr,Under,1.5,1.88,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Anthony Black,Over,4.5,1.76,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Anthony Black,Under,4.5,1.97,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Kyle Kuzma,Over,2.5,2.04,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Kyle Kuzma,Under,2.5,1.72,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Tyler Herro,Over,4.5,1.97,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Tyler Herro,Under,4.5,1.76,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Jaime Jaquez Jr,Over,3.5,2.25,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Jaime Jaquez Jr,Under,3.5,1.57,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Jalen Suggs,Over,3.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Jalen Suggs,Under,3.5,1.88,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Myles Turner,Over,1.5,1.76,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Myles Turner,Under,1.5,1.97,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Ryan Rollins,Over,3.5,1.83,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Ryan Rollins,Under,3.5,1.89,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Brayden Burries,Over,2.5,1.72,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Brayden Burries,Under,2.5,2.04,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Desmond Bane,Over,3.5,2.28,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Desmond Bane,Under,3.5,1.56,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Franz Wagner,Over,6.5,1.73,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_assists,Franz Wagner,Under,6.5,2.0,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Wendell Carter Jr,Over,12.5,1.83,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Wendell Carter Jr,Under,12.5,1.88,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Brayden Burries,Over,11.5,1.88,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Brayden Burries,Under,11.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Kel'el Ware,Over,6.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Kel'el Ware,Under,6.5,1.88,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Anthony Black,Over,15.5,1.81,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Anthony Black,Under,15.5,1.92,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Tyler Herro,Over,21.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Tyler Herro,Under,21.5,1.88,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Desmond Bane,Over,20.5,1.94,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Desmond Bane,Under,20.5,1.78,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Kyle Kuzma,Over,10.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Kyle Kuzma,Under,10.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Jaime Jaquez Jr,Over,12.5,1.8,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Jaime Jaquez Jr,Under,12.5,1.93,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Franz Wagner,Over,24.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Franz Wagner,Under,24.5,1.87,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Tristan da Silva,Over,12.5,1.79,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Tristan da Silva,Under,12.5,1.93,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Myles Turner,Over,8.5,1.75,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Myles Turner,Under,8.5,1.97,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Jamal Cain,Over,6.5,1.87,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Jamal Cain,Under,6.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Nate Ament,Over,6.5,1.91,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Nate Ament,Under,6.5,1.82,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Ryan Rollins,Over,9.5,1.79,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Ryan Rollins,Under,9.5,1.93,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Jalen Suggs,Over,8.5,1.91,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points,Jalen Suggs,Under,8.5,1.82,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Kyle Kuzma,Over,18.5,2.0,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Kyle Kuzma,Under,18.5,1.75,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Desmond Bane,Over,28.5,2.0,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Desmond Bane,Under,28.5,1.74,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Jaime Jaquez Jr,Over,20.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Jaime Jaquez Jr,Under,20.5,1.87,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.88,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.83,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Myles Turner,Over,16.5,1.92,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Myles Turner,Under,16.5,1.81,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Anthony Black,Over,26.5,1.94,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Anthony Black,Under,26.5,1.78,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Wendell Carter Jr,Over,24.5,2.0,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Wendell Carter Jr,Under,24.5,1.75,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Brayden Burries,Over,19.5,1.83,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Brayden Burries,Under,19.5,1.89,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Tyler Herro,Over,30.5,1.83,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Tyler Herro,Under,30.5,1.89,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Ryan Rollins,Over,17.5,1.97,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Ryan Rollins,Under,17.5,1.76,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Jalen Suggs,Over,15.5,1.92,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_points_rebounds_assists,Jalen Suggs,Under,15.5,1.82,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Jaime Jaquez Jr,Over,4.5,2.1,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Jaime Jaquez Jr,Under,4.5,1.68,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Myles Turner,Over,5.5,2.08,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Myles Turner,Under,5.5,1.68,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Desmond Bane,Over,4.5,2.16,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Desmond Bane,Under,4.5,1.64,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Kyle Kuzma,Over,4.5,1.88,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Kyle Kuzma,Under,4.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Franz Wagner,Over,6.5,1.96,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Franz Wagner,Under,6.5,1.77,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Jamal Cain,Over,2.5,1.72,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Jamal Cain,Under,2.5,2.02,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Ryan Rollins,Over,3.5,2.3,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Ryan Rollins,Under,3.5,1.56,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Tyler Herro,Over,4.5,1.97,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Tyler Herro,Under,4.5,1.76,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Brayden Burries,Over,5.5,2.14,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Brayden Burries,Under,5.5,1.65,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Tristan da Silva,Over,4.5,2.17,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Tristan da Silva,Under,4.5,1.64,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Wendell Carter Jr,Over,9.5,1.97,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Wendell Carter Jr,Under,9.5,1.75,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Anthony Black,Over,5.5,2.18,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Anthony Black,Under,5.5,1.63,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Jalen Suggs,Over,2.5,1.8,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Jalen Suggs,Under,2.5,1.93,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Kel'el Ware,Over,4.5,1.82,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Kel'el Ware,Under,4.5,1.91,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Nate Ament,Over,2.5,1.82,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_rebounds,Nate Ament,Under,2.5,1.91,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Tyler Herro,Over,2.5,1.89,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Tyler Herro,Under,2.5,1.83,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Ryan Rollins,Over,1.5,2.0,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Ryan Rollins,Under,1.5,1.75,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Wendell Carter Jr,Over,0.5,1.65,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Wendell Carter Jr,Under,0.5,2.15,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Myles Turner,Over,1.5,2.05,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Myles Turner,Under,1.5,1.71,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Brayden Burries,Over,1.5,2.65,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Brayden Burries,Under,1.5,1.43,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Jaime Jaquez Jr,Over,1.5,2.35,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Jaime Jaquez Jr,Under,1.5,1.55,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Desmond Bane,Over,3.5,2.12,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Desmond Bane,Under,3.5,1.66,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Kyle Kuzma,Over,1.5,2.0,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Kyle Kuzma,Under,1.5,1.73,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Anthony Black,Over,1.5,1.77,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Anthony Black,Under,1.5,1.96,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Franz Wagner,Over,1.5,1.96,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Franz Wagner,Under,1.5,1.77,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Jalen Suggs,Over,1.5,2.28,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Jalen Suggs,Under,1.5,1.57,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Tristan da Silva,Over,2.5,1.85,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Tristan da Silva,Under,2.5,1.87,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Nate Ament,Over,0.5,1.55,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,unibet,player_threes,Nate Ament,Under,0.5,2.33,2026-11-14T00:03:52Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Anthony Black,Over,5.5,2.25,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Anthony Black,Under,5.5,1.6,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Brayden Burries,Over,2.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Brayden Burries,Under,2.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Desmond Bane,Over,3.5,2.5,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Desmond Bane,Under,3.5,1.5,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Franz Wagner,Over,6.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Franz Wagner,Under,6.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Jaime Jaquez Jr,Over,3.5,2.4,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Jaime Jaquez Jr,Under,3.5,1.53,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Jalen Suggs,Over,3.5,2.1,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Jalen Suggs,Under,3.5,1.68,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Jamal Cain,Over,0.5,1.5,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Jamal Cain,Under,0.5,2.5,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Kel'el Ware,Over,0.5,1.87,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Kel'el Ware,Under,0.5,1.87,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Kyle Kuzma,Over,2.5,1.87,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Kyle Kuzma,Under,2.5,1.87,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Myles Turner,Over,1.5,1.6,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Myles Turner,Under,1.5,2.25,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Ousmane Dieng,Over,2.5,2.0,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Ousmane Dieng,Under,2.5,1.75,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Ryan Rollins,Over,4.5,2.45,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Ryan Rollins,Under,4.5,1.52,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Tristan da Silva,Over,2.5,2.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Tristan da Silva,Under,2.5,1.4,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Tyler Herro,Over,4.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Tyler Herro,Under,4.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Wendell Carter Jr,Over,1.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_assists,Wendell Carter Jr,Under,1.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Anthony Black,Over,15.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Anthony Black,Under,15.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Brayden Burries,Over,10.5,1.75,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Brayden Burries,Under,10.5,2.0,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Desmond Bane,Over,19.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Desmond Bane,Under,19.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Franz Wagner,Over,24.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Franz Wagner,Under,24.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Jaime Jaquez Jr,Over,14.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Jaime Jaquez Jr,Under,14.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Jalen Suggs,Over,8.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Jalen Suggs,Under,8.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Kel'el Ware,Over,7.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Kel'el Ware,Under,7.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Kyle Kuzma,Over,9.5,1.75,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Kyle Kuzma,Under,9.5,2.0,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Myles Turner,Over,8.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Myles Turner,Under,8.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Ousmane Dieng,Over,8.5,2.0,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Ousmane Dieng,Under,8.5,1.75,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Ryan Rollins,Over,10.5,1.87,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Ryan Rollins,Under,10.5,1.87,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Tristan da Silva,Over,12.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Tristan da Silva,Under,12.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Tyler Herro,Over,21.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Tyler Herro,Under,21.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Wendell Carter Jr,Over,12.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points,Wendell Carter Jr,Under,12.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Anthony Black,Over,26.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Anthony Black,Under,26.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Brayden Burries,Over,19.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Brayden Burries,Under,19.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Desmond Bane,Over,27.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Desmond Bane,Under,27.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Franz Wagner,Over,37.5,1.87,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Franz Wagner,Under,37.5,1.87,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Jaime Jaquez Jr,Over,21.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Jaime Jaquez Jr,Under,21.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Jalen Suggs,Over,14.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Jalen Suggs,Under,14.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Jamal Cain,Over,11.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Jamal Cain,Under,11.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Kel'el Ware,Over,13.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Kel'el Ware,Under,13.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Kyle Kuzma,Over,17.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Kyle Kuzma,Under,17.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Myles Turner,Over,16.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Myles Turner,Under,16.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Ousmane Dieng,Over,14.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Ousmane Dieng,Under,14.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Ryan Rollins,Over,17.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Ryan Rollins,Under,17.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Tristan da Silva,Over,18.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Tristan da Silva,Under,18.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Tyler Herro,Over,30.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Tyler Herro,Under,30.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Wendell Carter Jr,Over,23.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_points_rebounds_assists,Wendell Carter Jr,Under,23.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Anthony Black,Over,5.5,2.35,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Anthony Black,Under,5.5,1.55,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Brayden Burries,Over,5.5,2.15,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Brayden Burries,Under,5.5,1.65,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Desmond Bane,Over,4.5,2.05,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Desmond Bane,Under,4.5,1.72,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Franz Wagner,Over,6.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Franz Wagner,Under,6.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Jaime Jaquez Jr,Over,4.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Jaime Jaquez Jr,Under,4.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Jalen Suggs,Over,2.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Jalen Suggs,Under,2.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Jamal Cain,Over,3.5,2.2,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Jamal Cain,Under,3.5,1.62,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Kel'el Ware,Over,5.5,2.05,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Kel'el Ware,Under,5.5,1.72,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Kyle Kuzma,Over,4.5,2.1,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Kyle Kuzma,Under,4.5,1.68,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Myles Turner,Over,5.5,2.05,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Myles Turner,Under,5.5,1.72,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Ryan Rollins,Over,3.5,2.5,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Ryan Rollins,Under,3.5,1.5,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Tristan da Silva,Over,4.5,2.05,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Tristan da Silva,Under,4.5,1.72,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Tyler Herro,Over,4.5,2.1,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Tyler Herro,Under,4.5,1.68,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Wendell Carter Jr,Over,9.5,2.0,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_rebounds,Wendell Carter Jr,Under,9.5,1.75,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Anthony Black,Over,1.5,1.75,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Anthony Black,Under,1.5,2.0,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Brayden Burries,Over,1.5,2.4,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Brayden Burries,Under,1.5,1.53,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Desmond Bane,Over,3.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Desmond Bane,Under,3.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Franz Wagner,Over,1.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Franz Wagner,Under,1.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Jaime Jaquez Jr,Over,1.5,2.35,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Jaime Jaquez Jr,Under,1.5,1.55,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Jalen Suggs,Over,1.5,2.35,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Jalen Suggs,Under,1.5,1.55,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Jamal Cain,Over,1.5,2.75,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Jamal Cain,Under,1.5,1.42,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Kel'el Ware,Over,0.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Kel'el Ware,Under,0.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Kyle Kuzma,Over,1.5,2.1,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Kyle Kuzma,Under,1.5,1.68,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Myles Turner,Over,1.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Myles Turner,Under,1.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Ousmane Dieng,Over,1.5,2.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Ousmane Dieng,Under,1.5,1.38,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Ryan Rollins,Over,1.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Ryan Rollins,Under,1.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Tristan da Silva,Over,2.5,1.9,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Tristan da Silva,Under,2.5,1.85,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Tyler Herro,Over,2.5,1.8,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Tyler Herro,Under,2.5,1.95,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Wendell Carter Jr,Over,0.5,1.62,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,tab,player_threes,Wendell Carter Jr,Under,0.5,2.2,2026-11-14T00:03:59Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Ryan Rollins,Over,3.5,1.82,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Ryan Rollins,Under,3.5,1.92,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Jalen Suggs,Over,3.5,1.91,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Jalen Suggs,Under,3.5,1.83,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Kyle Kuzma,Over,2.5,2.02,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Kyle Kuzma,Under,2.5,1.75,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Tyler Herro,Over,4.5,2.0,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Tyler Herro,Under,4.5,1.75,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Desmond Bane,Over,2.5,1.7,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Desmond Bane,Under,2.5,2.1,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Franz Wagner,Over,6.5,1.78,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Franz Wagner,Under,6.5,1.96,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Jaime Jaquez Jr,Over,3.5,2.2,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Jaime Jaquez Jr,Under,3.5,1.64,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Anthony Black,Over,4.5,1.78,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Anthony Black,Under,4.5,1.96,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Brayden Burries,Over,2.5,1.82,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_assists,Brayden Burries,Under,2.5,1.92,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Kyle Kuzma,Over,10.5,1.87,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Kyle Kuzma,Under,10.5,1.88,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Tyler Herro,Over,21.5,1.85,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Tyler Herro,Under,21.5,1.88,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Desmond Bane,Over,19.5,1.88,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Desmond Bane,Under,19.5,1.87,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Jamal Cain,Over,6.5,1.75,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Jamal Cain,Under,6.5,2.0,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Myles Turner,Over,8.5,1.82,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Myles Turner,Under,8.5,1.92,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Ryan Rollins,Over,9.5,1.8,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Ryan Rollins,Under,9.5,1.94,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Jaime Jaquez Jr,Over,13.5,1.9,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Jaime Jaquez Jr,Under,13.5,1.85,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Franz Wagner,Over,24.5,1.88,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Franz Wagner,Under,24.5,1.85,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Jalen Suggs,Over,8.5,1.85,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Jalen Suggs,Under,8.5,1.88,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Brayden Burries,Over,11.5,1.88,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Brayden Burries,Under,11.5,1.87,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Tristan da Silva,Over,12.5,1.85,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Tristan da Silva,Under,12.5,1.9,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Kel'el Ware,Over,6.5,1.8,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Kel'el Ware,Under,6.5,1.94,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Wendell Carter Jr,Over,12.5,1.92,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Wendell Carter Jr,Under,12.5,1.82,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Anthony Black,Over,15.5,1.85,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Anthony Black,Under,15.5,1.88,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Nate Ament,Over,6.5,1.85,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points,Nate Ament,Under,6.5,1.88,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Tyler Herro,Over,30.5,1.83,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Tyler Herro,Under,30.5,1.91,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Kyle Kuzma,Over,17.5,1.82,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Kyle Kuzma,Under,17.5,1.92,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Brayden Burries,Over,19.5,1.83,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Brayden Burries,Under,19.5,1.91,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Ryan Rollins,Over,16.5,1.87,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Ryan Rollins,Under,16.5,1.88,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Jaime Jaquez Jr,Over,20.5,1.77,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Jaime Jaquez Jr,Under,20.5,1.98,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Franz Wagner,Over,37.5,1.85,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Franz Wagner,Under,37.5,1.9,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.8,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.94,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Jalen Suggs,Over,14.5,1.75,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Jalen Suggs,Under,14.5,2.0,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Anthony Black,Over,24.5,1.7,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_points_rebounds_assists,Anthony Black,Under,24.5,2.1,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Myles Turner,Over,4.5,1.8,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Myles Turner,Under,4.5,1.95,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Anthony Black,Over,4.5,1.73,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Anthony Black,Under,4.5,2.05,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Tristan da Silva,Over,4.5,2.1,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Tristan da Silva,Under,4.5,1.68,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Tyler Herro,Over,4.5,2.0,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Tyler Herro,Under,4.5,1.75,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Ryan Rollins,Over,2.5,1.67,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Ryan Rollins,Under,2.5,2.1,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Brayden Burries,Over,5.5,2.05,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Brayden Burries,Under,5.5,1.7,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Desmond Bane,Over,4.5,2.1,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Desmond Bane,Under,4.5,1.67,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Jamal Cain,Over,2.5,1.7,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Jamal Cain,Under,2.5,2.1,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Jaime Jaquez Jr,Over,4.5,2.05,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Jaime Jaquez Jr,Under,4.5,1.7,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Jalen Suggs,Over,2.5,1.8,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Jalen Suggs,Under,2.5,1.94,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Franz Wagner,Over,6.5,2.0,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Franz Wagner,Under,6.5,1.75,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Nate Ament,Over,3.5,2.2,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Nate Ament,Under,3.5,1.64,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Wendell Carter Jr,Over,8.5,1.8,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Wendell Carter Jr,Under,8.5,1.95,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Kyle Kuzma,Over,4.5,1.98,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Kyle Kuzma,Under,4.5,1.77,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Kel'el Ware,Over,4.5,1.77,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_rebounds,Kel'el Ware,Under,4.5,1.98,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Kyle Kuzma,Over,1.5,2.1,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Kyle Kuzma,Under,1.5,1.64,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Desmond Bane,Over,3.5,2.1,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Desmond Bane,Under,3.5,1.62,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Franz Wagner,Over,1.5,1.95,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Franz Wagner,Under,1.5,1.73,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Ryan Rollins,Over,1.5,2.1,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Ryan Rollins,Under,1.5,1.64,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Anthony Black,Over,1.5,1.95,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Anthony Black,Under,1.5,1.73,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Tyler Herro,Over,2.5,1.88,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Tyler Herro,Under,2.5,1.8,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Tristan da Silva,Over,2.5,1.87,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,neds,player_threes,Tristan da Silva,Under,2.5,1.8,2026-11-14T00:04:20Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Ryan Rollins,Over,3.5,1.82,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Ryan Rollins,Under,3.5,1.92,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Jalen Suggs,Over,3.5,1.91,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Jalen Suggs,Under,3.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Kyle Kuzma,Over,2.5,2.02,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Kyle Kuzma,Under,2.5,1.75,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Tyler Herro,Over,4.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Tyler Herro,Under,4.5,1.75,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Desmond Bane,Over,2.5,1.7,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Desmond Bane,Under,2.5,2.1,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Franz Wagner,Over,6.5,1.78,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Franz Wagner,Under,6.5,1.96,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Jaime Jaquez Jr,Over,3.5,2.2,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Jaime Jaquez Jr,Under,3.5,1.64,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Anthony Black,Over,4.5,1.78,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Anthony Black,Under,4.5,1.96,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Brayden Burries,Over,2.5,1.82,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_assists,Brayden Burries,Under,2.5,1.92,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Kyle Kuzma,Over,10.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Kyle Kuzma,Under,10.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Tyler Herro,Over,21.5,1.85,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Tyler Herro,Under,21.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Desmond Bane,Over,19.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Desmond Bane,Under,19.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Jamal Cain,Over,6.5,1.75,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Jamal Cain,Under,6.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Myles Turner,Over,8.5,1.82,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Myles Turner,Under,8.5,1.92,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Ryan Rollins,Over,9.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Ryan Rollins,Under,9.5,1.94,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Jaime Jaquez Jr,Over,13.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Jaime Jaquez Jr,Under,13.5,1.85,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Franz Wagner,Over,24.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Franz Wagner,Under,24.5,1.85,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Jalen Suggs,Over,8.5,1.85,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Jalen Suggs,Under,8.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Brayden Burries,Over,11.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Brayden Burries,Under,11.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Tristan da Silva,Over,12.5,1.85,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Tristan da Silva,Under,12.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Kel'el Ware,Over,6.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Kel'el Ware,Under,6.5,1.94,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Wendell Carter Jr,Over,12.5,1.92,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Wendell Carter Jr,Under,12.5,1.82,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Anthony Black,Over,15.5,1.85,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Anthony Black,Under,15.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Nate Ament,Over,6.5,1.85,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points,Nate Ament,Under,6.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Tyler Herro,Over,30.5,1.82,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Tyler Herro,Under,30.5,1.92,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Kyle Kuzma,Over,17.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Kyle Kuzma,Under,17.5,1.9,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Brayden Burries,Over,19.5,1.85,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Brayden Burries,Under,19.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Ryan Rollins,Over,16.5,1.85,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Ryan Rollins,Under,16.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Jaime Jaquez Jr,Over,20.5,1.77,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Jaime Jaquez Jr,Under,20.5,1.98,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Over,37.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Under,37.5,1.94,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.83,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.91,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Jalen Suggs,Over,14.5,1.73,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Jalen Suggs,Under,14.5,2.02,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Over,24.5,1.7,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Under,24.5,2.1,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Myles Turner,Over,4.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Myles Turner,Under,4.5,1.95,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Anthony Black,Over,4.5,1.73,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Anthony Black,Under,4.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Tristan da Silva,Over,4.5,2.1,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Tristan da Silva,Under,4.5,1.68,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Tyler Herro,Over,4.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Tyler Herro,Under,4.5,1.75,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Ryan Rollins,Over,2.5,1.67,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Ryan Rollins,Under,2.5,2.1,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Brayden Burries,Over,5.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Brayden Burries,Under,5.5,1.7,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Desmond Bane,Over,4.5,2.1,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Desmond Bane,Under,4.5,1.67,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Jamal Cain,Over,2.5,1.7,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Jamal Cain,Under,2.5,2.1,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Jaime Jaquez Jr,Over,4.5,2.05,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Jaime Jaquez Jr,Under,4.5,1.7,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Jalen Suggs,Over,2.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Jalen Suggs,Under,2.5,1.94,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Franz Wagner,Over,6.5,2.0,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Franz Wagner,Under,6.5,1.75,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Nate Ament,Over,3.5,2.2,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Nate Ament,Under,3.5,1.64,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Wendell Carter Jr,Over,8.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Wendell Carter Jr,Under,8.5,1.95,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Kyle Kuzma,Over,4.5,1.98,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Kyle Kuzma,Under,4.5,1.77,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Kel'el Ware,Over,4.5,1.77,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_rebounds,Kel'el Ware,Under,4.5,1.98,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Kyle Kuzma,Over,1.5,2.1,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Kyle Kuzma,Under,1.5,1.64,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Desmond Bane,Over,3.5,2.1,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Desmond Bane,Under,3.5,1.62,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Franz Wagner,Over,1.5,1.95,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Franz Wagner,Under,1.5,1.73,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Ryan Rollins,Over,1.5,2.1,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Ryan Rollins,Under,1.5,1.64,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Anthony Black,Over,1.5,1.95,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Anthony Black,Under,1.5,1.73,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Tyler Herro,Over,2.5,1.88,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Tyler Herro,Under,2.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Tristan da Silva,Over,2.5,1.87,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
+2026-11-14,11:10,Milwaukee Bucks @ Orlando Magic,ladbrokes_au,player_threes,Tristan da Silva,Under,2.5,1.8,2026-11-14T00:03:55Z,2026-11-14T00:05:03+00:00,4.9
