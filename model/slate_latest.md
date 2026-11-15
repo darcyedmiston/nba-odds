@@ -1,70 +1,77 @@
-# Model v4.1 slate — 2026-11-15
+# Model v4.1 slate — 2026-11-16
 
-5 games, 582 props scored (both sides). Season 2026-27; league avg total 227.0. Probabilities are uncalibrated (shrunk 0.8).
+8 games, 896 props scored (both sides). Season 2026-27; league avg total 227.2. Probabilities are uncalibrated (shrunk 0.8).
 
 ## Diff 4 / Diff 3 — Overs
 
 | Player | Prop | Price | CES | Model vs implied | Proj | Avg / L10 / L10 hits / hit% | D1-D8 | Flags |
 |---|---|---|---|---|---|---|---|---|
-| Jamal Murray | threes Over 2.5 | 1.65 unibet | +1.55 | 68% vs 61% | 3.8 (35.5 min) | 3.6 / 4.0 / 7/10 / 75% | 2 2 2 1 0 2 2 0 |  |
-| Santi Aldama | reb Over 3.5 | 2.00 sportsbet | +1.40 | 59% vs 50% | 4.2 (16.0 min) | 5.1 / 5.4 / 8/10 / 85% | 2 2 2 1 0 1 0 1 | traded/role change: last season down-weighted; early season: 4 games this season, blended with last season |
-| Trevon Brazile | reb Over 3.5 | 1.96 sportsbet | +1.40 | 69% vs 51% | 5.5 (18.8 min) | 5.6 / 5.6 / 7/10 / 70% | 2 1 2 2 0 1 2 0 |  |
-| Zaccharie Risacher | reb Over 3.5 | 2.25 betright | +1.20 | 67% vs 44% | 4.8 (22.9 min) | 4.8 / 4.8 / 8/10 / 60% | 1 2 1 2 0 1 0 1 | traded/role change: last season down-weighted |
-| Danny Wolf | pts Over 7.5 | 1.80 pointsbetau | +1.15 | 68% vs 56% | 10.2 (24.0 min) | 9.2 / 8.9 / 8/10 / 85% | 1 1 2 2 0 1 0 1 | soft at one book only - may be stale |
-| Rudy Gobert | reb Over 10.5 | 1.87 pointsbetau | +1.00 | 59% vs 54% | 11.5 (28.4 min) | 11.5 / 11.2 / 6/10 / 65% | 1 1 1 1 0 2 2 0 |  |
-| Bam Adebayo | pts Over 17.5 | 1.90 betright | +0.90 | 58% vs 53% | 19.8 (33.5 min) | 19.7 / 21.4 / 7/10 / 60% | 1 2 1 1 1 -1 0 0 | key teammates out: pelle larsson; back-to-back |
-| Javonte Green | threes Over 0.5 | 1.56 sportsbet | +0.90 | 68% vs 64% | 1.3 (16.9 min) | 1.1 / 0.7 / 7/10 / 75% | 1 1 2 0 0 2 0 0 |  |
-| Jaylen Wells | threes Over 1.5 | 1.62 ladbrokes_au | +0.85 | 58% vs 62% | 2.0 (26.1 min) | 2.0 / 2.1 / 7/10 / 70% | 1 2 2 -1 1 0 0 0 | key teammates out: ty jerome; back-to-back |
-| Jaden McDaniels | reb Over 5.5 | 1.80 sportsbet | +0.70 | 49% vs 56% | 5.5 (32.1 min) | 5.4 / 6.3 / 9/10 / 75% | 0 2 2 -2 0 2 2 0 |  |
+| Aaron Wiggins | threes Over 1.5 | 1.59 pointsbetau | +1.55 | 73% vs 63% | 2.9 (25.6 min) | 2.6 / 2.7 / 8/10 / 70% | 2 2 2 1 0 2 2 0 | traded/role change: last season down-weighted |
+| Kevin Durant | pts Over 20.5 | 1.75 unibet | +1.35 | 69% vs 57% | 23.9 (34.4 min) | 23.2 / 20.1 / 6/10 / 70% | 1 1 2 2 1 2 0 1 | key teammates out: fred vanvleet; soft at one book only - may be stale |
+| Alperen Sengun | reb Over 8.5 | 1.70 unibet | +1.25 | 66% vs 59% | 10.2 (34.9 min) | 9.3 / 9.7 / 7/10 / 60% | 1 2 1 1 1 2 0 1 | key teammates out: fred vanvleet; soft at one book only - may be stale |
+| Ryan Kalkbrenner | reb Over 3.5 | 1.71 pointsbetau | +1.20 | 68% vs 58% | 5.1 (19.3 min) | 5.4 / 5.3 / 8/10 / 75% | 2 1 2 1 1 0 0 1 | key teammates out: dennis schroder; soft at one book only - may be stale |
+| Stephon Castle | reb Over 4.5 | 1.74 pointsbetau | +1.05 | 62% vs 57% | 5.5 (27.9 min) | 5.5 / 5.5 / 8/10 / 80% | 1 2 2 0 0 1 0 1 |  |
+| Darius Acuff Jr. | threes Over 2.5 | 1.68 ladbrokes_au | +1.00 | 60% vs 60% | 3.2 (37.0 min) | 3.1 / 3.5 / 8/10 / 67% | 1 2 1 0 0 2 1 0 |  |
+| Devin Booker | threes Over 1.5 | 1.60 neds | +1.00 | 61% vs 62% | 2.1 (33.8 min) | 2.1 / 2.4 / 9/10 / 80% | 1 2 2 -1 0 2 1 0 |  |
+| Keldon Johnson | reb Over 4.5 | 1.72 neds | +1.00 | 63% vs 58% | 5.5 (24.5 min) | 5.5 / 5.6 / 8/10 / 75% | 1 2 2 0 0 1 0 0 |  |
+| Onyeka Okongwu | pts Over 12.5 | 1.76 unibet | +1.00 | 62% vs 57% | 14.8 (30.6 min) | 14.5 / 15.5 / 7/10 / 55% | 1 2 0 1 0 1 2 1 | soft at one book only - may be stale |
+| Keaton Wagler | pts Over 9.5 | 1.88 unibet | +0.95 | 64% vs 53% | 11.2 (21.9 min) | 12.4 / 12.1 / 8/10 / 82% | 1 1 2 2 0 -1 0 1 |  |
+| Sam Hauser | reb Over 2.5 | 1.78 ladbrokes_au | +0.95 | 66% vs 56% | 3.5 (21.8 min) | 3.7 / 3.7 / 7/10 / 70% | 1 1 2 1 0 1 0 0 |  |
+| Paul George | pra Over 26.5 | 1.80 ladbrokes_au | +0.90 | 58% vs 56% | 28.9 (29.2 min) | 29.9 / 31.0 / 7/10 / 65% | 1 2 1 0 0 1 0 1 | traded/role change: last season down-weighted |
+| De'Andre Hunter | threes Over 1.5 | 1.56 unibet | +0.85 | 61% vs 64% | 2.2 (32.9 min) | 1.9 / 2.1 / 7/10 / 70% | 0 2 2 -1 0 2 1 1 |  |
+| Miles Bridges | pra Over 21.5 | 1.80 neds | +0.85 | 57% vs 56% | 23.4 (28.8 min) | 25.2 / 26.3 / 7/10 / 60% | 1 2 1 0 0 0 1 1 | traded/role change: last season down-weighted |
+| Landry Shamet | threes Over 1.5 | 1.87 neds | +0.70 | 58% vs 54% | 2.0 (25.5 min) | 2.1 / 2.2 / 7/10 / 60% | 1 2 1 0 0 -1 0 1 |  |
 
 ## Watchlist — Overs (top 15)
 
 | Player | Prop | Price | CES | Model vs implied | Proj | Avg / L10 / L10 hits / hit% | D1-D8 | Flags |
 |---|---|---|---|---|---|---|---|---|
-| Jamal Murray | reb Over 3.5 | 1.70 neds | +1.25 | 67% vs 59% | 4.8 (35.5 min) | 4.7 / 5.0 / 7/10 / 70% | 1 2 2 1 0 1 2 0 | exceeds 2 bets/game or same player - Watchlist |
-| Santi Aldama | pts Over 7.5 | 1.93 sportsbet | +1.20 | 55% vs 52% | 8.7 (16.0 min) | 10.7 / 11.9 / 9/10 / 90% | 2 2 2 0 0 1 0 0 | traded/role change: last season down-weighted; early season: 4 games this season, blended with last season; exceeds 2 bets/game or same player - Watchlist |
-| DeMar DeRozan | ast Over 2.5 | 1.92 neds | +1.15 | 59% vs 52% | 3.3 (23.2 min) | 3.3 / 2.7 / 5/10 / 70% | 1 1 2 1 0 2 2 0 | traded/role change: last season down-weighted; exceeds 2 bets/game or same player - Watchlist |
-| Cameron Johnson | threes Over 1.5 | 1.57 neds | +1.05 | 63% vs 64% | 2.3 (29.0 min) | 2.1 / 2.3 / 7/10 / 80% | 1 2 2 -1 0 2 2 0 | exceeds 2 bets/game or same player - Watchlist |
-| Naji Marshall | ast Over 2.5 | 1.60 unibet | +1.05 | 67% vs 62% | 3.7 (25.1 min) | 3.8 / 4.0 / 7/10 / 80% | 1 2 2 0 0 1 0 1 | exceeds 2 bets/game or same player - Watchlist |
-| Naji Marshall | pts Over 9.5 | 1.78 unibet | +1.05 | 64% vs 56% | 13.1 (25.1 min) | 13.4 / 10.8 / 5/10 / 65% | 2 1 1 1 0 1 0 1 | soft at one book only - may be stale; exceeds 2 bets/game or same player - Watchlist |
-| Naji Marshall | pra Over 16.5 | 1.93 unibet | +1.05 | 62% vs 52% | 20.2 (25.1 min) | 21.0 / 17.5 / 5/10 / 65% | 2 1 1 1 0 1 0 1 | exceeds 2 bets/game or same player - Watchlist |
-| Jamal Murray | pra Over 34.5 | 1.90 pointsbetau | +1.00 | 63% vs 53% | 39.2 (35.5 min) | 37.0 / 37.1 / 5/10 / 50% | 1 1 0 2 0 2 2 0 | exceeds 2 bets/game or same player - Watchlist |
-| Zaccharie Risacher | pts Over 5.5 | 1.85 ladbrokes_au | +1.00 | 66% vs 54% | 8.2 (22.9 min) | 8.6 / 8.5 / 6/10 / 55% | 2 1 0 2 0 1 0 0 | traded/role change: last season down-weighted; exceeds 2 bets/game or same player - Watchlist |
-| Yves Missi | pts Over 5.5 | 1.95 tab | +0.95 | 59% vs 51% | 6.6 (20.2 min) | 6.3 / 7.4 / 8/10 / 60% | 0 2 1 1 2 0 0 1 | early season: 2 games this season, blended with last season; key teammates out: trey murphy, dejounte murray; back-to-back; exceeds 2 bets/game or same player - Watchlist |
-| Zion Williamson | pts Over 20.5 | 1.95 betright | +0.95 | 60% vs 51% | 22.0 (31.2 min) | 21.4 / 21.6 / 7/10 / 65% | 0 2 1 1 2 0 0 1 | key teammates out: trey murphy, dejounte murray; back-to-back; exceeds 2 bets/game or same player - Watchlist |
-| Aaron Gordon | reb Over 4.5 | 1.77 neds | +0.90 | 63% vs 56% | 5.5 (28.1 min) | 5.4 / 5.0 / 6/10 / 65% | 1 1 1 1 0 1 2 0 | exceeds 2 bets/game or same player - Watchlist |
-| Jamal Murray | pts Over 23.5 | 1.87 pointsbetau | +0.90 | 61% vs 54% | 27.4 (35.5 min) | 25.8 / 26.2 / 5/10 / 50% | 1 1 0 1 0 2 2 1 | exceeds 2 bets/game or same player - Watchlist |
-| Bam Adebayo | reb Over 8.5 | 1.74 unibet | +0.85 | 60% vs 57% | 9.5 (33.5 min) | 9.4 / 9.3 / 6/10 / 70% | 1 1 2 0 1 0 0 1 | key teammates out: pelle larsson; back-to-back; exceeds 2 bets/game or same player - Watchlist |
-| Danny Wolf | pra Over 15.5 | 1.93 sportsbet | +0.85 | 64% vs 52% | 18.5 (24.0 min) | 16.7 / 16.5 / 6/10 / 70% | 0 1 2 2 0 0 0 1 | exceeds 2 bets/game or same player - Watchlist |
+| Kevin Durant | pra Over 30.5 | 1.87 unibet | +1.15 | 66% vs 54% | 34.6 (34.4 min) | 33.1 / 29.9 / 5/10 / 70% | 1 0 2 2 1 2 0 1 | key teammates out: fred vanvleet; exceeds 2 bets/game or same player - Watchlist |
+| Alperen Sengun | pra Over 36.5 | 1.85 unibet | +1.00 | 64% vs 54% | 40.7 (34.9 min) | 38.1 / 40.7 / 7/10 / 55% | 0 2 0 2 1 2 0 0 | key teammates out: fred vanvleet; exceeds 2 bets/game or same player - Watchlist |
+| Kyshawn George | pts Over 13.5 | 1.83 pointsbetau | +1.00 | 63% vs 55% | 16.1 (32.2 min) | 16.7 / 18.5 / 7/10 / 60% | 2 2 1 1 0 -2 1 1 | exceeds 2 bets/game or same player - Watchlist |
+| Aaron Wiggins | ast Over 2.5 | 2.23 unibet | +0.90 | 50% vs 45% | 2.5 (25.6 min) | 2.3 / 2.9 / 7/10 / 45% | 0 2 0 1 0 2 2 1 | traded/role change: last season down-weighted; exceeds 2 bets/game or same player - Watchlist |
+| Alperen Sengun | ast Over 6.5 | 1.69 pointsbetau | +0.90 | 62% vs 59% | 7.5 (34.9 min) | 6.9 / 7.9 / 8/10 / 65% | 0 2 1 0 1 2 0 1 | key teammates out: fred vanvleet; exceeds 2 bets/game or same player - Watchlist |
+| Alperen Sengun | pts Over 19.5 | 1.78 unibet | +0.90 | 63% vs 56% | 23.0 (34.9 min) | 21.8 / 23.1 / 5/10 / 50% | 1 1 0 1 1 2 0 1 | key teammates out: fred vanvleet; soft at one book only - may be stale; exceeds 2 bets/game or same player - Watchlist |
+| Devin Booker | ast Over 4.5 | 1.64 neds | +0.90 | 63% vs 61% | 5.5 (33.8 min) | 5.5 / 5.3 / 7/10 / 75% | 1 1 2 0 0 1 1 1 | exceeds 2 bets/game or same player - Watchlist |
+| Grayson Allen | threes Over 2.5 | 1.77 pointsbetau | +0.90 | 62% vs 56% | 3.3 (27.6 min) | 3.4 / 3.4 / 6/10 / 50% | 2 1 0 1 1 0 0 1 | traded/role change: last season down-weighted; key teammates out: dennis schroder; exceeds 2 bets/game or same player - Watchlist |
+| Jaime Jaquez Jr | pts Over 14.5 | 1.87 sportsbet | +0.90 | 58% vs 54% | 16.2 (27.5 min) | 16.3 / 15.3 / 6/10 / 70% | 1 1 2 0 0 1 2 0 | traded/role change: last season down-weighted; exceeds 2 bets/game or same player - Watchlist |
+| Keaton Wagler | pra Over 14.5 | 1.64 neds | +0.90 | 68% vs 61% | 17.0 (21.9 min) | 18.9 / 18.3 / 8/10 / 82% | 2 1 2 1 0 -2 0 1 | exceeds 2 bets/game or same player - Watchlist |
+| Jabari Smith Jr | ast Over 1.5 | 1.80 pointsbetau | +0.85 | 61% vs 56% | 2.0 (34.2 min) | 1.9 / 2.1 / 7/10 / 55% | 0 2 0 1 1 2 0 0 | key teammates out: fred vanvleet; exceeds 2 bets/game or same player - Watchlist |
+| Keaton Wagler | ast Over 2.5 | 2.15 pointsbetau | +0.85 | 58% vs 46% | 2.9 (21.9 min) | 3.2 / 3.0 / 7/10 / 73% | 0 1 2 2 0 0 0 1 | exceeds 2 bets/game or same player - Watchlist |
+| Kevin Durant | reb Over 5.5 | 2.15 unibet | +0.85 | 57% vs 46% | 6.0 (34.4 min) | 5.7 / 5.9 / 3/10 / 45% | 0 1 0 2 1 2 0 1 | key teammates out: fred vanvleet; exceeds 2 bets/game or same player - Watchlist |
+| Onyeka Okongwu | threes Over 1.5 | 1.96 neds | +0.85 | 56% vs 51% | 1.9 (30.6 min) | 1.7 / 1.8 / 7/10 / 60% | 0 2 1 0 0 2 2 0 | exceeds 2 bets/game or same player - Watchlist |
+| Zaccharie Risacher | reb Over 3.5 | 2.15 pointsbetau | +0.85 | 59% vs 46% | 4.1 (21.0 min) | 4.6 / 4.6 / 7/10 / 60% | 1 2 1 2 0 -1 -2 0 | traded/role change: last season down-weighted; back-to-back; exceeds 2 bets/game or same player - Watchlist |
 
 ## Unders CES >= 0.70 (shadow only)
 
 | Player | Prop | Price | CES | Model vs implied | Proj | Avg / L10 / L10 hits / hit% | D1-D8 | Flags |
 |---|---|---|---|---|---|---|---|---|
-| Myron Gardner | reb Under 4.5 | 1.68 betright | +1.35 | 83% vs 60% | 1.7 (6.2 min) | 2.2 / 1.4 / 10/10 / 90% | 2 2 2 2 -1 0 0 1 | key teammates out: pelle larsson; back-to-back; under - shadow only |
-| Cameron Boozer | pts Under 19.5 | 1.89 unibet | +1.30 | 70% vs 53% | 15.3 (30.5 min) | 15.6 / 15.5 / 8/10 / 75% | 2 2 2 2 -1 0 0 0 | key teammates out: ty jerome; back-to-back; under - shadow only |
-| Ryan Conwell | pra Under 13.5 | 1.90 sportsbet | +1.30 | 67% vs 53% | 9.3 (16.1 min) | 8.7 / 8.7 / 8/10 / 80% | 2 1 2 2 -1 2 0 0 | key teammates out: pelle larsson; back-to-back; under - shadow only |
-| Myron Gardner | pts Under 4.5 | 1.90 ladbrokes_au | +1.20 | 76% vs 53% | 2.0 (6.2 min) | 2.6 / 1.2 / 10/10 / 90% | 1 2 2 2 -1 1 0 0 | key teammates out: pelle larsson; back-to-back; under - shadow only |
-| Cam Spencer | ast Under 8.5 | 1.73 betright | +1.10 | 77% vs 58% | 5.1 (19.9 min) | 5.2 / 5.5 / 8/10 / 80% | 2 1 2 2 -1 0 0 0 | key teammates out: ty jerome; back-to-back; under - shadow only |
-| Cam Spencer | pra Under 24.5 | 1.83 sportsbet | +1.10 | 81% vs 55% | 16.8 (19.9 min) | 18.4 / 19.0 / 9/10 / 95% | 2 1 2 2 -1 0 0 0 | key teammates out: ty jerome; back-to-back; under - shadow only |
-| Ryan Conwell | ast Under 2.5 | 1.64 sportsbet | +1.10 | 78% vs 61% | 1.3 (16.1 min) | 1.3 / 1.3 / 10/10 / 100% | 1 1 2 2 -1 2 0 0 | key teammates out: pelle larsson; back-to-back; under - shadow only |
-| Peyton Watson | threes Under 1.5 | 1.67 pointsbetau | +1.05 | 71% vs 60% | 0.9 (27.0 min) | 1.0 / 1.0 / 7/10 / 65% | 1 2 1 2 -2 2 0 0 | traded/role change: last season down-weighted; key teammates out: evan mobley; back-to-back; GTD (Questionable) - Watchlist only; under - shadow only |
-| Cameron Boozer | pra Under 34.5 | 1.85 sportsbet | +1.00 | 69% vs 54% | 29.7 (30.5 min) | 30.7 / 30.1 / 7/10 / 67% | 1 2 1 2 -1 0 0 1 | key teammates out: ty jerome; back-to-back; under - shadow only |
-| LaMelo Ball | pra Under 33.5 | 1.81 unibet | +1.00 | 63% vs 55% | 30.0 (27.4 min) | 28.9 / 28.6 / 7/10 / 70% | 2 2 2 1 0 -2 -2 1 | traded/role change: last season down-weighted; soft at one book only - may be stale; under - shadow only |
-| Klay Thompson | reb Under 2.5 | 1.60 ladbrokes_au | +0.95 | 70% vs 62% | 1.6 (24.8 min) | 1.7 / 1.6 / 8/10 / 85% | 1 2 2 1 -1 0 0 0 | traded/role change: last season down-weighted; key teammates out: pelle larsson; back-to-back; under - shadow only |
-| Cam Spencer | pts Under 12.5 | 1.82 ladbrokes_au | +0.90 | 72% vs 55% | 9.3 (19.9 min) | 10.3 / 10.2 / 6/10 / 75% | 1 1 2 2 -1 0 0 0 | key teammates out: ty jerome; back-to-back; under - shadow only |
-| Matas Buzelis | pts Under 16.5 | 1.87 unibet | +0.90 | 60% vs 54% | 14.7 (26.8 min) | 14.7 / 12.9 / 7/10 / 60% | 1 2 1 1 -1 1 0 0 | key teammates out: caleb wilson; back-to-back; under - shadow only |
-| Ryan Conwell | threes Under 1.5 | 2.08 sportsbet | +0.90 | 59% vs 48% | 1.4 (16.1 min) | 1.3 / 1.3 / 7/10 / 70% | 0 1 2 2 -1 2 0 0 | key teammates out: pelle larsson; back-to-back; under - shadow only |
-| Josh Giddey | pts Under 14.5 | 1.83 ladbrokes_au | +0.85 | 61% vs 55% | 12.7 (28.4 min) | 13.7 / 11.5 / 8/10 / 70% | 0 2 2 1 -1 1 0 0 | key teammates out: caleb wilson; back-to-back; under - shadow only |
+| Quentin Grimes | pts Under 12.5 | 1.83 pointsbetau | +1.30 | 67% vs 55% | 8.9 (26.1 min) | 9.2 / 7.8 / 8/10 / 80% | 2 2 2 2 -1 0 0 0 | traded/role change: last season down-weighted; key teammates out: austin reaves; under - shadow only |
+| Jayson Tatum | pts Under 27.5 | 1.80 betright | +1.25 | 66% vs 56% | 24.1 (33.1 min) | 24.1 / 27.6 / 6/10 / 75% | 2 1 2 2 0 0 0 1 | soft at one book only - may be stale; under - shadow only |
+| AJ Dybantsa | threes Under 1.5 | 1.56 pointsbetau | +1.20 | 77% vs 64% | 0.7 (34.6 min) | 0.8 / 0.8 / 10/10 / 100% | 1 1 2 2 0 2 -1 1 | under - shadow only |
+| Brayden Burries | threes Under 1.5 | 1.57 pointsbetau | +1.20 | 74% vs 64% | 0.8 (22.6 min) | 0.8 / 0.7 / 10/10 / 92% | 1 2 2 2 0 1 -2 0 | under - shadow only |
+| Reed Sheppard | pts Under 14.5 | 1.87 pointsbetau | +1.15 | 68% vs 54% | 10.8 (20.9 min) | 11.3 / 9.1 / 9/10 / 75% | 2 2 2 2 -1 -2 0 1 | key teammates out: fred vanvleet; under - shadow only |
+| Reed Sheppard | pra Under 22.5 | 1.78 unibet | +1.15 | 72% vs 56% | 15.9 (20.9 min) | 16.5 / 13.2 / 9/10 / 75% | 2 2 2 2 -1 -2 0 1 | key teammates out: fred vanvleet; soft at one book only - may be stale; under - shadow only |
+| Ja'Kobe Walter | pts Under 11.5 | 1.87 pointsbetau | +1.10 | 58% vs 54% | 10.3 (30.2 min) | 9.5 / 11.6 / 6/10 / 70% | 1 1 2 1 0 2 0 1 | under - shadow only |
+| Quentin Grimes | pra Under 18.5 | 1.87 pointsbetau | +1.10 | 66% vs 54% | 14.2 (26.1 min) | 14.6 / 12.8 / 8/10 / 75% | 1 2 2 2 -1 0 0 0 | traded/role change: last season down-weighted; key teammates out: austin reaves; under - shadow only |
+| Quentin Grimes | threes Under 1.5 | 1.68 sportsbet | +1.10 | 73% vs 60% | 0.9 (26.1 min) | 0.9 / 0.8 / 8/10 / 70% | 1 2 2 2 -1 0 0 0 | traded/role change: last season down-weighted; key teammates out: austin reaves; under - shadow only |
+| Derrick White | threes Under 2.5 | 1.56 pointsbetau | +1.05 | 70% vs 64% | 1.7 (29.6 min) | 2.2 / 1.6 / 8/10 / 70% | 0 2 2 1 0 2 0 0 | under - shadow only |
+| Reed Sheppard | ast Under 4.5 | 1.56 unibet | +1.00 | 72% vs 64% | 2.9 (20.9 min) | 3.0 / 2.6 / 9/10 / 80% | 2 2 2 1 -1 -2 0 1 | key teammates out: fred vanvleet; soft at one book only - may be stale; under - shadow only |
+| Caleb Martin | reb Under 3.5 | 1.74 pointsbetau | +0.95 | 59% vs 57% | 2.9 (19.5 min) | 2.7 / 2.7 / 8/10 / 75% | 1 1 2 0 0 1 2 1 | back-to-back; under - shadow only |
+| Darryn Peterson | pra Under 28.5 | 1.77 unibet | +0.95 | 68% vs 56% | 24.0 (30.8 min) | 25.2 / 28.0 / 6/10 / 69% | 1 1 1 2 0 1 -1 1 | soft at one book only - may be stale; under - shadow only |
+| Mo Bamba | reb Under 7.5 | 1.76 sportsbet | +0.95 | 64% vs 57% | 5.9 (17.7 min) | 5.8 / 6.5 / 6/10 / 62% | 2 1 1 1 0 1 -1 0 | under - shadow only |
+| Morez Johnson Jr. | reb Under 5.5 | 1.87 pointsbetau | +0.95 | 59% vs 54% | 4.3 (16.0 min) | 4.6 / 4.6 / 7/10 / 67% | 1 1 1 1 0 1 2 1 | back-to-back; under - shadow only |
 
 ## Context
 
-- Brooklyn Nets @ Memphis Grizzlies: spread -1.5 (home), total 226.5, rest days 3/1, key absences: ty jerome
-- Chicago Bulls @ Minnesota Timberwolves: spread -15.5 (home), total 234.5, rest days 1/2, key absences: caleb wilson
-- Dallas Mavericks @ Cleveland Cavaliers: spread 5.5 (home), total 228.5, rest days 2/1, key absences: evan mobley
-- Denver Nuggets @ New Orleans Pelicans: spread 12.5 (home), total 235.5, rest days 3/1, key absences: trey murphy, dejounte murray
-- Detroit Pistons @ Miami Heat: spread 4.5 (home), total 229.5, rest days 2/1, key absences: pelle larsson
+- Atlanta Hawks @ Milwaukee Bucks: spread 8.0 (home), total 233.5, rest days 2/2, key absences: none
+- Charlotte Hornets @ Los Angeles Clippers: spread 1.5 (home), total 213.5, rest days 3/2, key absences: dennis schroder
+- Dallas Mavericks @ Boston Celtics: spread -14.5 (home), total 218.5, rest days 1/4, key absences: none
+- Houston Rockets @ Washington Wizards: spread 8.5 (home), total 224.5, rest days 2/3, key absences: fred vanvleet
+- Los Angeles Lakers @ Phoenix Suns: spread 3.5 (home), total 226.0, rest days 4/3, key absences: austin reaves
+- New York Knicks @ Toronto Raptors: spread 5.5 (home), total 217.5, rest days 2/3, key absences: none
+- Oklahoma City Thunder @ Sacramento Kings: spread 10.5 (home), total 222.5, rest days 2/2, key absences: none
+- San Antonio Spurs @ Utah Jazz: spread 15.5 (home), total 225.5, rest days 2/2, key absences: none
 
 ## Skipped
 
-- no game logs: Herb Jones, Ron Holland
