@@ -5036,3 +5036,28 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2026-27,2026-11-14,401909984,MIN,Minnesota Timberwolves,CHI,Chicago Bulls,1,4432847,Terrence Shannon Jr.,terrence shannon,0,0,22,14,6,0,0,20,106,117
 2026-27,2026-11-14,401909984,MIN,Minnesota Timberwolves,CHI,Chicago Bulls,1,3136196,Trey Lyles,trey lyles,0,0,19,5,1,2,0,8,106,117
 2026-27,2026-11-14,401909984,MIN,Minnesota Timberwolves,CHI,Chicago Bulls,1,4592979,Zyon Pullin,zyon pullin,0,1,0,0,0,0,0,0,106,117
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,4396909,Aaron Nesmith,aaron nesmith,1,0,36,12,4,4,0,20,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,5105854,Braden Smith,braden smith,0,1,0,0,0,0,0,0,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,4017837,Ivica Zubac,ivica zubac,1,0,22,8,5,2,0,15,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,4398207,Jalen Slawson,jalen slawson,0,0,14,8,5,2,1,15,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,5106060,Jarace Walker,jarace walker,0,0,14,2,5,2,0,9,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,4065731,Jay Huff,jay huff,0,0,18,11,0,2,3,13,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,3133603,Kelly Oubre Jr.,kelly oubre,1,0,29,16,4,2,2,22,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,4431752,Kobe Brown,kobe brown,0,0,3,0,0,0,0,0,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,2580365,Larry Nance Jr.,larry nance,0,0,7,4,2,2,1,8,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,4278355,Obi Toppin,obi toppin,0,0,14,5,2,1,0,8,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,3149673,Pascal Siakam,pascal siakam,1,0,34,31,2,2,0,35,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,4592829,Quenton Jackson,quenton jackson,1,0,30,15,6,8,1,29,124,131
+2026-27,2026-11-15,401909985,IND,Indiana Pacers,PHI,Philadelphia 76ers,0,2530530,T.J. McConnell,tj mcconnell,0,0,19,12,5,5,0,22,124,131
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,4351851,Anfernee Simons,anfernee simons,0,0,15,12,0,0,1,12,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,4433144,Caleb Love,caleb love,0,1,0,0,0,0,0,0,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,3912848,Dean Wade,dean wade,0,0,35,12,7,3,3,22,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,4432446,Jabari Walker,jabari walker,1,0,25,11,7,1,3,19,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,3917376,Jaylen Brown,jaylen brown,1,0,32,31,2,2,3,35,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,4711297,Justin Edwards,justin edwards,0,1,0,0,0,0,0,0,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,2581018,Kentavious Caldwell-Pope,kentavious caldwell pope,0,0,22,9,5,0,2,14,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,4873090,Labaron Philon Jr.,labaron philon,0,0,6,3,1,0,1,4,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,1966,LeBron James,lebron james,1,0,33,15,7,11,0,33,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,3904625,Tacko Fall,tacko fall,0,0,5,0,3,0,0,3,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,4431678,Tyrese Maxey,tyrese maxey,1,0,36,27,4,6,5,37,131,124
+2026-27,2026-11-15,401909985,PHI,Philadelphia 76ers,IND,Indiana Pacers,1,5124612,VJ Edgecombe,vj edgecombe,1,0,31,11,4,6,0,21,131,124
