@@ -2,37 +2,37 @@
 
 Rules were frozen on 4 Nov 2026 and aren't tuned here. No pick, weight or stake depends on this file. Bets use morning prices. The money test needs a lower CI above zero on at least 250 games.
 
-Settled slates: 11 (2026-11-05 to 2026-11-15)
+Settled slates: 12 (2026-11-05 to 2026-11-16)
 
 ## Frozen rules: flat stakes, ROI
 
 | Rule | Bets | Games | Hit % | Avg odds | ROI % | 95% CI by game | Money test |
 |---|---|---|---|---|---|---|---|
-| R0 every Under at best AU price | 4311 | 81 | 51.7 | 1.91 | -2.3 | -5.9 to +1.4 | Not met |
-| R1 Under above bias-adjusted AU consensus | 1588 | 81 | 49.2 | 2.01 | -2.2 | -6.7 to +2.5 | Not met |
-| R2 R1 and the model agrees | 491 | 79 | 50.1 | 1.99 | -1.7 | -9.7 to +6.0 | Not met |
-| R2 capped, 1 per player, 2 per game | 153 | 79 | 51.0 | 2.08 | +5.6 | -11.0 to +22.2 | Not met |
-| S1 best AU price above reference price by 2%+ | 453 | 81 | 51.0 | 1.99 | +0.2 | -8.8 to +9.8 | Not met |
-| S1 capped, 1 per player, 2 per game | 161 | 81 | 49.7 | 2.01 | -1.8 | -17.4 to +14.2 | Not met |
+| R0 every Under at best AU price | 4729 | 89 | 51.6 | 1.91 | -2.5 | -5.9 to +1.0 | Not met |
+| R1 Under above bias-adjusted AU consensus | 1773 | 89 | 49.0 | 2.01 | -2.3 | -6.7 to +2.2 | Not met |
+| R2 R1 and the model agrees | 542 | 87 | 49.3 | 1.98 | -3.2 | -10.8 to +4.3 | Not met |
+| R2 capped, 1 per player, 2 per game | 169 | 87 | 51.5 | 2.08 | +6.8 | -9.1 to +22.2 | Not met |
+| S1 best AU price above reference price by 2%+ | 478 | 88 | 50.6 | 1.99 | -0.4 | -9.2 to +8.9 | Not met |
+| S1 capped, 1 per player, 2 per game | 174 | 88 | 49.4 | 2.01 | -2.2 | -17.7 to +12.5 | Not met |
 
-Under hit rate minus de-vigged AU market: +1.10 points (2025-26: +3.05 train, +2.27 holdout).
+Under hit rate minus de-vigged AU market: +0.95 points (2025-26: +3.05 train, +2.27 holdout).
 
 ## Forecasts: log-loss on Overs (lower is better)
 
-Same 3388 props across 81 games for every forecast.
+Same 3706 props across 89 games for every forecast.
 
 | Forecast | Log-loss | Difference from AU consensus | 95% CI by game |
 |---|---|---|---|
-| AU consensus | 0.68798 | | |
-| AU minus Over bias | 0.68866 | +0.00067 | -0.00182 to +0.00306 |
-| Reference, all | 0.68780 | -0.00018 | -0.00146 to +0.00101 |
-| AU and reference, 50/50 | 0.68773 | -0.00025 | -0.00089 to +0.00034 |
-| Same blend + 5% model | 0.68775 | -0.00023 | -0.00096 to +0.00043 |
+| AU consensus | 0.68885 | | |
+| AU minus Over bias | 0.68980 | +0.00095 | -0.00134 to +0.00323 |
+| Reference, all | 0.68876 | -0.00009 | -0.00125 to +0.00102 |
+| AU and reference, 50/50 | 0.68865 | -0.00020 | -0.00078 to +0.00035 |
+| Same blend + 5% model | 0.68871 | -0.00013 | -0.00076 to +0.00047 |
 
 | Reference group | Props | Log-loss | AU log-loss on same props |
 |---|---|---|---|
-| FanDuel, DraftKings, BetOnline | 4037 | 0.68696 | 0.68721 |
-| Novig, ProphetX, Polymarket | 4184 | 0.68691 | 0.68726 |
+| FanDuel, DraftKings, BetOnline | 4430 | 0.68778 | 0.68800 |
+| Novig, ProphetX, Polymarket | 4589 | 0.68792 | 0.68792 |
 
 ## Paper bets: market move, morning median to closing median
 
@@ -40,5 +40,5 @@ Beat-CLV counts line shopping, so this is the figure that shows the market agree
 
 | Tier | Bets | Moved our way | Flat | Moved against | Avg move |
 |---|---|---|---|---|---|
-| Diff 4 | 50 | 12 | 31 | 7 | +0.00 |
-| Diff 3 | 79 | 12 | 56 | 11 | -0.01 |
+| Diff 4 | 53 | 14 | 31 | 8 | +0.01 |
+| Diff 3 | 81 | 13 | 57 | 11 | +0.00 |
