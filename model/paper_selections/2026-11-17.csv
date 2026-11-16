@@ -1,17 +1,15 @@
 date_melb,tipoff_melb,game,player,market,side,line,odds,book,n_books_at_line,n_books,median_line,implied,model_prob,ev_pct,proj,proj_min,status,D1,D2,D3,D4,D5,D6,D7,D8,ces,tier,flags,model_version
-2026-11-17,12:10,Golden State Warriors @ New Orleans Pelicans,Draymond Green,player_assists,Over,5.5,1.78,neds,6,6,5.5,0.562,0.625,11.2,6.7,25.8,,1,2,2,1,1,2,0,0,1.35,Diff 4,key teammates out: stephen curry,v4.1
-2026-11-17,11:40,Houston Rockets @ Miami Heat,Jabari Smith Jr,player_threes,Over,1.5,1.56,unibet,1,3,2.5,0.641,0.667,4.1,2.5,32.8,,2,2,2,0,0,2,-1,1,1.3,Diff 4,back-to-back; soft at one book only - may be stale,v4.1
-2026-11-17,11:10,Orlando Magic @ Boston Celtics,Jalen Suggs,player_assists,Over,3.5,1.83,pointsbetau,6,6,3.5,0.546,0.721,31.9,5.4,29.7,,2,2,2,2,0,-1,0,0,1.3,Diff 4,"early season: 4 games this season, blended with last season",v4.1
-2026-11-17,13:10,Phoenix Suns @ Denver Nuggets,Trevon Brazile,player_points,Over,4.5,1.91,sportsbet,5,5,4.5,0.524,0.66,26.1,6.5,18.4,,1,2,2,2,0,0,1,0,1.25,Diff 4,,v4.1
+2026-11-17,11:10,Chicago Bulls @ Cleveland Cavaliers,Meleek Thomas,player_threes,Over,1.5,1.56,pointsbetau,3,4,1.5,0.641,0.721,12.5,2.8,24.0,,2,1,2,1,2,1,2,1,1.5,Diff 4,"key teammates out: evan mobley, jaylon tyson",v4.1
+2026-11-17,12:10,Golden State Warriors @ New Orleans Pelicans,Draymond Green,player_assists,Over,5.5,1.83,pointsbetau,6,6,5.5,0.546,0.625,14.3,6.7,25.8,,1,2,2,1,1,2,0,0,1.35,Diff 4,key teammates out: stephen curry,v4.1
+2026-11-17,11:10,Orlando Magic @ Boston Celtics,Jalen Suggs,player_assists,Over,3.5,1.92,sportsbet,6,6,3.5,0.521,0.721,38.4,5.4,29.7,,2,2,2,2,0,-1,0,0,1.3,Diff 4,"early season: 4 games this season, blended with last season",v4.1
+2026-11-17,13:10,Phoenix Suns @ Denver Nuggets,Trevon Brazile,player_rebounds,Over,3.5,1.82,neds,5,6,3.5,0.549,0.655,19.2,5.1,18.4,,2,1,1,2,0,1,1,1,1.25,Diff 4,,v4.1
+2026-11-17,11:40,Houston Rockets @ Miami Heat,Fred VanVleet,player_threes,Over,2.5,1.9,neds,5,5,2.5,0.526,0.588,11.6,3.1,29.8,,1,2,2,1,0,2,-1,0,1.2,Diff 4,back-to-back,v4.1
 2026-11-17,11:10,Memphis Grizzlies @ Washington Wizards,Cameron Boozer,player_rebounds,Over,8.5,1.8,neds,4,6,8.5,0.556,0.68,22.5,10.4,31.0,,1,1,1,2,1,2,0,0,1.15,Diff 3,key teammates out: ty jerome,v4.1
-2026-11-17,13:10,Phoenix Suns @ Denver Nuggets,Jamal Murray,player_threes,Over,2.5,1.64,neds,3,5,2.5,0.61,0.628,3.1,3.4,36.0,,2,2,2,0,0,0,1,0,1.15,Diff 3,,v4.1
-2026-11-17,11:10,Chicago Bulls @ Cleveland Cavaliers,Meleek Thomas,player_threes,Over,2.5,2.45,pointsbetau,5,5,2.5,0.408,0.533,30.7,2.8,24.0,,0,1,1,2,2,1,2,1,1.1,Diff 3,"key teammates out: jaylon tyson, evan mobley",v4.1
-2026-11-17,11:40,Houston Rockets @ Miami Heat,Fred VanVleet,player_threes,Over,2.5,1.83,unibet,3,3,2.5,0.546,0.588,7.5,3.1,29.8,,1,2,2,0,0,2,-1,0,1.05,Diff 3,back-to-back,v4.1
-2026-11-17,11:40,Philadelphia 76ers @ Brooklyn Nets,Michael Porter Jr,player_rebounds,Over,6.5,1.88,ladbrokes_au,5,6,6.5,0.532,0.562,5.7,7.3,32.4,,1,2,1,0,0,1,1,0,0.9,Diff 3,,v4.1
-2026-11-17,11:10,Memphis Grizzlies @ Washington Wizards,AJ Dybantsa,player_rebounds,Over,5.5,2.0,pointsbetau,5,5,5.5,0.5,0.588,17.6,6.2,33.2,,1,1,2,1,0,0,0,0,0.85,Diff 3,back-to-back,v4.1
-2026-11-17,12:10,Portland Trail Blazers @ Minnesota Timberwolves,Deni Avdija,player_points,Over,22.5,1.82,unibet,1,6,23.5,0.549,0.554,0.8,23.3,33.0,,1,2,2,0,0,-1,0,1,0.85,Diff 3,soft at one book only - may be stale,v4.1
-2026-11-17,11:10,Chicago Bulls @ Cleveland Cavaliers,Donovan Mitchell,player_assists,Over,5.5,2.0,pointsbetau,6,6,5.5,0.5,0.588,17.7,6.2,32.6,,0,1,0,1,2,2,2,0,0.85,Diff 3,"key teammates out: jaylon tyson, evan mobley",v4.1
-2026-11-17,11:10,Orlando Magic @ Boston Celtics,Paul George,player_rebounds,Over,4.5,2.16,unibet,6,6,4.5,0.463,0.544,17.5,4.8,28.4,,1,2,2,1,0,-1,-2,0,0.85,Diff 3,traded/role change: last season down-weighted; back-to-back,v4.1
-2026-11-17,12:10,Portland Trail Blazers @ Minnesota Timberwolves,Toumani Camara,player_points,Over,11.5,1.93,unibet,6,6,11.5,0.518,0.576,11.2,13.0,30.5,,1,1,2,1,0,-1,0,1,0.8,Diff 3,,v4.1
-2026-11-17,12:10,Golden State Warriors @ New Orleans Pelicans,Georges Niang,player_rebounds,Over,2.5,1.8,neds,3,3,2.5,0.556,0.624,12.3,3.2,19.9,,0,1,1,1,1,1,0,0,0.7,Diff 3,key teammates out: stephen curry,v4.1
-2026-11-17,11:40,Philadelphia 76ers @ Brooklyn Nets,Tyrese Maxey,player_points,Over,25.5,1.88,ladbrokes_au,4,6,25.5,0.532,0.54,1.6,26.2,35.0,,1,1,1,0,1,1,-1,0,0.7,Diff 3,key teammates out: lebron james; back-to-back,v4.1
+2026-11-17,13:10,Phoenix Suns @ Denver Nuggets,Jamal Murray,player_threes,Over,2.5,1.67,pointsbetau,3,5,2.5,0.599,0.628,4.9,3.4,36.0,,2,2,2,0,0,0,1,0,1.15,Diff 3,,v4.1
+2026-11-17,11:10,Chicago Bulls @ Cleveland Cavaliers,Donovan Mitchell,player_assists,Over,5.5,2.05,unibet,6,6,5.5,0.488,0.588,20.6,6.2,32.6,,0,1,0,2,2,2,2,1,1.05,Diff 3,"key teammates out: evan mobley, jaylon tyson",v4.1
+2026-11-17,11:10,Memphis Grizzlies @ Washington Wizards,AJ Dybantsa,player_rebounds,Over,5.5,2.05,pointsbetau,6,6,5.5,0.488,0.588,20.6,6.2,33.2,,1,1,2,2,0,0,0,0,1.0,Diff 3,back-to-back,v4.1
+2026-11-17,11:40,Houston Rockets @ Miami Heat,Alperen Sengun,player_assists,Over,6.5,2.0,pointsbetau,6,6,6.5,0.5,0.591,18.2,7.3,33.4,,0,2,1,1,0,2,-1,1,0.9,Diff 3,back-to-back,v4.1
+2026-11-17,11:40,Philadelphia 76ers @ Brooklyn Nets,Michael Porter Jr,player_rebounds,Over,6.5,1.82,ladbrokes_au,5,5,6.5,0.549,0.562,2.3,7.3,32.4,,1,2,1,0,0,1,1,0,0.9,Diff 3,,v4.1
+2026-11-17,12:10,Golden State Warriors @ New Orleans Pelicans,Georges Niang,player_rebounds,Over,2.5,1.83,sportsbet,3,3,2.5,0.546,0.624,14.2,3.2,19.9,,0,1,1,1,1,1,0,0,0.7,Diff 3,key teammates out: stephen curry,v4.1
+2026-11-17,11:10,Orlando Magic @ Boston Celtics,Paul George,player_rebounds,Over,4.5,1.93,unibet,6,6,4.5,0.518,0.544,5.0,4.8,28.4,,1,2,2,0,0,-1,-2,0,0.7,Diff 3,traded/role change: last season down-weighted; back-to-back,v4.1
+2026-11-17,11:40,Philadelphia 76ers @ Brooklyn Nets,Tyrese Maxey,player_points,Over,25.5,1.87,ladbrokes_au,4,6,25.5,0.535,0.54,1.1,26.2,35.0,,1,1,1,0,1,1,-1,0,0.7,Diff 3,key teammates out: lebron james; back-to-back,v4.1
