@@ -2,24 +2,24 @@
 
 Generated from `model/picks_log.csv`. Samples under ~300 are noise.
 
-**Paper P&L at logged stakes:** -170.35 on 2225 staked (-7.7%). Pending rows: 37.
+**Paper P&L at logged stakes:** -251.65 on 2365 staked (-10.6%). Pending rows: 0.
 
 ## By tier (Superseded reported separately)
 
 | Group | n | Wins | Hit % | P&L (flat $10) | ROI % |
 |---|---|---|---|---|---|
-| Diff 4 | 77 | 42 | 54.5 | -2.50 | -0.3 |
-| Diff 3 | 126 | 60 | 47.6 | -147.10 | -11.7 |
-| Watchlist | 405 | 201 | 49.6 | -319.00 | -7.9 |
-| Pass | 32 | 18 | 56.2 | +26.20 | +8.2 |
-| Superseded | 61 | 39 | 63.9 | +86.20 | +14.1 |
+| Diff 4 | 79 | 42 | 53.2 | -22.50 | -2.8 |
+| Diff 3 | 137 | 63 | 46.0 | -198.40 | -14.5 |
+| Watchlist | 426 | 212 | 49.8 | -325.10 | -7.6 |
+| Pass | 33 | 19 | 57.6 | +35.30 | +10.7 |
+| Superseded | 63 | 40 | 63.5 | +84.40 | +13.4 |
 
 ## Overrides (shadow result of the row as logged)
 
 | Group | n | Wins | Hit % | P&L (flat $10) | ROI % |
 |---|---|---|---|---|---|
-| Overridden | 45 | 18 | 40.0 | -110.30 | -24.5 |
-| Not overridden | 595 | 303 | 50.9 | -332.10 | -5.6 |
+| Overridden | 48 | 20 | 41.7 | -102.90 | -21.4 |
+| Not overridden | 627 | 316 | 50.4 | -407.80 | -6.5 |
 
 ## CLV on paper bets
 
@@ -28,4 +28,4 @@ Line CLV includes line shopping. Market move is the morning median to the closin
 | Tier | With close | Beat CLV | Beat % | Avg market move | Moved our way | Moved against |
 |---|---|---|---|---|---|---|
 | Diff 4 | 77 | 51 | 66.2 | +0.01 | 19 | 13 |
-| Diff 3 | 125 | 87 | 69.6 | +0.01 | 16 | 12 |
+| Diff 3 | 127 | 88 | 69.3 | +0.01 | 16 | 12 |
