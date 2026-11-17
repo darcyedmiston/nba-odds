@@ -14515,13 +14515,17 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Draymond Green,player_assists,Over,Diff 4,5.5,5.5,5.5,0.0,0.0
 2026-11-17,Jabari Smith Jr,player_threes,Over,Diff 4,1.5,2.5,2.0,1.0,-0.5
 2026-11-17,Jalen Suggs,player_assists,Over,Diff 4,3.5,3.5,3.5,0.0,0.0
+2026-11-17,Trevon Brazile,player_points,Over,Diff 4,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Jalen Suggs,player_points_rebounds_assists,Over,Watchlist,15.5,15.5,16.5,0.0,1.0
 2026-11-17,Cameron Boozer,player_rebounds,Over,Diff 3,8.5,8.5,8.5,0.0,0.0
+2026-11-17,Jamal Murray,player_threes,Over,Diff 3,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Jayson Tatum,player_points,Under,Diff 3,26.5,26.5,26.5,-0.0,-0.0
 2026-11-17,Meleek Thomas,player_threes,Over,Diff 3,2.5,2.5,1.5,0.0,-1.0
 2026-11-17,Zach Edey,player_rebounds,Over,Watchlist,7.5,7.5,7.5,0.0,0.0
 2026-11-17,Fred VanVleet,player_threes,Over,Diff 3,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Meleek Thomas,player_points,Over,Watchlist,12.5,13.5,12.0,1.0,-1.5
+2026-11-17,Trevon Brazile,player_rebounds,Over,Watchlist,3.5,3.5,3.5,0.0,0.0
+2026-11-17,Devin Booker,player_threes,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Jalen Suggs,player_points,Over,Watchlist,8.5,8.5,9.5,0.0,1.0
 2026-11-17,Matas Buzelis,player_threes,Over,Pass,1.5,1.5,2.5,0.0,1.0
 2026-11-17,Alperen Sengun,player_points_rebounds_assists,Over,Watchlist,35.5,36.5,37.5,1.0,1.0
@@ -14559,6 +14563,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Trae Young,player_points_rebounds_assists,Under,Diff 3,31.5,31.5,30.5,-0.0,1.0
 2026-11-17,Will Richard,player_points,Under,Diff 3,7.5,7.5,4.5,-0.0,3.0
 2026-11-17,AJ Dybantsa,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
+2026-11-17,Aaron Gordon,player_threes,Under,Diff 3,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Alperen Sengun,player_assists,Over,Watchlist,6.5,6.5,7.5,0.0,1.0
 2026-11-17,Cam Spencer,player_threes,Under,Diff 3,2.5,1.5,2.5,1.0,-1.0
 2026-11-17,Cameron Boozer,player_assists,Over,Watchlist,4.5,5.5,4.5,1.0,-1.0
@@ -14570,6 +14575,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,James Harden,player_points,Over,Watchlist,17.5,18.5,18.5,1.0,0.0
 2026-11-17,James Harden,player_rebounds,Over,Watchlist,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Jayson Tatum,player_points_rebounds_assists,Under,Diff 3,40.5,40.5,40.0,-0.0,0.5
+2026-11-17,Miles Bridges,player_rebounds,Over,Watchlist,5.5,5.5,5.5,0.0,0.0
 2026-11-17,Payton Pritchard,player_rebounds,Under,Diff 3,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,Terrence Shannon Jr.,player_threes,Under,Diff 3,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Tre Jones,player_points,Over,Watchlist,10.5,10.5,10.5,0.0,0.0
@@ -14577,11 +14583,14 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Zach Edey,player_points_rebounds_assists,Over,Watchlist,16.5,16.5,17.5,0.0,1.0
 2026-11-17,Alex Sarr,player_rebounds,Over,Watchlist,6.5,6.5,6.5,0.0,0.0
 2026-11-17,Ayo Dosunmu,player_points,Over,Watchlist,16.5,17.5,17.5,1.0,0.0
+2026-11-17,Collin Gillespie,player_rebounds,Under,Watchlist,3.5,3.0,3.5,0.5,-0.5
 2026-11-17,Danny Wolf,player_points,Over,Watchlist,8.5,8.5,7.5,0.0,-1.0
 2026-11-17,De'Anthony Melton,player_rebounds,Over,Watchlist,3.5,4.5,3.5,1.0,-1.0
 2026-11-17,Deni Avdija,player_assists,Over,Watchlist,5.5,5.5,5.5,0.0,0.0
 2026-11-17,Isaac Okoro,player_threes,Under,Pass,1.5,1.0,0.5,0.5,0.5
+2026-11-17,Jamal Murray,player_rebounds,Over,Watchlist,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Jonathan Kuminga,player_points_rebounds_assists,Under,Watchlist,22.5,21.5,21.0,1.0,0.5
+2026-11-17,Jordan Goodwin,player_rebounds,Over,Watchlist,3.5,3.5,4.5,0.0,1.0
 2026-11-17,Michael Porter Jr,player_points_rebounds_assists,Over,Watchlist,29.5,30.5,30.5,1.0,0.0
 2026-11-17,Peyton Watson,player_assists,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Reed Sheppard,player_assists,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
@@ -14594,6 +14603,8 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Alex Sarr,player_threes,Over,Pass,0.5,0.5,0.5,0.0,0.0
 2026-11-17,Alperen Sengun,player_points,Over,Watchlist,19.5,20.0,21.5,0.5,1.5
 2026-11-17,Cam Spencer,player_assists,Under,Watchlist,7.5,7.5,7.5,-0.0,-0.0
+2026-11-17,Cameron Johnson,player_threes,Under,Pass,2.5,1.5,1.5,1.0,-0.0
+2026-11-17,Collin Gillespie,player_points_rebounds_assists,Under,Watchlist,17.5,17.5,17.5,-0.0,-0.0
 2026-11-17,Damian Lillard,player_rebounds,Under,Watchlist,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,De'Anthony Melton,player_points,Under,Watchlist,13.5,13.5,11.5,-0.0,2.0
 2026-11-17,De'Anthony Melton,player_points_rebounds_assists,Under,Watchlist,20.5,20.5,18.5,-0.0,2.0
@@ -14605,6 +14616,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Wendell Carter Jr,player_threes,Over,Watchlist,0.5,0.5,0.5,0.0,0.0
 2026-11-17,Zion Williamson,player_points,Over,Watchlist,21.5,22.5,21.5,1.0,-1.0
 2026-11-17,Alex Sarr,player_points,Over,Watchlist,11.5,11.5,11.5,0.0,0.0
+2026-11-17,Devin Booker,player_points,Over,Watchlist,22.5,23.5,22.5,1.0,-1.0
 2026-11-17,Jabari Smith Jr,player_assists,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Julius Randle,player_points_rebounds_assists,Under,Watchlist,31.5,30.5,30.5,1.0,-0.0
 2026-11-17,Kyshawn George,player_rebounds,Under,Watchlist,4.5,4.5,4.5,-0.0,-0.0
@@ -14618,22 +14630,29 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,VJ Edgecombe,player_assists,Over,Watchlist,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Wendell Carter Jr,player_points,Over,Watchlist,10.5,10.5,10.5,0.0,0.0
 2026-11-17,Will Richard,player_threes,Over,Pass,0.5,1.5,0.5,1.0,-1.0
+2026-11-17,Aaron Gordon,player_points_rebounds_assists,Under,Watchlist,21.5,21.5,20.5,-0.0,1.0
 2026-11-17,Andrew Wiggins,player_rebounds,Under,Watchlist,3.5,2.5,2.5,1.0,-0.0
 2026-11-17,Anfernee Simons,player_threes,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Bam Adebayo,player_rebounds,Under,Watchlist,9.5,8.5,8.5,1.0,-0.0
 2026-11-17,Bobby Portis,player_rebounds,Over,Watchlist,4.5,4.5,4.5,0.0,0.0
+2026-11-17,Cameron Johnson,player_assists,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Cedric Coward,player_rebounds,Over,Watchlist,7.5,7.5,7.5,0.0,0.0
 2026-11-17,Davion Mitchell,player_points,Over,Watchlist,13.5,13.5,13.5,0.0,0.0
 2026-11-17,Day'Ron Sharpe,player_points_rebounds_assists,Under,Watchlist,21.5,21.5,20.5,-0.0,1.0
 2026-11-17,Day'Ron Sharpe,player_threes,Under,Pass,0.5,0.5,0.5,-0.0,-0.0
 2026-11-17,Dean Wade,player_threes,Under,Watchlist,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Derrick White,player_rebounds,Under,Watchlist,3.5,3.0,3.5,0.5,-0.5
+2026-11-17,Devin Booker,player_rebounds,Under,Watchlist,3.5,2.5,2.5,1.0,-0.0
 2026-11-17,Donovan Mitchell,player_threes,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Georges Niang,player_points,Over,Watchlist,7.5,7.5,7.5,0.0,0.0
+2026-11-17,Jalen Green,player_points,Over,Watchlist,11.5,11.5,11.5,0.0,0.0
+2026-11-17,Jamal Murray,player_points,Over,Watchlist,23.5,23.5,24.5,0.0,1.0
 2026-11-17,Jaylen Wells,player_threes,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Jerami Grant,player_threes,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Kyshawn George,player_threes,Over,Pass,1.5,2.5,2.0,1.0,-0.5
+2026-11-17,Luke Kennard,player_points,Over,Watchlist,7.5,7.5,7.5,0.0,0.0
 2026-11-17,Michael Porter Jr,player_threes,Over,Watchlist,2.5,3.5,3.5,1.0,0.0
+2026-11-17,Nikola Jokic,player_threes,Under,Watchlist,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Noah Clowney,player_points,Over,Watchlist,6.5,6.5,6.5,0.0,0.0
 2026-11-17,Paul George,player_points_rebounds_assists,Over,Watchlist,25.5,26.5,26.0,1.0,-0.5
 2026-11-17,Peyton Watson,player_threes,Under,Watchlist,1.5,1.5,1.5,-0.0,-0.0
@@ -14641,11 +14660,17 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Will Richard,player_threes,Under,Pass,1.5,1.5,0.5,-0.0,1.0
 2026-11-17,Yaxel Lendeborg,player_points,Under,Watchlist,23.5,23.5,23.5,-0.0,-0.0
 2026-11-17,Yaxel Lendeborg,player_threes,Over,Pass,1.5,2.5,2.5,1.0,0.0
+2026-11-17,Cameron Johnson,player_threes,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Cedric Coward,player_points,Under,Watchlist,16.5,15.5,15.5,1.0,-0.0
+2026-11-17,Christian Braun,player_threes,Under,Watchlist,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Deni Avdija,player_points_rebounds_assists,Over,Watchlist,35.5,36.5,35.5,1.0,-1.0
+2026-11-17,Devin Booker,player_points_rebounds_assists,Over,Watchlist,31.5,31.5,31.5,0.0,0.0
 2026-11-17,Franz Wagner,player_points,Over,Watchlist,20.5,21.5,21.5,1.0,0.0
+2026-11-17,Jamal Murray,player_points_rebounds_assists,Over,Watchlist,34.5,34.5,35.0,0.0,0.5
 2026-11-17,James Harden,player_points_rebounds_assists,Over,Watchlist,29.5,29.5,29.5,0.0,0.0
 2026-11-17,Jayson Tatum,player_threes,Under,Watchlist,2.5,2.5,2.5,-0.0,-0.0
+2026-11-17,Miles Bridges,player_threes,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
+2026-11-17,Miles Bridges,player_assists,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Noah Clowney,player_threes,Over,Pass,0.5,0.5,1.5,0.0,1.0
 2026-11-17,Paul George,player_threes,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Saddiq Bey,player_assists,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
@@ -14654,6 +14679,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Yves Missi,player_points,Over,Watchlist,5.5,6.5,6.5,1.0,0.0
 2026-11-17,Zion Williamson,player_assists,Over,Watchlist,2.5,2.5,3.0,0.0,0.5
 2026-11-17,AJ Dybantsa,player_points_rebounds_assists,Under,Watchlist,24.5,23.5,24.0,1.0,-0.5
+2026-11-17,Aaron Gordon,player_points,Under,Watchlist,14.5,13.5,13.5,1.0,-0.0
 2026-11-17,Alex Sarr,player_points_rebounds_assists,Over,Watchlist,20.5,20.5,20.5,0.0,0.0
 2026-11-17,Danny Wolf,player_rebounds,Over,Watchlist,5.5,5.5,4.5,0.0,-1.0
 2026-11-17,Davion Mitchell,player_assists,Over,Watchlist,7.5,7.5,7.5,0.0,0.0
@@ -14663,9 +14689,12 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Derik Queen,player_points,Over,Watchlist,10.5,10.5,10.5,0.0,0.0
 2026-11-17,Derrick White,player_points_rebounds_assists,Under,Watchlist,21.5,21.5,21.0,-0.0,0.5
 2026-11-17,Derrick White,player_rebounds,Over,Watchlist,2.5,3.0,3.5,0.5,0.5
+2026-11-17,Dillon Brooks,player_points,Under,Watchlist,15.5,15.5,15.5,-0.0,-0.0
 2026-11-17,Donovan Clingan,player_threes,Over,Pass,0.5,0.5,0.5,0.0,0.0
 2026-11-17,Jaden McDaniels,player_rebounds,Over,Watchlist,5.5,5.5,5.5,0.0,0.0
+2026-11-17,Jalen Green,player_assists,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Jaylen Brown,player_threes,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
+2026-11-17,Jordan Goodwin,player_points,Over,Watchlist,8.5,8.5,8.5,0.0,0.0
 2026-11-17,Mikel Brown Jr.,player_threes,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Norman Powell,player_rebounds,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Payton Pritchard,player_assists,Over,Watchlist,3.5,4.5,3.5,1.0,-1.0
@@ -14678,21 +14707,29 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Andrew Wiggins,player_points_rebounds_assists,Under,Watchlist,15.5,14.5,14.5,1.0,-0.0
 2026-11-17,Brandin Podziemski,player_points,Under,Watchlist,18.5,18.5,18.5,-0.0,-0.0
 2026-11-17,Cam Spencer,player_threes,Over,Watchlist,1.5,1.5,2.5,0.0,1.0
+2026-11-17,Cameron Johnson,player_rebounds,Over,Watchlist,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Davion Mitchell,player_rebounds,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
+2026-11-17,DeMar DeRozan,player_points,Over,Watchlist,9.5,10.5,9.5,1.0,-1.0
 2026-11-17,Desmond Bane,player_points,Over,Watchlist,17.5,17.5,17.5,0.0,0.0
 2026-11-17,Desmond Bane,player_rebounds,Under,Watchlist,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,Draymond Green,player_rebounds,Under,Watchlist,5.5,5.5,4.5,-0.0,1.0
+2026-11-17,Jalen Green,player_points_rebounds_assists,Over,Watchlist,17.5,17.5,17.0,0.0,-0.5
+2026-11-17,Jalen Green,player_rebounds,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
+2026-11-17,Jalen Green,player_threes,Under,Watchlist,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Jeremiah Fears,player_assists,Under,Watchlist,6.5,6.5,6.5,-0.0,-0.0
 2026-11-17,Jrue Holiday,player_rebounds,Over,Watchlist,3.5,3.5,3.5,0.0,0.0
 2026-11-17,LaMelo Ball,player_assists,Under,Watchlist,6.5,6.5,6.5,-0.0,-0.0
 2026-11-17,LaMelo Ball,player_rebounds,Under,Watchlist,4.5,4.5,3.5,-0.0,1.0
 2026-11-17,Mikel Brown Jr.,player_points_rebounds_assists,Under,Watchlist,18.5,17.5,17.5,1.0,-0.0
 2026-11-17,Mikel Brown Jr.,player_rebounds,Under,Watchlist,2.5,2.5,2.5,-0.0,-0.0
+2026-11-17,Nikola Jokic,player_points_rebounds_assists,Under,Watchlist,47.5,47.5,46.5,-0.0,1.0
+2026-11-17,Oso Ighodaro,player_points,Over,Watchlist,5.5,5.5,5.5,0.0,0.0
 2026-11-17,Peyton Watson,player_rebounds,Over,Watchlist,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Robert Williams,player_rebounds,Over,Watchlist,6.5,6.5,6.5,0.0,0.0
 2026-11-17,Sidy Cissoko,player_rebounds,Under,Watchlist,3.5,3.5,2.5,-0.0,1.0
 2026-11-17,Toumani Camara,player_assists,Under,Watchlist,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,VJ Edgecombe,player_rebounds,Over,Watchlist,5.5,5.5,5.5,0.0,0.0
+2026-11-17,Aaron Gordon,player_assists,Under,Watchlist,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Alperen Sengun,player_rebounds,Over,Watchlist,9.5,9.5,9.5,0.0,0.0
 2026-11-17,Andrew Wiggins,player_points,Over,Watchlist,9.5,9.5,9.5,0.0,0.0
 2026-11-17,Andrew Wiggins,player_assists,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
@@ -14702,12 +14739,15 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Bilal Coulibaly,player_points,Over,Watchlist,6.5,6.5,6.5,0.0,0.0
 2026-11-17,Brandin Podziemski,player_points_rebounds_assists,Under,Watchlist,29.5,29.5,27.5,-0.0,2.0
 2026-11-17,Brandin Podziemski,player_threes,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
+2026-11-17,Christian Braun,player_points,Over,Watchlist,11.5,12.5,11.5,1.0,-1.0
 2026-11-17,Damian Lillard,player_assists,Under,Watchlist,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,Danny Wolf,player_rebounds,Under,Watchlist,6.5,5.5,4.5,1.0,1.0
+2026-11-17,DeMar DeRozan,player_assists,Over,Watchlist,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Dean Wade,player_points_rebounds_assists,Under,Watchlist,12.5,12.5,12.5,-0.0,-0.0
 2026-11-17,Derik Queen,player_rebounds,Over,Watchlist,5.5,5.5,6.0,0.0,0.5
 2026-11-17,Derrick White,player_points,Under,Watchlist,13.5,12.5,13.5,1.0,-1.0
 2026-11-17,Desmond Bane,player_points_rebounds_assists,Under,Watchlist,25.5,24.5,24.5,1.0,-0.0
+2026-11-17,Dillon Brooks,player_threes,Over,Watchlist,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Donovan Mitchell,player_rebounds,Over,Watchlist,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Draymond Green,player_rebounds,Over,Watchlist,4.5,5.5,4.5,1.0,-1.0
 2026-11-17,Franz Wagner,player_rebounds,Under,Watchlist,6.5,6.5,6.5,-0.0,-0.0
@@ -14722,6 +14762,9 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Jrue Holiday,player_points,Over,Watchlist,12.5,12.5,12.5,0.0,0.0
 2026-11-17,Jrue Holiday,player_points_rebounds_assists,Over,Watchlist,20.5,20.5,20.5,0.0,0.0
 2026-11-17,Mikel Brown Jr.,player_assists,Over,Watchlist,3.5,3.5,3.5,0.0,0.0
+2026-11-17,Miles Bridges,player_points,Under,Watchlist,15.5,14.5,13.5,1.0,1.0
+2026-11-17,Nikola Jokic,player_points,Under,Watchlist,25.5,25.5,24.5,-0.0,1.0
+2026-11-17,Oso Ighodaro,player_points_rebounds_assists,Over,Watchlist,13.5,13.5,13.5,0.0,0.0
 2026-11-17,Paul George,player_points,Over,Watchlist,17.5,17.5,18.5,0.0,1.0
 2026-11-17,Payton Pritchard,player_assists,Under,Watchlist,4.5,4.5,3.5,-0.0,1.0
 2026-11-17,Sidy Cissoko,player_rebounds,Over,Watchlist,2.5,3.5,2.5,1.0,-1.0
@@ -14732,8 +14775,11 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Anthony Black,player_points_rebounds_assists,Over,Pass,22.5,22.5,23.0,0.0,0.5
 2026-11-17,Anthony Black,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Cedric Coward,player_assists,Over,Pass,3.5,3.5,3.5,0.0,0.0
+2026-11-17,Christian Braun,player_points_rebounds_assists,Over,Pass,18.5,18.5,18.5,0.0,0.0
+2026-11-17,Collin Gillespie,player_points,Under,Pass,10.5,10.5,10.5,-0.0,-0.0
 2026-11-17,Danny Wolf,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Dean Wade,player_rebounds,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
+2026-11-17,Dillon Brooks,player_points,Over,Pass,14.5,15.5,15.5,1.0,0.0
 2026-11-17,Giannis Antetokounmpo,player_points,Over,Pass,27.5,28.5,28.0,1.0,-0.5
 2026-11-17,Isaac Okoro,player_assists,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Jabari Smith Jr,player_points,Over,Pass,14.5,15.0,15.5,0.5,0.5
@@ -14744,6 +14790,8 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Jrue Holiday,player_threes,Under,Pass,2.5,2.5,2.0,-0.0,0.5
 2026-11-17,Julius Randle,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Kyshawn George,player_assists,Over,Pass,4.5,4.5,4.5,0.0,0.0
+2026-11-17,Luke Kennard,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
+2026-11-17,Nikola Jokic,player_rebounds,Under,Pass,12.5,11.5,11.5,1.0,-0.0
 2026-11-17,Payton Pritchard,player_threes,Under,Pass,2.5,2.5,2.0,-0.0,0.5
 2026-11-17,Peyton Watson,player_points,Under,Pass,13.5,13.5,13.5,-0.0,-0.0
 2026-11-17,Reed Sheppard,player_points_rebounds_assists,Over,Pass,14.5,15.5,17.5,1.0,2.0
@@ -14753,6 +14801,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Tristan da Silva,player_threes,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Tyrese Maxey,player_assists,Over,Pass,5.5,5.5,5.5,0.0,0.0
 2026-11-17,Tyrese Maxey,player_threes,Over,Pass,2.5,2.5,2.5,0.0,0.0
+2026-11-17,Aaron Gordon,player_rebounds,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
 2026-11-17,Anfernee Simons,player_points,Over,Pass,10.5,10.5,10.5,0.0,0.0
 2026-11-17,Anthony Black,player_assists,Over,Pass,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Anthony Davis,player_points_rebounds_assists,Over,Pass,36.5,36.5,36.5,0.0,0.0
@@ -14774,6 +14823,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Jaylen Brown,player_assists,Over,Pass,3.5,4.0,3.5,0.5,-0.5
 2026-11-17,Jaylen Brown,player_rebounds,Over,Pass,5.5,5.5,5.5,0.0,0.0
 2026-11-17,Jeremiah Fears,player_rebounds,Over,Pass,4.5,4.5,4.5,0.0,0.0
+2026-11-17,Jordan Goodwin,player_rebounds,Under,Pass,4.5,3.5,4.5,1.0,-1.0
 2026-11-17,Jordan Poole,player_points,Over,Pass,10.5,10.5,11.5,0.0,1.0
 2026-11-17,Jordan Poole,player_assists,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,Kevin Durant,player_points,Over,Pass,21.5,21.5,22.5,0.0,1.0
@@ -14795,6 +14845,10 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Bam Adebayo,player_assists,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,Bam Adebayo,player_points_rebounds_assists,Over,Pass,30.5,30.5,30.5,0.0,0.0
 2026-11-17,Bobby Portis,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
+2026-11-17,Cameron Johnson,player_points,Under,Pass,12.5,12.5,12.5,-0.0,-0.0
+2026-11-17,Christian Braun,player_rebounds,Over,Pass,4.5,4.5,4.5,0.0,0.0
+2026-11-17,Collin Gillespie,player_assists,Over,Pass,3.5,3.5,3.5,0.0,0.0
+2026-11-17,Collin Gillespie,player_threes,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Damian Lillard,player_points_rebounds_assists,Under,Pass,28.5,28.5,28.5,-0.0,-0.0
 2026-11-17,Day'Ron Sharpe,player_points,Over,Pass,8.5,8.5,8.5,0.0,0.0
 2026-11-17,Draymond Green,player_points,Under,Pass,6.5,5.5,5.5,1.0,-0.0
@@ -14808,8 +14862,11 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Kevin Durant,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Klay Thompson,player_points,Over,Pass,13.5,13.5,13.5,0.0,0.0
 2026-11-17,Klay Thompson,player_threes,Over,Pass,3.5,3.5,3.5,0.0,0.0
+2026-11-17,Nikola Jokic,player_assists,Over,Pass,9.5,9.5,9.5,0.0,0.0
 2026-11-17,Norman Powell,player_points,Under,Pass,22.5,22.5,22.5,-0.0,-0.0
 2026-11-17,Norman Powell,player_points_rebounds_assists,Under,Pass,27.5,27.5,27.5,-0.0,-0.0
+2026-11-17,Oso Ighodaro,player_rebounds,Over,Pass,4.5,4.5,4.5,0.0,0.0
+2026-11-17,Oso Ighodaro,player_rebounds,Under,Pass,5.5,4.5,4.5,1.0,-0.0
 2026-11-17,Trae Young,player_threes,Over,Pass,1.5,2.5,2.5,1.0,0.0
 2026-11-17,Tyrese Maxey,player_rebounds,Over,Pass,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Wendell Carter Jr,player_rebounds,Over,Pass,8.5,8.5,8.5,0.0,0.0
@@ -14817,13 +14874,16 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,AJ Dybantsa,player_points,Over,Pass,15.5,16.5,16.5,1.0,0.0
 2026-11-17,Anthony Black,player_rebounds,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,Ayo Dosunmu,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
+2026-11-17,Cameron Johnson,player_points_rebounds_assists,Over,Pass,18.5,18.5,18.5,0.0,0.0
 2026-11-17,Cedric Coward,player_points_rebounds_assists,Under,Pass,27.5,27.5,27.0,-0.0,0.5
+2026-11-17,Christian Braun,player_assists,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Damian Lillard,player_points,Over,Pass,20.5,20.5,20.5,0.0,0.0
 2026-11-17,Day'Ron Sharpe,player_assists,Over,Pass,3.5,3.5,3.5,0.0,0.0
 2026-11-17,De'Anthony Melton,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Deni Avdija,player_rebounds,Under,Pass,6.5,6.5,6.5,-0.0,-0.0
 2026-11-17,Deni Avdija,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Derik Queen,player_points_rebounds_assists,Over,Pass,19.5,19.5,19.5,0.0,0.0
+2026-11-17,Dillon Brooks,player_points_rebounds_assists,Under,Pass,21.5,21.5,20.5,-0.0,1.0
 2026-11-17,Donovan Clingan,player_points,Over,Pass,10.5,10.5,10.5,0.0,0.0
 2026-11-17,Donovan Clingan,player_rebounds,Over,Pass,10.5,11.0,11.5,0.5,0.5
 2026-11-17,Egor Demin,player_assists,Over,Pass,2.5,2.5,2.5,0.0,0.0
@@ -14836,12 +14896,14 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Jaylen Wells,player_points,Over,Pass,11.5,11.5,11.5,0.0,0.0
 2026-11-17,Jaylen Wells,player_rebounds,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Joel Embiid,player_threes,Under,Pass,0.5,0.5,0.5,-0.0,-0.0
+2026-11-17,Jordan Goodwin,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Jordan Poole,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Jordan Walsh,player_points,Over,Pass,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Josh Giddey,player_points_rebounds_assists,Under,Pass,28.5,27.5,28.0,1.0,-0.5
 2026-11-17,Julius Randle,player_assists,Over,Pass,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Julius Randle,player_points,Under,Pass,19.5,19.5,19.5,-0.0,-0.0
 2026-11-17,Kyshawn George,player_points_rebounds_assists,Over,Pass,24.5,24.5,24.0,0.0,-0.5
+2026-11-17,Oso Ighodaro,player_assists,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Paul George,player_assists,Over,Pass,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Payton Pritchard,player_rebounds,Over,Pass,2.5,3.5,3.5,1.0,0.0
 2026-11-17,Robert Williams,player_points,Under,Pass,6.5,6.5,6.5,-0.0,-0.0
@@ -14867,6 +14929,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Davion Mitchell,player_points_rebounds_assists,Over,Pass,23.5,24.5,23.5,1.0,-1.0
 2026-11-17,Dean Wade,player_points,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
 2026-11-17,Derrick White,player_points_rebounds_assists,Over,Pass,20.5,21.5,21.0,1.0,-0.5
+2026-11-17,Devin Booker,player_assists,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
 2026-11-17,Egor Demin,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Franz Wagner,player_rebounds,Over,Pass,5.5,6.5,6.5,1.0,0.0
 2026-11-17,Isaac Okoro,player_points,Under,Pass,8.5,8.5,8.5,-0.0,-0.0
@@ -14892,6 +14955,8 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Zion Williamson,player_points_rebounds_assists,Over,Pass,30.5,30.5,30.5,0.0,0.0
 2026-11-17,Bam Adebayo,player_assists,Over,Pass,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Bam Adebayo,player_points_rebounds_assists,Under,Pass,31.5,30.5,30.5,1.0,-0.0
+2026-11-17,Christian Braun,player_points_rebounds_assists,Under,Pass,19.5,18.5,18.5,1.0,-0.0
+2026-11-17,Collin Gillespie,player_assists,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,Damian Lillard,player_threes,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Deni Avdija,player_points_rebounds_assists,Under,Pass,36.5,36.5,35.5,-0.0,1.0
 2026-11-17,Derik Queen,player_points,Under,Pass,10.5,10.5,10.5,-0.0,-0.0
@@ -14899,6 +14964,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Derrick White,player_assists,Over,Pass,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Derrick White,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Desmond Bane,player_assists,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
+2026-11-17,Dillon Brooks,player_rebounds,Over,Pass,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Donovan Clingan,player_assists,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Draymond Green,player_points_rebounds_assists,Over,Pass,17.5,17.5,16.5,0.0,-1.0
 2026-11-17,Draymond Green,player_threes,Over,Pass,0.5,0.5,0.5,0.0,0.0
@@ -14918,6 +14984,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Matas Buzelis,player_threes,Under,Pass,2.5,1.5,2.5,1.0,-1.0
 2026-11-17,Michael Porter Jr,player_points,Under,Pass,21.5,21.5,21.5,-0.0,-0.0
 2026-11-17,Mikel Brown Jr.,player_points,Over,Pass,11.5,11.5,11.5,0.0,0.0
+2026-11-17,Miles Bridges,player_points_rebounds_assists,Over,Pass,23.5,23.5,22.5,0.0,-1.0
 2026-11-17,Norman Powell,player_threes,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Saddiq Bey,player_threes,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Toumani Camara,player_threes,Over,Pass,2.5,2.5,2.5,0.0,0.0
@@ -14933,9 +15000,12 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Andrew Wiggins,player_assists,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Anfernee Simons,player_points_rebounds_assists,Over,Pass,14.5,14.5,13.0,0.0,-1.5
 2026-11-17,Cameron Boozer,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
+2026-11-17,Cameron Johnson,player_points,Over,Pass,12.5,12.5,12.5,0.0,0.0
 2026-11-17,Cedric Coward,player_assists,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,Damian Lillard,player_points_rebounds_assists,Over,Pass,28.5,28.5,28.5,0.0,0.0
 2026-11-17,Derrick White,player_assists,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
+2026-11-17,Dillon Brooks,player_assists,Over,Pass,1.5,1.5,1.5,0.0,0.0
+2026-11-17,Dillon Brooks,player_assists,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Donovan Mitchell,player_points_rebounds_assists,Over,Pass,36.5,36.5,36.5,0.0,0.0
 2026-11-17,Georges Niang,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Gui Santos,player_points,Over,Pass,6.5,6.5,6.5,0.0,0.0
@@ -14971,6 +15041,8 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Bobby Portis,player_points,Over,Pass,6.5,6.5,6.5,0.0,0.0
 2026-11-17,Brandin Podziemski,player_assists,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,Cameron Boozer,player_assists,Under,Pass,5.5,5.5,4.5,-0.0,1.0
+2026-11-17,Christian Braun,player_rebounds,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
+2026-11-17,Collin Gillespie,player_points,Over,Pass,9.5,10.5,10.5,1.0,0.0
 2026-11-17,Damian Lillard,player_threes,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Danny Wolf,player_points_rebounds_assists,Under,Pass,18.5,17.5,14.5,1.0,3.0
 2026-11-17,Dean Wade,player_rebounds,Over,Pass,4.5,4.5,4.5,0.0,0.0
@@ -14997,10 +15069,14 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Anthony Davis,player_assists,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Ayo Dosunmu,player_assists,Over,Pass,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Ayo Dosunmu,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
+2026-11-17,Cameron Johnson,player_points_rebounds_assists,Under,Pass,19.5,18.5,18.5,1.0,-0.0
 2026-11-17,Danny Wolf,player_points_rebounds_assists,Over,Pass,17.5,17.5,14.5,0.0,-3.0
 2026-11-17,Day'Ron Sharpe,player_points_rebounds_assists,Over,Pass,20.5,21.5,20.5,1.0,-1.0
+2026-11-17,DeMar DeRozan,player_points,Under,Pass,10.5,10.5,9.5,-0.0,1.0
 2026-11-17,Deni Avdija,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Derrick White,player_points,Over,Pass,12.5,12.5,13.5,0.0,1.0
+2026-11-17,Devin Booker,player_assists,Over,Pass,5.5,5.5,5.5,0.0,0.0
+2026-11-17,Dillon Brooks,player_points_rebounds_assists,Over,Pass,20.5,21.5,20.5,1.0,-1.0
 2026-11-17,Donovan Mitchell,player_points,Over,Pass,25.5,26.5,26.5,1.0,0.0
 2026-11-17,Franz Wagner,player_assists,Over,Pass,6.5,6.5,6.5,0.0,0.0
 2026-11-17,Isaac Okoro,player_points,Over,Pass,8.5,8.5,8.5,0.0,0.0
@@ -15014,12 +15090,14 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Matas Buzelis,player_points,Under,Pass,15.5,15.5,14.5,-0.0,1.0
 2026-11-17,Michael Porter Jr,player_assists,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Michael Porter Jr,player_assists,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
+2026-11-17,Miles Bridges,player_points,Over,Pass,14.5,14.5,13.5,0.0,-1.0
 2026-11-17,Paul George,player_assists,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,Toumani Camara,player_points_rebounds_assists,Under,Pass,17.5,17.5,17.5,-0.0,-0.0
 2026-11-17,Tre Jones,player_rebounds,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Tre Jones,player_rebounds,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Tristan da Silva,player_points_rebounds_assists,Under,Pass,18.5,18.5,17.0,-0.0,1.5
 2026-11-17,Tyrese Maxey,player_assists,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
+2026-11-17,Aaron Gordon,player_assists,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Alex Sarr,player_assists,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Alperen Sengun,player_rebounds,Under,Pass,9.5,9.5,9.5,-0.0,-0.0
 2026-11-17,Andrew Wiggins,player_points,Under,Pass,9.5,9.5,9.5,-0.0,-0.0
@@ -15027,6 +15105,8 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Anthony Black,player_rebounds,Over,Pass,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Brandin Podziemski,player_assists,Over,Pass,4.5,4.5,4.5,0.0,0.0
 2026-11-17,Cameron Boozer,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
+2026-11-17,Christian Braun,player_points,Under,Pass,12.5,12.5,11.5,-0.0,1.0
+2026-11-17,Christian Braun,player_assists,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Danny Wolf,player_points,Under,Pass,9.5,8.5,7.5,1.0,1.0
 2026-11-17,Day'Ron Sharpe,player_assists,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,Day'Ron Sharpe,player_points,Under,Pass,8.5,8.5,8.5,-0.0,-0.0
@@ -15038,6 +15118,9 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Egor Demin,player_rebounds,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Fred VanVleet,player_assists,Over,Pass,5.5,5.5,5.5,0.0,0.0
 2026-11-17,Isaac Okoro,player_points_rebounds_assists,Over,Pass,12.5,13.0,12.5,0.5,-0.5
+2026-11-17,Jalen Green,player_points,Under,Pass,12.5,11.5,11.5,1.0,-0.0
+2026-11-17,Jalen Green,player_rebounds,Under,Pass,3.5,2.5,2.5,1.0,-0.0
+2026-11-17,Jamal Murray,player_assists,Over,Pass,6.5,6.5,6.5,0.0,0.0
 2026-11-17,Jarrett Allen,player_points,Under,Pass,14.5,14.5,14.5,-0.0,-0.0
 2026-11-17,Jaylen Wells,player_rebounds,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Jayson Tatum,player_threes,Over,Pass,2.5,2.5,2.5,0.0,0.0
@@ -15048,6 +15131,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Kevin Durant,player_assists,Under,Pass,4.5,3.5,4.5,1.0,-1.0
 2026-11-17,Kyshawn George,player_threes,Under,Pass,2.5,2.5,2.0,-0.0,0.5
 2026-11-17,Mikel Brown Jr.,player_assists,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
+2026-11-17,Nikola Jokic,player_rebounds,Over,Pass,11.5,11.5,11.5,0.0,0.0
 2026-11-17,Reed Sheppard,player_threes,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Robert Williams,player_points,Over,Pass,6.5,6.5,6.5,0.0,0.0
 2026-11-17,Saddiq Bey,player_points,Over,Pass,17.5,17.5,17.5,0.0,0.0
@@ -15059,6 +15143,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Bam Adebayo,player_points,Under,Pass,18.5,18.5,18.5,-0.0,-0.0
 2026-11-17,Davion Mitchell,player_rebounds,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Desmond Bane,player_assists,Over,Pass,2.5,2.5,2.5,0.0,0.0
+2026-11-17,Devin Booker,player_rebounds,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Donovan Mitchell,player_points,Under,Pass,26.5,26.5,26.5,-0.0,-0.0
 2026-11-17,Donovan Mitchell,player_points_rebounds_assists,Under,Pass,36.5,36.5,36.5,-0.0,-0.0
 2026-11-17,Draymond Green,player_points,Over,Pass,5.5,5.5,5.5,0.0,0.0
@@ -15068,12 +15153,14 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Gui Santos,player_points,Under,Pass,7.5,6.5,6.5,1.0,-0.0
 2026-11-17,Jabari Smith Jr,player_rebounds,Over,Pass,6.5,6.5,6.5,0.0,0.0
 2026-11-17,Jalen Smith,player_points,Over,Pass,13.5,13.5,13.5,0.0,0.0
+2026-11-17,Jamal Murray,player_assists,Under,Pass,6.5,6.5,6.5,-0.0,-0.0
 2026-11-17,Jaylen Brown,player_points,Under,Pass,22.5,22.5,21.5,-0.0,1.0
 2026-11-17,Jaylen Brown,player_points_rebounds_assists,Over,Pass,32.5,33.5,32.0,1.0,-1.5
 2026-11-17,Jerami Grant,player_points,Under,Pass,13.5,13.5,13.0,-0.0,0.5
 2026-11-17,Jerami Grant,player_rebounds,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Josh Giddey,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Kevin Durant,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
+2026-11-17,Miles Bridges,player_points_rebounds_assists,Under,Pass,24.5,23.5,22.5,1.0,1.0
 2026-11-17,Noah Clowney,player_rebounds,Under,Pass,4.5,3.5,3.5,1.0,-0.0
 2026-11-17,Peyton Watson,player_points_rebounds_assists,Under,Pass,20.5,20.5,19.5,-0.0,1.0
 2026-11-17,Reed Sheppard,player_points_rebounds_assists,Under,Pass,15.5,15.5,17.5,-0.0,-2.0
@@ -15092,12 +15179,16 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Anthony Davis,player_points,Under,Pass,24.5,23.5,23.5,1.0,-0.0
 2026-11-17,Cam Spencer,player_rebounds,Over,Pass,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Cameron Boozer,player_rebounds,Under,Pass,9.5,8.5,8.5,1.0,-0.0
+2026-11-17,Christian Braun,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Danny Wolf,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Day'Ron Sharpe,player_rebounds,Over,Pass,7.5,8.0,8.5,0.5,0.5
 2026-11-17,Dean Wade,player_points,Over,Pass,5.5,5.5,5.5,0.0,0.0
+2026-11-17,Devin Booker,player_points_rebounds_assists,Under,Pass,32.5,31.5,31.5,1.0,-0.0
+2026-11-17,Dillon Brooks,player_rebounds,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,Egor Demin,player_points_rebounds_assists,Over,Pass,14.5,14.5,15.0,0.0,0.5
 2026-11-17,Franz Wagner,player_points,Under,Pass,21.5,21.5,21.5,-0.0,-0.0
 2026-11-17,Giannis Antetokounmpo,player_threes,Under,Pass,0.5,0.5,0.5,-0.0,-0.0
+2026-11-17,Jamal Murray,player_points,Under,Pass,24.5,23.5,24.5,1.0,-1.0
 2026-11-17,Jarrett Allen,player_assists,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Jayson Tatum,player_points,Over,Pass,25.5,26.5,26.5,1.0,0.0
 2026-11-17,Joel Embiid,player_assists,Over,Pass,3.5,3.5,3.5,0.0,0.0
@@ -15115,30 +15206,41 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Yaxel Lendeborg,player_rebounds,Under,Pass,7.5,7.5,7.5,-0.0,-0.0
 2026-11-17,Anthony Davis,player_rebounds,Over,Pass,10.5,10.5,10.5,0.0,0.0
 2026-11-17,Brandin Podziemski,player_points_rebounds_assists,Over,Pass,28.5,29.5,27.5,1.0,-2.0
+2026-11-17,Cameron Johnson,player_rebounds,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
+2026-11-17,Collin Gillespie,player_rebounds,Over,Pass,2.5,3.0,3.5,0.5,0.5
 2026-11-17,Isaac Okoro,player_assists,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
+2026-11-17,Jalen Green,player_assists,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Jayson Tatum,player_rebounds,Over,Pass,6.5,6.5,7.5,0.0,1.0
 2026-11-17,Jeremiah Fears,player_points,Under,Pass,17.5,17.5,17.5,-0.0,-0.0
 2026-11-17,Jeremiah Fears,player_points_rebounds_assists,Over,Pass,28.5,28.5,27.5,0.0,-1.0
 2026-11-17,Joel Embiid,player_rebounds,Under,Pass,7.5,7.5,7.5,-0.0,-0.0
 2026-11-17,Jonathan Kuminga,player_assists,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Jonathan Kuminga,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
+2026-11-17,Jordan Goodwin,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Jrue Holiday,player_assists,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,Julius Randle,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Kyshawn George,player_assists,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,LaMelo Ball,player_points_rebounds_assists,Over,Pass,31.5,31.5,31.5,0.0,0.0
+2026-11-17,Miles Bridges,player_assists,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Norman Powell,player_points_rebounds_assists,Over,Pass,27.5,27.5,27.5,0.0,0.0
+2026-11-17,Oso Ighodaro,player_assists,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Peyton Watson,player_points,Over,Pass,12.5,13.5,13.5,1.0,0.0
 2026-11-17,Trey Lyles,player_points,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
 2026-11-17,Tristan da Silva,player_threes,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Tyrese Maxey,player_threes,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Yaxel Lendeborg,player_points_rebounds_assists,Over,Pass,34.5,35.5,35.5,1.0,0.0
+2026-11-17,Aaron Gordon,player_rebounds,Over,Pass,5.5,5.5,5.5,0.0,0.0
 2026-11-17,Ayo Dosunmu,player_points,Under,Pass,17.5,17.5,17.5,-0.0,-0.0
 2026-11-17,Ayo Dosunmu,player_points_rebounds_assists,Under,Pass,25.5,24.5,25.0,1.0,-0.5
 2026-11-17,Bobby Portis,player_rebounds,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,Bobby Portis,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Brandin Podziemski,player_threes,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
+2026-11-17,Collin Gillespie,player_threes,Over,Pass,2.5,2.5,2.5,0.0,0.0
+2026-11-17,DeMar DeRozan,player_assists,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Deni Avdija,player_points,Under,Pass,23.5,23.5,23.5,-0.0,-0.0
 2026-11-17,Desmond Bane,player_rebounds,Over,Pass,4.5,4.5,4.5,0.0,0.0
+2026-11-17,Devin Booker,player_points,Under,Pass,23.5,23.5,22.5,-0.0,1.0
+2026-11-17,Dillon Brooks,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Donovan Mitchell,player_threes,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Fred VanVleet,player_points_rebounds_assists,Under,Pass,22.5,21.5,22.5,1.0,-1.0
 2026-11-17,James Harden,player_points_rebounds_assists,Under,Pass,30.5,29.5,29.5,1.0,-0.0
@@ -15149,12 +15251,16 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Jordan Poole,player_assists,Over,Pass,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Kevin Durant,player_points_rebounds_assists,Under,Pass,31.5,31.5,32.5,-0.0,-1.0
 2026-11-17,Klay Thompson,player_threes,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
+2026-11-17,Nikola Jokic,player_points,Over,Pass,25.5,25.5,24.5,0.0,-1.0
 2026-11-17,Noah Clowney,player_points,Under,Pass,6.5,6.5,6.5,-0.0,-0.0
+2026-11-17,Oso Ighodaro,player_points_rebounds_assists,Under,Pass,13.5,13.5,13.5,-0.0,-0.0
+2026-11-17,Oso Ighodaro,player_points,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
 2026-11-17,Payton Pritchard,player_points_rebounds_assists,Over,Pass,20.5,20.5,20.5,0.0,0.0
 2026-11-17,Tari Eason,player_points,Over,Pass,11.5,12.5,13.5,1.0,1.0
 2026-11-17,Terrence Shannon Jr.,player_rebounds,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Tre Jones,player_points_rebounds_assists,Under,Pass,17.5,16.5,16.5,1.0,-0.0
 2026-11-17,VJ Edgecombe,player_rebounds,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
+2026-11-17,Aaron Gordon,player_points,Over,Pass,13.5,13.5,13.5,0.0,0.0
 2026-11-17,Alperen Sengun,player_assists,Under,Pass,7.5,6.5,7.5,1.0,-1.0
 2026-11-17,Bilal Coulibaly,player_points,Under,Pass,6.5,6.5,6.5,-0.0,-0.0
 2026-11-17,Bilal Coulibaly,player_rebounds,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
@@ -15162,11 +15268,15 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Davion Mitchell,player_points_rebounds_assists,Under,Pass,24.5,24.5,23.5,-0.0,1.0
 2026-11-17,Dean Wade,player_points_rebounds_assists,Over,Pass,12.5,12.5,12.5,0.0,0.0
 2026-11-17,Donovan Clingan,player_assists,Over,Pass,1.5,1.5,1.5,0.0,0.0
+2026-11-17,Jalen Green,player_points_rebounds_assists,Under,Pass,17.5,17.5,17.0,-0.0,0.5
 2026-11-17,Jalen Smith,player_assists,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Joel Embiid,player_points,Over,Pass,21.5,22.5,22.5,1.0,0.0
 2026-11-17,Joel Embiid,player_points_rebounds_assists,Over,Pass,33.5,33.5,34.5,0.0,1.0
+2026-11-17,Jordan Goodwin,player_points,Under,Pass,8.5,8.5,8.5,-0.0,-0.0
 2026-11-17,LaMelo Ball,player_points,Over,Pass,20.5,20.5,20.5,0.0,0.0
 2026-11-17,Matas Buzelis,player_assists,Over,Pass,2.5,2.5,2.5,0.0,0.0
+2026-11-17,Nikola Jokic,player_points_rebounds_assists,Over,Pass,47.5,47.5,46.5,0.0,-1.0
+2026-11-17,Nikola Jokic,player_assists,Under,Pass,9.5,9.5,9.5,-0.0,-0.0
 2026-11-17,Norman Powell,player_points,Over,Pass,22.5,22.5,22.5,0.0,0.0
 2026-11-17,Norman Powell,player_assists,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Payton Pritchard,player_points,Over,Pass,13.5,13.5,13.5,0.0,0.0
@@ -15179,14 +15289,18 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Anthony Davis,player_points_rebounds_assists,Under,Pass,36.5,36.5,36.5,-0.0,-0.0
 2026-11-17,Cameron Boozer,player_points_rebounds_assists,Over,Pass,32.5,33.5,33.5,1.0,0.0
 2026-11-17,Desmond Bane,player_points,Under,Pass,17.5,17.5,17.5,-0.0,-0.0
+2026-11-17,Jamal Murray,player_points_rebounds_assists,Under,Pass,35.5,34.5,35.0,1.0,-0.5
+2026-11-17,Jamal Murray,player_threes,Under,Pass,3.5,2.5,2.5,1.0,-0.0
 2026-11-17,Jarrett Allen,player_rebounds,Over,Pass,9.5,9.5,9.5,0.0,0.0
 2026-11-17,Jeremiah Fears,player_rebounds,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,Jonathan Kuminga,player_points_rebounds_assists,Over,Pass,21.5,21.5,21.0,0.0,-0.5
 2026-11-17,Kevin Durant,player_points,Under,Pass,21.5,21.5,22.5,-0.0,-1.0
 2026-11-17,Kevin Durant,player_rebounds,Over,Pass,5.5,5.5,5.5,0.0,0.0
 2026-11-17,LaMelo Ball,player_assists,Over,Pass,6.5,6.5,6.5,0.0,0.0
+2026-11-17,Luke Kennard,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Reed Sheppard,player_rebounds,Over,Pass,2.5,2.5,2.5,0.0,0.0
 2026-11-17,Trae Young,player_assists,Over,Pass,8.5,8.5,8.5,0.0,0.0
+2026-11-17,Trevon Brazile,player_rebounds,Under,Pass,4.5,3.5,3.5,1.0,-0.0
 2026-11-17,Zach Edey,player_points,Under,Pass,8.5,8.5,8.5,-0.0,-0.0
 2026-11-17,Alex Sarr,player_points_rebounds_assists,Under,Pass,20.5,20.5,20.5,-0.0,-0.0
 2026-11-17,Cedric Coward,player_points,Over,Pass,15.5,15.5,15.5,0.0,0.0
@@ -15195,6 +15309,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Donovan Mitchell,player_rebounds,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,Fred VanVleet,player_rebounds,Over,Pass,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Jayson Tatum,player_assists,Under,Pass,6.5,6.5,6.5,-0.0,-0.0
+2026-11-17,Miles Bridges,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Tari Eason,player_points_rebounds_assists,Over,Pass,20.5,21.0,22.0,0.5,1.0
 2026-11-17,Tristan da Silva,player_assists,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Alperen Sengun,player_points_rebounds_assists,Under,Pass,37.5,36.5,37.5,1.0,-1.0
@@ -15218,6 +15333,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Derik Queen,player_assists,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Jabari Smith Jr,player_assists,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Jaden McDaniels,player_rebounds,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
+2026-11-17,Jalen Green,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Jalen Suggs,player_rebounds,Under,Pass,3.5,2.5,3.5,1.0,-1.0
 2026-11-17,Jaylen Brown,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Josh Giddey,player_assists,Under,Pass,8.5,8.5,8.5,-0.0,-0.0
@@ -15227,25 +15343,30 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Deni Avdija,player_assists,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
 2026-11-17,Donovan Clingan,player_threes,Under,Pass,0.5,0.5,0.5,-0.0,-0.0
 2026-11-17,Fred VanVleet,player_points,Under,Pass,13.5,13.5,13.5,-0.0,-0.0
+2026-11-17,Jamal Murray,player_rebounds,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,Mikel Brown Jr.,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Rudy Gobert,player_rebounds,Under,Pass,10.5,10.5,10.5,-0.0,-0.0
 2026-11-17,Tristan da Silva,player_rebounds,Over,Pass,4.5,4.5,3.5,0.0,-1.0
 2026-11-17,Wendell Carter Jr,player_threes,Under,Pass,0.5,0.5,0.5,-0.0,-0.0
 2026-11-17,Cam Spencer,player_assists,Over,Pass,7.5,7.5,7.5,0.0,0.0
+2026-11-17,Cameron Johnson,player_assists,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Cedric Coward,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Georges Niang,player_points,Under,Pass,7.5,7.5,7.5,-0.0,-0.0
 2026-11-17,James Harden,player_rebounds,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,James Harden,player_threes,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Jaylen Wells,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Jerami Grant,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
+2026-11-17,Luke Kennard,player_points,Under,Pass,7.5,7.5,7.5,-0.0,-0.0
 2026-11-17,Terrence Shannon Jr.,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Wendell Carter Jr,player_assists,Over,Pass,1.5,1.5,1.5,0.0,0.0
+2026-11-17,Aaron Gordon,player_points_rebounds_assists,Over,Pass,21.5,21.5,20.5,0.0,-1.0
 2026-11-17,Davion Mitchell,player_points,Under,Pass,13.5,13.5,13.5,-0.0,-0.0
 2026-11-17,Davion Mitchell,player_threes,Under,Pass,1.5,1.5,2.0,-0.0,-0.5
 2026-11-17,Day'Ron Sharpe,player_threes,Over,Pass,0.5,0.5,0.5,0.0,0.0
 2026-11-17,Dean Wade,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Georges Niang,player_rebounds,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Joel Embiid,player_threes,Over,Pass,0.5,0.5,0.5,0.0,0.0
+2026-11-17,Miles Bridges,player_rebounds,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
 2026-11-17,Peyton Watson,player_assists,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
 2026-11-17,Peyton Watson,player_rebounds,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,Peyton Watson,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
@@ -15254,6 +15375,7 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Tre Jones,player_points,Under,Pass,10.5,10.5,10.5,-0.0,-0.0
 2026-11-17,Alex Sarr,player_threes,Under,Pass,0.5,0.5,0.5,-0.0,-0.0
 2026-11-17,Cameron Boozer,player_points,Over,Pass,18.5,19.5,19.5,1.0,0.0
+2026-11-17,Collin Gillespie,player_points_rebounds_assists,Over,Pass,17.5,17.5,17.5,0.0,0.0
 2026-11-17,Jalen Smith,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Jalen Suggs,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Kyshawn George,player_rebounds,Over,Pass,4.5,4.5,4.5,0.0,0.0
@@ -15262,8 +15384,10 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Toumani Camara,player_points,Under,Pass,11.5,11.5,11.5,-0.0,-0.0
 2026-11-17,Trae Young,player_points_rebounds_assists,Over,Pass,31.5,31.5,30.5,0.0,-1.0
 2026-11-17,Gui Santos,player_rebounds,Under,Pass,3.5,2.5,3.5,1.0,-1.0
+2026-11-17,Nikola Jokic,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Noah Clowney,player_threes,Under,Pass,0.5,0.5,1.5,-0.0,-1.0
 2026-11-17,Sam Hauser,player_points,Under,Pass,6.5,6.5,6.5,-0.0,-0.0
+2026-11-17,Aaron Gordon,player_threes,Over,Pass,1.5,1.5,1.5,0.0,0.0
 2026-11-17,Alperen Sengun,player_threes,Under,Pass,0.5,0.5,0.5,-0.0,-0.0
 2026-11-17,Donovan Mitchell,player_assists,Under,Pass,5.5,5.5,5.5,-0.0,-0.0
 2026-11-17,Paul George,player_rebounds,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
@@ -15271,9 +15395,11 @@ date_melb,player,market,side,tier,line,morning_median,close_median,line_shop,mar
 2026-11-17,Jalen Suggs,player_points,Under,Pass,8.5,8.5,9.5,-0.0,-1.0
 2026-11-17,Jalen Suggs,player_points_rebounds_assists,Under,Pass,15.5,15.5,16.5,-0.0,-1.0
 2026-11-17,Cam Spencer,player_points_rebounds_assists,Over,Pass,23.5,24.5,25.0,1.0,0.5
+2026-11-17,Devin Booker,player_threes,Under,Pass,1.5,1.5,1.5,-0.0,-0.0
 2026-11-17,Jordan Walsh,player_rebounds,Over,Pass,3.5,3.5,3.5,0.0,0.0
 2026-11-17,Meleek Thomas,player_threes,Under,Pass,2.5,2.5,1.5,-0.0,1.0
 2026-11-17,Zach Edey,player_points_rebounds_assists,Under,Pass,16.5,16.5,17.5,-0.0,-1.0
+2026-11-17,Trevon Brazile,player_points,Under,Pass,4.5,4.5,4.5,-0.0,-0.0
 2026-11-17,Zach Edey,player_rebounds,Under,Pass,7.5,7.5,7.5,-0.0,-0.0
 2026-11-17,Jalen Suggs,player_assists,Under,Pass,3.5,3.5,3.5,-0.0,-0.0
 2026-11-17,Fred VanVleet,player_threes,Under,Pass,2.5,2.5,2.5,-0.0,-0.0
