@@ -1,21 +1,23 @@
 date_melb,tipoff_melb,game,player,market,side,line,odds,book,n_books_at_line,n_books,median_line,implied,model_prob,ev_pct,proj,proj_min,status,D1,D2,D3,D4,D5,D6,D7,D8,ces,tier,flags,model_version
-2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,Jalen Suggs,player_assists,Over,3.5,1.68,sportsbet,3,6,4.0,0.595,0.719,20.8,5.3,29.1,,2,2,2,2,0,0,1,1,1.5,Diff 4,,v4.1
-2026-11-19,11:10,Milwaukee Bucks @ Miami Heat,Pelle Larsson,player_points,Over,9.5,1.81,unibet,1,6,10.5,0.552,0.657,18.9,12.1,29.1,,1,2,2,2,0,1,2,1,1.45,Diff 4,soft at one book only - may be stale,v4.1
-2026-11-19,13:10,Boston Celtics @ Denver Nuggets,Jamal Murray,player_threes,Over,2.5,1.95,pointsbetau,5,5,2.5,0.513,0.626,22.1,3.4,36.0,,2,1,2,2,0,2,0,0,1.4,Diff 4,,v4.1
-2026-11-19,11:10,Houston Rockets @ Indiana Pacers,Steven Adams,player_rebounds,Over,5.5,1.96,sportsbet,3,3,5.5,0.51,0.678,33.0,7.4,18.6,,2,1,2,2,0,2,0,0,1.4,Diff 4,"early season: 2 games this season, blended with last season",v4.1
-2026-11-19,11:10,Milwaukee Bucks @ Miami Heat,Jaime Jaquez Jr,player_threes,Over,1.5,2.3,unibet,3,3,1.5,0.435,0.595,36.9,2.1,27.8,,0,2,1,2,1,2,2,0,1.25,Diff 4,traded/role change: last season down-weighted; key teammates out: ryan rollins,v4.1
-2026-11-19,11:10,Memphis Grizzlies @ Cleveland Cavaliers,Jerami Grant,player_threes,Over,1.5,1.78,unibet,5,5,1.5,0.562,0.579,3.0,2.0,23.6,,1,2,2,0,1,1,2,0,1.2,Diff 4,traded/role change: last season down-weighted; key teammates out: ty jerome,v4.1
-2026-11-19,12:10,Detroit Pistons @ New Orleans Pelicans,Cade Cunningham,player_assists,Over,7.5,1.71,pointsbetau,1,6,8.5,0.585,0.686,17.3,9.5,34.1,,1,1,1,2,1,2,-1,1,1.15,Diff 3,key teammates out: duncan robinson; back-to-back; soft at one book only - may be stale,v4.1
-2026-11-19,13:10,Boston Celtics @ Denver Nuggets,Paul George,player_threes,Over,2.5,1.67,pointsbetau,5,5,2.5,0.599,0.651,8.7,3.6,30.1,,2,1,2,1,0,1,0,0,1.15,Diff 3,traded/role change: last season down-weighted,v4.1
-2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,Tristan da Silva,player_points,Over,10.5,1.92,betright,6,6,10.5,0.521,0.626,20.2,12.9,30.3,,1,2,1,2,0,0,1,0,1.1,Diff 3,,v4.1
-2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,Noah Clowney,player_points,Over,6.5,1.77,pointsbetau,1,5,7.5,0.565,0.668,18.2,9.0,21.7,,1,1,0,2,0,2,2,1,1.05,Diff 3,soft at one book only - may be stale,v4.1
-2026-11-19,11:40,Washington Wizards @ Toronto Raptors,Bilal Coulibaly,player_points,Over,5.5,1.73,unibet,1,5,6.5,0.578,0.66,14.2,8.9,24.2,,2,1,2,1,0,-1,0,1,1.0,Diff 3,soft at one book only - may be stale,v4.1
-2026-11-19,11:10,Memphis Grizzlies @ Cleveland Cavaliers,Cameron Boozer,player_assists,Over,4.5,1.85,ladbrokes_au,4,6,4.5,0.541,0.645,19.3,5.6,30.8,,1,1,0,2,1,1,2,0,1.0,Diff 3,key teammates out: ty jerome,v4.1
-2026-11-19,14:10,Phoenix Suns @ Sacramento Kings,Dillon Brooks,player_points,Over,13.5,1.81,unibet,5,5,13.5,0.552,0.649,17.5,16.6,28.5,,2,1,0,1,0,2,0,0,0.95,Diff 3,,v4.1
-2026-11-19,14:10,Phoenix Suns @ Sacramento Kings,Jordan Goodwin,player_points,Over,8.5,2.0,unibet,5,5,8.5,0.5,0.558,11.6,9.2,21.1,,0,2,1,1,0,2,0,1,0.95,Diff 3,,v4.1
-2026-11-19,11:40,Washington Wizards @ Toronto Raptors,AJ Dybantsa,player_assists,Over,1.5,1.56,unibet,2,4,2.0,0.641,0.649,1.2,2.2,33.7,,1,2,2,0,0,-1,0,1,0.85,Diff 3,,v4.1
-2026-11-19,14:10,Utah Jazz @ Los Angeles Lakers,Luka Doncic,player_points,Over,36.5,1.88,neds,5,5,36.5,0.532,0.544,2.3,37.9,35.5,,0,2,1,0,1,2,0,0,0.85,Diff 3,key teammates out: austin reaves; back-to-back,v4.1
-2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,Patrick Williams,player_points,Over,6.5,2.05,pointsbetau,5,5,6.5,0.488,0.604,23.8,8.2,23.0,Probable,0,2,0,2,-1,1,2,1,0.85,Diff 3,key teammates out: caleb wilson,v4.1
-2026-11-19,12:10,Golden State Warriors @ Dallas Mavericks,Santi Aldama,player_points,Over,7.5,1.88,sportsbet,5,5,7.5,0.532,0.533,0.3,8.2,16.0,Probable,1,2,2,0,-1,0,1,0,0.85,Diff 3,traded/role change: last season down-weighted,v4.1
-2026-11-19,12:10,Atlanta Hawks @ Oklahoma City Thunder,Alex Caruso,player_rebounds,Over,2.5,1.62,unibet,2,5,3.5,0.617,0.672,8.9,3.6,20.0,,1,1,0,1,0,1,1,1,0.75,Diff 3,,v4.1
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,Jalen Suggs,player_assists,Over,3.5,1.73,neds,5,6,3.5,0.578,0.719,24.4,5.3,29.1,,2,2,2,2,0,0,1,0,1.45,Diff 4,,v4.1
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,Jase Richardson,player_points,Over,1.5,1.85,tab,1,1,1.5,0.541,0.845,56.3,6.2,20.2,,2,2,2,2,0,0,1,0,1.45,Diff 4,,v4.1
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,Steven Adams,player_rebounds,Over,4.5,1.74,pointsbetau,1,4,5.5,0.575,0.754,31.2,7.4,18.6,,2,1,2,2,0,2,0,1,1.45,Diff 4,"early season: 2 games this season, blended with last season; soft at one book only - may be stale",v4.1
+2026-11-19,13:10,Boston Celtics @ Denver Nuggets,Jamal Murray,player_threes,Over,2.5,1.96,neds,5,5,2.5,0.51,0.626,22.7,3.4,36.0,,2,1,2,2,0,2,0,0,1.4,Diff 4,,v4.1
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,Obi Toppin,player_points,Over,8.5,2.0,pointsbetau,6,6,8.5,0.5,0.651,30.1,11.2,19.1,,2,1,2,2,1,-1,1,1,1.3,Diff 4,key teammates out: andrew nembhard,v4.1
+2026-11-19,11:10,Milwaukee Bucks @ Miami Heat,Pelle Larsson,player_points,Over,9.5,1.75,betright,2,7,10.5,0.571,0.657,14.9,12.1,29.1,,1,2,2,1,0,1,2,1,1.3,Diff 4,,v4.1
+2026-11-19,12:10,Golden State Warriors @ Dallas Mavericks,Zaccharie Risacher,player_rebounds,Over,2.5,1.73,neds,2,5,3.5,0.578,0.748,29.5,4.5,22.4,,2,1,2,2,0,0,1,1,1.3,Diff 4,traded/role change: last season down-weighted,v4.1
+2026-11-19,11:10,Milwaukee Bucks @ Miami Heat,Jaime Jaquez Jr,player_threes,Over,1.5,2.28,unibet,3,3,1.5,0.439,0.595,35.7,2.1,27.8,,0,2,1,2,1,2,2,0,1.25,Diff 4,traded/role change: last season down-weighted; key teammates out: ryan rollins,v4.1
+2026-11-19,11:10,Memphis Grizzlies @ Cleveland Cavaliers,Jerami Grant,player_threes,Over,1.5,1.8,unibet,5,5,1.5,0.556,0.579,4.2,2.0,23.6,,1,2,2,0,1,1,2,1,1.25,Diff 4,traded/role change: last season down-weighted; key teammates out: ty jerome,v4.1
+2026-11-19,14:10,Phoenix Suns @ Sacramento Kings,Keegan Murray,player_points,Over,7.5,1.85,ladbrokes_au,2,2,7.5,0.541,0.647,19.7,10.6,28.5,,2,1,2,2,0,0,1,0,1.25,Diff 4,,v4.1
+2026-11-19,11:10,Memphis Grizzlies @ Cleveland Cavaliers,Thomas Bryant,player_points,Over,7.5,1.8,pointsbetau,1,5,8.5,0.556,0.663,19.3,9.8,16.1,,0,2,1,2,2,0,2,1,1.2,Diff 4,"key teammates out: peyton watson, jaylon tyson, evan mobley; soft at one book only - may be stale",v4.1
+2026-11-19,14:10,Phoenix Suns @ Sacramento Kings,De'Andre Hunter,player_rebounds,Over,3.5,1.78,ladbrokes_au,6,6,3.5,0.562,0.663,18.0,4.7,33.1,,1,2,0,2,0,1,1,1,1.1,Diff 3,,v4.1
+2026-11-19,13:10,Boston Celtics @ Denver Nuggets,Sam Hauser,player_threes,Over,1.5,1.57,pointsbetau,3,5,1.5,0.637,0.646,1.4,2.4,21.1,,2,1,2,0,0,1,0,0,1.0,Diff 3,,v4.1
+2026-11-19,12:10,Golden State Warriors @ Dallas Mavericks,Santi Aldama,player_points,Over,7.5,2.0,sportsbet,5,5,7.5,0.5,0.533,6.7,8.2,16.0,Probable,1,2,2,0,-1,0,1,1,0.9,Diff 3,traded/role change: last season down-weighted,v4.1
+2026-11-19,12:10,Detroit Pistons @ New Orleans Pelicans,Derik Queen,player_points_rebounds_assists,Over,17.5,1.82,ladbrokes_au,2,3,17.5,0.549,0.556,1.1,19.5,21.9,,2,1,2,0,1,-2,1,0,0.85,Diff 3,key teammates out: dejounte murray,v4.1
+2026-11-19,14:10,Utah Jazz @ Los Angeles Lakers,Luka Doncic,player_threes,Over,4.5,1.92,neds,5,5,4.5,0.521,0.533,2.4,4.9,35.4,,0,2,2,0,1,0,0,1,0.85,Diff 3,key teammates out: austin reaves; back-to-back,v4.1
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,Noah Clowney,player_rebounds,Over,3.5,1.98,betright,6,6,3.5,0.505,0.588,16.3,4.2,21.7,,1,1,0,1,0,2,2,0,0.85,Diff 3,,v4.1
+2026-11-19,11:40,Washington Wizards @ Toronto Raptors,Bilal Coulibaly,player_points,Over,6.5,2.02,unibet,5,5,6.5,0.495,0.616,24.5,8.9,24.2,,1,1,1,2,0,-1,0,1,0.8,Diff 3,,v4.1
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,Mikel Brown Jr.,player_assists,Over,3.5,2.25,betright,4,4,3.5,0.444,0.575,29.3,4.0,22.1,,0,1,0,2,0,2,2,0,0.8,Diff 3,,v4.1
+2026-11-19,12:10,Atlanta Hawks @ Oklahoma City Thunder,Alex Caruso,player_rebounds,Over,2.5,1.7,ladbrokes_au,4,5,2.5,0.588,0.672,14.2,3.6,20.0,,1,1,0,1,0,1,1,0,0.7,Diff 3,,v4.1
+2026-11-19,11:40,Washington Wizards @ Toronto Raptors,Alex Sarr,player_points,Over,10.5,1.8,sportsbet,1,6,11.5,0.556,0.632,13.7,13.9,28.1,,2,1,0,1,0,-1,0,1,0.7,Diff 3,soft at one book only - may be stale,v4.1
 2026-11-19,12:10,Atlanta Hawks @ Oklahoma City Thunder,Onyeka Okongwu,player_threes,Over,1.5,1.73,unibet,5,5,1.5,0.578,0.576,-0.3,2.0,31.2,,0,2,1,-1,1,2,0,0,0.7,Diff 3,key teammates out: cj mccollum,v4.1
