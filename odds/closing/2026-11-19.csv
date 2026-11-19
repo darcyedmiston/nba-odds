@@ -2409,3 +2409,685 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-19,11:10,Milwaukee Bucks @ Miami Heat,ladbrokes_au,player_threes,Kyle Kuzma,Under,1.5,1.65,2026-11-19T00:04:46Z,2026-11-19T00:05:05+00:00,4.9
 2026-11-19,11:10,Milwaukee Bucks @ Miami Heat,ladbrokes_au,player_threes,Myles Turner,Over,1.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:05+00:00,4.9
 2026-11-19,11:10,Milwaukee Bucks @ Miami Heat,ladbrokes_au,player_threes,Myles Turner,Under,1.5,1.7,2026-11-19T00:04:46Z,2026-11-19T00:05:05+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Anthony Black,Over,4.5,1.77,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Anthony Black,Under,4.5,2.0,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Desmond Bane,Over,2.5,1.69,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Desmond Bane,Under,2.5,2.15,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Franz Wagner,Over,6.5,1.8,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Franz Wagner,Under,6.5,1.95,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Jalen Suggs,Over,3.5,1.63,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Jalen Suggs,Under,3.5,2.25,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Joel Embiid,Over,3.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Joel Embiid,Under,3.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Kentavious Caldwell-Pope,Over,1.5,1.63,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Kentavious Caldwell-Pope,Under,1.5,2.25,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,LeBron James,Over,7.5,1.77,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,LeBron James,Under,7.5,2.0,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Tristan da Silva,Over,1.5,1.8,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Tristan da Silva,Under,1.5,1.95,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,VJ Edgecombe,Over,3.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,VJ Edgecombe,Under,3.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Wendell Carter Jr,Over,1.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_assists,Wendell Carter Jr,Under,1.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Anthony Black,Over,15.5,1.95,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Anthony Black,Under,15.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Desmond Bane,Over,18.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Desmond Bane,Under,18.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Franz Wagner,Over,25.5,2.0,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Franz Wagner,Under,25.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Jabari Walker,Over,8.5,2.05,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Jabari Walker,Under,8.5,1.8,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Jalen Suggs,Over,9.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Jalen Suggs,Under,9.5,1.95,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Joel Embiid,Over,26.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Joel Embiid,Under,26.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,LeBron James,Over,18.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,LeBron James,Under,18.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Tristan da Silva,Over,10.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Tristan da Silva,Under,10.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,VJ Edgecombe,Over,15.5,1.95,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,VJ Edgecombe,Under,15.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Wendell Carter Jr,Over,11.5,2.0,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points,Wendell Carter Jr,Under,11.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Anthony Black,Over,24.5,1.8,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Anthony Black,Under,24.5,1.95,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Jalen Suggs,Over,17.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Jalen Suggs,Under,17.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Joel Embiid,Over,38.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Joel Embiid,Under,38.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,LeBron James,Over,33.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,LeBron James,Under,33.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Tristan da Silva,Over,16.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Tristan da Silva,Under,16.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,VJ Edgecombe,Over,25.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,VJ Edgecombe,Under,25.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Wendell Carter Jr,Over,20.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Wendell Carter Jr,Under,20.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Anthony Black,Over,4.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Anthony Black,Under,4.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Desmond Bane,Over,4.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Desmond Bane,Under,4.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Franz Wagner,Over,6.5,2.0,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Franz Wagner,Under,6.5,1.77,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Jabari Walker,Over,5.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Jabari Walker,Under,5.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Jalen Suggs,Over,3.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Jalen Suggs,Under,3.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Joel Embiid,Over,7.5,1.74,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Joel Embiid,Under,7.5,2.05,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,LeBron James,Over,6.5,1.74,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,LeBron James,Under,6.5,2.05,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Tristan da Silva,Over,3.5,1.8,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Tristan da Silva,Under,3.5,1.95,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,VJ Edgecombe,Over,6.5,2.05,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,VJ Edgecombe,Under,6.5,1.74,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Wendell Carter Jr,Over,7.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_rebounds,Wendell Carter Jr,Under,7.5,1.9,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,VJ Edgecombe,Over,1.5,1.8,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,VJ Edgecombe,Under,1.5,1.95,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Desmond Bane,Over,3.5,2.15,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Desmond Bane,Under,3.5,1.69,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Anthony Black,Over,1.5,1.8,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Anthony Black,Under,1.5,1.95,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Jalen Suggs,Over,1.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Jalen Suggs,Under,1.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Joel Embiid,Over,1.5,2.65,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Joel Embiid,Under,1.5,1.44,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,LeBron James,Over,1.5,2.3,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,LeBron James,Under,1.5,1.59,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Wendell Carter Jr,Over,0.5,1.56,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Wendell Carter Jr,Under,0.5,2.4,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Franz Wagner,Over,1.5,2.0,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Franz Wagner,Under,1.5,1.77,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Tristan da Silva,Over,2.5,2.1,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,pointsbetau,player_threes,Tristan da Silva,Under,2.5,1.71,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Joel Embiid,Over,3.5,1.72,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Joel Embiid,Under,3.5,2.08,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Kentavious Caldwell-Pope,Over,1.5,1.68,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Kentavious Caldwell-Pope,Under,1.5,2.1,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,LeBron James,Over,7.5,1.88,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,LeBron James,Under,7.5,1.88,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,VJ Edgecombe,Over,3.5,1.68,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,VJ Edgecombe,Under,3.5,2.1,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Anfernee Simons,Over,2.5,2.25,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Anfernee Simons,Under,2.5,1.58,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Desmond Bane,Over,2.5,1.64,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Desmond Bane,Under,2.5,2.15,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Jalen Suggs,Over,3.5,1.6,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Jalen Suggs,Under,3.5,2.2,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Anthony Black,Over,4.5,1.74,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Anthony Black,Under,4.5,2.05,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Franz Wagner,Over,6.5,1.89,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_assists,Franz Wagner,Under,6.5,1.87,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Joel Embiid,Over,26.5,1.89,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Joel Embiid,Under,26.5,1.87,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Kentavious Caldwell-Pope,Over,7.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Kentavious Caldwell-Pope,Under,7.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,VJ Edgecombe,Over,15.5,2.0,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,VJ Edgecombe,Under,15.5,1.78,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Anfernee Simons,Over,13.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Anfernee Simons,Under,13.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,LeBron James,Over,18.5,1.92,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,LeBron James,Under,18.5,1.84,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Anthony Black,Over,14.5,1.88,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Anthony Black,Under,14.5,1.87,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Wendell Carter Jr,Over,11.5,1.93,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Wendell Carter Jr,Under,11.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Franz Wagner,Over,24.5,1.76,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Franz Wagner,Under,24.5,2.02,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Tristan da Silva,Over,10.5,1.84,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Tristan da Silva,Under,10.5,1.92,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Desmond Bane,Over,18.5,1.92,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Desmond Bane,Under,18.5,1.84,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Jalen Suggs,Over,10.5,2.08,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Jalen Suggs,Under,10.5,1.72,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Jabari Walker,Over,8.5,2.05,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points,Jabari Walker,Under,8.5,1.74,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Tristan da Silva,Over,16.5,1.92,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Tristan da Silva,Under,16.5,1.84,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Joel Embiid,Over,38.5,1.87,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Joel Embiid,Under,38.5,1.89,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,LeBron James,Over,33.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,LeBron James,Under,33.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,VJ Edgecombe,Over,25.5,1.86,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,VJ Edgecombe,Under,25.5,1.9,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Anfernee Simons,Over,19.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Anfernee Simons,Under,19.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Kentavious Caldwell-Pope,Over,12.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Kentavious Caldwell-Pope,Under,12.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Anthony Black,Over,24.5,1.93,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Anthony Black,Under,24.5,1.83,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.89,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.87,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Jalen Suggs,Over,18.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Jalen Suggs,Under,18.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Over,20.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Under,20.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,LeBron James,Over,6.5,1.83,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,LeBron James,Under,6.5,1.93,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Anfernee Simons,Over,2.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Anfernee Simons,Under,2.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Kentavious Caldwell-Pope,Over,2.5,1.64,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Kentavious Caldwell-Pope,Under,2.5,2.15,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,VJ Edgecombe,Over,6.5,2.05,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,VJ Edgecombe,Under,6.5,1.74,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Joel Embiid,Over,7.5,1.74,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Joel Embiid,Under,7.5,2.05,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Desmond Bane,Over,4.5,2.02,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Desmond Bane,Under,4.5,1.76,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Franz Wagner,Over,6.5,2.05,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Franz Wagner,Under,6.5,1.74,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Jalen Suggs,Over,3.5,1.88,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Jalen Suggs,Under,3.5,1.88,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Wendell Carter Jr,Over,7.5,1.83,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Wendell Carter Jr,Under,7.5,1.92,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Tristan da Silva,Over,3.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Tristan da Silva,Under,3.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Anthony Black,Over,4.5,1.93,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Anthony Black,Under,4.5,1.83,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Jabari Walker,Over,5.5,1.76,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_rebounds,Jabari Walker,Under,5.5,2.02,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Anfernee Simons,Over,2.5,1.91,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Anfernee Simons,Under,2.5,1.85,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Joel Embiid,Over,1.5,2.5,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Joel Embiid,Under,1.5,1.48,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,LeBron James,Over,1.5,2.2,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,LeBron James,Under,1.5,1.6,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,VJ Edgecombe,Over,1.5,1.74,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,VJ Edgecombe,Under,1.5,2.05,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Kentavious Caldwell-Pope,Over,1.5,2.1,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Kentavious Caldwell-Pope,Under,1.5,1.68,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Anthony Black,Over,1.5,1.86,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Anthony Black,Under,1.5,1.9,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Tristan da Silva,Over,2.5,2.15,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Tristan da Silva,Under,2.5,1.64,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Desmond Bane,Over,3.5,2.1,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Desmond Bane,Under,3.5,1.68,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Jalen Suggs,Over,1.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Jalen Suggs,Under,1.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Franz Wagner,Over,1.5,1.96,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,sportsbet,player_threes,Franz Wagner,Under,1.5,1.8,2026-11-19T00:04:58Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_assists,Anthony Black,Over,4.5,1.68,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_assists,Anthony Black,Under,4.5,2.1,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_assists,Jalen Suggs,Over,4.5,2.25,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_assists,Jalen Suggs,Under,4.5,1.62,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_assists,Franz Wagner,Over,6.5,1.78,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_assists,Franz Wagner,Under,6.5,1.98,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Wendell Carter Jr,Over,11.5,1.91,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Wendell Carter Jr,Under,11.5,1.85,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Anthony Black,Over,14.5,1.88,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Anthony Black,Under,14.5,1.88,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Franz Wagner,Over,25.5,1.86,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Franz Wagner,Under,25.5,1.91,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Desmond Bane,Over,18.5,1.83,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Desmond Bane,Under,18.5,1.94,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Tristan da Silva,Over,10.5,1.83,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Tristan da Silva,Under,10.5,1.92,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Jalen Suggs,Over,10.5,2.0,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points,Jalen Suggs,Under,10.5,1.75,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Desmond Bane,Over,14.5,1.02,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Desmond Bane,Over,19.5,1.15,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Desmond Bane,Over,24.5,1.55,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Desmond Bane,Over,29.5,2.6,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Desmond Bane,Over,34.5,5.25,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Anthony Black,Over,14.5,1.04,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Anthony Black,Over,19.5,1.26,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Anthony Black,Over,24.5,1.95,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Anthony Black,Over,29.5,3.9,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Anthony Black,Over,34.5,9.0,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Jalen Suggs,Over,13.5,1.22,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Jalen Suggs,Over,15.5,1.42,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Jalen Suggs,Over,17.5,1.69,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Jalen Suggs,Over,19.5,2.05,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Jalen Suggs,Over,21.5,3.1,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Franz Wagner,Over,29.5,1.11,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Franz Wagner,Over,34.5,1.36,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Franz Wagner,Over,39.5,2.0,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Franz Wagner,Over,44.5,3.5,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_points_rebounds_assists,Franz Wagner,Over,49.5,7.0,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Anthony Black,Over,4.5,1.88,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Anthony Black,Under,4.5,1.88,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Desmond Bane,Over,4.5,1.88,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Desmond Bane,Under,4.5,1.88,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Wendell Carter Jr,Over,7.5,1.67,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Wendell Carter Jr,Under,7.5,2.02,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Tristan da Silva,Over,3.5,1.73,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Tristan da Silva,Under,3.5,2.05,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Jalen Suggs,Over,3.5,1.78,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Jalen Suggs,Under,3.5,2.0,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Franz Wagner,Over,6.5,2.0,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,betright,player_rebounds,Franz Wagner,Under,6.5,1.75,2026-11-19T00:03:57Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,VJ Edgecombe,Over,3.5,1.74,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,VJ Edgecombe,Under,3.5,2.0,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Desmond Bane,Over,2.5,1.63,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Desmond Bane,Under,2.5,2.17,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Wendell Carter Jr,Over,1.5,1.82,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Wendell Carter Jr,Under,1.5,1.92,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Franz Wagner,Over,6.5,1.81,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Franz Wagner,Under,6.5,1.92,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Tristan da Silva,Over,1.5,1.76,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Tristan da Silva,Under,1.5,1.97,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Anthony Black,Over,4.5,1.68,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Anthony Black,Under,4.5,2.08,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Joel Embiid,Over,3.5,1.81,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Joel Embiid,Under,3.5,1.92,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Jalen Suggs,Over,4.5,2.0,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Jalen Suggs,Under,4.5,1.74,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,LeBron James,Over,7.5,1.8,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,LeBron James,Under,7.5,1.93,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Anfernee Simons,Over,2.5,2.28,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Anfernee Simons,Under,2.5,1.57,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Kentavious Caldwell-Pope,Over,1.5,1.76,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_assists,Kentavious Caldwell-Pope,Under,1.5,1.97,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Franz Wagner,Over,24.5,1.77,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Franz Wagner,Under,24.5,1.96,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Anthony Black,Over,14.5,1.78,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Anthony Black,Under,14.5,1.94,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Jalen Suggs,Over,9.5,1.73,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Jalen Suggs,Under,9.5,2.02,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Desmond Bane,Over,18.5,1.81,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Desmond Bane,Under,18.5,1.92,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Wendell Carter Jr,Over,11.5,1.79,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Wendell Carter Jr,Under,11.5,1.94,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Tristan da Silva,Over,10.5,1.85,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Tristan da Silva,Under,10.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Kentavious Caldwell-Pope,Over,8.5,1.93,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Kentavious Caldwell-Pope,Under,8.5,1.8,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Joel Embiid,Over,26.5,1.85,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Joel Embiid,Under,26.5,1.85,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,VJ Edgecombe,Over,14.5,1.88,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,VJ Edgecombe,Under,14.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,LeBron James,Over,18.5,1.85,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,LeBron James,Under,18.5,1.88,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Anfernee Simons,Over,13.5,1.79,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Anfernee Simons,Under,13.5,1.94,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Jabari Walker,Over,7.5,1.8,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points,Jabari Walker,Under,7.5,1.93,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Tristan da Silva,Over,16.5,1.89,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Tristan da Silva,Under,16.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.85,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Anthony Black,Over,24.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Anthony Black,Under,24.5,1.85,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Jalen Suggs,Over,18.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Jalen Suggs,Under,18.5,1.89,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Wendell Carter Jr,Over,22.5,1.94,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Wendell Carter Jr,Under,22.5,1.79,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,LeBron James,Over,33.5,1.85,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,LeBron James,Under,33.5,1.87,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Joel Embiid,Over,38.5,1.85,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Joel Embiid,Under,38.5,1.85,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Anfernee Simons,Over,19.5,1.96,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Anfernee Simons,Under,19.5,1.77,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Kentavious Caldwell-Pope,Over,13.5,1.92,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Kentavious Caldwell-Pope,Under,13.5,1.81,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.85,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.88,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,VJ Edgecombe,Over,25.5,1.97,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_points_rebounds_assists,VJ Edgecombe,Under,25.5,1.76,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Kentavious Caldwell-Pope,Over,2.5,1.6,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Kentavious Caldwell-Pope,Under,2.5,2.23,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Tristan da Silva,Over,3.5,1.78,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Tristan da Silva,Under,3.5,1.95,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Franz Wagner,Over,6.5,1.91,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Franz Wagner,Under,6.5,1.82,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Jalen Suggs,Over,3.5,1.75,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Jalen Suggs,Under,3.5,1.97,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Anthony Black,Over,4.5,2.0,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Anthony Black,Under,4.5,1.75,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Desmond Bane,Over,4.5,2.02,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Desmond Bane,Under,4.5,1.73,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Joel Embiid,Over,8.5,2.12,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Joel Embiid,Under,8.5,1.65,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,LeBron James,Over,6.5,1.77,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,LeBron James,Under,6.5,1.96,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Wendell Carter Jr,Over,8.5,1.97,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Wendell Carter Jr,Under,8.5,1.76,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Anfernee Simons,Over,2.5,1.94,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Anfernee Simons,Under,2.5,1.78,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,VJ Edgecombe,Over,6.5,2.0,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,VJ Edgecombe,Under,6.5,1.74,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Jabari Walker,Over,5.5,1.97,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_rebounds,Jabari Walker,Under,5.5,1.75,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Tristan da Silva,Over,2.5,2.14,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Tristan da Silva,Under,2.5,1.65,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Franz Wagner,Over,1.5,1.94,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Franz Wagner,Under,1.5,1.79,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Desmond Bane,Over,3.5,2.12,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Desmond Bane,Under,3.5,1.65,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Kentavious Caldwell-Pope,Over,1.5,2.25,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Kentavious Caldwell-Pope,Under,1.5,1.57,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Jalen Suggs,Over,1.5,1.75,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Jalen Suggs,Under,1.5,1.97,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Wendell Carter Jr,Over,0.5,1.57,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Wendell Carter Jr,Under,0.5,2.25,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Anthony Black,Over,1.5,1.76,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Anthony Black,Under,1.5,1.97,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,VJ Edgecombe,Over,1.5,1.64,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,VJ Edgecombe,Under,1.5,2.15,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,LeBron James,Over,1.5,2.18,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,LeBron James,Under,1.5,1.63,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Anfernee Simons,Over,2.5,1.83,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Anfernee Simons,Under,2.5,1.88,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Joel Embiid,Over,1.5,2.5,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,unibet,player_threes,Joel Embiid,Under,1.5,1.49,2026-11-19T00:04:48Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Anfernee Simons,Over,2.5,2.5,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Anfernee Simons,Under,2.5,1.5,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Anthony Black,Over,4.5,1.72,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Anthony Black,Under,4.5,2.05,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Desmond Bane,Over,3.5,2.3,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Desmond Bane,Under,3.5,1.58,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Franz Wagner,Over,6.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Franz Wagner,Under,6.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Goga Bitadze,Over,1.5,2.55,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Goga Bitadze,Under,1.5,1.48,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Jabari Walker,Over,0.5,1.62,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Jabari Walker,Under,0.5,2.2,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Jalen Suggs,Over,4.5,2.3,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Jalen Suggs,Under,4.5,1.58,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Joel Embiid,Over,3.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Joel Embiid,Under,3.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,LeBron James,Over,7.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,LeBron James,Under,7.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Tristan da Silva,Over,1.5,1.68,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Tristan da Silva,Under,1.5,2.1,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,VJ Edgecombe,Over,3.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,VJ Edgecombe,Under,3.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Wendell Carter Jr,Over,1.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_assists,Wendell Carter Jr,Under,1.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Anfernee Simons,Over,13.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Anfernee Simons,Under,13.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Anthony Black,Over,15.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Anthony Black,Under,15.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Desmond Bane,Over,19.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Desmond Bane,Under,19.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Franz Wagner,Over,25.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Franz Wagner,Under,25.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Goga Bitadze,Over,6.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Goga Bitadze,Under,6.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Jevon Carter,Over,4.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Jevon Carter,Under,4.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Justin Edwards,Over,5.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Justin Edwards,Under,5.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Jabari Walker,Over,7.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Jabari Walker,Under,7.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Jalen Suggs,Over,9.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Jalen Suggs,Under,9.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Jamal Cain,Over,4.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Jamal Cain,Under,4.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Jase Richardson,Over,1.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Jase Richardson,Under,1.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Joel Embiid,Over,25.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Joel Embiid,Under,25.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,LeBron James,Over,17.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,LeBron James,Under,17.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Tristan da Silva,Over,10.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Tristan da Silva,Under,10.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,VJ Edgecombe,Over,15.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,VJ Edgecombe,Under,15.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Wendell Carter Jr,Over,11.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points,Wendell Carter Jr,Under,11.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Anfernee Simons,Over,18.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Anfernee Simons,Under,18.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Anthony Black,Over,24.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Anthony Black,Under,24.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Desmond Bane,Over,27.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Desmond Bane,Under,27.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Franz Wagner,Over,39.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Franz Wagner,Under,39.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Goga Bitadze,Over,13.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Goga Bitadze,Under,13.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Jabari Walker,Over,13.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Jabari Walker,Under,13.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Jalen Suggs,Over,18.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Jalen Suggs,Under,18.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Joel Embiid,Over,37.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Joel Embiid,Under,37.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,LeBron James,Over,32.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,LeBron James,Under,32.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Tristan da Silva,Over,16.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Tristan da Silva,Under,16.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,VJ Edgecombe,Over,25.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,VJ Edgecombe,Under,25.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Wendell Carter Jr,Over,21.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_points_rebounds_assists,Wendell Carter Jr,Under,21.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Anfernee Simons,Over,2.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Anfernee Simons,Under,2.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Anthony Black,Over,4.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Anthony Black,Under,4.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Desmond Bane,Over,4.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Desmond Bane,Under,4.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Franz Wagner,Over,6.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Franz Wagner,Under,6.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Goga Bitadze,Over,6.5,2.25,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Goga Bitadze,Under,6.5,1.6,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Jabari Walker,Over,5.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Jabari Walker,Under,5.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Jalen Suggs,Over,3.5,1.72,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Jalen Suggs,Under,3.5,2.05,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Joel Embiid,Over,8.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Joel Embiid,Under,8.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,LeBron James,Over,7.5,2.1,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,LeBron James,Under,7.5,1.68,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Tristan da Silva,Over,3.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Tristan da Silva,Under,3.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,VJ Edgecombe,Over,6.5,2.05,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,VJ Edgecombe,Under,6.5,1.72,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Wendell Carter Jr,Over,8.5,2.05,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_rebounds,Wendell Carter Jr,Under,8.5,1.72,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Anfernee Simons,Over,2.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Anfernee Simons,Under,2.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Anthony Black,Over,1.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Anthony Black,Under,1.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Desmond Bane,Over,3.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Desmond Bane,Under,3.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Franz Wagner,Over,1.5,2.05,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Franz Wagner,Under,1.5,1.72,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Jabari Walker,Over,0.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Jabari Walker,Under,0.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Jalen Suggs,Over,1.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Jalen Suggs,Under,1.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Joel Embiid,Over,1.5,2.55,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Joel Embiid,Under,1.5,1.48,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,LeBron James,Over,1.5,2.25,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,LeBron James,Under,1.5,1.6,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Tristan da Silva,Over,2.5,2.3,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Tristan da Silva,Under,2.5,1.58,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,VJ Edgecombe,Over,1.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,VJ Edgecombe,Under,1.5,1.95,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Wendell Carter Jr,Over,0.5,1.55,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,tab,player_threes,Wendell Carter Jr,Under,0.5,2.35,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Anthony Black,Over,4.5,1.77,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Anthony Black,Under,4.5,1.98,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Anfernee Simons,Over,2.5,2.15,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Anfernee Simons,Under,2.5,1.65,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,VJ Edgecombe,Over,3.5,1.83,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,VJ Edgecombe,Under,3.5,1.9,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Joel Embiid,Over,3.5,1.82,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Joel Embiid,Under,3.5,1.92,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Desmond Bane,Over,2.5,1.7,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Desmond Bane,Under,2.5,2.05,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,LeBron James,Over,7.5,1.78,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,LeBron James,Under,7.5,1.96,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Franz Wagner,Over,6.5,1.85,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Franz Wagner,Under,6.5,1.9,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Jalen Suggs,Over,3.5,1.75,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_assists,Jalen Suggs,Under,3.5,2.0,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Anthony Black,Over,14.5,1.88,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Anthony Black,Under,14.5,1.87,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Franz Wagner,Over,25.5,1.88,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Franz Wagner,Under,25.5,1.85,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Joel Embiid,Over,26.5,1.88,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Joel Embiid,Under,26.5,1.87,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,VJ Edgecombe,Over,14.5,1.83,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,VJ Edgecombe,Under,14.5,1.9,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Wendell Carter Jr,Over,11.5,1.94,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Wendell Carter Jr,Under,11.5,1.8,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Kentavious Caldwell-Pope,Over,7.5,1.87,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Kentavious Caldwell-Pope,Under,7.5,1.87,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Tristan da Silva,Over,10.5,1.85,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Tristan da Silva,Under,10.5,1.88,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Anfernee Simons,Over,13.5,1.85,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Anfernee Simons,Under,13.5,1.9,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Jabari Walker,Over,7.5,1.88,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Jabari Walker,Under,7.5,1.87,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Desmond Bane,Over,18.5,1.88,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Desmond Bane,Under,18.5,1.87,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Jalen Suggs,Over,10.5,1.92,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,Jalen Suggs,Under,10.5,1.82,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,LeBron James,Over,18.5,1.92,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points,LeBron James,Under,18.5,1.82,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Desmond Bane,Over,25.5,1.77,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Desmond Bane,Under,25.5,1.98,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,LeBron James,Over,32.5,1.75,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,LeBron James,Under,32.5,2.0,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.85,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.9,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Anthony Black,Over,23.5,1.77,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Anthony Black,Under,23.5,1.98,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,VJ Edgecombe,Over,24.5,1.78,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,VJ Edgecombe,Under,24.5,1.96,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Joel Embiid,Over,37.5,1.78,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Joel Embiid,Under,37.5,1.96,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Jalen Suggs,Over,17.5,1.77,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Jalen Suggs,Under,17.5,1.98,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Anfernee Simons,Over,18.5,1.85,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_points_rebounds_assists,Anfernee Simons,Under,18.5,1.9,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Joel Embiid,Over,7.5,1.78,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Joel Embiid,Under,7.5,1.96,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Anfernee Simons,Over,2.5,1.85,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Anfernee Simons,Under,2.5,1.9,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Desmond Bane,Over,4.5,1.98,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Desmond Bane,Under,4.5,1.78,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Tristan da Silva,Over,3.5,1.82,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Tristan da Silva,Under,3.5,1.92,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Anthony Black,Over,4.5,1.94,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Anthony Black,Under,4.5,1.8,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Wendell Carter Jr,Over,7.5,1.85,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Wendell Carter Jr,Under,7.5,1.9,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Jalen Suggs,Over,3.5,1.85,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Jalen Suggs,Under,3.5,1.88,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Kentavious Caldwell-Pope,Over,2.5,1.7,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Kentavious Caldwell-Pope,Under,2.5,2.1,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Franz Wagner,Over,6.5,2.0,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Franz Wagner,Under,6.5,1.75,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,LeBron James,Over,6.5,1.75,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,LeBron James,Under,6.5,2.0,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Jabari Walker,Over,5.5,2.15,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,Jabari Walker,Under,5.5,1.67,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,VJ Edgecombe,Over,6.5,1.98,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_rebounds,VJ Edgecombe,Under,6.5,1.78,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Franz Wagner,Over,1.5,2.05,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Franz Wagner,Under,1.5,1.65,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,VJ Edgecombe,Over,1.5,1.73,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,VJ Edgecombe,Under,1.5,1.94,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Tristan da Silva,Over,2.5,2.15,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Tristan da Silva,Under,2.5,1.6,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Anthony Black,Over,1.5,1.94,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Anthony Black,Under,1.5,1.73,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Desmond Bane,Over,3.5,2.1,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Desmond Bane,Under,3.5,1.62,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Jalen Suggs,Over,1.5,1.92,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Jalen Suggs,Under,1.5,1.75,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Anfernee Simons,Over,2.5,1.88,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,neds,player_threes,Anfernee Simons,Under,2.5,1.8,2026-11-19T00:04:01Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Anthony Black,Over,4.5,1.77,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Anthony Black,Under,4.5,1.98,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Anfernee Simons,Over,2.5,2.15,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Anfernee Simons,Under,2.5,1.65,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,VJ Edgecombe,Over,3.5,1.83,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,VJ Edgecombe,Under,3.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Joel Embiid,Over,3.5,1.82,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Joel Embiid,Under,3.5,1.92,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Desmond Bane,Over,2.5,1.7,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Desmond Bane,Under,2.5,2.05,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,LeBron James,Over,7.5,1.78,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,LeBron James,Under,7.5,1.96,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Franz Wagner,Over,6.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Franz Wagner,Under,6.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Jalen Suggs,Over,3.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_assists,Jalen Suggs,Under,3.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Anthony Black,Over,14.5,1.88,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Anthony Black,Under,14.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Franz Wagner,Over,25.5,1.88,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Franz Wagner,Under,25.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Joel Embiid,Over,26.5,1.88,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Joel Embiid,Under,26.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,VJ Edgecombe,Over,14.5,1.83,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,VJ Edgecombe,Under,14.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Wendell Carter Jr,Over,11.5,1.94,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Wendell Carter Jr,Under,11.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Kentavious Caldwell-Pope,Over,7.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Kentavious Caldwell-Pope,Under,7.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Tristan da Silva,Over,10.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Tristan da Silva,Under,10.5,1.88,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Anfernee Simons,Over,13.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Anfernee Simons,Under,13.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Jabari Walker,Over,7.5,1.88,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Jabari Walker,Under,7.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Desmond Bane,Over,18.5,1.88,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Desmond Bane,Under,18.5,1.87,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Jalen Suggs,Over,10.5,1.92,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,Jalen Suggs,Under,10.5,1.82,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,LeBron James,Over,18.5,1.92,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points,LeBron James,Under,18.5,1.82,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Over,25.5,1.77,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Under,25.5,1.98,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,LeBron James,Over,32.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,LeBron James,Under,32.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Over,23.5,1.77,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Under,23.5,1.98,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,VJ Edgecombe,Over,24.5,1.78,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,VJ Edgecombe,Under,24.5,1.96,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Joel Embiid,Over,37.5,1.78,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Joel Embiid,Under,37.5,1.96,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Jalen Suggs,Over,17.5,1.77,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Jalen Suggs,Under,17.5,1.98,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Anfernee Simons,Over,18.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Anfernee Simons,Under,18.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Joel Embiid,Over,7.5,1.78,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Joel Embiid,Under,7.5,1.96,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Anfernee Simons,Over,2.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Anfernee Simons,Under,2.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Desmond Bane,Over,4.5,1.98,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Desmond Bane,Under,4.5,1.78,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Tristan da Silva,Over,3.5,1.82,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Tristan da Silva,Under,3.5,1.92,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Anthony Black,Over,4.5,1.94,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Anthony Black,Under,4.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Wendell Carter Jr,Over,7.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Wendell Carter Jr,Under,7.5,1.9,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Jalen Suggs,Over,3.5,1.85,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Jalen Suggs,Under,3.5,1.88,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Kentavious Caldwell-Pope,Over,2.5,1.7,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Kentavious Caldwell-Pope,Under,2.5,2.1,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Franz Wagner,Over,6.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Franz Wagner,Under,6.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,LeBron James,Over,6.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,LeBron James,Under,6.5,2.0,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Jabari Walker,Over,5.5,2.15,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,Jabari Walker,Under,5.5,1.67,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,VJ Edgecombe,Over,6.5,1.98,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_rebounds,VJ Edgecombe,Under,6.5,1.78,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Franz Wagner,Over,1.5,2.05,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Franz Wagner,Under,1.5,1.65,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,VJ Edgecombe,Over,1.5,1.73,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,VJ Edgecombe,Under,1.5,1.94,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Tristan da Silva,Over,2.5,2.15,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Tristan da Silva,Under,2.5,1.6,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Anthony Black,Over,1.5,1.94,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Anthony Black,Under,1.5,1.73,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Desmond Bane,Over,3.5,2.1,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Desmond Bane,Under,3.5,1.62,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Jalen Suggs,Over,1.5,1.92,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Jalen Suggs,Under,1.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Anfernee Simons,Over,2.5,1.88,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Anfernee Simons,Under,2.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
