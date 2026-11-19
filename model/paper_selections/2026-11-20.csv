@@ -1,0 +1,7 @@
+date_melb,tipoff_melb,game,player,market,side,line,odds,book,n_books_at_line,n_books,median_line,implied,model_prob,ev_pct,proj,proj_min,status,D1,D2,D3,D4,D5,D6,D7,D8,ces,tier,flags,model_version
+2026-11-20,12:10,Los Angeles Clippers @ San Antonio Spurs,Keaton Wagler,player_points,Over,9.5,1.92,betright,3,6,10.0,0.521,0.678,30.3,11.7,22.1,,2,1,2,2,0,-2,0,1,1.05,Diff 3,,v4.1
+2026-11-20,12:10,Los Angeles Clippers @ San Antonio Spurs,Kris Dunn,player_rebounds,Over,2.5,1.63,pointsbetau,3,6,3.0,0.613,0.666,8.6,3.5,25.9,,1,2,2,1,0,-1,0,1,1.0,Diff 3,,v4.1
+2026-11-20,12:10,Portland Trail Blazers @ Milwaukee Bucks,Brayden Burries,player_rebounds,Over,4.5,1.87,ladbrokes_au,6,6,4.5,0.535,0.617,15.3,5.5,22.7,,1,2,1,1,1,-1,0,1,0.95,Diff 3,key teammates out: ryan rollins; back-to-back,v4.1
+2026-11-20,12:10,Golden State Warriors @ Memphis Grizzlies,Cameron Boozer,player_assists,Over,4.5,1.83,unibet,6,6,4.5,0.546,0.608,11.3,5.3,29.6,,1,1,1,1,1,1,0,0,0.9,Diff 3,key teammates out: ty jerome; back-to-back,v4.1
+2026-11-20,12:10,Portland Trail Blazers @ Milwaukee Bucks,Myles Turner,player_rebounds,Over,4.5,1.72,ladbrokes_au,5,6,4.5,0.581,0.581,-0.1,5.3,25.2,,1,2,2,-1,1,-1,0,0,0.75,Diff 3,key teammates out: ryan rollins; back-to-back,v4.1
+2026-11-20,12:10,Golden State Warriors @ Memphis Grizzlies,Cedric Coward,player_threes,Over,1.5,1.6,ladbrokes_au,5,5,1.5,0.625,0.564,-9.8,1.9,27.9,,1,2,2,-2,1,0,0,0,0.7,Diff 3,key teammates out: ty jerome; back-to-back,v4.1

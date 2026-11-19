@@ -1,11 +1,11 @@
 {
- "date_melb": "2026-11-19",
- "games": 12,
- "first_tip_melb": "11:10",
- "last_tip_melb": "14:10",
- "refresh_melb": "09:40",
- "pretip_melb": "10:10",
- "first_tip_utc": "2026-11-19T00:10:00+00:00",
- "refresh_utc": "2026-11-18T22:40:00+00:00",
+ "date_melb": "2026-11-20",
+ "games": 4,
+ "first_tip_melb": "12:10",
+ "last_tip_melb": "12:10",
+ "refresh_melb": "10:40",
+ "pretip_melb": "11:10",
+ "first_tip_utc": "2026-11-20T01:10:00+00:00",
+ "refresh_utc": "2026-11-19T23:40:00+00:00",
  "closing_auto": true
 }
