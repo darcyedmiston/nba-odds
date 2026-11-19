@@ -783,3 +783,760 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-19,11:10,Memphis Grizzlies @ Cleveland Cavaliers,tab,player_threes,Taylor Hendricks,Under,1.5,1.3,2026-11-19T00:03:37Z,2026-11-19T00:05:00+00:00,5.0
 2026-11-19,11:10,Memphis Grizzlies @ Cleveland Cavaliers,tab,player_threes,Tyrese Proctor,Over,2.5,2.5,2026-11-19T00:03:37Z,2026-11-19T00:05:00+00:00,5.0
 2026-11-19,11:10,Memphis Grizzlies @ Cleveland Cavaliers,tab,player_threes,Tyrese Proctor,Under,2.5,1.5,2026-11-19T00:03:37Z,2026-11-19T00:05:00+00:00,5.0
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Kevin Durant,Over,3.5,1.72,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Kevin Durant,Under,3.5,2.08,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Pascal Siakam,Over,3.5,1.72,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Pascal Siakam,Under,3.5,2.08,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Alperen Sengun,Over,6.5,1.84,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Alperen Sengun,Under,6.5,1.92,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Amen Thompson,Over,3.5,2.02,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Amen Thompson,Under,3.5,1.76,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Fred VanVleet,Over,4.5,1.68,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Fred VanVleet,Under,4.5,2.1,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,T.J. McConnell,Over,4.5,1.64,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,T.J. McConnell,Under,4.5,2.15,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Reed Sheppard,Over,2.5,2.5,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Reed Sheppard,Under,2.5,1.48,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Quenton Jackson,Over,4.5,2.25,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_assists,Quenton Jackson,Under,4.5,1.58,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Kevin Durant,Over,22.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Kevin Durant,Under,22.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Pascal Siakam,Over,21.5,1.91,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Pascal Siakam,Under,21.5,1.85,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Alperen Sengun,Over,20.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Alperen Sengun,Under,20.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Amen Thompson,Over,15.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Amen Thompson,Under,15.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Ivica Zubac,Over,12.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Ivica Zubac,Under,12.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Jabari Smith Jr,Over,14.5,1.89,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Jabari Smith Jr,Under,14.5,1.87,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Fred VanVleet,Over,12.5,1.92,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Fred VanVleet,Under,12.5,1.84,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Aaron Nesmith,Over,13.5,1.86,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Aaron Nesmith,Under,13.5,1.9,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Kelly Oubre Jr.,Over,12.5,1.92,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Kelly Oubre Jr.,Under,12.5,1.83,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Obi Toppin,Over,8.5,1.92,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Obi Toppin,Under,8.5,1.84,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,T.J. McConnell,Over,8.5,1.88,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,T.J. McConnell,Under,8.5,1.88,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Reed Sheppard,Over,7.5,1.86,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Reed Sheppard,Under,7.5,1.89,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Quenton Jackson,Over,11.5,1.93,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Quenton Jackson,Under,11.5,1.83,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Tari Eason,Over,8.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points,Tari Eason,Under,8.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Kevin Durant,Over,31.5,1.88,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Kevin Durant,Under,31.5,1.88,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Quenton Jackson,Over,19.5,1.92,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Quenton Jackson,Under,19.5,1.84,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Tari Eason,Over,15.5,1.86,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Tari Eason,Under,15.5,1.9,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Pascal Siakam,Over,31.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Pascal Siakam,Under,31.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Alperen Sengun,Over,36.5,1.92,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Alperen Sengun,Under,36.5,1.84,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Amen Thompson,Over,25.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Amen Thompson,Under,25.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Ivica Zubac,Over,23.5,1.92,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Ivica Zubac,Under,23.5,1.84,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Jabari Smith Jr,Over,23.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Jabari Smith Jr,Under,23.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Fred VanVleet,Over,20.5,1.88,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Fred VanVleet,Under,20.5,1.88,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,T.J. McConnell,Over,16.5,1.91,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,T.J. McConnell,Under,16.5,1.85,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Reed Sheppard,Over,11.5,1.84,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Reed Sheppard,Under,11.5,1.92,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Aaron Nesmith,Over,19.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Aaron Nesmith,Under,19.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Kelly Oubre Jr.,Over,17.5,1.84,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_points_rebounds_assists,Kelly Oubre Jr.,Under,17.5,1.92,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Kevin Durant,Over,5.5,2.1,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Kevin Durant,Under,5.5,1.68,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Pascal Siakam,Over,5.5,1.9,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Pascal Siakam,Under,5.5,1.86,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Alperen Sengun,Over,9.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Alperen Sengun,Under,9.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Amen Thompson,Over,6.5,1.72,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Amen Thompson,Under,6.5,2.08,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Ivica Zubac,Over,9.5,2.08,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Ivica Zubac,Under,9.5,1.72,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Jabari Smith Jr,Over,6.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Jabari Smith Jr,Under,6.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Fred VanVleet,Over,3.5,2.3,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Fred VanVleet,Under,3.5,1.56,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Aaron Nesmith,Over,3.5,1.89,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Aaron Nesmith,Under,3.5,1.87,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Kelly Oubre Jr.,Over,3.5,1.91,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Kelly Oubre Jr.,Under,3.5,1.85,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Steven Adams,Over,5.5,2.15,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Steven Adams,Under,5.5,1.64,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Obi Toppin,Over,3.5,2.1,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Obi Toppin,Under,3.5,1.68,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,T.J. McConnell,Over,2.5,2.08,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,T.J. McConnell,Under,2.5,1.72,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Quenton Jackson,Over,3.5,2.08,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Quenton Jackson,Under,3.5,1.72,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Tari Eason,Over,5.5,2.05,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_rebounds,Tari Eason,Under,5.5,1.74,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Kevin Durant,Over,1.5,1.72,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Kevin Durant,Under,1.5,2.08,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Pascal Siakam,Over,1.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Pascal Siakam,Under,1.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Jabari Smith Jr,Over,2.5,2.6,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Jabari Smith Jr,Under,2.5,1.45,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Fred VanVleet,Over,2.5,1.8,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Fred VanVleet,Under,2.5,1.96,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Aaron Nesmith,Over,1.5,1.56,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Aaron Nesmith,Under,1.5,2.3,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Kelly Oubre Jr.,Over,1.5,2.15,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Kelly Oubre Jr.,Under,1.5,1.64,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Obi Toppin,Over,1.5,2.45,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Obi Toppin,Under,1.5,1.5,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Reed Sheppard,Over,1.5,1.76,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Reed Sheppard,Under,1.5,2.02,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Quenton Jackson,Over,1.5,2.15,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Quenton Jackson,Under,1.5,1.64,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Tari Eason,Over,1.5,2.3,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,sportsbet,player_threes,Tari Eason,Under,1.5,1.56,2026-11-19T00:03:44Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Alperen Sengun,Over,6.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Alperen Sengun,Under,6.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Amen Thompson,Over,3.5,1.95,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Amen Thompson,Under,3.5,1.8,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Fred VanVleet,Over,4.5,1.71,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Fred VanVleet,Under,4.5,2.1,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Ivica Zubac,Over,1.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Ivica Zubac,Under,1.5,2.05,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Jabari Smith Jr,Over,1.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Jabari Smith Jr,Under,1.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Kevin Durant,Over,3.5,1.77,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Kevin Durant,Under,3.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Pascal Siakam,Over,3.5,1.8,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Pascal Siakam,Under,3.5,1.95,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Quenton Jackson,Over,4.5,2.2,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Quenton Jackson,Under,4.5,1.67,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Reed Sheppard,Over,1.5,1.63,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,Reed Sheppard,Under,1.5,2.25,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,T.J. McConnell,Over,4.5,1.69,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_assists,T.J. McConnell,Under,4.5,2.15,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Aaron Nesmith,Over,13.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Aaron Nesmith,Under,13.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Alperen Sengun,Over,20.5,1.95,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Alperen Sengun,Under,20.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Amen Thompson,Over,15.5,1.95,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Amen Thompson,Under,15.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Fred VanVleet,Over,12.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Fred VanVleet,Under,12.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Ivica Zubac,Over,12.5,1.95,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Ivica Zubac,Under,12.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Jabari Smith Jr,Over,14.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Jabari Smith Jr,Under,14.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Kelly Oubre Jr.,Over,12.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Kelly Oubre Jr.,Under,12.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Kevin Durant,Over,22.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Kevin Durant,Under,22.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Obi Toppin,Over,8.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Obi Toppin,Under,8.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Pascal Siakam,Over,21.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Pascal Siakam,Under,21.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Quenton Jackson,Over,11.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Quenton Jackson,Under,11.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Reed Sheppard,Over,7.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Reed Sheppard,Under,7.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Steven Adams,Over,3.5,1.8,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Steven Adams,Under,3.5,2.05,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,T.J. McConnell,Over,8.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,T.J. McConnell,Under,8.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Tari Eason,Over,8.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points,Tari Eason,Under,8.5,1.95,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Alperen Sengun,Over,36.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Alperen Sengun,Under,36.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Amen Thompson,Over,26.5,1.95,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Amen Thompson,Under,26.5,1.8,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Fred VanVleet,Over,20.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Fred VanVleet,Under,20.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Ivica Zubac,Over,23.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Ivica Zubac,Under,23.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Jabari Smith Jr,Over,22.5,1.8,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Jabari Smith Jr,Under,22.5,1.95,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Kevin Durant,Over,31.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Kevin Durant,Under,31.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Pascal Siakam,Over,31.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Pascal Siakam,Under,31.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Quenton Jackson,Over,19.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,Quenton Jackson,Under,19.5,1.77,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,T.J. McConnell,Over,16.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_points_rebounds_assists,T.J. McConnell,Under,16.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Aaron Nesmith,Over,3.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Aaron Nesmith,Under,3.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Alperen Sengun,Over,9.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Alperen Sengun,Under,9.5,1.77,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Amen Thompson,Over,6.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Amen Thompson,Under,6.5,2.05,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Fred VanVleet,Over,2.5,1.59,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Fred VanVleet,Under,2.5,2.3,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Ivica Zubac,Over,9.5,2.05,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Ivica Zubac,Under,9.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Jabari Smith Jr,Over,6.5,1.95,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Jabari Smith Jr,Under,6.5,1.8,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Kelly Oubre Jr.,Over,3.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Kelly Oubre Jr.,Under,3.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Kevin Durant,Over,5.5,2.2,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Kevin Durant,Under,5.5,1.67,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Obi Toppin,Over,3.5,2.1,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Obi Toppin,Under,3.5,1.71,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Pascal Siakam,Over,5.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Pascal Siakam,Under,5.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Quenton Jackson,Over,3.5,2.05,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Quenton Jackson,Under,3.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Steven Adams,Over,4.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Steven Adams,Under,4.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,T.J. McConnell,Over,2.5,2.05,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,T.J. McConnell,Under,2.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Tari Eason,Over,5.5,2.05,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_rebounds,Tari Eason,Under,5.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Kelly Oubre Jr.,Over,1.5,2.15,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Kelly Oubre Jr.,Under,1.5,1.69,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Pascal Siakam,Over,1.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Pascal Siakam,Under,1.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Aaron Nesmith,Over,1.5,1.56,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Aaron Nesmith,Under,1.5,2.4,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Kevin Durant,Over,1.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Kevin Durant,Under,1.5,2.05,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Fred VanVleet,Over,2.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Fred VanVleet,Under,2.5,1.9,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Jabari Smith Jr,Over,2.5,2.4,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Jabari Smith Jr,Under,2.5,1.56,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Amen Thompson,Over,0.5,3.4,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Amen Thompson,Under,0.5,1.29,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Obi Toppin,Over,1.5,2.45,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Obi Toppin,Under,1.5,1.53,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Reed Sheppard,Over,1.5,1.8,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Reed Sheppard,Under,1.5,1.95,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Quenton Jackson,Over,1.5,2.05,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Quenton Jackson,Under,1.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Tari Eason,Over,1.5,2.45,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,pointsbetau,player_threes,Tari Eason,Under,1.5,1.53,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_assists,Pascal Siakam,Over,3.5,1.86,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_assists,Pascal Siakam,Under,3.5,1.9,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_assists,Kevin Durant,Over,3.5,1.68,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_assists,Kevin Durant,Under,3.5,2.1,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_assists,Alperen Sengun,Over,6.5,1.85,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_assists,Alperen Sengun,Under,6.5,1.91,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_assists,Amen Thompson,Over,3.5,2.0,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_assists,Amen Thompson,Under,3.5,1.78,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_assists,Fred VanVleet,Over,4.5,1.62,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_assists,Fred VanVleet,Under,4.5,2.2,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Kelly Oubre Jr.,Over,12.5,1.94,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Kelly Oubre Jr.,Under,12.5,1.83,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Jabari Smith Jr,Over,14.5,1.92,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Jabari Smith Jr,Under,14.5,1.83,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Aaron Nesmith,Over,13.5,1.9,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Aaron Nesmith,Under,13.5,1.86,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Ivica Zubac,Over,12.5,1.91,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Ivica Zubac,Under,12.5,1.85,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Kevin Durant,Over,22.5,1.9,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Kevin Durant,Under,22.5,1.86,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Alperen Sengun,Over,20.5,1.92,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Alperen Sengun,Under,20.5,1.83,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Amen Thompson,Over,15.5,1.83,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Amen Thompson,Under,15.5,1.92,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Pascal Siakam,Over,21.5,1.96,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Pascal Siakam,Under,21.5,1.8,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Fred VanVleet,Over,12.5,1.96,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points,Fred VanVleet,Under,12.5,1.8,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Pascal Siakam,Over,19.5,1.04,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Pascal Siakam,Over,24.5,1.22,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Pascal Siakam,Over,29.5,1.7,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Pascal Siakam,Over,34.5,3.0,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Pascal Siakam,Over,39.5,6.5,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Kevin Durant,Over,19.5,1.02,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Kevin Durant,Over,24.5,1.14,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Kevin Durant,Over,29.5,1.5,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Kevin Durant,Over,34.5,2.5,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Kevin Durant,Over,39.5,5.0,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Alperen Sengun,Over,24.5,1.05,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Alperen Sengun,Over,29.5,1.21,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Alperen Sengun,Over,34.5,1.62,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Alperen Sengun,Over,39.5,2.63,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Alperen Sengun,Over,44.5,5.0,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Amen Thompson,Over,14.5,1.02,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Amen Thompson,Over,19.5,1.15,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Amen Thompson,Over,24.5,1.6,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Amen Thompson,Over,29.5,2.88,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Amen Thompson,Over,34.5,6.25,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Fred VanVleet,Over,9.5,1.01,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Fred VanVleet,Over,14.5,1.15,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Fred VanVleet,Over,19.5,1.68,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Fred VanVleet,Over,24.5,3.2,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_points_rebounds_assists,Fred VanVleet,Over,29.5,7.5,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Jabari Smith Jr,Over,6.5,1.88,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Jabari Smith Jr,Under,6.5,1.86,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Aaron Nesmith,Over,3.5,1.97,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Aaron Nesmith,Under,3.5,1.78,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Kelly Oubre Jr.,Over,3.5,1.91,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Kelly Oubre Jr.,Under,3.5,1.86,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Pascal Siakam,Over,5.5,1.86,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Pascal Siakam,Under,5.5,1.91,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Ivica Zubac,Over,9.5,2.0,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Ivica Zubac,Under,9.5,1.75,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Kevin Durant,Over,5.5,2.0,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Kevin Durant,Under,5.5,1.75,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Alperen Sengun,Over,9.5,2.0,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Alperen Sengun,Under,9.5,1.75,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Fred VanVleet,Over,3.5,2.2,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Fred VanVleet,Under,3.5,1.62,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Amen Thompson,Over,6.5,1.7,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,betright,player_rebounds,Amen Thompson,Under,6.5,2.05,2026-11-19T00:03:54Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Aaron Nesmith,Over,2.5,2.55,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Aaron Nesmith,Under,2.5,1.48,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Alperen Sengun,Over,6.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Alperen Sengun,Under,6.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Amen Thompson,Over,3.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Amen Thompson,Under,3.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Fred VanVleet,Over,4.5,1.72,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Fred VanVleet,Under,4.5,2.05,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Ivica Zubac,Over,2.5,2.45,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Ivica Zubac,Under,2.5,1.52,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Jabari Smith Jr,Over,1.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Jabari Smith Jr,Under,1.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Kevin Durant,Over,3.5,1.75,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Kevin Durant,Under,3.5,2.0,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Kelly Oubre Jr.,Over,1.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Kelly Oubre Jr.,Under,1.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Marcus Smart,Over,1.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Marcus Smart,Under,1.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Obi Toppin,Over,1.5,2.15,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Obi Toppin,Under,1.5,1.65,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Pascal Siakam,Over,4.5,2.25,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Pascal Siakam,Under,4.5,1.6,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Reed Sheppard,Over,2.5,2.6,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Reed Sheppard,Under,2.5,1.46,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Steven Adams,Over,1.5,3.3,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,Steven Adams,Under,1.5,1.3,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,T.J. McConnell,Over,5.5,2.05,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_assists,T.J. McConnell,Under,5.5,1.72,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Aaron Nesmith,Over,14.5,2.0,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Aaron Nesmith,Under,14.5,1.75,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Alperen Sengun,Over,20.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Alperen Sengun,Under,20.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Amen Thompson,Over,15.5,1.87,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Amen Thompson,Under,15.5,1.87,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Braden Smith,Over,1.5,1.72,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Braden Smith,Under,1.5,2.05,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Fred VanVleet,Over,12.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Fred VanVleet,Under,12.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Ivica Zubac,Over,12.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Ivica Zubac,Under,12.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Jae'sean Tate,Over,1.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Jae'sean Tate,Under,1.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Jabari Smith Jr,Over,14.5,1.87,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Jabari Smith Jr,Under,14.5,1.87,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Jarace Walker,Over,5.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Jarace Walker,Under,5.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Jay Huff,Over,5.5,2.05,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Jay Huff,Under,5.5,1.72,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Kevin Durant,Over,22.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Kevin Durant,Under,22.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Kelly Oubre Jr.,Over,12.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Kelly Oubre Jr.,Under,12.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Larry Nance Jr.,Over,2.5,1.75,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Larry Nance Jr.,Under,2.5,2.0,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Marcus Smart,Over,5.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Marcus Smart,Under,5.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Obi Toppin,Over,8.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Obi Toppin,Under,8.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Pascal Siakam,Over,21.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Pascal Siakam,Under,21.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Reed Sheppard,Over,7.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Reed Sheppard,Under,7.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Steven Adams,Over,3.5,1.75,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,Steven Adams,Under,3.5,2.0,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,T.J. McConnell,Over,8.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points,T.J. McConnell,Under,8.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Aaron Nesmith,Over,19.5,1.87,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Aaron Nesmith,Under,19.5,1.87,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Alperen Sengun,Over,36.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Alperen Sengun,Under,36.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Amen Thompson,Over,25.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Amen Thompson,Under,25.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Fred VanVleet,Over,20.5,1.87,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Fred VanVleet,Under,20.5,1.87,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Ivica Zubac,Over,23.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Ivica Zubac,Under,23.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Jabari Smith Jr,Over,22.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Jabari Smith Jr,Under,22.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Kevin Durant,Over,31.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Kevin Durant,Under,31.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Kelly Oubre Jr.,Over,17.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Kelly Oubre Jr.,Under,17.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Marcus Smart,Over,9.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Marcus Smart,Under,9.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Obi Toppin,Over,12.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Obi Toppin,Under,12.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Pascal Siakam,Over,31.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Pascal Siakam,Under,31.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Reed Sheppard,Over,11.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Reed Sheppard,Under,11.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Steven Adams,Over,9.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,Steven Adams,Under,9.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,T.J. McConnell,Over,16.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_points_rebounds_assists,T.J. McConnell,Under,16.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Aaron Nesmith,Over,3.5,2.15,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Aaron Nesmith,Under,3.5,1.65,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Alperen Sengun,Over,9.5,2.2,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Alperen Sengun,Under,9.5,1.62,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Amen Thompson,Over,6.5,1.87,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Amen Thompson,Under,6.5,1.87,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Fred VanVleet,Over,2.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Fred VanVleet,Under,2.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Ivica Zubac,Over,8.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Ivica Zubac,Under,8.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Jabari Smith Jr,Over,6.5,2.05,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Jabari Smith Jr,Under,6.5,1.72,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Kevin Durant,Over,5.5,2.3,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Kevin Durant,Under,5.5,1.58,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Kelly Oubre Jr.,Over,3.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Kelly Oubre Jr.,Under,3.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Marcus Smart,Over,1.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Marcus Smart,Under,1.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Obi Toppin,Over,3.5,2.45,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Obi Toppin,Under,3.5,1.52,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Pascal Siakam,Over,5.5,2.15,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Pascal Siakam,Under,5.5,1.65,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Reed Sheppard,Over,1.5,2.1,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Reed Sheppard,Under,1.5,1.68,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Steven Adams,Over,4.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,Steven Adams,Under,4.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,T.J. McConnell,Over,2.5,2.2,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_rebounds,T.J. McConnell,Under,2.5,1.62,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Aaron Nesmith,Over,2.5,2.6,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Aaron Nesmith,Under,2.5,1.46,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Alperen Sengun,Over,0.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Alperen Sengun,Under,0.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Amen Thompson,Over,0.5,3.0,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Amen Thompson,Under,0.5,1.36,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Fred VanVleet,Over,2.5,1.85,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Fred VanVleet,Under,2.5,1.9,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Jabari Smith Jr,Over,2.5,2.35,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Jabari Smith Jr,Under,2.5,1.55,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Kevin Durant,Over,1.5,1.8,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Kevin Durant,Under,1.5,1.95,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Kelly Oubre Jr.,Over,1.5,2.2,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Kelly Oubre Jr.,Under,1.5,1.62,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Marcus Smart,Over,1.5,3.0,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Marcus Smart,Under,1.5,1.36,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Obi Toppin,Over,1.5,2.75,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Obi Toppin,Under,1.5,1.42,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Pascal Siakam,Over,1.5,2.0,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Pascal Siakam,Under,1.5,1.75,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Reed Sheppard,Over,2.5,2.75,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,Reed Sheppard,Under,2.5,1.42,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,T.J. McConnell,Over,0.5,3.6,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,tab,player_threes,T.J. McConnell,Under,0.5,1.26,2026-11-19T00:03:33Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Fred VanVleet,Over,4.5,1.72,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Fred VanVleet,Under,4.5,2.05,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Quenton Jackson,Over,4.5,2.1,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Quenton Jackson,Under,4.5,1.67,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,T.J. McConnell,Over,4.5,1.77,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,T.J. McConnell,Under,4.5,1.98,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Amen Thompson,Over,3.5,1.95,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Amen Thompson,Under,3.5,1.8,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Kevin Durant,Over,3.5,1.75,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Kevin Durant,Under,3.5,2.0,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Alperen Sengun,Over,6.5,1.88,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Alperen Sengun,Under,6.5,1.87,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Pascal Siakam,Over,3.5,1.7,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_assists,Pascal Siakam,Under,3.5,2.1,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Jabari Smith Jr,Over,14.5,1.87,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Jabari Smith Jr,Under,14.5,1.88,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Kelly Oubre Jr.,Over,12.5,1.9,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Kelly Oubre Jr.,Under,12.5,1.85,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Obi Toppin,Over,8.5,1.83,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Obi Toppin,Under,8.5,1.9,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Pascal Siakam,Over,21.5,1.9,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Pascal Siakam,Under,21.5,1.85,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,T.J. McConnell,Over,8.5,1.94,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,T.J. McConnell,Under,8.5,1.8,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Ivica Zubac,Over,12.5,1.92,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Ivica Zubac,Under,12.5,1.82,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Alperen Sengun,Over,20.5,1.92,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Alperen Sengun,Under,20.5,1.82,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Kevin Durant,Over,21.5,1.82,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Kevin Durant,Under,21.5,1.92,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Reed Sheppard,Over,7.5,1.85,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Reed Sheppard,Under,7.5,1.88,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Amen Thompson,Over,15.5,1.9,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Amen Thompson,Under,15.5,1.85,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Tari Eason,Over,9.5,1.94,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Tari Eason,Under,9.5,1.8,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Aaron Nesmith,Over,13.5,1.92,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Aaron Nesmith,Under,13.5,1.82,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Quenton Jackson,Over,11.5,1.92,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Quenton Jackson,Under,11.5,1.82,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Fred VanVleet,Over,12.5,1.87,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points,Fred VanVleet,Under,12.5,1.87,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Pascal Siakam,Over,30.5,1.77,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Pascal Siakam,Under,30.5,1.98,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Amen Thompson,Over,25.5,1.8,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Amen Thompson,Under,25.5,1.94,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Quenton Jackson,Over,18.5,1.77,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Quenton Jackson,Under,18.5,1.98,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Kevin Durant,Over,30.5,1.78,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Kevin Durant,Under,30.5,1.98,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,T.J. McConnell,Over,15.5,1.82,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,T.J. McConnell,Under,15.5,1.92,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Alperen Sengun,Over,35.5,1.73,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Alperen Sengun,Under,35.5,2.02,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Fred VanVleet,Over,20.5,1.8,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_points_rebounds_assists,Fred VanVleet,Under,20.5,1.95,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Tari Eason,Over,5.5,2.02,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Tari Eason,Under,5.5,1.73,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Kelly Oubre Jr.,Over,3.5,1.9,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Kelly Oubre Jr.,Under,3.5,1.85,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Jabari Smith Jr,Over,6.5,1.98,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Jabari Smith Jr,Under,6.5,1.77,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Aaron Nesmith,Over,3.5,1.92,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Aaron Nesmith,Under,3.5,1.82,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Steven Adams,Over,5.5,2.15,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Steven Adams,Under,5.5,1.67,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,T.J. McConnell,Over,2.5,2.05,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,T.J. McConnell,Under,2.5,1.72,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Pascal Siakam,Over,5.5,1.94,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Pascal Siakam,Under,5.5,1.8,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Obi Toppin,Over,3.5,2.15,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Obi Toppin,Under,3.5,1.67,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Fred VanVleet,Over,3.5,2.1,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Fred VanVleet,Under,3.5,1.67,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Quenton Jackson,Over,3.5,1.98,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Quenton Jackson,Under,3.5,1.78,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Amen Thompson,Over,6.5,1.78,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Amen Thompson,Under,6.5,1.96,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Alperen Sengun,Over,9.5,1.98,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Alperen Sengun,Under,9.5,1.77,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Ivica Zubac,Over,8.5,1.85,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Ivica Zubac,Under,8.5,1.9,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Kevin Durant,Over,5.5,2.1,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_rebounds,Kevin Durant,Under,5.5,1.68,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Fred VanVleet,Over,2.5,1.88,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Fred VanVleet,Under,2.5,1.8,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Pascal Siakam,Over,1.5,2.02,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Pascal Siakam,Under,1.5,1.68,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Reed Sheppard,Over,1.5,1.75,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Reed Sheppard,Under,1.5,1.94,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Jabari Smith Jr,Over,1.5,1.5,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Jabari Smith Jr,Under,1.5,2.35,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Kevin Durant,Over,1.5,1.7,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Kevin Durant,Under,1.5,2.0,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Aaron Nesmith,Over,1.5,1.58,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,neds,player_threes,Aaron Nesmith,Under,1.5,2.2,2026-11-19T00:04:15Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Fred VanVleet,Over,4.5,1.72,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Fred VanVleet,Under,4.5,2.05,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Quenton Jackson,Over,4.5,2.1,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Quenton Jackson,Under,4.5,1.67,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,T.J. McConnell,Over,4.5,1.77,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,T.J. McConnell,Under,4.5,1.98,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Amen Thompson,Over,3.5,1.95,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Amen Thompson,Under,3.5,1.8,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Kevin Durant,Over,3.5,1.75,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Kevin Durant,Under,3.5,2.0,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Alperen Sengun,Over,6.5,1.88,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Alperen Sengun,Under,6.5,1.87,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Pascal Siakam,Over,3.5,1.7,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_assists,Pascal Siakam,Under,3.5,2.1,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Jabari Smith Jr,Over,14.5,1.87,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Jabari Smith Jr,Under,14.5,1.88,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Kelly Oubre Jr.,Over,12.5,1.9,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Kelly Oubre Jr.,Under,12.5,1.85,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Obi Toppin,Over,8.5,1.83,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Obi Toppin,Under,8.5,1.9,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Pascal Siakam,Over,21.5,1.9,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Pascal Siakam,Under,21.5,1.85,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,T.J. McConnell,Over,8.5,1.94,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,T.J. McConnell,Under,8.5,1.8,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Ivica Zubac,Over,12.5,1.92,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Ivica Zubac,Under,12.5,1.82,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Alperen Sengun,Over,20.5,1.92,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Alperen Sengun,Under,20.5,1.82,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Kevin Durant,Over,21.5,1.82,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Kevin Durant,Under,21.5,1.92,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Reed Sheppard,Over,7.5,1.85,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Reed Sheppard,Under,7.5,1.88,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Amen Thompson,Over,15.5,1.9,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Amen Thompson,Under,15.5,1.85,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Tari Eason,Over,9.5,1.94,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Tari Eason,Under,9.5,1.8,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Aaron Nesmith,Over,13.5,1.92,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Aaron Nesmith,Under,13.5,1.82,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Quenton Jackson,Over,11.5,1.92,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Quenton Jackson,Under,11.5,1.82,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Fred VanVleet,Over,12.5,1.87,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points,Fred VanVleet,Under,12.5,1.87,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Pascal Siakam,Over,30.5,1.77,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Pascal Siakam,Under,30.5,1.98,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Amen Thompson,Over,25.5,1.8,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Amen Thompson,Under,25.5,1.94,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Quenton Jackson,Over,18.5,1.77,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Quenton Jackson,Under,18.5,1.98,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Kevin Durant,Over,30.5,1.78,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Kevin Durant,Under,30.5,1.98,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,T.J. McConnell,Over,15.5,1.82,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,T.J. McConnell,Under,15.5,1.92,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Alperen Sengun,Over,35.5,1.73,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Alperen Sengun,Under,35.5,2.02,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Fred VanVleet,Over,20.5,1.8,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_points_rebounds_assists,Fred VanVleet,Under,20.5,1.95,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Tari Eason,Over,5.5,2.02,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Tari Eason,Under,5.5,1.73,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Kelly Oubre Jr.,Over,3.5,1.9,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Kelly Oubre Jr.,Under,3.5,1.85,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Jabari Smith Jr,Over,6.5,1.98,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Jabari Smith Jr,Under,6.5,1.77,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Aaron Nesmith,Over,3.5,1.92,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Aaron Nesmith,Under,3.5,1.82,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Steven Adams,Over,5.5,2.15,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Steven Adams,Under,5.5,1.67,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,T.J. McConnell,Over,2.5,2.05,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,T.J. McConnell,Under,2.5,1.72,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Pascal Siakam,Over,5.5,1.94,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Pascal Siakam,Under,5.5,1.8,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Obi Toppin,Over,3.5,2.15,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Obi Toppin,Under,3.5,1.67,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Fred VanVleet,Over,3.5,2.1,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Fred VanVleet,Under,3.5,1.67,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Quenton Jackson,Over,3.5,1.98,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Quenton Jackson,Under,3.5,1.78,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Amen Thompson,Over,6.5,1.78,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Amen Thompson,Under,6.5,1.96,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Alperen Sengun,Over,9.5,1.98,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Alperen Sengun,Under,9.5,1.77,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Ivica Zubac,Over,8.5,1.85,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Ivica Zubac,Under,8.5,1.9,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Kevin Durant,Over,5.5,2.1,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_rebounds,Kevin Durant,Under,5.5,1.68,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Fred VanVleet,Over,2.5,1.88,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Fred VanVleet,Under,2.5,1.8,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Pascal Siakam,Over,1.5,2.02,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Pascal Siakam,Under,1.5,1.68,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Reed Sheppard,Over,1.5,1.75,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Reed Sheppard,Under,1.5,1.94,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Jabari Smith Jr,Over,1.5,1.5,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Jabari Smith Jr,Under,1.5,2.35,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Kevin Durant,Over,1.5,1.7,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Kevin Durant,Under,1.5,2.0,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Aaron Nesmith,Over,1.5,1.58,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,ladbrokes_au,player_threes,Aaron Nesmith,Under,1.5,2.2,2026-11-19T00:04:45Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Ivica Zubac,Over,1.5,1.63,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Ivica Zubac,Under,1.5,2.18,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Kevin Durant,Over,3.5,1.7,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Kevin Durant,Under,3.5,2.07,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Jabari Smith Jr,Over,1.5,1.82,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Jabari Smith Jr,Under,1.5,1.91,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Alperen Sengun,Over,6.5,1.88,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Alperen Sengun,Under,6.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Fred VanVleet,Over,5.5,2.12,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Fred VanVleet,Under,5.5,1.66,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Amen Thompson,Over,3.5,2.02,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Amen Thompson,Under,3.5,1.73,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Pascal Siakam,Over,3.5,1.71,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Pascal Siakam,Under,3.5,2.05,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,T.J. McConnell,Over,4.5,1.64,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,T.J. McConnell,Under,4.5,2.17,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Reed Sheppard,Over,2.5,2.38,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Reed Sheppard,Under,2.5,1.53,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Quenton Jackson,Over,4.5,1.97,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_assists,Quenton Jackson,Under,4.5,1.76,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Fred VanVleet,Over,12.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Fred VanVleet,Under,12.5,1.88,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Kelly Oubre Jr.,Over,12.5,1.88,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Kelly Oubre Jr.,Under,12.5,1.85,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Ivica Zubac,Over,12.5,1.85,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Ivica Zubac,Under,12.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Pascal Siakam,Over,21.5,1.92,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Pascal Siakam,Under,21.5,1.81,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Aaron Nesmith,Over,13.5,1.88,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Aaron Nesmith,Under,13.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Amen Thompson,Over,15.5,1.96,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Amen Thompson,Under,15.5,1.77,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Jabari Smith Jr,Over,14.5,1.93,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Jabari Smith Jr,Under,14.5,1.81,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Alperen Sengun,Over,20.5,1.85,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Alperen Sengun,Under,20.5,1.88,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Kevin Durant,Over,22.5,1.93,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Kevin Durant,Under,22.5,1.8,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Quenton Jackson,Over,11.5,1.91,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Quenton Jackson,Under,11.5,1.82,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Obi Toppin,Over,8.5,1.82,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Obi Toppin,Under,8.5,1.92,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Reed Sheppard,Over,7.5,1.89,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Reed Sheppard,Under,7.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Tari Eason,Over,9.5,1.94,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,Tari Eason,Under,9.5,1.79,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,T.J. McConnell,Over,8.5,1.85,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points,T.J. McConnell,Under,8.5,1.88,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Amen Thompson,Over,26.5,2.02,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Amen Thompson,Under,26.5,1.73,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Fred VanVleet,Over,21.5,1.93,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Fred VanVleet,Under,21.5,1.81,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Pascal Siakam,Over,30.5,1.82,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Pascal Siakam,Under,30.5,1.91,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Kevin Durant,Over,31.5,1.85,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Kevin Durant,Under,31.5,1.85,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Alperen Sengun,Over,37.5,1.94,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Alperen Sengun,Under,37.5,1.79,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Jabari Smith Jr,Over,23.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Jabari Smith Jr,Under,23.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Quenton Jackson,Over,19.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Quenton Jackson,Under,19.5,1.85,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Ivica Zubac,Over,24.5,1.91,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,Ivica Zubac,Under,24.5,1.82,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,T.J. McConnell,Over,16.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_points_rebounds_assists,T.J. McConnell,Under,16.5,1.89,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Kelly Oubre Jr.,Over,3.5,1.94,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Kelly Oubre Jr.,Under,3.5,1.79,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Obi Toppin,Over,3.5,2.1,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Obi Toppin,Under,3.5,1.67,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Tari Eason,Over,5.5,2.07,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Tari Eason,Under,5.5,1.7,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Jabari Smith Jr,Over,6.5,1.89,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Jabari Smith Jr,Under,6.5,1.83,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Kevin Durant,Over,5.5,2.14,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Kevin Durant,Under,5.5,1.65,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Aaron Nesmith,Over,3.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Aaron Nesmith,Under,3.5,1.85,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Alperen Sengun,Over,9.5,1.94,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Alperen Sengun,Under,9.5,1.78,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Pascal Siakam,Over,5.5,1.92,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Pascal Siakam,Under,5.5,1.81,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Ivica Zubac,Over,9.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Ivica Zubac,Under,9.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Fred VanVleet,Over,3.5,2.32,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Fred VanVleet,Under,3.5,1.56,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,T.J. McConnell,Over,2.5,1.97,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,T.J. McConnell,Under,2.5,1.75,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Amen Thompson,Over,6.5,1.72,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Amen Thompson,Under,6.5,2.02,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Quenton Jackson,Over,3.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_rebounds,Quenton Jackson,Under,3.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Aaron Nesmith,Over,1.5,1.55,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Aaron Nesmith,Under,1.5,2.33,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Fred VanVleet,Over,2.5,1.87,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Fred VanVleet,Under,2.5,1.85,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Pascal Siakam,Over,1.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Pascal Siakam,Under,1.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Reed Sheppard,Over,1.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Reed Sheppard,Under,1.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Tari Eason,Over,1.5,2.35,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Tari Eason,Under,1.5,1.54,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Kelly Oubre Jr.,Over,1.5,2.33,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Kelly Oubre Jr.,Under,1.5,1.55,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Kevin Durant,Over,1.5,1.74,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Kevin Durant,Under,1.5,2.0,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Obi Toppin,Over,1.5,2.45,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Obi Toppin,Under,1.5,1.5,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Jabari Smith Jr,Over,1.5,1.56,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Jabari Smith Jr,Under,1.5,2.32,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Quenton Jackson,Over,1.5,2.04,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
+2026-11-19,11:10,Houston Rockets @ Indiana Pacers,unibet,player_threes,Quenton Jackson,Under,1.5,1.72,2026-11-19T00:04:46Z,2026-11-19T00:05:03+00:00,4.9
