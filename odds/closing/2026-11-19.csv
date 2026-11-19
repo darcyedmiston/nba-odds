@@ -3091,3 +3091,848 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Jalen Suggs,Under,1.5,1.75,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
 2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Anfernee Simons,Over,2.5,1.88,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
 2026-11-19,11:10,Philadelphia 76ers @ Orlando Magic,ladbrokes_au,player_threes,Anfernee Simons,Under,2.5,1.8,2026-11-19T00:04:47Z,2026-11-19T00:05:06+00:00,4.9
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Julius Randle,Over,4.5,1.68,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Julius Randle,Under,4.5,2.1,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Day'Ron Sharpe,Over,3.5,1.64,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Day'Ron Sharpe,Under,3.5,2.15,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Egor Demin,Over,2.5,1.72,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Egor Demin,Under,2.5,2.08,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Nolan Traore,Over,4.5,2.08,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Nolan Traore,Under,4.5,1.72,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Mikel Brown Jr.,Over,3.5,2.1,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Mikel Brown Jr.,Under,3.5,1.68,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Josh Giddey,Over,8.5,2.08,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Josh Giddey,Under,8.5,1.72,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Tre Jones,Over,3.5,1.64,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_assists,Tre Jones,Under,3.5,2.15,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Michael Porter Jr,Over,23.5,2.0,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Michael Porter Jr,Under,23.5,1.78,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Julius Randle,Over,21.5,1.85,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Julius Randle,Under,21.5,1.91,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Day'Ron Sharpe,Over,10.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Day'Ron Sharpe,Under,10.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Egor Demin,Over,10.5,1.78,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Egor Demin,Under,10.5,2.0,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Nolan Traore,Over,12.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Nolan Traore,Under,12.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Mikel Brown Jr.,Over,10.5,1.9,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Mikel Brown Jr.,Under,10.5,1.85,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Noah Clowney,Over,7.5,2.08,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Noah Clowney,Under,7.5,1.72,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Norman Powell,Over,22.5,1.88,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Norman Powell,Under,22.5,1.88,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Josh Giddey,Over,11.5,1.89,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Josh Giddey,Under,11.5,1.87,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Jalen Smith,Over,14.5,2.02,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Jalen Smith,Under,14.5,1.76,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Matas Buzelis,Over,15.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Matas Buzelis,Under,15.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Isaac Okoro,Over,9.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Isaac Okoro,Under,9.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Patrick Williams,Over,6.5,1.91,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Patrick Williams,Under,6.5,1.85,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Tre Jones,Over,11.5,1.92,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points,Tre Jones,Under,11.5,1.84,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Over,32.5,1.87,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Under,32.5,1.89,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Julius Randle,Over,33.5,1.9,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Julius Randle,Under,33.5,1.86,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Over,23.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Under,23.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Egor Demin,Over,17.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Egor Demin,Under,17.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Nolan Traore,Over,19.5,1.85,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Nolan Traore,Under,19.5,1.91,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Over,16.5,2.0,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Under,16.5,1.78,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Norman Powell,Over,28.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Norman Powell,Under,28.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Josh Giddey,Over,26.5,1.92,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Josh Giddey,Under,26.5,1.84,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Jalen Smith,Over,24.5,1.87,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Jalen Smith,Under,24.5,1.89,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Matas Buzelis,Over,23.5,1.9,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Matas Buzelis,Under,23.5,1.86,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Isaac Okoro,Over,14.5,1.92,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Isaac Okoro,Under,14.5,1.84,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Tre Jones,Over,18.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Tre Jones,Under,18.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Michael Porter Jr,Over,7.5,2.02,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Michael Porter Jr,Under,7.5,1.76,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Julius Randle,Over,6.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Julius Randle,Under,6.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Day'Ron Sharpe,Over,8.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Day'Ron Sharpe,Under,8.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Egor Demin,Over,3.5,2.4,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Egor Demin,Under,3.5,1.52,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Noah Clowney,Over,3.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Noah Clowney,Under,3.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Norman Powell,Over,2.5,1.58,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Norman Powell,Under,2.5,2.25,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Josh Giddey,Over,6.5,2.1,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Josh Giddey,Under,6.5,1.68,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Jalen Smith,Over,8.5,2.08,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Jalen Smith,Under,8.5,1.72,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Matas Buzelis,Over,5.5,2.08,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Matas Buzelis,Under,5.5,1.72,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Isaac Okoro,Over,3.5,2.4,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Isaac Okoro,Under,3.5,1.52,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Patrick Williams,Over,2.5,1.8,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Patrick Williams,Under,2.5,1.96,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Tre Jones,Over,2.5,2.1,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_rebounds,Tre Jones,Under,2.5,1.68,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Michael Porter Jr,Over,3.5,2.2,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Michael Porter Jr,Under,3.5,1.6,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Julius Randle,Over,1.5,2.4,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Julius Randle,Under,1.5,1.52,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Egor Demin,Over,2.5,2.45,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Egor Demin,Under,2.5,1.5,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Nolan Traore,Over,1.5,2.05,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Nolan Traore,Under,1.5,1.74,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Mikel Brown Jr.,Over,1.5,1.91,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Mikel Brown Jr.,Under,1.5,1.85,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Norman Powell,Over,2.5,1.91,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Norman Powell,Under,2.5,1.85,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Josh Giddey,Over,1.5,2.2,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Josh Giddey,Under,1.5,1.6,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Jalen Smith,Over,1.5,1.64,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Jalen Smith,Under,1.5,2.15,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Matas Buzelis,Over,2.5,2.3,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Matas Buzelis,Under,2.5,1.56,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Isaac Okoro,Over,1.5,2.4,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Isaac Okoro,Under,1.5,1.52,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Patrick Williams,Over,1.5,2.45,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,sportsbet,player_threes,Patrick Williams,Under,1.5,1.5,2026-11-19T00:34:45Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Day'Ron Sharpe,Over,3.5,1.67,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Day'Ron Sharpe,Under,3.5,2.2,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Egor Demin,Over,2.5,1.71,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Egor Demin,Under,2.5,2.1,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Isaac Okoro,Over,1.5,1.56,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Isaac Okoro,Under,1.5,2.4,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Jalen Smith,Over,2.5,2.45,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Jalen Smith,Under,2.5,1.53,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Josh Giddey,Over,8.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Josh Giddey,Under,8.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Julius Randle,Over,4.5,1.69,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Julius Randle,Under,4.5,2.15,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Matas Buzelis,Over,2.5,2.25,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Matas Buzelis,Under,2.5,1.63,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Michael Porter Jr,Over,1.5,1.59,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Michael Porter Jr,Under,1.5,2.3,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Mikel Brown Jr.,Over,3.5,2.2,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Mikel Brown Jr.,Under,3.5,1.67,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Nolan Traore,Over,4.5,2.15,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Nolan Traore,Under,4.5,1.69,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Norman Powell,Over,2.5,2.2,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Norman Powell,Under,2.5,1.67,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Patrick Williams,Over,1.5,1.77,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Patrick Williams,Under,1.5,2.0,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Tre Jones,Over,3.5,1.69,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_assists,Tre Jones,Under,3.5,2.15,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Day'Ron Sharpe,Over,10.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Day'Ron Sharpe,Under,10.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Egor Demin,Over,10.5,1.83,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Egor Demin,Under,10.5,2.0,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Isaac Okoro,Over,9.5,2.05,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Isaac Okoro,Under,9.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Jalen Smith,Over,14.5,2.0,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Jalen Smith,Under,14.5,1.83,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Josh Giddey,Over,11.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Josh Giddey,Under,11.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Julius Randle,Over,21.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Julius Randle,Under,21.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Matas Buzelis,Over,15.5,1.9,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Matas Buzelis,Under,15.5,1.9,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Michael Porter Jr,Over,22.5,1.83,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Michael Porter Jr,Under,22.5,2.0,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Mikel Brown Jr.,Over,10.5,1.9,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Mikel Brown Jr.,Under,10.5,1.9,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Noah Clowney,Over,6.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Noah Clowney,Under,6.5,2.05,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Nolan Traore,Over,12.5,1.83,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Nolan Traore,Under,12.5,2.0,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Norman Powell,Over,21.5,1.83,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Norman Powell,Under,21.5,2.0,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Patrick Williams,Over,6.5,1.9,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Patrick Williams,Under,6.5,1.9,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Tre Jones,Over,11.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points,Tre Jones,Under,11.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Day'Ron Sharpe,Over,23.5,1.9,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Day'Ron Sharpe,Under,23.5,1.83,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Egor Demin,Over,17.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Egor Demin,Under,17.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Isaac Okoro,Over,14.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Isaac Okoro,Under,14.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Jalen Smith,Over,25.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Jalen Smith,Under,25.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Josh Giddey,Over,26.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Josh Giddey,Under,26.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Julius Randle,Over,33.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Julius Randle,Under,33.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Matas Buzelis,Over,23.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Matas Buzelis,Under,23.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Michael Porter Jr,Over,32.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Michael Porter Jr,Under,32.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Mikel Brown Jr.,Over,16.5,1.9,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Mikel Brown Jr.,Under,16.5,1.83,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Nolan Traore,Over,19.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Nolan Traore,Under,19.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Norman Powell,Over,27.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Norman Powell,Under,27.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Patrick Williams,Over,11.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Patrick Williams,Under,11.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Tre Jones,Over,18.5,1.9,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Tre Jones,Under,18.5,1.83,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Day'Ron Sharpe,Over,8.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Day'Ron Sharpe,Under,8.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Egor Demin,Over,3.5,2.35,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Egor Demin,Under,3.5,1.57,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Isaac Okoro,Over,2.5,1.67,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Isaac Okoro,Under,2.5,2.2,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Jalen Smith,Over,8.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Jalen Smith,Under,8.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Josh Giddey,Over,6.5,2.0,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Josh Giddey,Under,6.5,1.77,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Julius Randle,Over,6.5,1.9,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Julius Randle,Under,6.5,1.83,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Matas Buzelis,Over,5.5,2.0,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Matas Buzelis,Under,5.5,1.77,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Michael Porter Jr,Over,7.5,2.05,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Michael Porter Jr,Under,7.5,1.74,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Mikel Brown Jr.,Over,2.5,2.35,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Mikel Brown Jr.,Under,2.5,1.57,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Noah Clowney,Over,3.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Noah Clowney,Under,3.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Nolan Traore,Over,2.5,2.4,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Nolan Traore,Under,2.5,1.56,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Norman Powell,Over,2.5,1.59,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Norman Powell,Under,2.5,2.3,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Patrick Williams,Over,2.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Patrick Williams,Under,2.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Tre Jones,Over,2.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_rebounds,Tre Jones,Under,2.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Julius Randle,Over,1.5,2.3,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Julius Randle,Under,1.5,1.59,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Michael Porter Jr,Over,3.5,2.2,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Michael Porter Jr,Under,3.5,1.67,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Egor Demin,Over,2.5,2.45,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Egor Demin,Under,2.5,1.53,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Nolan Traore,Over,1.5,2.0,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Nolan Traore,Under,1.5,1.77,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Mikel Brown Jr.,Over,1.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Mikel Brown Jr.,Under,1.5,1.87,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Noah Clowney,Over,0.5,1.48,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Noah Clowney,Under,0.5,2.6,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Norman Powell,Over,2.5,1.8,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Norman Powell,Under,2.5,1.95,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Jalen Smith,Over,1.5,1.69,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Jalen Smith,Under,1.5,2.15,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Isaac Okoro,Over,1.5,2.35,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Isaac Okoro,Under,1.5,1.57,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Matas Buzelis,Over,2.5,2.35,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Matas Buzelis,Under,2.5,1.57,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Patrick Williams,Over,1.5,2.45,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Patrick Williams,Under,1.5,1.53,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Josh Giddey,Over,1.5,2.1,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Josh Giddey,Under,1.5,1.71,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Tre Jones,Over,0.5,2.25,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,pointsbetau,player_threes,Tre Jones,Under,0.5,1.63,2026-11-19T00:34:46Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_assists,Tre Jones,Over,3.5,1.65,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_assists,Tre Jones,Under,3.5,2.15,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_assists,Day'Ron Sharpe,Over,3.5,1.65,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_assists,Day'Ron Sharpe,Under,3.5,2.15,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_assists,Nolan Traore,Over,4.5,2.25,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_assists,Nolan Traore,Under,4.5,1.6,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_assists,Mikel Brown Jr.,Over,3.5,2.25,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_assists,Mikel Brown Jr.,Under,3.5,1.6,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_assists,Julius Randle,Over,4.5,1.65,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_assists,Julius Randle,Under,4.5,2.2,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Egor Demin,Over,10.5,1.87,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Egor Demin,Under,10.5,1.87,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Julius Randle,Over,22.5,1.97,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Julius Randle,Under,22.5,1.78,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Nolan Traore,Over,13.5,1.91,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Nolan Traore,Under,13.5,1.86,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Isaac Okoro,Over,9.5,1.91,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Isaac Okoro,Under,9.5,1.85,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Norman Powell,Over,23.5,1.92,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Norman Powell,Under,23.5,1.83,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Day'Ron Sharpe,Over,9.5,1.73,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Day'Ron Sharpe,Under,9.5,2.0,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Michael Porter Jr,Over,23.5,1.9,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Michael Porter Jr,Under,23.5,1.86,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Matas Buzelis,Over,16.5,2.0,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Matas Buzelis,Under,16.5,1.75,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Jalen Smith,Over,14.5,1.95,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Jalen Smith,Under,14.5,1.82,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Mikel Brown Jr.,Over,10.5,1.91,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Mikel Brown Jr.,Under,10.5,1.86,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Tre Jones,Over,11.5,1.88,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Tre Jones,Under,11.5,1.89,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Josh Giddey,Over,11.5,1.83,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points,Josh Giddey,Under,11.5,1.92,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,11.5,1.2,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,13.5,1.4,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,15.5,1.75,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,17.5,2.3,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,3.25,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Egor Demin,Over,11.5,1.18,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Egor Demin,Over,13.5,1.36,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Egor Demin,Over,15.5,1.68,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Egor Demin,Over,17.5,2.15,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Egor Demin,Over,19.5,2.9,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Julius Randle,Over,24.5,1.08,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Julius Randle,Over,29.5,1.3,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Julius Randle,Over,34.5,1.94,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Julius Randle,Over,39.5,3.6,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Julius Randle,Over,44.5,7.5,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,14.5,1.08,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,19.5,1.42,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,24.5,2.5,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,29.5,5.25,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Nolan Traore,Over,15.5,1.25,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Nolan Traore,Over,17.5,1.45,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Nolan Traore,Over,19.5,1.78,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Nolan Traore,Over,21.5,2.3,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Nolan Traore,Over,23.5,3.2,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Matas Buzelis,Over,14.5,1.06,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Matas Buzelis,Over,19.5,1.3,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Matas Buzelis,Over,24.5,2.05,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Matas Buzelis,Over,29.5,4.1,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Matas Buzelis,Over,34.5,9.0,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Josh Giddey,Over,14.5,1.01,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Josh Giddey,Over,19.5,1.1,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Josh Giddey,Over,24.5,1.44,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Josh Giddey,Over,29.5,2.4,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Josh Giddey,Over,34.5,5.25,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Tre Jones,Over,13.5,1.21,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Tre Jones,Over,15.5,1.4,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Tre Jones,Over,17.5,1.7,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Tre Jones,Over,19.5,2.2,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Tre Jones,Over,21.5,3.0,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Isaac Okoro,Over,9.5,1.17,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Isaac Okoro,Over,11.5,1.36,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Isaac Okoro,Over,13.5,1.67,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Isaac Okoro,Over,15.5,2.03,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Isaac Okoro,Over,17.5,3.0,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Norman Powell,Over,19.5,1.09,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Norman Powell,Over,24.5,1.36,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Norman Powell,Over,29.5,2.05,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Norman Powell,Over,34.5,3.8,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Norman Powell,Over,39.5,8.0,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Jalen Smith,Over,14.5,1.04,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Jalen Smith,Over,19.5,1.22,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Jalen Smith,Over,24.5,1.75,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Jalen Smith,Over,29.5,3.25,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Jalen Smith,Over,34.5,7.5,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Michael Porter Jr,Over,19.5,1.02,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Michael Porter Jr,Over,24.5,1.14,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Michael Porter Jr,Over,29.5,1.45,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Michael Porter Jr,Over,34.5,2.25,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_points_rebounds_assists,Michael Porter Jr,Over,39.5,4.1,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Norman Powell,Over,2.5,1.62,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Norman Powell,Under,2.5,2.2,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Michael Porter Jr,Over,7.5,2.1,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Michael Porter Jr,Under,7.5,1.7,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Jalen Smith,Over,8.5,1.95,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Jalen Smith,Under,8.5,1.8,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Noah Clowney,Over,3.5,1.98,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Noah Clowney,Under,3.5,1.78,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Egor Demin,Over,2.5,1.57,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Egor Demin,Under,2.5,2.3,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Julius Randle,Over,6.5,1.78,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Julius Randle,Under,6.5,1.98,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Day'Ron Sharpe,Over,8.5,2.05,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Day'Ron Sharpe,Under,8.5,1.7,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Matas Buzelis,Over,5.5,2.05,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Matas Buzelis,Under,5.5,1.73,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Isaac Okoro,Over,3.5,2.3,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,betright,player_rebounds,Isaac Okoro,Under,3.5,1.55,2026-11-19T00:33:51Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Buddy Hield,Over,1.5,1.72,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Buddy Hield,Under,1.5,2.05,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Day'Ron Sharpe,Over,4.5,2.05,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Day'Ron Sharpe,Under,4.5,1.72,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Egor Demin,Over,2.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Egor Demin,Under,2.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Isaac Okoro,Over,2.5,2.6,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Isaac Okoro,Under,2.5,1.46,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Josh Giddey,Over,8.5,2.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Josh Giddey,Under,8.5,1.75,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Julius Randle,Over,5.5,2.3,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Julius Randle,Under,5.5,1.58,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Jalen Smith,Over,2.5,2.65,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Jalen Smith,Under,2.5,1.45,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Mikel Brown Jr.,Over,3.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Mikel Brown Jr.,Under,3.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Matas Buzelis,Over,2.5,2.5,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Matas Buzelis,Under,2.5,1.5,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Michael Porter Jr,Over,2.5,2.55,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Michael Porter Jr,Under,2.5,1.48,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Noah Clowney,Over,1.5,2.5,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Noah Clowney,Under,1.5,1.5,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Norman Powell,Over,2.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Norman Powell,Under,2.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Nolan Traore,Over,4.5,2.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Nolan Traore,Under,4.5,1.75,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Patrick Williams,Over,1.5,2.05,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Patrick Williams,Under,1.5,1.72,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Tre Jones,Over,4.5,2.25,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_assists,Tre Jones,Under,4.5,1.6,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Buddy Hield,Over,8.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Buddy Hield,Under,8.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Day'Ron Sharpe,Over,10.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Day'Ron Sharpe,Under,10.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Danny Wolf,Over,5.5,1.72,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Danny Wolf,Under,5.5,2.05,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Egor Demin,Over,11.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Egor Demin,Under,11.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Isaac Okoro,Over,9.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Isaac Okoro,Under,9.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Josh Giddey,Over,12.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Josh Giddey,Under,12.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Julius Randle,Over,22.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Julius Randle,Under,22.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Jalen Smith,Over,14.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Jalen Smith,Under,14.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Josh Minott,Over,1.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Josh Minott,Under,1.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Keon Ellis,Over,4.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Keon Ellis,Under,4.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Mikel Brown Jr.,Over,11.5,2.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Mikel Brown Jr.,Under,11.5,1.75,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Matas Buzelis,Over,15.5,1.75,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Matas Buzelis,Under,15.5,2.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Michael Porter Jr,Over,23.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Michael Porter Jr,Under,23.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Moritz Wagner,Over,7.5,2.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Moritz Wagner,Under,7.5,1.75,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Noah Clowney,Over,7.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Noah Clowney,Under,7.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Norman Powell,Over,22.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Norman Powell,Under,22.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Nolan Traore,Over,12.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Nolan Traore,Under,12.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Patrick Williams,Over,6.5,1.75,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Patrick Williams,Under,6.5,2.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Terance Mann,Over,0.5,1.75,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Terance Mann,Under,0.5,2.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Tre Jones,Over,12.5,2.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points,Tre Jones,Under,12.5,1.75,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Buddy Hield,Over,12.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Buddy Hield,Under,12.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Day'Ron Sharpe,Over,23.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Day'Ron Sharpe,Under,23.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Egor Demin,Over,17.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Egor Demin,Under,17.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Isaac Okoro,Over,15.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Isaac Okoro,Under,15.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Josh Giddey,Over,27.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Josh Giddey,Under,27.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Julius Randle,Over,34.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Julius Randle,Under,34.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Jalen Smith,Over,25.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Jalen Smith,Under,25.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Mikel Brown Jr.,Over,16.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Mikel Brown Jr.,Under,16.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Matas Buzelis,Over,23.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Matas Buzelis,Under,23.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Michael Porter Jr,Over,32.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Michael Porter Jr,Under,32.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Noah Clowney,Over,12.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Noah Clowney,Under,12.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Norman Powell,Over,27.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Norman Powell,Under,27.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Nolan Traore,Over,19.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Nolan Traore,Under,19.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Patrick Williams,Over,11.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Patrick Williams,Under,11.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Tre Jones,Over,18.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_points_rebounds_assists,Tre Jones,Under,18.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Buddy Hield,Over,2.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Buddy Hield,Under,2.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Day'Ron Sharpe,Over,8.5,2.05,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Day'Ron Sharpe,Under,8.5,1.72,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Egor Demin,Over,3.5,2.3,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Egor Demin,Under,3.5,1.58,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Isaac Okoro,Over,3.5,2.25,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Isaac Okoro,Under,3.5,1.6,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Josh Giddey,Over,6.5,2.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Josh Giddey,Under,6.5,1.75,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Julius Randle,Over,6.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Julius Randle,Under,6.5,1.87,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Jalen Smith,Over,9.5,2.25,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Jalen Smith,Under,9.5,1.6,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Mikel Brown Jr.,Over,2.5,2.5,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Mikel Brown Jr.,Under,2.5,1.5,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Matas Buzelis,Over,5.5,1.95,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Matas Buzelis,Under,5.5,1.8,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Michael Porter Jr,Over,7.5,2.1,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Michael Porter Jr,Under,7.5,1.68,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Noah Clowney,Over,3.5,1.72,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Noah Clowney,Under,3.5,2.05,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Norman Powell,Over,3.5,2.3,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Norman Powell,Under,3.5,1.58,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Nolan Traore,Over,2.5,2.35,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Nolan Traore,Under,2.5,1.55,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Patrick Williams,Over,2.5,1.72,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Patrick Williams,Under,2.5,2.05,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Tre Jones,Over,2.5,2.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_rebounds,Tre Jones,Under,2.5,1.75,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Buddy Hield,Over,1.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Buddy Hield,Under,1.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Day'Ron Sharpe,Over,0.5,3.0,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Day'Ron Sharpe,Under,0.5,1.36,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Egor Demin,Over,2.5,2.2,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Egor Demin,Under,2.5,1.62,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Isaac Okoro,Over,1.5,2.45,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Isaac Okoro,Under,1.5,1.52,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Josh Giddey,Over,1.5,2.3,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Josh Giddey,Under,1.5,1.58,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Julius Randle,Over,1.5,2.2,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Julius Randle,Under,1.5,1.62,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Jalen Smith,Over,1.5,1.65,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Jalen Smith,Under,1.5,2.15,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Mikel Brown Jr.,Over,1.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Mikel Brown Jr.,Under,1.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Matas Buzelis,Over,2.5,2.7,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Matas Buzelis,Under,2.5,1.44,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Michael Porter Jr,Over,3.5,2.15,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Michael Porter Jr,Under,3.5,1.65,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Noah Clowney,Over,1.5,2.7,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Noah Clowney,Under,1.5,1.44,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Norman Powell,Over,2.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Norman Powell,Under,2.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Nolan Traore,Over,1.5,1.9,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Nolan Traore,Under,1.5,1.85,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Patrick Williams,Over,1.5,2.55,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Patrick Williams,Under,1.5,1.48,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Tre Jones,Over,0.5,2.25,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,tab,player_threes,Tre Jones,Under,0.5,1.6,2026-11-19T00:34:44Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Norman Powell,Over,2.5,2.1,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Norman Powell,Under,2.5,1.68,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Josh Giddey,Over,8.5,1.89,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Josh Giddey,Under,8.5,1.83,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Nolan Traore,Over,4.5,2.0,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Nolan Traore,Under,4.5,1.75,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Matas Buzelis,Over,1.5,1.51,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Matas Buzelis,Under,1.5,2.4,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Michael Porter Jr,Over,1.5,1.56,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Michael Porter Jr,Under,1.5,2.3,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Jalen Smith,Over,1.5,1.54,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Jalen Smith,Under,1.5,2.35,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Julius Randle,Over,4.5,1.64,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Julius Randle,Under,4.5,2.17,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Egor Demin,Over,2.5,1.65,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Egor Demin,Under,2.5,2.15,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Tre Jones,Over,4.5,2.04,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Tre Jones,Under,4.5,1.72,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Isaac Okoro,Over,1.5,1.65,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Isaac Okoro,Under,1.5,2.15,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Day'Ron Sharpe,Over,3.5,1.6,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Day'Ron Sharpe,Under,3.5,2.23,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Mikel Brown Jr.,Over,2.5,1.6,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_assists,Mikel Brown Jr.,Under,2.5,2.23,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Jalen Smith,Over,14.5,1.92,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Jalen Smith,Under,14.5,1.81,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Mikel Brown Jr.,Over,10.5,1.85,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Mikel Brown Jr.,Under,10.5,1.87,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Noah Clowney,Over,7.5,1.93,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Noah Clowney,Under,7.5,1.8,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Matas Buzelis,Over,15.5,1.78,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Matas Buzelis,Under,15.5,1.95,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Egor Demin,Over,11.5,1.94,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Egor Demin,Under,11.5,1.78,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Nolan Traore,Over,13.5,1.89,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Nolan Traore,Under,13.5,1.83,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Tre Jones,Over,11.5,1.88,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Tre Jones,Under,11.5,1.85,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Day'Ron Sharpe,Over,10.5,1.93,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Day'Ron Sharpe,Under,10.5,1.8,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Josh Giddey,Over,11.5,1.79,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Josh Giddey,Under,11.5,1.93,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Norman Powell,Over,23.5,1.94,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Norman Powell,Under,23.5,1.79,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Michael Porter Jr,Over,23.5,1.88,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Michael Porter Jr,Under,23.5,1.85,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Julius Randle,Over,22.5,1.87,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Julius Randle,Under,22.5,1.85,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Patrick Williams,Over,6.5,1.8,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Patrick Williams,Under,6.5,1.93,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Isaac Okoro,Over,9.5,1.82,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points,Isaac Okoro,Under,9.5,1.89,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Egor Demin,Over,17.5,1.88,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Egor Demin,Under,17.5,1.83,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Norman Powell,Over,28.5,1.85,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Norman Powell,Under,28.5,1.88,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Over,16.5,1.94,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Under,16.5,1.78,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Over,23.5,1.87,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Under,23.5,1.85,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Tre Jones,Over,18.5,1.89,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Tre Jones,Under,18.5,1.83,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Josh Giddey,Over,27.5,1.96,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Josh Giddey,Under,27.5,1.77,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Michael Porter Jr,Over,33.5,1.97,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Michael Porter Jr,Under,33.5,1.76,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Julius Randle,Over,34.5,1.83,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Julius Randle,Under,34.5,1.89,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Matas Buzelis,Over,24.5,1.97,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Matas Buzelis,Under,24.5,1.75,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Jalen Smith,Over,25.5,1.91,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Jalen Smith,Under,25.5,1.82,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Isaac Okoro,Over,14.5,1.85,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Isaac Okoro,Under,14.5,1.88,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Nolan Traore,Over,21.5,2.15,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_points_rebounds_assists,Nolan Traore,Under,21.5,1.65,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Egor Demin,Over,3.5,2.28,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Egor Demin,Under,3.5,1.57,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Michael Porter Jr,Over,7.5,2.1,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Michael Porter Jr,Under,7.5,1.67,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Day'Ron Sharpe,Over,8.5,1.82,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Day'Ron Sharpe,Under,8.5,1.91,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Noah Clowney,Over,3.5,1.88,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Noah Clowney,Under,3.5,1.83,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Matas Buzelis,Over,5.5,2.0,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Matas Buzelis,Under,5.5,1.74,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Julius Randle,Over,6.5,1.77,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Julius Randle,Under,6.5,1.96,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Tre Jones,Over,2.5,2.18,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Tre Jones,Under,2.5,1.63,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Jalen Smith,Over,8.5,1.88,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Jalen Smith,Under,8.5,1.85,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Mikel Brown Jr.,Over,2.5,2.45,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Mikel Brown Jr.,Under,2.5,1.5,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Norman Powell,Over,2.5,1.64,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Norman Powell,Under,2.5,2.16,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Nolan Traore,Over,2.5,2.35,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Nolan Traore,Under,2.5,1.54,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Josh Giddey,Over,6.5,2.12,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Josh Giddey,Under,6.5,1.66,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Patrick Williams,Over,2.5,1.8,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Patrick Williams,Under,2.5,1.93,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Isaac Okoro,Over,2.5,1.75,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_rebounds,Isaac Okoro,Under,2.5,2.0,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Noah Clowney,Over,0.5,1.43,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Noah Clowney,Under,0.5,2.65,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Julius Randle,Over,1.5,2.3,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Julius Randle,Under,1.5,1.56,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Norman Powell,Over,2.5,1.77,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Norman Powell,Under,2.5,1.96,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Mikel Brown Jr.,Over,1.5,1.83,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Mikel Brown Jr.,Under,1.5,1.89,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Matas Buzelis,Over,2.5,2.33,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Matas Buzelis,Under,2.5,1.55,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Patrick Williams,Over,1.5,2.48,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Patrick Williams,Under,1.5,1.49,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Egor Demin,Over,2.5,2.38,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Egor Demin,Under,2.5,1.53,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Michael Porter Jr,Over,3.5,2.23,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Michael Porter Jr,Under,3.5,1.6,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Jalen Smith,Over,1.5,1.64,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Jalen Smith,Under,1.5,2.16,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Josh Giddey,Over,1.5,2.28,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Josh Giddey,Under,1.5,1.57,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Nolan Traore,Over,1.5,1.95,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Nolan Traore,Under,1.5,1.77,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Isaac Okoro,Over,1.5,2.63,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,unibet,player_threes,Isaac Okoro,Under,1.5,1.43,2026-11-19T00:34:40Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Day'Ron Sharpe,Over,4.5,2.1,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Day'Ron Sharpe,Under,4.5,1.7,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Tre Jones,Over,3.5,1.7,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Tre Jones,Under,3.5,2.05,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Norman Powell,Over,2.5,2.15,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Norman Powell,Under,2.5,1.65,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Jalen Smith,Over,2.5,2.25,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Jalen Smith,Under,2.5,1.6,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Matas Buzelis,Over,2.5,2.1,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Matas Buzelis,Under,2.5,1.68,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Nolan Traore,Over,4.5,2.1,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Nolan Traore,Under,4.5,1.68,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Egor Demin,Over,2.5,1.75,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Egor Demin,Under,2.5,2.0,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Julius Randle,Over,4.5,1.77,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Julius Randle,Under,4.5,1.98,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Josh Giddey,Over,8.5,1.98,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_assists,Josh Giddey,Under,8.5,1.77,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Noah Clowney,Over,7.5,1.94,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Noah Clowney,Under,7.5,1.8,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Julius Randle,Over,22.5,1.92,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Julius Randle,Under,22.5,1.82,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Isaac Okoro,Over,9.5,1.91,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Isaac Okoro,Under,9.5,1.83,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Josh Giddey,Over,11.5,1.8,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Josh Giddey,Under,11.5,1.94,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Jalen Smith,Over,14.5,1.9,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Jalen Smith,Under,14.5,1.85,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Patrick Williams,Over,6.5,1.87,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Patrick Williams,Under,6.5,1.87,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Norman Powell,Over,22.5,1.8,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Norman Powell,Under,22.5,1.94,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Day'Ron Sharpe,Over,10.5,1.92,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Day'Ron Sharpe,Under,10.5,1.82,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Egor Demin,Over,10.5,1.83,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Egor Demin,Under,10.5,1.91,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Nolan Traore,Over,13.5,1.92,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Nolan Traore,Under,13.5,1.82,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Tre Jones,Over,11.5,1.83,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Tre Jones,Under,11.5,1.9,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Michael Porter Jr,Over,23.5,1.94,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Michael Porter Jr,Under,23.5,1.8,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Matas Buzelis,Over,16.5,1.9,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points,Matas Buzelis,Under,16.5,1.85,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Jalen Smith,Over,24.5,1.75,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Jalen Smith,Under,24.5,2.0,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Norman Powell,Over,27.5,1.73,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Norman Powell,Under,27.5,2.02,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Tre Jones,Over,17.5,1.7,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Tre Jones,Under,17.5,2.05,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Day'Ron Sharpe,Over,22.5,1.73,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Day'Ron Sharpe,Under,22.5,2.02,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Nolan Traore,Over,19.5,1.8,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Nolan Traore,Under,19.5,1.94,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Egor Demin,Over,16.5,1.8,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Egor Demin,Under,16.5,1.95,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Julius Randle,Over,33.5,1.82,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Julius Randle,Under,33.5,1.92,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Josh Giddey,Over,26.5,1.88,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Josh Giddey,Under,26.5,1.87,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Matas Buzelis,Over,23.5,1.73,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_points_rebounds_assists,Matas Buzelis,Under,23.5,2.02,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Tre Jones,Over,2.5,2.05,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Tre Jones,Under,2.5,1.7,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Egor Demin,Over,3.5,2.1,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Egor Demin,Under,3.5,1.67,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Josh Giddey,Over,6.5,2.1,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Josh Giddey,Under,6.5,1.7,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Michael Porter Jr,Over,7.5,2.05,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Michael Porter Jr,Under,7.5,1.7,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Patrick Williams,Over,2.5,1.83,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Patrick Williams,Under,2.5,1.9,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Isaac Okoro,Over,2.5,1.72,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Isaac Okoro,Under,2.5,2.05,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Julius Randle,Over,6.5,1.88,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Julius Randle,Under,6.5,1.87,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Jalen Smith,Over,8.5,1.96,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Jalen Smith,Under,8.5,1.78,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Matas Buzelis,Over,5.5,2.05,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Matas Buzelis,Under,5.5,1.72,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Nolan Traore,Over,2.5,2.25,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Nolan Traore,Under,2.5,1.6,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Norman Powell,Over,2.5,1.65,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Norman Powell,Under,2.5,2.15,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Day'Ron Sharpe,Over,8.5,1.98,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Day'Ron Sharpe,Under,8.5,1.77,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Noah Clowney,Over,3.5,1.98,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_rebounds,Noah Clowney,Under,3.5,1.78,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Michael Porter Jr,Over,3.5,2.1,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Michael Porter Jr,Under,3.5,1.62,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Norman Powell,Over,2.5,1.88,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Norman Powell,Under,2.5,1.8,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Matas Buzelis,Over,2.5,2.2,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Matas Buzelis,Under,2.5,1.58,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Nolan Traore,Over,1.5,2.05,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Nolan Traore,Under,1.5,1.67,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Jalen Smith,Over,1.5,1.67,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Jalen Smith,Under,1.5,2.05,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Egor Demin,Over,1.5,1.46,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,neds,player_threes,Egor Demin,Under,1.5,2.45,2026-11-19T00:34:03Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Day'Ron Sharpe,Over,4.5,2.1,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Day'Ron Sharpe,Under,4.5,1.7,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Tre Jones,Over,3.5,1.7,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Tre Jones,Under,3.5,2.05,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Norman Powell,Over,2.5,2.15,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Norman Powell,Under,2.5,1.65,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Jalen Smith,Over,2.5,2.25,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Jalen Smith,Under,2.5,1.6,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Matas Buzelis,Over,2.5,2.1,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Matas Buzelis,Under,2.5,1.68,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Nolan Traore,Over,4.5,2.1,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Nolan Traore,Under,4.5,1.68,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Egor Demin,Over,2.5,1.75,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Egor Demin,Under,2.5,2.0,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Julius Randle,Over,4.5,1.77,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Julius Randle,Under,4.5,1.98,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Josh Giddey,Over,8.5,1.98,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_assists,Josh Giddey,Under,8.5,1.77,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Noah Clowney,Over,7.5,1.94,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Noah Clowney,Under,7.5,1.8,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Julius Randle,Over,22.5,1.92,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Julius Randle,Under,22.5,1.82,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Isaac Okoro,Over,9.5,1.91,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Isaac Okoro,Under,9.5,1.83,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Josh Giddey,Over,11.5,1.8,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Josh Giddey,Under,11.5,1.94,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Jalen Smith,Over,14.5,1.9,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Jalen Smith,Under,14.5,1.85,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Patrick Williams,Over,6.5,1.87,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Patrick Williams,Under,6.5,1.87,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Norman Powell,Over,22.5,1.8,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Norman Powell,Under,22.5,1.94,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Day'Ron Sharpe,Over,10.5,1.92,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Day'Ron Sharpe,Under,10.5,1.82,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Egor Demin,Over,10.5,1.83,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Egor Demin,Under,10.5,1.91,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Nolan Traore,Over,13.5,1.92,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Nolan Traore,Under,13.5,1.82,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Tre Jones,Over,11.5,1.83,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Tre Jones,Under,11.5,1.9,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Michael Porter Jr,Over,23.5,1.94,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Michael Porter Jr,Under,23.5,1.8,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Matas Buzelis,Over,16.5,1.9,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points,Matas Buzelis,Under,16.5,1.85,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Jalen Smith,Over,24.5,1.8,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Jalen Smith,Under,24.5,1.95,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Norman Powell,Over,27.5,1.75,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Norman Powell,Under,27.5,2.0,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Tre Jones,Over,17.5,1.75,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Tre Jones,Under,17.5,2.0,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Over,22.5,1.78,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Under,22.5,1.96,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Nolan Traore,Over,19.5,1.78,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Nolan Traore,Under,19.5,1.98,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Egor Demin,Over,16.5,1.8,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Egor Demin,Under,16.5,1.95,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Over,33.5,1.8,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Under,33.5,1.94,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Josh Giddey,Over,26.5,1.85,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Josh Giddey,Under,26.5,1.9,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Matas Buzelis,Over,23.5,1.75,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Matas Buzelis,Under,23.5,2.0,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Tre Jones,Over,2.5,2.05,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Tre Jones,Under,2.5,1.7,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Egor Demin,Over,3.5,2.1,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Egor Demin,Under,3.5,1.67,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Josh Giddey,Over,6.5,2.1,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Josh Giddey,Under,6.5,1.7,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Michael Porter Jr,Over,7.5,2.05,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Michael Porter Jr,Under,7.5,1.7,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Patrick Williams,Over,2.5,1.83,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Patrick Williams,Under,2.5,1.9,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Isaac Okoro,Over,2.5,1.72,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Isaac Okoro,Under,2.5,2.05,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Julius Randle,Over,6.5,1.88,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Julius Randle,Under,6.5,1.87,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Jalen Smith,Over,8.5,1.96,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Jalen Smith,Under,8.5,1.78,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Matas Buzelis,Over,5.5,2.05,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Matas Buzelis,Under,5.5,1.72,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Nolan Traore,Over,2.5,2.25,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Nolan Traore,Under,2.5,1.6,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Norman Powell,Over,2.5,1.65,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Norman Powell,Under,2.5,2.15,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Over,8.5,1.98,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Under,8.5,1.77,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Noah Clowney,Over,3.5,1.98,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_rebounds,Noah Clowney,Under,3.5,1.78,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Michael Porter Jr,Over,3.5,2.1,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Michael Porter Jr,Under,3.5,1.62,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Norman Powell,Over,2.5,1.88,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Norman Powell,Under,2.5,1.8,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Matas Buzelis,Over,2.5,2.2,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Matas Buzelis,Under,2.5,1.58,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Nolan Traore,Over,1.5,2.05,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Nolan Traore,Under,1.5,1.67,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Jalen Smith,Over,1.5,1.67,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Jalen Smith,Under,1.5,2.05,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Egor Demin,Over,1.5,1.46,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
+2026-11-19,11:40,Chicago Bulls @ Brooklyn Nets,ladbrokes_au,player_threes,Egor Demin,Under,1.5,2.45,2026-11-19T00:34:41Z,2026-11-19T00:35:00+00:00,5.0
