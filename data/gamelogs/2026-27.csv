@@ -6247,3 +6247,28 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,4066262,Malik Monk,malik monk,0,0,12,2,0,3,0,5,104,106
 2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,2488653,Mason Plumlee,mason plumlee,0,1,0,0,0,0,0,0,104,106
 2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,3064440,Zach LaVine,zach lavine,1,0,39,19,7,4,2,30,104,106
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,4397475,AJ Green,aj green,0,0,12,9,0,0,3,9,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,5082206,Brayden Burries,brayden burries,0,0,26,26,8,4,2,38,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,2991043,Caris LeVert,caris levert,0,0,5,0,1,0,0,1,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,4277843,Gary Trent Jr.,gary trent,0,1,0,0,0,0,0,0,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,4432848,Jaime Jaquez Jr.,jaime jaquez,1,0,25,9,0,1,1,10,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,4277922,Jericho Sims,jericho sims,0,1,0,0,0,0,0,0,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,5214640,Kasparas Jakucionis,kasparas jakucionis,0,0,10,2,3,3,0,8,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,5105623,Kel'el Ware,kelel ware,0,0,22,6,8,3,0,17,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,3134907,Kyle Kuzma,kyle kuzma,1,0,33,12,5,1,2,18,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,3133628,Myles Turner,myles turner,1,0,26,5,6,5,1,16,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,5164559,Nate Ament,nate ament,0,0,14,2,1,0,0,3,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,4591725,Ryan Rollins,ryan rollins,1,0,28,8,6,1,0,15,129,132
+2026-27,2026-11-21,401910023,MIL,Milwaukee Bucks,PHI,Philadelphia 76ers,0,4395725,Tyler Herro,tyler herro,1,0,40,50,11,7,7,68,129,132
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,4351851,Anfernee Simons,anfernee simons,0,0,26,18,0,1,4,19,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,4433144,Caleb Love,caleb love,0,1,0,0,0,0,0,0,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,4870562,Dominick Barlow,dominick barlow,0,0,11,12,4,1,1,17,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,4432446,Jabari Walker,jabari walker,0,0,20,9,7,4,0,20,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,3059318,Joel Embiid,joel embiid,1,0,34,26,17,9,0,52,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,4711297,Justin Edwards,justin edwards,0,1,0,0,0,0,0,0,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,2581018,Kentavious Caldwell-Pope,kentavious caldwell pope,1,0,35,11,1,2,3,14,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,4873090,Labaron Philon Jr.,labaron philon,0,0,6,2,0,0,0,2,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,1966,LeBron James,lebron james,1,0,35,21,6,6,0,33,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,3904625,Tacko Fall,tacko fall,0,1,0,0,0,0,0,0,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,4431678,Tyrese Maxey,tyrese maxey,1,0,36,17,4,4,0,25,132,129
+2026-27,2026-11-21,401910023,PHI,Philadelphia 76ers,MIL,Milwaukee Bucks,1,5124612,VJ Edgecombe,vj edgecombe,1,0,38,16,3,6,1,25,132,129
