@@ -6021,3 +6021,229 @@ season,date_us,game_id,team,team_name,opp,opp_name,home,player_id,player,player_
 2026-27,2026-11-19,401910022,SA,San Antonio Spurs,LAC,LA Clippers,1,4845367,Stephon Castle,stephon castle,1,0,33,21,6,12,2,39,124,112
 2026-27,2026-11-19,401910022,SA,San Antonio Spurs,LAC,LA Clippers,1,5105809,Tarris Reed Jr.,tarris reed,0,1,0,0,0,0,0,0,124,112
 2026-27,2026-11-19,401910022,SA,San Antonio Spurs,LAC,LA Clippers,1,5104157,Victor Wembanyama,victor wembanyama,1,0,33,32,11,3,2,46,124,112
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,4397183,Aaron Wiggins,aaron wiggins,1,0,34,19,2,3,4,24,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,4280151,Corey Kispert,corey kispert,0,0,16,7,3,0,1,10,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,2578185,Dorian Finney-Smith,dorian finney smith,0,0,3,0,0,1,0,1,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,4869342,Dyson Daniels,dyson daniels,1,0,35,11,8,10,1,29,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,4701230,Jalen Johnson,jalen johnson,1,0,36,26,6,6,3,38,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,4431714,Jalen Wilson,jalen wilson,0,1,0,0,0,0,0,0,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,5149077,Kingston Flemings,kingston flemings,0,1,0,0,0,0,0,0,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,4397020,Luguentz Dort,luguentz dort,0,0,23,2,1,0,0,3,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,4278039,Nickeil Alexander-Walker,nickeil alexander walker,1,0,32,17,4,3,2,24,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,4431680,Onyeka Okongwu,onyeka okongwu,1,0,34,16,7,1,2,24,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,4431941,RayJ Dennis,rayj dennis,0,0,13,8,4,2,0,14,111,97
+2026-27,2026-11-20,401909305,ATL,Atlanta Hawks,CHA,Charlotte Hornets,1,5106262,Zuby Ejiofor,zuby ejiofor,0,0,14,5,2,2,0,9,111,97
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,4433287,Brandon Miller,brandon miller,1,0,33,19,8,3,5,30,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,5060701,Christian Anderson,christian anderson,0,0,21,4,1,2,0,7,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,4395651,Coby White,coby white,1,0,26,11,4,9,0,24,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,3032979,Dennis Schroder,dennis schroder,0,1,0,0,0,0,0,0,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,5281370,Hannes Steinbach,hannes steinbach,0,1,0,0,0,0,0,0,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,5239590,Liam McNeeley,liam mcneeley,0,0,7,2,1,0,0,3,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,4433249,Moussa Diabate,moussa diabate,1,0,30,21,15,2,0,38,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,4396971,Naz Reid,naz reid,1,0,39,12,10,3,2,25,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,2583632,Royce O'Neale,royce oneale,0,0,21,9,1,0,3,10,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,4576060,Ryan Kalkbrenner,ryan kalkbrenner,0,0,17,6,6,0,0,12,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,4602025,Sion James,sion james,1,0,32,9,1,2,1,12,97,111
+2026-27,2026-11-20,401909305,CHA,Charlotte Hornets,ATL,Atlanta Hawks,0,5211176,Tidjane Salaun,tidjane salaun,0,0,13,4,2,1,0,7,97,111
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,5242502,Ben Saraf,ben saraf,0,1,0,0,0,0,0,0,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,5174655,Chaney Johnson,chaney johnson,0,1,0,0,0,0,0,0,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,5107173,Danny Wolf,danny wolf,1,0,26,20,5,2,4,27,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,4432194,Day'Ron Sharpe,dayron sharpe,1,0,26,17,11,2,0,30,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,5037873,Drake Powell,drake powell,0,1,0,0,0,0,0,0,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,5175643,Egor Demin,egor demin,0,0,21,6,3,2,0,11,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,4687718,Josh Minott,josh minott,0,1,0,0,0,0,0,0,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,3064514,Julius Randle,julius randle,1,0,39,27,9,6,1,42,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,4702177,Keon Ellis,keon ellis,0,0,8,0,1,1,0,2,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,4278104,Michael Porter Jr.,michael porter,1,0,34,16,4,5,3,25,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,5101761,Mikel Brown Jr.,mikel brown,0,0,24,18,1,0,3,19,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,3150844,Moritz Wagner,moritz wagner,0,0,22,3,5,2,1,10,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,4712896,Noah Clowney,noah clowney,0,0,22,0,2,2,0,4,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,5279130,Nolan Traore,nolan traore,1,0,18,4,0,2,0,6,111,113
+2026-27,2026-11-20,401909306,BKN,Brooklyn Nets,ORL,Orlando Magic,1,3907823,Terance Mann,terance mann,0,1,0,0,0,0,0,0,111,113
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,4593034,Alex Morales,alex morales,0,1,0,0,0,0,0,0,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,4712849,Anthony Black,anthony black,1,0,37,13,7,6,2,26,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,4066320,Desmond Bane,desmond bane,1,0,31,21,2,3,7,26,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,4566434,Franz Wagner,franz wagner,1,0,36,35,5,7,2,47,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,4348700,Goga Bitadze,goga bitadze,0,0,15,4,4,1,0,9,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,4432165,Jalen Suggs,jalen suggs,1,0,30,8,6,2,2,16,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,4278572,Jamal Cain,jamal cain,0,1,0,0,0,0,0,0,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,5239561,Jase Richardson,jase richardson,0,1,0,0,0,0,0,0,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,3133635,Jevon Carter,jevon carter,0,0,10,3,0,0,1,3,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,6478,Nikola Vucevic,nikola vucevic,0,0,23,15,8,1,3,24,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,4702382,Tristan da Silva,tristan da silva,0,0,24,6,1,2,2,9,113,111
+2026-27,2026-11-20,401909306,ORL,Orlando Magic,BKN,Brooklyn Nets,0,4277847,Wendell Carter Jr.,wendell carter,1,0,35,8,8,2,0,18,113,111
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,4701233,Craig Porter Jr.,craig porter,0,1,0,0,0,0,0,0,128,119
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,3908809,Donovan Mitchell,donovan mitchell,1,0,29,20,3,3,2,26,128,119
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,3992,James Harden,james harden,1,0,40,51,6,6,7,63,128,119
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,4066328,Jarrett Allen,jarrett allen,1,0,31,6,8,4,0,18,128,119
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,2995706,Mario Hezonja,mario hezonja,0,0,20,10,10,3,2,23,128,119
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,5041951,Meleek Thomas,meleek thomas,0,0,20,4,1,4,0,9,128,119
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,4702134,Norchad Omier,norchad omier,0,0,6,2,1,0,0,3,128,119
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,4576087,Peyton Watson,peyton watson,1,0,29,15,4,3,3,22,128,119
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,4066757,Sam Merrill,sam merrill,0,0,25,6,1,1,2,8,128,119
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,3934723,Thomas Bryant,thomas bryant,0,0,16,9,6,0,2,15,128,119
+2026-27,2026-11-20,401909307,CLE,Cleveland Cavaliers,IND,Indiana Pacers,1,5023693,Tyrese Proctor,tyrese proctor,1,0,24,5,1,2,1,8,128,119
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,4396909,Aaron Nesmith,aaron nesmith,1,0,29,2,10,7,0,19,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,4395712,Andrew Nembhard,andrew nembhard,1,0,26,12,3,8,3,23,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,5105854,Braden Smith,braden smith,0,0,11,5,3,5,1,13,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,4017837,Ivica Zubac,ivica zubac,1,0,27,21,10,2,0,33,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,4398207,Jalen Slawson,jalen slawson,0,0,14,4,2,2,0,8,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,5106060,Jarace Walker,jarace walker,0,0,11,8,1,3,1,12,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,4065731,Jay Huff,jay huff,0,0,1,0,0,0,0,0,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,3133603,Kelly Oubre Jr.,kelly oubre,1,0,23,17,6,0,3,23,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,2580365,Larry Nance Jr.,larry nance,0,0,11,7,2,0,1,9,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,4278355,Obi Toppin,obi toppin,0,0,26,17,3,2,2,22,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,3149673,Pascal Siakam,pascal siakam,1,0,30,21,7,2,2,30,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,4592829,Quenton Jackson,quenton jackson,0,0,18,3,2,2,1,7,119,128
+2026-27,2026-11-20,401909307,IND,Indiana Pacers,CLE,Cleveland Cavaliers,0,2530530,T.J. McConnell,tj mcconnell,0,0,11,2,1,2,0,5,119,128
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,4684742,Ausar Thompson,ausar thompson,1,0,33,13,6,3,0,22,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,4432166,Cade Cunningham,cade cunningham,1,0,36,23,5,9,2,37,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,4700852,Chaz Lanier,chaz lanier,0,0,6,0,0,0,0,0,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,5107199,Daniss Jenkins,daniss jenkins,1,0,39,14,4,1,2,19,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,4397449,Elijah Harkless,elijah harkless,0,1,0,0,0,0,0,0,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,5107818,Isaac Jones,isaac jones,0,1,0,0,0,0,0,0,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,4395702,Isaiah Joe,isaiah joe,0,0,18,9,1,0,1,10,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,2596112,Javonte Green,javonte green,0,0,23,12,1,0,3,13,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,3908845,John Collins,john collins,1,0,20,3,6,1,0,10,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,4066372,Kevin Huerter,kevin huerter,1,0,36,20,3,3,4,26,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,4278562,Paul Reed,paul reed,0,0,28,8,7,3,0,18,102,105
+2026-27,2026-11-20,401909308,DET,Detroit Pistons,TOR,Toronto Raptors,1,4397882,Tolu Smith,tolu smith,0,1,0,0,0,0,0,0,102,105
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,4702656,Alijah Martin,alijah martin,0,0,16,0,2,1,0,3,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,5149115,Allen Graves,allen graves,1,0,33,20,10,1,2,31,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,5093267,Collin Murray-Boyles,collin murray boyles,0,1,0,0,0,0,0,0,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,4395724,Immanuel Quickley,immanuel quickley,1,0,33,18,3,10,3,31,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,4684272,Ja'Kobe Walter,jakobe walter,1,0,33,8,3,3,2,14,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,3134908,Jakob Poeltl,jakob poeltl,1,0,32,10,9,3,0,22,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,4432241,Jamal Shead,jamal shead,0,0,15,0,1,4,0,5,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,4431893,Jamison Battle,jamison battle,0,0,20,10,5,0,2,15,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,2993874,Kyle Anderson,kyle anderson,0,1,0,0,0,0,0,0,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,4397784,Malachi Smith,malachi smith,0,0,5,2,0,1,0,3,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,4433134,Scottie Barnes,scottie barnes,1,0,37,29,5,5,0,39,105,102
+2026-27,2026-11-20,401909308,TOR,Toronto Raptors,DET,Detroit Pistons,0,4431684,Trayce Jackson-Davis,trayce jackson davis,0,0,16,8,2,1,0,11,105,102
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,2990984,Buddy Hield,buddy hield,0,0,23,15,4,0,4,19,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,4432822,Isaac Okoro,isaac okoro,1,0,29,9,7,1,1,17,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,4683750,Jordan Hawkins,jordan hawkins,0,1,0,0,0,0,0,0,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,4871145,Josh Giddey,josh giddey,1,0,23,2,6,7,0,15,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,5044385,Leonard Miller,leonard miller,0,1,0,0,0,0,0,0,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,4711294,Matas Buzelis,matas buzelis,1,0,25,9,5,1,1,15,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,4278067,Nic Claxton,nic claxton,1,0,29,11,7,1,0,19,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,5242496,Noa Essengue,noa essengue,0,0,15,8,4,0,2,12,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,2595516,Norman Powell,norman powell,1,0,33,16,3,2,1,21,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,4431687,Patrick Williams,patrick williams,0,0,23,6,3,1,0,10,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,4395626,Tre Jones,tre jones,0,0,25,12,1,7,0,20,94,98
+2026-27,2026-11-20,401909309,CHI,Chicago Bulls,WSH,Washington Wizards,1,4066650,Zach Collins,zach collins,0,0,15,6,2,4,0,12,94,98
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,5142718,AJ Dybantsa,aj dybantsa,1,0,37,20,10,6,2,36,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,5160992,Alex Sarr,alex sarr,1,0,20,3,3,0,1,6,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,6583,Anthony Davis,anthony davis,1,0,34,36,11,3,0,50,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,2581184,Anthony Gill,anthony gill,0,1,0,0,0,0,0,0,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,5104155,Bilal Coulibaly,bilal coulibaly,0,0,24,2,5,0,0,7,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,4845374,Bub Carrington,bub carrington,0,0,6,3,0,0,1,3,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,4278129,Deandre Ayton,deandre ayton,0,0,11,0,4,1,0,5,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,6609,Khris Middleton,khris middleton,0,0,28,5,2,3,0,10,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,5174563,Kyshawn George,kyshawn george,1,0,35,11,7,5,1,23,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,4277905,Trae Young,trae young,1,0,35,16,2,5,4,23,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,5238230,Tre Johnson,tre johnson,0,0,4,2,1,0,0,3,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,4432819,Tre Mann,tre mann,0,1,0,0,0,0,0,0,98,94
+2026-27,2026-11-20,401909309,WSH,Washington Wizards,CHI,Chicago Bulls,0,5144126,Will Riley,will riley,0,0,6,0,1,1,0,2,98,94
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,5170947,AJ Johnson,aj johnson,0,1,0,0,0,0,0,0,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,3442,DeAndre Jordan,deandre jordan,0,1,0,0,0,0,0,0,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,4869780,Derik Queen,derik queen,0,0,18,11,7,3,0,21,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,4277813,Herbert Jones,herbert jones,1,0,33,14,2,3,4,19,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,4703115,Jaron Pierre Jr.,jaron pierre,0,0,4,3,2,0,1,5,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,5144091,Jeremiah Fears,jeremiah fears,1,0,38,22,7,5,3,34,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,4277956,Jordan Poole,jordan poole,0,0,13,6,0,1,2,7,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,4997538,Karlo Matkovic,karlo matkovic,0,0,8,0,2,0,0,2,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,4397136,Saddiq Bey,saddiq bey,1,0,37,21,6,3,4,30,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,4397688,Trey Murphy III,trey murphy,0,0,29,17,4,1,3,22,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,5061589,Yves Missi,yves missi,1,0,23,4,7,0,0,11,120,126
+2026-27,2026-11-20,401909310,NO,New Orleans Pelicans,OKC,Oklahoma City Thunder,0,4395628,Zion Williamson,zion williamson,1,0,37,22,6,7,0,35,120,126
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,5174983,Aday Mara,aday mara,1,0,29,22,16,2,0,40,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,4900671,Ajay Mitchell,ajay mitchell,1,0,31,8,2,4,1,14,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,5241364,Bennett Stirtz,bennett stirtz,0,0,25,18,2,2,4,22,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,4684208,Brooks Barnhizer,brooks barnhizer,0,1,0,0,0,0,0,0,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,4222252,Isaiah Hartenstein,isaiah hartenstein,1,0,28,5,8,4,0,17,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,4683778,Jared McCain,jared mccain,1,0,30,18,3,0,3,21,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,4432823,Jaylin Williams,jaylin williams,0,0,9,3,1,1,1,5,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,5105800,Josh Dix,josh dix,0,1,0,0,0,0,0,0,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,3133626,Kenrich Williams,kenrich williams,0,0,28,6,2,4,1,12,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,4432185,Micah Peavy,micah peavy,0,0,9,2,2,0,0,4,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,4702384,Nique Clifford,nique clifford,0,0,15,4,5,1,0,10,126,120
+2026-27,2026-11-20,401909310,OKC,Oklahoma City Thunder,NO,New Orleans Pelicans,1,4278073,Shai Gilgeous-Alexander,shai gilgeous alexander,1,0,37,40,3,8,4,51,126,120
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,4278585,Collin Gillespie,collin gillespie,0,0,27,16,4,5,3,25,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,3136193,Devin Booker,devin booker,1,0,38,23,2,3,1,28,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,3155526,Dillon Brooks,dillon brooks,1,0,25,18,3,3,2,24,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,4437244,Jalen Green,jalen green,1,0,25,14,4,3,1,21,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,4280245,Jamaree Bouyea,jamaree bouyea,0,1,0,0,0,0,0,0,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,4278402,Jordan Goodwin,jordan goodwin,0,0,28,5,9,4,1,18,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,5203685,Khaman Maluach,khaman maluach,0,0,18,9,6,1,0,16,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,5041953,Koa Peat,koa peat,0,0,3,0,0,0,0,0,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,3913174,Luke Kennard,luke kennard,0,0,15,5,0,0,1,5,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,4066383,Miles Bridges,miles bridges,1,0,25,18,9,4,1,31,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,4601023,Oso Ighodaro,oso ighodaro,1,0,27,3,7,3,0,13,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,4592714,Pat Spencer,pat spencer,0,1,0,0,0,0,0,0,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,5105977,Rasheer Fleming,rasheer fleming,0,1,0,0,0,0,0,0,111,101
+2026-27,2026-11-20,401909311,PHX,Phoenix Suns,UTAH,Utah Jazz,0,4888725,Ryan Dunn,ryan dunn,0,0,9,0,5,0,0,5,111,101
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,4873138,Ace Bailey,ace bailey,1,0,24,7,7,1,0,15,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,5105839,Brice Sensabaugh,brice sensabaugh,0,0,26,18,3,1,5,22,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,5041955,Darryn Peterson,darryn peterson,1,0,32,20,10,8,0,38,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,4683766,Isaiah Collier,isaiah collier,0,1,0,0,0,0,0,0,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,4397077,Jaxson Hayes,jaxson hayes,1,0,28,18,14,0,0,32,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,4432811,Josh Green,josh green,1,0,29,8,4,0,2,12,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,4065663,Josh Okogie,josh okogie,0,0,17,3,2,2,0,7,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,4433627,Keyonte George,keyonte george,1,0,36,14,3,6,0,23,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,4684793,Kyle Filipowski,kyle filipowski,0,1,0,0,0,0,0,0,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,4277919,Mo Bamba,mo bamba,0,0,20,2,2,0,0,4,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,3133602,Svi Mykhailiuk,svi mykhailiuk,0,0,28,11,7,2,3,20,101,111
+2026-27,2026-11-20,401909311,UTAH,Utah Jazz,PHX,Phoenix Suns,1,4065673,Tony Bradley,tony bradley,0,1,0,0,0,0,0,0,101,111
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,3064290,Aaron Gordon,aaron gordon,1,0,31,18,3,2,1,23,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,4065813,Alpha Diallo,alpha diallo,0,1,0,0,0,0,0,0,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,3138196,Cameron Johnson,cameron johnson,1,0,29,19,3,6,2,28,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,4431767,Christian Braun,christian braun,1,0,31,19,5,3,3,27,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,3978,DeMar DeRozan,demar derozan,0,0,22,15,2,2,0,19,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,3936299,Jamal Murray,jamal murray,1,0,36,14,2,7,1,23,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,4277848,Marvin Bagley III,marvin bagley,0,0,10,10,6,0,2,16,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,3112335,Nikola Jokic,nikola jokic,1,0,38,26,7,11,2,44,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,4433629,Ryan Nembhard,ryan nembhard,0,1,0,0,0,0,0,0,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,4592427,Spencer Jones,spencer jones,0,0,18,3,1,1,1,5,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,4698719,Trevon Brazile,trevon brazile,0,0,11,4,4,0,0,8,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,3135046,Tyus Jones,tyus jones,0,0,14,5,3,4,1,12,133,124
+2026-27,2026-11-20,401909312,DEN,Denver Nuggets,HOU,Houston Rockets,1,4431690,Zeke Nnaji,zeke nnaji,0,1,0,0,0,0,0,0,133,124
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,4871144,Alperen Sengun,alperen sengun,1,0,36,28,11,10,1,49,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,4684740,Amen Thompson,amen thompson,1,0,26,22,6,0,0,28,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,3037789,Bogdan Bogdanovic,bogdan bogdanovic,0,0,5,0,1,0,0,1,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,2991230,Fred VanVleet,fred vanvleet,1,0,33,25,1,9,3,35,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,4592857,Isaiah Crawford,isaiah crawford,0,1,0,0,0,0,0,0,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,4432639,Jabari Smith Jr.,jabari smith,1,0,32,21,4,3,3,28,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,3136777,Jae'Sean Tate,jaesean tate,0,1,0,0,0,0,0,0,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,3202,Kevin Durant,kevin durant,1,0,35,16,4,4,0,24,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,2990992,Marcus Smart,marcus smart,0,0,23,3,2,2,1,7,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,4432827,Oscar Tshiebwe,oscar tshiebwe,0,1,0,0,0,0,0,0,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,4711272,Reed Sheppard,reed sheppard,0,0,14,0,2,0,0,2,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,2991235,Steven Adams,steven adams,0,0,12,2,2,2,0,6,124,133
+2026-27,2026-11-20,401909312,HOU,Houston Rockets,DEN,Denver Nuggets,0,4433192,Tari Eason,tari eason,0,0,23,7,6,1,1,14,124,133
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,5060631,Adou Thiero,adou thiero,0,1,0,0,0,0,0,0,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,4683774,Bronny James,bronny james,0,1,0,0,0,0,0,0,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,5113969,Cameron Carr,cameron carr,0,0,12,5,1,0,1,6,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,4277811,Collin Sexton,collin sexton,0,0,18,10,1,4,0,15,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,4868423,Jaden Hardy,jaden hardy,0,1,0,0,0,0,0,0,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,4592691,Jake LaRavia,jake laravia,0,0,24,6,3,0,1,9,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,4278077,Jarred Vanderbilt,jarred vanderbilt,0,0,10,4,4,2,0,10,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,3155535,Kevon Looney,kevon looney,0,1,0,0,0,0,0,0,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,3945274,Luka Doncic,luka doncic,1,0,36,25,4,8,2,37,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,3907498,Matisse Thybulle,matisse thybulle,1,0,27,14,1,1,4,16,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,4397014,Quentin Grimes,quentin grimes,1,0,35,13,5,7,1,25,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,4278580,Sandro Mamukelashvili,sandro mamukelashvili,0,0,20,9,9,2,0,20,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,4433136,Walker Kessler,walker kessler,1,0,30,15,7,2,1,24,106,104
+2026-27,2026-11-20,401909313,LAL,Los Angeles Lakers,SAC,Sacramento Kings,1,4433137,Ziaire Williams,ziaire williams,1,0,28,5,0,1,1,6,106,104
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,4917149,Alex Karaban,alex karaban,0,1,0,0,0,0,0,0,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,4279318,Daeqwon Plowden,daeqwon plowden,0,1,0,0,0,0,0,0,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,5142620,Darius Acuff Jr.,darius acuff,1,0,36,18,1,12,2,31,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,4065732,De'Andre Hunter,deandre hunter,1,0,37,30,6,2,5,38,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,3155942,Domantas Sabonis,domantas sabonis,1,0,38,19,16,1,1,36,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,4433174,Dylan Cardwell,dylan cardwell,0,0,10,0,4,0,0,4,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,5106058,Emanuel Sharp,emanuel sharp,0,0,10,3,0,1,1,4,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,4594327,Keegan Murray,keegan murray,1,0,40,13,7,4,2,24,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,4395650,Leaky Black,leaky black,0,0,19,0,3,1,0,4,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,4066262,Malik Monk,malik monk,0,0,12,2,0,3,0,5,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,2488653,Mason Plumlee,mason plumlee,0,1,0,0,0,0,0,0,104,106
+2026-27,2026-11-20,401909313,SAC,Sacramento Kings,LAL,Los Angeles Lakers,0,3064440,Zach LaVine,zach lavine,1,0,39,19,7,4,2,30,104,106
