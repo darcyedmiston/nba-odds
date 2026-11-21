@@ -1,0 +1,10 @@
+date_melb,tipoff_melb,game,player,market,side,line,odds,book,n_books_at_line,n_books,median_line,implied,model_prob,ev_pct,proj,proj_min,status,D1,D2,D3,D4,D5,D6,D7,D8,ces,tier,flags,model_version
+2026-11-22,12:10,Los Angeles Clippers @ Dallas Mavericks,Kris Dunn,player_points_rebounds_assists,Over,10.5,1.7,neds,2,5,11.5,0.588,0.701,19.2,14.0,25.3,,2,1,2,2,0,1,0,1,1.35,Diff 4,,v4.1
+2026-11-22,12:10,Los Angeles Clippers @ Dallas Mavericks,Keaton Wagler,player_points_rebounds_assists,Over,14.5,1.8,sportsbet,4,5,14.5,0.556,0.744,33.9,18.2,21.5,,2,1,2,2,0,1,0,0,1.3,Diff 4,,v4.1
+2026-11-22,11:40,Portland Trail Blazers @ New York Knicks,Jrue Holiday,player_threes,Over,1.5,1.64,unibet,5,5,1.5,0.61,0.677,11.0,2.5,27.7,,2,2,2,1,0,0,0,0,1.25,Diff 4,,v4.1
+2026-11-22,12:10,Memphis Grizzlies @ Minnesota Timberwolves,Cam Spencer,player_assists,Over,4.5,1.71,pointsbetau,2,6,5.5,0.585,0.649,11.0,6.2,24.1,,1,2,1,1,2,-1,0,1,1.05,Diff 3,"key teammates out: jerami grant, cameron boozer",v4.1
+2026-11-22,12:10,New Orleans Pelicans @ San Antonio Spurs,Stephon Castle,player_rebounds,Over,4.5,1.82,ladbrokes_au,3,6,5.0,0.549,0.612,11.3,5.4,28.8,,1,1,1,1,1,1,1,1,1.0,Diff 3,key teammates out: dylan harper,v4.1
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,Darius Acuff Jr.,player_threes,Over,2.5,1.74,pointsbetau,5,5,2.5,0.575,0.58,1.0,3.1,35.1,,1,2,1,0,1,1,-2,0,0.85,Diff 3,key teammates out: precious achiuwa; back-to-back,v4.1
+2026-11-22,12:10,Memphis Grizzlies @ Minnesota Timberwolves,Jaden McDaniels,player_assists,Over,2.5,1.59,pointsbetau,2,5,3.5,0.629,0.63,0.2,3.3,34.0,,0,2,2,0,0,0,1,1,0.8,Diff 3,,v4.1
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,De'Andre Hunter,player_threes,Over,1.5,1.57,neds,2,2,1.5,0.637,0.61,-4.3,2.2,32.4,,1,2,1,-1,1,1,-2,0,0.7,Diff 3,key teammates out: precious achiuwa; back-to-back,v4.1
+2026-11-22,12:10,New Orleans Pelicans @ San Antonio Spurs,Zion Williamson,player_points,Over,19.5,2.0,betright,6,6,19.5,0.5,0.511,2.1,19.7,30.3,,1,2,2,0,0,-2,-1,1,0.7,Diff 3,back-to-back,v4.1
