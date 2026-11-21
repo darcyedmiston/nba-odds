@@ -647,3 +647,709 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-21,11:10,Charlotte Hornets @ Atlanta Hawks,unibet,player_threes,Royce O'Neale,Under,1.5,2.12,2026-11-21T00:03:46Z,2026-11-21T00:05:00+00:00,5.0
 2026-11-21,11:10,Charlotte Hornets @ Atlanta Hawks,unibet,player_threes,Naz Reid,Over,2.5,1.94,2026-11-21T00:03:46Z,2026-11-21T00:05:00+00:00,5.0
 2026-11-21,11:10,Charlotte Hornets @ Atlanta Hawks,unibet,player_threes,Naz Reid,Under,2.5,1.79,2026-11-21T00:03:46Z,2026-11-21T00:05:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Franz Wagner,Over,7.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Franz Wagner,Under,7.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Julius Randle,Over,4.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Julius Randle,Under,4.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Desmond Bane,Over,2.5,1.64,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Desmond Bane,Under,2.5,2.15,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Anthony Black,Over,4.5,1.68,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Anthony Black,Under,4.5,2.1,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Jalen Suggs,Over,4.5,2.05,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Jalen Suggs,Under,4.5,1.74,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Day'Ron Sharpe,Over,3.5,2.02,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Day'Ron Sharpe,Under,3.5,1.76,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Egor Demin,Over,2.5,2.08,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Egor Demin,Under,2.5,1.72,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Nolan Traore,Over,3.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Nolan Traore,Under,3.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Mikel Brown Jr.,Over,3.5,2.05,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_assists,Mikel Brown Jr.,Under,3.5,1.74,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Franz Wagner,Over,24.5,1.9,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Franz Wagner,Under,24.5,1.86,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Julius Randle,Over,19.5,1.86,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Julius Randle,Under,19.5,1.9,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Michael Porter Jr,Over,20.5,1.84,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Michael Porter Jr,Under,20.5,1.92,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Desmond Bane,Over,18.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Desmond Bane,Under,18.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Anthony Black,Over,16.5,1.88,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Anthony Black,Under,16.5,1.88,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Wendell Carter Jr,Over,11.5,1.76,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Wendell Carter Jr,Under,11.5,2.02,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Jalen Suggs,Over,12.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Jalen Suggs,Under,12.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Egor Demin,Over,9.5,2.08,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Egor Demin,Under,9.5,1.72,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Day'Ron Sharpe,Over,7.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Day'Ron Sharpe,Under,7.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Nolan Traore,Over,11.5,1.84,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Nolan Traore,Under,11.5,1.92,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Tristan da Silva,Over,12.5,2.0,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Tristan da Silva,Under,12.5,1.78,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Mikel Brown Jr.,Over,10.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Mikel Brown Jr.,Under,10.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Noah Clowney,Over,6.5,1.92,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Noah Clowney,Under,6.5,1.84,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Danny Wolf,Over,7.5,1.89,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points,Danny Wolf,Under,7.5,1.87,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Over,29.5,1.88,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Under,29.5,1.88,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Julius Randle,Over,30.5,1.89,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Julius Randle,Under,30.5,1.87,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.9,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.86,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Anthony Black,Over,26.5,1.87,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Anthony Black,Under,26.5,1.89,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Over,21.5,1.84,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Under,21.5,1.92,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Jalen Suggs,Over,21.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Jalen Suggs,Under,21.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Over,19.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Under,19.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Egor Demin,Over,14.5,2.0,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Egor Demin,Under,14.5,1.78,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Nolan Traore,Over,17.5,1.88,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Nolan Traore,Under,17.5,1.88,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Tristan da Silva,Over,17.5,1.86,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Tristan da Silva,Under,17.5,1.9,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Over,16.5,1.87,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Under,16.5,1.89,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Franz Wagner,Over,6.5,1.91,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Franz Wagner,Under,6.5,1.85,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Julius Randle,Over,6.5,2.2,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Julius Randle,Under,6.5,1.6,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Michael Porter Jr,Over,6.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Michael Porter Jr,Under,6.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Desmond Bane,Over,4.5,2.08,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Desmond Bane,Under,4.5,1.72,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Anthony Black,Over,4.5,1.83,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Anthony Black,Under,4.5,1.93,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Wendell Carter Jr,Over,7.5,1.78,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Wendell Carter Jr,Under,7.5,2.0,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Jalen Suggs,Over,4.5,2.1,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Jalen Suggs,Under,4.5,1.68,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Day'Ron Sharpe,Over,7.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Day'Ron Sharpe,Under,7.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Egor Demin,Over,2.5,2.1,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Egor Demin,Under,2.5,1.68,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Tristan da Silva,Over,3.5,1.72,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Tristan da Silva,Under,3.5,2.08,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Noah Clowney,Over,3.5,2.1,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Noah Clowney,Under,3.5,1.68,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Danny Wolf,Over,5.5,2.15,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_rebounds,Danny Wolf,Under,5.5,1.64,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Julius Randle,Over,1.5,2.25,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Julius Randle,Under,1.5,1.58,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Michael Porter Jr,Over,2.5,1.64,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Michael Porter Jr,Under,2.5,2.15,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Franz Wagner,Over,1.5,2.02,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Franz Wagner,Under,1.5,1.76,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Desmond Bane,Over,3.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Desmond Bane,Under,3.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Anthony Black,Over,1.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Anthony Black,Under,1.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Jalen Suggs,Over,1.5,1.8,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Jalen Suggs,Under,1.5,1.96,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Egor Demin,Over,1.5,1.64,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Egor Demin,Under,1.5,2.15,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Nolan Traore,Over,1.5,2.3,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Nolan Traore,Under,1.5,1.56,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Tristan da Silva,Over,2.5,2.02,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Tristan da Silva,Under,2.5,1.76,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Mikel Brown Jr.,Over,1.5,1.89,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,sportsbet,player_threes,Mikel Brown Jr.,Under,1.5,1.87,2026-11-21T00:34:43Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Anthony Black,Over,5.5,2.35,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Anthony Black,Under,5.5,1.55,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Danny Wolf,Over,1.5,1.65,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Danny Wolf,Under,1.5,2.15,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Desmond Bane,Over,3.5,2.35,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Desmond Bane,Under,3.5,1.55,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Egor Demin,Over,2.5,2.25,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Egor Demin,Under,2.5,1.6,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Goga Bitadze,Over,1.5,2.3,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Goga Bitadze,Under,1.5,1.58,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Julius Randle,Over,4.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Julius Randle,Under,4.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Jalen Suggs,Over,4.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Jalen Suggs,Under,4.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Mikel Brown Jr.,Over,3.5,2.3,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Mikel Brown Jr.,Under,3.5,1.58,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Michael Porter Jr,Over,1.5,1.68,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Michael Porter Jr,Under,1.5,2.1,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Noah Clowney,Over,1.5,3.1,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Noah Clowney,Under,1.5,1.34,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Nolan Traore,Over,3.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Nolan Traore,Under,3.5,1.72,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Tristan da Silva,Over,1.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Tristan da Silva,Under,1.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Wendell Carter Jr,Over,1.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_assists,Wendell Carter Jr,Under,1.5,1.72,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Anthony Black,Over,16.5,1.75,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Anthony Black,Under,16.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Ben Saraf,Over,1.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Ben Saraf,Under,1.5,1.75,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Day'Ron Sharpe,Over,8.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Day'Ron Sharpe,Under,8.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Danny Wolf,Over,7.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Danny Wolf,Under,7.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Desmond Bane,Over,19.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Desmond Bane,Under,19.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Drake Powell,Over,1.5,2.1,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Drake Powell,Under,1.5,1.68,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Egor Demin,Over,9.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Egor Demin,Under,9.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Franz Wagner,Over,24.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Franz Wagner,Under,24.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Goga Bitadze,Over,5.5,1.87,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Goga Bitadze,Under,5.5,1.87,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Jevon Carter,Over,4.5,1.75,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Jevon Carter,Under,4.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Julius Randle,Over,19.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Julius Randle,Under,19.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Jalen Suggs,Over,12.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Jalen Suggs,Under,12.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Jamal Cain,Over,2.5,1.75,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Jamal Cain,Under,2.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Jase Richardson,Over,1.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Jase Richardson,Under,1.5,1.72,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Josh Minott,Over,1.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Josh Minott,Under,1.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Keon Ellis,Over,2.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Keon Ellis,Under,2.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Mikel Brown Jr.,Over,10.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Mikel Brown Jr.,Under,10.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Michael Porter Jr,Over,20.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Michael Porter Jr,Under,20.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Noah Clowney,Over,6.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Noah Clowney,Under,6.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Nolan Traore,Over,11.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Nolan Traore,Under,11.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Tristan da Silva,Over,11.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Tristan da Silva,Under,11.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Terance Mann,Over,0.5,1.75,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Terance Mann,Under,0.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Wendell Carter Jr,Over,12.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points,Wendell Carter Jr,Under,12.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Anthony Black,Over,26.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Anthony Black,Under,26.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Day'Ron Sharpe,Over,19.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Day'Ron Sharpe,Under,19.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Egor Demin,Over,14.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Egor Demin,Under,14.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Franz Wagner,Over,39.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Franz Wagner,Under,39.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Goga Bitadze,Over,12.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Goga Bitadze,Under,12.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Julius Randle,Over,30.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Julius Randle,Under,30.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Jalen Suggs,Over,21.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Jalen Suggs,Under,21.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Mikel Brown Jr.,Over,15.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Mikel Brown Jr.,Under,15.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Michael Porter Jr,Over,29.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Michael Porter Jr,Under,29.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Noah Clowney,Over,11.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Noah Clowney,Under,11.5,1.75,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Nolan Traore,Over,17.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Nolan Traore,Under,17.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Tristan da Silva,Over,17.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Tristan da Silva,Under,17.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Wendell Carter Jr,Over,22.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_points_rebounds_assists,Wendell Carter Jr,Under,22.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Anthony Black,Over,4.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Anthony Black,Under,4.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Day'Ron Sharpe,Over,7.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Day'Ron Sharpe,Under,7.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Danny Wolf,Over,5.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Danny Wolf,Under,5.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Desmond Bane,Over,4.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Desmond Bane,Under,4.5,1.75,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Egor Demin,Over,2.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Egor Demin,Under,2.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Franz Wagner,Over,6.5,1.85,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Franz Wagner,Under,6.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Goga Bitadze,Over,5.5,1.87,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Goga Bitadze,Under,5.5,1.87,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Julius Randle,Over,6.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Julius Randle,Under,6.5,1.72,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Jalen Suggs,Over,4.5,2.15,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Jalen Suggs,Under,4.5,1.65,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Mikel Brown Jr.,Over,2.5,2.55,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Mikel Brown Jr.,Under,2.5,1.48,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Michael Porter Jr,Over,6.5,1.75,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Michael Porter Jr,Under,6.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Noah Clowney,Over,3.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Noah Clowney,Under,3.5,1.75,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Nolan Traore,Over,2.5,2.6,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Nolan Traore,Under,2.5,1.46,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Tristan da Silva,Over,4.5,2.15,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Tristan da Silva,Under,4.5,1.65,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Wendell Carter Jr,Over,8.5,2.1,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_rebounds,Wendell Carter Jr,Under,8.5,1.68,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Anthony Black,Over,1.5,1.72,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Anthony Black,Under,1.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Day'Ron Sharpe,Over,0.5,3.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Day'Ron Sharpe,Under,0.5,1.36,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Danny Wolf,Over,1.5,2.15,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Danny Wolf,Under,1.5,1.65,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Desmond Bane,Over,3.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Desmond Bane,Under,3.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Egor Demin,Over,1.5,1.72,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Egor Demin,Under,1.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Franz Wagner,Over,1.5,2.25,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Franz Wagner,Under,1.5,1.6,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Julius Randle,Over,1.5,2.3,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Julius Randle,Under,1.5,1.58,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Jalen Suggs,Over,1.5,1.65,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Jalen Suggs,Under,1.5,2.15,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Mikel Brown Jr.,Over,1.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Mikel Brown Jr.,Under,1.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Michael Porter Jr,Over,3.5,2.4,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Michael Porter Jr,Under,3.5,1.53,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Noah Clowney,Over,1.5,2.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Noah Clowney,Under,1.5,1.38,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Nolan Traore,Over,1.5,2.25,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Nolan Traore,Under,1.5,1.6,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Tristan da Silva,Over,2.5,2.1,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Tristan da Silva,Under,2.5,1.68,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Wendell Carter Jr,Over,0.5,1.65,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,tab,player_threes,Wendell Carter Jr,Under,0.5,2.15,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Julius Randle,Over,4.5,1.92,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Julius Randle,Under,4.5,1.82,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Jalen Suggs,Over,4.5,2.02,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Jalen Suggs,Under,4.5,1.75,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Nolan Traore,Over,3.5,2.05,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Nolan Traore,Under,3.5,1.72,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Desmond Bane,Over,2.5,1.67,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Desmond Bane,Under,2.5,2.1,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Franz Wagner,Over,7.5,1.96,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Franz Wagner,Under,7.5,1.78,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Anthony Black,Over,4.5,1.72,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Anthony Black,Under,4.5,2.05,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Egor Demin,Over,2.5,2.02,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Egor Demin,Under,2.5,1.75,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Day'Ron Sharpe,Over,3.5,1.98,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_assists,Day'Ron Sharpe,Under,3.5,1.77,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Franz Wagner,Over,24.5,1.91,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Franz Wagner,Under,24.5,1.83,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Wendell Carter Jr,Over,12.5,1.9,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Wendell Carter Jr,Under,12.5,1.83,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Noah Clowney,Over,6.5,1.96,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Noah Clowney,Under,6.5,1.78,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Michael Porter Jr,Over,20.5,1.85,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Michael Porter Jr,Under,20.5,1.9,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Desmond Bane,Over,18.5,1.91,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Desmond Bane,Under,18.5,1.83,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Tristan da Silva,Over,12.5,1.92,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Tristan da Silva,Under,12.5,1.82,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Day'Ron Sharpe,Over,7.5,1.83,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Day'Ron Sharpe,Under,7.5,1.91,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Egor Demin,Over,9.5,1.87,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Egor Demin,Under,9.5,1.87,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Julius Randle,Over,19.5,1.87,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Julius Randle,Under,19.5,1.87,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Danny Wolf,Over,7.5,1.87,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Danny Wolf,Under,7.5,1.87,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Anthony Black,Over,16.5,1.9,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Anthony Black,Under,16.5,1.85,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Jalen Suggs,Over,12.5,1.94,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Jalen Suggs,Under,12.5,1.8,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Goga Bitadze,Over,5.5,1.77,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Goga Bitadze,Under,5.5,1.98,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Nolan Traore,Over,11.5,1.9,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points,Nolan Traore,Under,11.5,1.83,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Desmond Bane,Over,25.5,1.82,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Desmond Bane,Under,25.5,1.92,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Julius Randle,Over,29.5,1.72,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Julius Randle,Under,29.5,2.05,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Jalen Suggs,Over,20.5,1.78,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Jalen Suggs,Under,20.5,1.98,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Franz Wagner,Over,37.5,1.73,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Franz Wagner,Under,37.5,2.02,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Day'Ron Sharpe,Over,18.5,1.85,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Day'Ron Sharpe,Under,18.5,1.88,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Anthony Black,Over,25.5,1.78,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Anthony Black,Under,25.5,1.98,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Egor Demin,Over,13.5,1.65,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_points_rebounds_assists,Egor Demin,Under,13.5,2.15,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Tristan da Silva,Over,3.5,1.75,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Tristan da Silva,Under,3.5,2.0,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Desmond Bane,Over,4.5,2.05,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Desmond Bane,Under,4.5,1.7,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Michael Porter Jr,Over,6.5,1.87,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Michael Porter Jr,Under,6.5,1.88,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Noah Clowney,Over,3.5,2.1,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Noah Clowney,Under,3.5,1.68,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Jalen Suggs,Over,4.5,2.1,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Jalen Suggs,Under,4.5,1.7,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Julius Randle,Over,6.5,2.05,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Julius Randle,Under,6.5,1.7,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Day'Ron Sharpe,Over,7.5,2.02,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Day'Ron Sharpe,Under,7.5,1.75,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Wendell Carter Jr,Over,7.5,1.82,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Wendell Carter Jr,Under,7.5,1.92,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Danny Wolf,Over,4.5,1.83,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Danny Wolf,Under,4.5,1.91,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Egor Demin,Over,2.5,2.02,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Egor Demin,Under,2.5,1.75,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Anthony Black,Over,4.5,1.91,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Anthony Black,Under,4.5,1.83,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Franz Wagner,Over,6.5,1.92,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_rebounds,Franz Wagner,Under,6.5,1.82,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Franz Wagner,Over,1.5,2.1,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Franz Wagner,Under,1.5,1.64,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Michael Porter Jr,Over,2.5,1.68,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Michael Porter Jr,Under,2.5,2.02,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Egor Demin,Over,1.5,1.64,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Egor Demin,Under,1.5,2.1,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Jalen Suggs,Over,1.5,1.9,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Jalen Suggs,Under,1.5,1.78,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Anthony Black,Over,1.5,1.88,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Anthony Black,Under,1.5,1.78,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Tristan da Silva,Over,2.5,2.02,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Tristan da Silva,Under,2.5,1.67,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Desmond Bane,Over,3.5,2.0,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,neds,player_threes,Desmond Bane,Under,3.5,1.7,2026-11-21T00:33:53Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Julius Randle,Over,4.5,1.92,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Julius Randle,Under,4.5,1.82,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Jalen Suggs,Over,4.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Jalen Suggs,Under,4.5,1.75,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Nolan Traore,Over,3.5,2.05,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Nolan Traore,Under,3.5,1.72,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Desmond Bane,Over,2.5,1.67,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Desmond Bane,Under,2.5,2.1,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Franz Wagner,Over,7.5,1.96,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Franz Wagner,Under,7.5,1.78,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Anthony Black,Over,4.5,1.72,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Anthony Black,Under,4.5,2.05,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Egor Demin,Over,2.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Egor Demin,Under,2.5,1.75,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Day'Ron Sharpe,Over,3.5,1.98,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_assists,Day'Ron Sharpe,Under,3.5,1.77,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Franz Wagner,Over,24.5,1.91,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Franz Wagner,Under,24.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Wendell Carter Jr,Over,12.5,1.9,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Wendell Carter Jr,Under,12.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Noah Clowney,Over,6.5,1.96,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Noah Clowney,Under,6.5,1.78,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Michael Porter Jr,Over,20.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Michael Porter Jr,Under,20.5,1.9,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Desmond Bane,Over,18.5,1.91,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Desmond Bane,Under,18.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Tristan da Silva,Over,12.5,1.92,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Tristan da Silva,Under,12.5,1.82,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Day'Ron Sharpe,Over,7.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Day'Ron Sharpe,Under,7.5,1.91,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Egor Demin,Over,9.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Egor Demin,Under,9.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Julius Randle,Over,19.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Julius Randle,Under,19.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Danny Wolf,Over,7.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Danny Wolf,Under,7.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Anthony Black,Over,16.5,1.9,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Anthony Black,Under,16.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Jalen Suggs,Over,12.5,1.94,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Jalen Suggs,Under,12.5,1.8,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Goga Bitadze,Over,5.5,1.77,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Goga Bitadze,Under,5.5,1.98,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Nolan Traore,Over,11.5,1.9,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points,Nolan Traore,Under,11.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Over,25.5,1.82,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Under,25.5,1.92,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Over,29.5,1.72,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Under,29.5,2.05,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Jalen Suggs,Over,20.5,1.78,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Jalen Suggs,Under,20.5,1.98,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Over,37.5,1.73,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Under,37.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Over,18.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Under,18.5,1.88,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Over,25.5,1.78,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Under,25.5,1.98,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Egor Demin,Over,13.5,1.65,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_points_rebounds_assists,Egor Demin,Under,13.5,2.15,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Tristan da Silva,Over,3.5,1.75,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Tristan da Silva,Under,3.5,2.0,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Desmond Bane,Over,4.5,2.05,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Desmond Bane,Under,4.5,1.7,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Michael Porter Jr,Over,6.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Michael Porter Jr,Under,6.5,1.88,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Noah Clowney,Over,3.5,2.1,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Noah Clowney,Under,3.5,1.68,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Jalen Suggs,Over,4.5,2.1,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Jalen Suggs,Under,4.5,1.7,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Julius Randle,Over,6.5,2.05,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Julius Randle,Under,6.5,1.7,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Over,7.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Under,7.5,1.75,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Wendell Carter Jr,Over,7.5,1.82,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Wendell Carter Jr,Under,7.5,1.92,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Danny Wolf,Over,4.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Danny Wolf,Under,4.5,1.91,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Egor Demin,Over,2.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Egor Demin,Under,2.5,1.75,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Anthony Black,Over,4.5,1.91,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Anthony Black,Under,4.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Franz Wagner,Over,6.5,1.92,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_rebounds,Franz Wagner,Under,6.5,1.82,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Franz Wagner,Over,1.5,2.1,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Franz Wagner,Under,1.5,1.64,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Michael Porter Jr,Over,2.5,1.68,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Michael Porter Jr,Under,2.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Egor Demin,Over,1.5,1.64,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Egor Demin,Under,1.5,2.1,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Jalen Suggs,Over,1.5,1.9,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Jalen Suggs,Under,1.5,1.78,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Anthony Black,Over,1.5,1.88,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Anthony Black,Under,1.5,1.78,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Tristan da Silva,Over,2.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Tristan da Silva,Under,2.5,1.67,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Desmond Bane,Over,3.5,2.0,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,ladbrokes_au,player_threes,Desmond Bane,Under,3.5,1.7,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Anthony Black,Over,4.5,1.69,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Anthony Black,Under,4.5,2.15,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Day'Ron Sharpe,Over,3.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Day'Ron Sharpe,Under,3.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Desmond Bane,Over,2.5,1.67,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Desmond Bane,Under,2.5,2.2,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Egor Demin,Over,2.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Egor Demin,Under,2.5,1.74,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Franz Wagner,Over,7.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Franz Wagner,Under,7.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Jalen Suggs,Over,4.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Jalen Suggs,Under,4.5,1.74,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Julius Randle,Over,4.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Julius Randle,Under,4.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Mikel Brown Jr.,Over,3.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Mikel Brown Jr.,Under,3.5,1.77,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Nolan Traore,Over,3.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Nolan Traore,Under,3.5,1.74,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Wendell Carter Jr,Over,1.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_assists,Wendell Carter Jr,Under,1.5,1.77,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Anthony Black,Over,16.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Anthony Black,Under,16.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Danny Wolf,Over,7.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Danny Wolf,Under,7.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Day'Ron Sharpe,Over,7.5,1.87,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Day'Ron Sharpe,Under,7.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Desmond Bane,Over,18.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Desmond Bane,Under,18.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Egor Demin,Over,9.5,1.87,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Egor Demin,Under,9.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Franz Wagner,Over,24.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Franz Wagner,Under,24.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Jalen Suggs,Over,12.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Jalen Suggs,Under,12.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Julius Randle,Over,19.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Julius Randle,Under,19.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Michael Porter Jr,Over,20.5,1.87,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Michael Porter Jr,Under,20.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Mikel Brown Jr.,Over,10.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Mikel Brown Jr.,Under,10.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Nolan Traore,Over,11.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Nolan Traore,Under,11.5,1.87,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Tristan da Silva,Over,12.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Tristan da Silva,Under,12.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Wendell Carter Jr,Over,12.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points,Wendell Carter Jr,Under,12.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Anthony Black,Over,26.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Anthony Black,Under,26.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Day'Ron Sharpe,Over,19.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Day'Ron Sharpe,Under,19.5,1.77,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Egor Demin,Over,15.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Egor Demin,Under,15.5,1.74,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Jalen Suggs,Over,20.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Jalen Suggs,Under,20.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Julius Randle,Over,30.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Julius Randle,Under,30.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Wendell Carter Jr,Over,21.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_points_rebounds_assists,Wendell Carter Jr,Under,21.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Anthony Black,Over,4.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Anthony Black,Under,4.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Danny Wolf,Over,4.5,1.71,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Danny Wolf,Under,4.5,2.1,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Day'Ron Sharpe,Over,7.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Day'Ron Sharpe,Under,7.5,1.77,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Desmond Bane,Over,4.5,2.05,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Desmond Bane,Under,4.5,1.74,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Egor Demin,Over,2.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Egor Demin,Under,2.5,1.77,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Franz Wagner,Over,6.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Franz Wagner,Under,6.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Jalen Suggs,Over,4.5,2.15,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Jalen Suggs,Under,4.5,1.69,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Julius Randle,Over,5.5,1.71,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Julius Randle,Under,5.5,2.1,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Michael Porter Jr,Over,6.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Michael Porter Jr,Under,6.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Noah Clowney,Over,3.5,2.1,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Noah Clowney,Under,3.5,1.71,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Tristan da Silva,Over,3.5,1.71,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Tristan da Silva,Under,3.5,2.1,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Wendell Carter Jr,Over,7.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_rebounds,Wendell Carter Jr,Under,7.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Julius Randle,Over,1.5,2.25,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Julius Randle,Under,1.5,1.63,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Michael Porter Jr,Over,2.5,1.63,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Michael Porter Jr,Under,2.5,2.25,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Egor Demin,Over,1.5,1.53,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Egor Demin,Under,1.5,2.45,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Nolan Traore,Over,1.5,2.3,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Nolan Traore,Under,1.5,1.59,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Mikel Brown Jr.,Over,1.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Mikel Brown Jr.,Under,1.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Desmond Bane,Over,3.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Desmond Bane,Under,3.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Wendell Carter Jr,Over,0.5,1.57,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Wendell Carter Jr,Under,0.5,2.35,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Franz Wagner,Over,1.5,2.0,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Franz Wagner,Under,1.5,1.77,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Jalen Suggs,Over,1.5,1.83,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Jalen Suggs,Under,1.5,1.9,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Anthony Black,Over,1.5,1.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Anthony Black,Under,1.5,1.95,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Tristan da Silva,Over,2.5,1.87,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Tristan da Silva,Under,2.5,1.87,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Day'Ron Sharpe,Over,0.5,3.8,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,pointsbetau,player_threes,Day'Ron Sharpe,Under,0.5,1.25,2026-11-21T00:34:44Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Jalen Suggs,Over,4.5,1.89,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Jalen Suggs,Under,4.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Mikel Brown Jr.,Over,3.5,2.1,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Mikel Brown Jr.,Under,3.5,1.67,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Wendell Carter Jr,Over,1.5,1.93,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Wendell Carter Jr,Under,1.5,1.79,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Egor Demin,Over,2.5,2.2,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Egor Demin,Under,2.5,1.62,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Franz Wagner,Over,7.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Franz Wagner,Under,7.5,1.72,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Day'Ron Sharpe,Over,3.5,2.14,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Day'Ron Sharpe,Under,3.5,1.65,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Michael Porter Jr,Over,1.5,1.79,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Michael Porter Jr,Under,1.5,1.93,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Nolan Traore,Over,3.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Nolan Traore,Under,3.5,1.72,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Julius Randle,Over,4.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Julius Randle,Under,4.5,1.73,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Tristan da Silva,Over,1.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Tristan da Silva,Under,1.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Anthony Black,Over,5.5,2.18,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Anthony Black,Under,5.5,1.63,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Desmond Bane,Over,3.5,2.35,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_assists,Desmond Bane,Under,3.5,1.54,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Desmond Bane,Over,19.5,1.94,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Desmond Bane,Under,19.5,1.79,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Wendell Carter Jr,Over,12.5,1.94,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Wendell Carter Jr,Under,12.5,1.78,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Mikel Brown Jr.,Over,10.5,1.94,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Mikel Brown Jr.,Under,10.5,1.79,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Franz Wagner,Over,24.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Franz Wagner,Under,24.5,1.89,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Nolan Traore,Over,11.5,1.97,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Nolan Traore,Under,11.5,1.76,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Moritz Wagner,Over,7.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Moritz Wagner,Under,7.5,1.73,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Julius Randle,Over,19.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Julius Randle,Under,19.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Michael Porter Jr,Over,20.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Michael Porter Jr,Under,20.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Jalen Suggs,Over,12.5,1.94,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Jalen Suggs,Under,12.5,1.79,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Day'Ron Sharpe,Over,7.5,1.76,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Day'Ron Sharpe,Under,7.5,1.97,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Tristan da Silva,Over,12.5,1.94,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Tristan da Silva,Under,12.5,1.79,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Anthony Black,Over,16.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Anthony Black,Under,16.5,1.88,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Noah Clowney,Over,6.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Noah Clowney,Under,6.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Danny Wolf,Over,7.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Danny Wolf,Under,7.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Egor Demin,Over,9.5,1.93,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points,Egor Demin,Under,9.5,1.8,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Michael Porter Jr,Over,29.5,1.93,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Michael Porter Jr,Under,29.5,1.79,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Nolan Traore,Over,17.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Nolan Traore,Under,17.5,1.73,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Desmond Bane,Over,27.5,2.0,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Desmond Bane,Under,27.5,1.74,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Wendell Carter Jr,Over,21.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Wendell Carter Jr,Under,21.5,1.89,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Over,16.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Under,16.5,1.73,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Julius Randle,Over,30.5,1.92,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Julius Randle,Under,30.5,1.81,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Jalen Suggs,Over,21.5,1.91,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Jalen Suggs,Under,21.5,1.82,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Franz Wagner,Over,39.5,1.94,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Franz Wagner,Under,39.5,1.79,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Tristan da Silva,Over,18.5,2.0,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Tristan da Silva,Under,18.5,1.74,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Anthony Black,Over,26.5,1.88,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Anthony Black,Under,26.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Over,18.5,1.81,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Under,18.5,1.93,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Egor Demin,Over,14.5,1.89,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_points_rebounds_assists,Egor Demin,Under,14.5,1.83,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Jalen Suggs,Over,4.5,2.12,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Jalen Suggs,Under,4.5,1.66,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Wendell Carter Jr,Over,7.5,1.8,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Wendell Carter Jr,Under,7.5,1.93,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Franz Wagner,Over,6.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Franz Wagner,Under,6.5,1.88,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Desmond Bane,Over,4.5,2.1,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Desmond Bane,Under,4.5,1.68,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Egor Demin,Over,2.5,2.0,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Egor Demin,Under,2.5,1.75,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Tristan da Silva,Over,3.5,1.76,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Tristan da Silva,Under,3.5,1.97,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Anthony Black,Over,4.5,1.96,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Anthony Black,Under,4.5,1.77,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Moritz Wagner,Over,3.5,2.28,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Moritz Wagner,Under,3.5,1.57,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Mikel Brown Jr.,Over,1.5,1.57,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Mikel Brown Jr.,Under,1.5,2.25,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Noah Clowney,Over,3.5,2.25,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Noah Clowney,Under,3.5,1.57,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Day'Ron Sharpe,Over,7.5,1.93,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Day'Ron Sharpe,Under,7.5,1.8,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Michael Porter Jr,Over,6.5,1.89,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Michael Porter Jr,Under,6.5,1.82,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Danny Wolf,Over,4.5,1.73,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Danny Wolf,Under,4.5,2.02,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Nolan Traore,Over,1.5,1.56,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Nolan Traore,Under,1.5,2.32,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Julius Randle,Over,5.5,1.68,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_rebounds,Julius Randle,Under,5.5,2.08,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Michael Porter Jr,Over,2.5,1.6,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Michael Porter Jr,Under,2.5,2.23,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Wendell Carter Jr,Over,0.5,1.6,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Wendell Carter Jr,Under,0.5,2.23,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Moritz Wagner,Over,0.5,2.0,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Moritz Wagner,Under,0.5,1.75,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Desmond Bane,Over,3.5,1.85,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Desmond Bane,Under,3.5,1.87,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Mikel Brown Jr.,Over,1.5,1.91,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Mikel Brown Jr.,Under,1.5,1.82,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Anthony Black,Over,1.5,1.72,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Anthony Black,Under,1.5,2.04,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Julius Randle,Over,1.5,2.25,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Julius Randle,Under,1.5,1.57,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Franz Wagner,Over,1.5,1.93,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Franz Wagner,Under,1.5,1.8,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Jalen Suggs,Over,1.5,1.7,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Jalen Suggs,Under,1.5,2.06,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Tristan da Silva,Over,2.5,1.95,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Tristan da Silva,Under,2.5,1.78,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Nolan Traore,Over,1.5,2.43,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Nolan Traore,Under,1.5,1.5,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Egor Demin,Over,1.5,1.66,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
+2026-11-21,11:40,Orlando Magic @ Brooklyn Nets,unibet,player_threes,Egor Demin,Under,1.5,2.12,2026-11-21T00:34:42Z,2026-11-21T00:35:00+00:00,5.0
