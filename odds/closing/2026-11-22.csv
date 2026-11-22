@@ -2837,3 +2837,667 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-22,12:10,New Orleans Pelicans @ San Antonio Spurs,pointsbetau,player_threes,Jordan Poole,Under,1.5,2.0,2026-11-22T01:04:05Z,2026-11-22T01:05:02+00:00,5.0
 2026-11-22,12:10,New Orleans Pelicans @ San Antonio Spurs,pointsbetau,player_threes,Harrison Barnes,Over,1.5,2.45,2026-11-22T01:04:05Z,2026-11-22T01:05:02+00:00,5.0
 2026-11-22,12:10,New Orleans Pelicans @ San Antonio Spurs,pointsbetau,player_threes,Harrison Barnes,Under,1.5,1.53,2026-11-22T01:04:05Z,2026-11-22T01:05:02+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Darius Acuff Jr.,Over,6.5,2.15,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Darius Acuff Jr.,Under,6.5,1.64,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Domantas Sabonis,Over,4.5,1.64,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Domantas Sabonis,Under,4.5,2.15,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Zach LaVine,Over,2.5,1.96,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Zach LaVine,Under,2.5,1.8,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Paul George,Over,4.5,1.68,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Paul George,Under,4.5,2.1,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Neemias Queta,Over,2.5,2.45,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Neemias Queta,Under,2.5,1.5,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Baylor Scheierman,Over,2.5,2.1,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Baylor Scheierman,Under,2.5,1.68,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Payton Pritchard,Over,6.5,1.68,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_assists,Payton Pritchard,Under,6.5,2.1,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Darius Acuff Jr.,Over,22.5,1.96,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Darius Acuff Jr.,Under,22.5,1.8,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Domantas Sabonis,Over,11.5,1.78,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Domantas Sabonis,Under,11.5,2.0,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Zach LaVine,Over,17.5,1.85,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Zach LaVine,Under,17.5,1.92,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Keegan Murray,Over,11.5,1.8,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Keegan Murray,Under,11.5,1.96,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Paul George,Over,24.5,2.05,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Paul George,Under,24.5,1.74,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,De'Andre Hunter,Over,13.5,1.96,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,De'Andre Hunter,Under,13.5,1.8,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Payton Pritchard,Over,21.5,1.96,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Payton Pritchard,Under,21.5,1.8,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Jordan Walsh,Over,5.5,2.08,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Jordan Walsh,Under,5.5,1.72,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Neemias Queta,Over,11.5,1.85,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Neemias Queta,Under,11.5,1.91,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Sam Hauser,Over,12.5,1.9,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Sam Hauser,Under,12.5,1.86,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Baylor Scheierman,Over,8.5,2.0,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Baylor Scheierman,Under,8.5,1.78,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Precious Achiuwa,Over,4.5,1.8,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Precious Achiuwa,Under,4.5,1.96,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Hugo Gonzalez,Over,6.5,1.92,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points,Hugo Gonzalez,Under,6.5,1.84,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Over,31.5,1.84,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Under,31.5,1.92,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Domantas Sabonis,Over,28.5,1.88,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Domantas Sabonis,Under,28.5,1.88,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Zach LaVine,Over,23.5,1.86,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Zach LaVine,Under,23.5,1.9,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Paul George,Over,34.5,1.9,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Paul George,Under,34.5,1.86,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Neemias Queta,Over,22.5,1.84,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Neemias Queta,Under,22.5,1.92,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Baylor Scheierman,Over,15.5,1.8,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Baylor Scheierman,Under,15.5,1.96,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Payton Pritchard,Over,32.5,1.96,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_points_rebounds_assists,Payton Pritchard,Under,32.5,1.8,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Darius Acuff Jr.,Over,3.5,2.15,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Darius Acuff Jr.,Under,3.5,1.64,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Domantas Sabonis,Over,11.5,1.96,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Domantas Sabonis,Under,11.5,1.8,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Zach LaVine,Over,2.5,1.58,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Zach LaVine,Under,2.5,2.25,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Keegan Murray,Over,4.5,1.84,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Keegan Murray,Under,4.5,1.92,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Paul George,Over,5.5,1.96,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Paul George,Under,5.5,1.8,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,De'Andre Hunter,Over,4.5,2.1,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,De'Andre Hunter,Under,4.5,1.68,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Neemias Queta,Over,8.5,1.92,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Neemias Queta,Under,8.5,1.84,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Jordan Walsh,Over,3.5,1.72,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Jordan Walsh,Under,3.5,2.08,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Payton Pritchard,Over,3.5,1.89,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Payton Pritchard,Under,3.5,1.87,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Baylor Scheierman,Over,4.5,1.76,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Baylor Scheierman,Under,4.5,2.02,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Sam Hauser,Over,3.5,1.58,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Sam Hauser,Under,3.5,2.25,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Precious Achiuwa,Over,4.5,2.25,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Precious Achiuwa,Under,4.5,1.58,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Hugo Gonzalez,Over,4.5,2.0,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_rebounds,Hugo Gonzalez,Under,4.5,1.78,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Darius Acuff Jr.,Over,2.5,1.68,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Darius Acuff Jr.,Under,2.5,2.1,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Zach LaVine,Over,2.5,2.02,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Zach LaVine,Under,2.5,1.76,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Keegan Murray,Over,1.5,1.85,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Keegan Murray,Under,1.5,1.91,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Paul George,Over,3.5,2.05,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Paul George,Under,3.5,1.74,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,De'Andre Hunter,Over,1.5,1.6,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,De'Andre Hunter,Under,1.5,2.2,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Payton Pritchard,Over,2.5,1.58,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Payton Pritchard,Under,2.5,2.25,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Baylor Scheierman,Over,1.5,1.92,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Baylor Scheierman,Under,1.5,1.84,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Sam Hauser,Over,2.5,1.74,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Sam Hauser,Under,2.5,2.05,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Jordan Walsh,Over,0.5,1.68,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Jordan Walsh,Under,0.5,2.1,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Hugo Gonzalez,Over,0.5,1.45,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,sportsbet,player_threes,Hugo Gonzalez,Under,0.5,2.6,2026-11-22T03:03:18Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_assists,Darius Acuff Jr.,Over,5.5,1.67,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_assists,Darius Acuff Jr.,Under,5.5,2.15,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_assists,Domantas Sabonis,Over,4.5,1.65,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_assists,Domantas Sabonis,Under,4.5,2.15,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_assists,Paul George,Over,5.5,2.25,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_assists,Paul George,Under,5.5,1.6,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_assists,Payton Pritchard,Over,6.5,1.94,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_assists,Payton Pritchard,Under,6.5,1.83,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Zach LaVine,Over,17.5,1.88,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Zach LaVine,Under,17.5,1.88,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Keegan Murray,Over,11.5,1.92,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Keegan Murray,Under,11.5,1.83,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Domantas Sabonis,Over,12.5,2.0,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Domantas Sabonis,Under,12.5,1.75,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,De'Andre Hunter,Over,13.5,1.96,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,De'Andre Hunter,Under,13.5,1.8,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Payton Pritchard,Over,21.5,1.94,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Payton Pritchard,Under,21.5,1.83,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Sam Hauser,Over,11.5,1.93,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Sam Hauser,Under,11.5,1.87,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Neemias Queta,Over,11.5,1.75,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Neemias Queta,Under,11.5,2.0,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Darius Acuff Jr.,Over,21.5,1.8,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Darius Acuff Jr.,Under,21.5,1.96,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Paul George,Over,24.5,1.88,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points,Paul George,Under,24.5,1.88,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,19.5,1.03,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,24.5,1.17,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,29.5,1.57,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,34.5,2.63,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,39.5,4.9,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Zach LaVine,Over,14.5,1.07,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Zach LaVine,Over,19.5,1.35,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Zach LaVine,Over,24.5,2.15,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Zach LaVine,Over,29.5,4.2,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Zach LaVine,Over,34.5,11.0,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Domantas Sabonis,Over,19.5,1.07,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Domantas Sabonis,Over,24.5,1.33,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Domantas Sabonis,Over,29.5,2.05,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Domantas Sabonis,Over,34.5,3.9,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Domantas Sabonis,Over,39.5,9.5,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Paul George,Over,24.5,1.06,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Paul George,Over,29.5,1.25,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Paul George,Over,34.5,1.75,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Paul George,Over,39.5,2.9,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Paul George,Over,44.5,5.5,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Payton Pritchard,Over,19.5,1.03,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Payton Pritchard,Over,24.5,1.15,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Payton Pritchard,Over,29.5,1.55,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Payton Pritchard,Over,34.5,2.5,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Payton Pritchard,Over,39.5,4.75,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Neemias Queta,Over,14.5,1.07,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Neemias Queta,Over,19.5,1.36,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Neemias Queta,Over,24.5,2.25,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Neemias Queta,Over,29.5,5.0,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_points_rebounds_assists,Neemias Queta,Over,34.5,12.0,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Darius Acuff Jr.,Over,3.5,2.25,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Darius Acuff Jr.,Under,3.5,1.6,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Zach LaVine,Over,2.5,1.57,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Zach LaVine,Under,2.5,2.3,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Domantas Sabonis,Over,11.5,2.0,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Domantas Sabonis,Under,11.5,1.75,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Paul George,Over,5.5,1.9,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Paul George,Under,5.5,1.86,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,De'Andre Hunter,Over,4.5,2.15,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,De'Andre Hunter,Under,4.5,1.67,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Payton Pritchard,Over,3.5,1.85,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Payton Pritchard,Under,3.5,1.91,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Neemias Queta,Over,8.5,1.86,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Neemias Queta,Under,8.5,1.94,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Sam Hauser,Over,3.5,1.62,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Sam Hauser,Under,3.5,2.2,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Jordan Walsh,Over,3.5,1.85,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,betright,player_rebounds,Jordan Walsh,Under,3.5,1.92,2026-11-22T03:04:53Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Baylor Scheierman,Over,2.5,2.05,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Baylor Scheierman,Under,2.5,1.74,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Darius Acuff Jr.,Over,5.5,1.74,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Darius Acuff Jr.,Under,5.5,2.05,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Domantas Sabonis,Over,4.5,1.69,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Domantas Sabonis,Under,4.5,2.15,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Neemias Queta,Over,2.5,2.45,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Neemias Queta,Under,2.5,1.53,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Paul George,Over,4.5,1.69,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Paul George,Under,4.5,2.15,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Payton Pritchard,Over,6.5,1.8,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Payton Pritchard,Under,6.5,1.95,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Zach LaVine,Over,2.5,1.95,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_assists,Zach LaVine,Under,2.5,1.8,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Baylor Scheierman,Over,8.5,1.95,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Baylor Scheierman,Under,8.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Darius Acuff Jr.,Over,21.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Darius Acuff Jr.,Under,21.5,1.95,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,De'Andre Hunter,Over,13.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,De'Andre Hunter,Under,13.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Domantas Sabonis,Over,11.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Domantas Sabonis,Under,11.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Hugo Gonzalez,Over,6.5,1.95,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Hugo Gonzalez,Under,6.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Jordan Walsh,Over,6.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Jordan Walsh,Under,6.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Keegan Murray,Over,11.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Keegan Murray,Under,11.5,1.95,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Neemias Queta,Over,11.5,1.8,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Neemias Queta,Under,11.5,2.05,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Paul George,Over,23.5,1.9,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Paul George,Under,23.5,1.9,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Payton Pritchard,Over,21.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Payton Pritchard,Under,21.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Precious Achiuwa,Over,4.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Precious Achiuwa,Under,4.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Sam Hauser,Over,12.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Sam Hauser,Under,12.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Zach LaVine,Over,17.5,1.9,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points,Zach LaVine,Under,17.5,1.9,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Baylor Scheierman,Over,16.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Baylor Scheierman,Under,16.5,1.77,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Over,31.5,1.9,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Under,31.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Domantas Sabonis,Over,28.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Domantas Sabonis,Under,28.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Neemias Queta,Over,23.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Neemias Queta,Under,23.5,1.77,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Paul George,Over,34.5,1.9,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Paul George,Under,34.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Payton Pritchard,Over,31.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Payton Pritchard,Under,31.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Zach LaVine,Over,23.5,1.9,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_points_rebounds_assists,Zach LaVine,Under,23.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Baylor Scheierman,Over,4.5,1.74,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Baylor Scheierman,Under,4.5,2.05,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Darius Acuff Jr.,Over,3.5,2.25,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Darius Acuff Jr.,Under,3.5,1.63,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,De'Andre Hunter,Over,4.5,2.15,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,De'Andre Hunter,Under,4.5,1.69,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Domantas Sabonis,Over,11.5,1.95,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Domantas Sabonis,Under,11.5,1.8,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Hugo Gonzalez,Over,4.5,2.05,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Hugo Gonzalez,Under,4.5,1.74,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Jordan Walsh,Over,3.5,1.77,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Jordan Walsh,Under,3.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Keegan Murray,Over,4.5,1.9,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Keegan Murray,Under,4.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Neemias Queta,Over,8.5,1.9,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Neemias Queta,Under,8.5,1.83,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Paul George,Over,5.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Paul George,Under,5.5,1.77,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Payton Pritchard,Over,3.5,1.95,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Payton Pritchard,Under,3.5,1.8,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Precious Achiuwa,Over,3.5,1.71,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Precious Achiuwa,Under,3.5,2.1,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Sam Hauser,Over,4.5,2.2,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Sam Hauser,Under,4.5,1.67,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Zach LaVine,Over,2.5,1.63,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_rebounds,Zach LaVine,Under,2.5,2.25,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Darius Acuff Jr.,Over,2.5,1.67,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Darius Acuff Jr.,Under,2.5,2.2,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Zach LaVine,Over,2.5,2.05,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Zach LaVine,Under,2.5,1.74,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Keegan Murray,Over,1.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Keegan Murray,Under,1.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Paul George,Over,3.5,2.0,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Paul George,Under,3.5,1.77,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,De'Andre Hunter,Over,1.5,1.56,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,De'Andre Hunter,Under,1.5,2.4,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Payton Pritchard,Over,2.5,1.59,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Payton Pritchard,Under,2.5,2.3,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Sam Hauser,Over,2.5,1.71,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Sam Hauser,Under,2.5,2.1,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Jordan Walsh,Over,0.5,1.5,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Jordan Walsh,Under,0.5,2.5,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Baylor Scheierman,Over,1.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Baylor Scheierman,Under,1.5,1.87,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Hugo Gonzalez,Over,0.5,1.57,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,pointsbetau,player_threes,Hugo Gonzalez,Under,0.5,2.35,2026-11-22T03:04:24Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Darius Acuff Jr.,Over,6.5,2.02,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Darius Acuff Jr.,Under,6.5,1.72,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Zach LaVine,Over,2.5,2.05,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Zach LaVine,Under,2.5,1.7,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Paul George,Over,5.5,2.12,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Paul George,Under,5.5,1.66,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Baylor Scheierman,Over,2.5,1.89,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Baylor Scheierman,Under,2.5,1.82,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Payton Pritchard,Over,6.5,1.93,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Payton Pritchard,Under,6.5,1.8,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Neemias Queta,Over,2.5,2.23,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Neemias Queta,Under,2.5,1.61,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Domantas Sabonis,Over,5.5,2.17,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_assists,Domantas Sabonis,Under,5.5,1.63,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,De'Andre Hunter,Over,13.5,1.83,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,De'Andre Hunter,Under,13.5,1.89,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Domantas Sabonis,Over,12.5,1.93,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Domantas Sabonis,Under,12.5,1.8,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Keegan Murray,Over,11.5,1.78,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Keegan Murray,Under,11.5,1.94,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Zach LaVine,Over,17.5,1.83,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Zach LaVine,Under,17.5,1.88,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Darius Acuff Jr.,Over,22.5,1.85,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Darius Acuff Jr.,Under,22.5,1.88,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Jordan Walsh,Over,6.5,1.88,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Jordan Walsh,Under,6.5,1.85,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Baylor Scheierman,Over,8.5,1.81,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Baylor Scheierman,Under,8.5,1.92,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Sam Hauser,Over,12.5,1.74,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Sam Hauser,Under,12.5,2.0,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Neemias Queta,Over,12.5,1.88,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Neemias Queta,Under,12.5,1.83,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Paul George,Over,24.5,1.8,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Paul George,Under,24.5,1.93,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Payton Pritchard,Over,21.5,1.81,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Payton Pritchard,Under,21.5,1.92,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Precious Achiuwa,Over,5.5,1.91,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points,Precious Achiuwa,Under,5.5,1.82,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Zach LaVine,Over,23.5,1.88,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Zach LaVine,Under,23.5,1.83,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Over,32.5,1.87,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Under,32.5,1.85,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Baylor Scheierman,Over,16.5,1.85,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Baylor Scheierman,Under,16.5,1.85,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Neemias Queta,Over,24.5,1.93,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Neemias Queta,Under,24.5,1.8,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Payton Pritchard,Over,32.5,1.89,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Payton Pritchard,Under,32.5,1.82,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Domantas Sabonis,Over,28.5,1.85,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Domantas Sabonis,Under,28.5,1.88,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Paul George,Over,36.5,1.92,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_points_rebounds_assists,Paul George,Under,36.5,1.81,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Paul George,Over,5.5,1.83,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Paul George,Under,5.5,1.88,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,De'Andre Hunter,Over,4.5,2.17,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,De'Andre Hunter,Under,4.5,1.63,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Darius Acuff Jr.,Over,3.5,2.15,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Darius Acuff Jr.,Under,3.5,1.65,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Payton Pritchard,Over,3.5,1.83,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Payton Pritchard,Under,3.5,1.88,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Domantas Sabonis,Over,11.5,2.07,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Domantas Sabonis,Under,11.5,1.68,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Zach LaVine,Over,2.5,1.62,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Zach LaVine,Under,2.5,2.18,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Keegan Murray,Over,4.5,1.95,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Keegan Murray,Under,4.5,1.78,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Sam Hauser,Over,3.5,1.61,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Sam Hauser,Under,3.5,2.23,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Neemias Queta,Over,8.5,1.77,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Neemias Queta,Under,8.5,1.96,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Jordan Walsh,Over,4.5,2.14,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Jordan Walsh,Under,4.5,1.65,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Baylor Scheierman,Over,5.5,2.23,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Baylor Scheierman,Under,5.5,1.6,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Precious Achiuwa,Over,4.5,2.18,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_rebounds,Precious Achiuwa,Under,4.5,1.62,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Keegan Murray,Over,1.5,1.85,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Keegan Murray,Under,1.5,1.88,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Sam Hauser,Over,2.5,1.76,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Sam Hauser,Under,2.5,1.97,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Paul George,Over,3.5,2.18,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Paul George,Under,3.5,1.63,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Zach LaVine,Over,2.5,1.87,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Zach LaVine,Under,2.5,1.85,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Jordan Walsh,Over,0.5,1.51,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Jordan Walsh,Under,0.5,2.4,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Baylor Scheierman,Over,1.5,1.97,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Baylor Scheierman,Under,1.5,1.76,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,De'Andre Hunter,Over,1.5,1.51,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,De'Andre Hunter,Under,1.5,2.4,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Darius Acuff Jr.,Over,3.5,2.3,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Darius Acuff Jr.,Under,3.5,1.56,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Payton Pritchard,Over,3.5,2.35,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,unibet,player_threes,Payton Pritchard,Under,3.5,1.55,2026-11-22T03:04:48Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Baylor Scheierman,Over,2.5,2.0,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Baylor Scheierman,Under,2.5,1.75,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Darius Acuff Jr.,Over,6.5,2.15,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Darius Acuff Jr.,Under,6.5,1.65,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,De'Andre Hunter,Over,1.5,1.68,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,De'Andre Hunter,Under,1.5,2.1,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Hugo Gonzalez,Over,1.5,2.45,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Hugo Gonzalez,Under,1.5,1.52,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Jordan Walsh,Over,1.5,2.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Jordan Walsh,Under,1.5,1.38,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Keegan Murray,Over,1.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Keegan Murray,Under,1.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Neemias Queta,Over,2.5,2.3,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Neemias Queta,Under,2.5,1.58,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Payton Pritchard,Over,7.5,2.3,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Payton Pritchard,Under,7.5,1.58,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Paul George,Over,5.5,2.15,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Paul George,Under,5.5,1.65,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Zach LaVine,Over,2.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_assists,Zach LaVine,Under,2.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Baylor Scheierman,Over,8.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Baylor Scheierman,Under,8.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Darius Acuff Jr.,Over,22.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Darius Acuff Jr.,Under,22.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Dylan Cardwell,Over,3.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Dylan Cardwell,Under,3.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,De'Andre Hunter,Over,13.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,De'Andre Hunter,Under,13.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Daeqwon Plowden,Over,2.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Daeqwon Plowden,Under,2.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Emanuel Sharp,Over,4.5,2.05,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Emanuel Sharp,Under,4.5,1.72,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Hugo Gonzalez,Over,7.5,2.0,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Hugo Gonzalez,Under,7.5,1.75,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Jordan Walsh,Over,5.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Jordan Walsh,Under,5.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Keegan Murray,Over,11.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Keegan Murray,Under,11.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Leaky Black,Over,3.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Leaky Black,Under,3.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Luka Garza,Over,9.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Luka Garza,Under,9.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Malik Monk,Over,7.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Malik Monk,Under,7.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Mike Conley,Over,3.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Mike Conley,Under,3.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Neemias Queta,Over,12.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Neemias Queta,Under,12.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Precious Achiuwa,Over,4.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Precious Achiuwa,Under,4.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Payton Pritchard,Over,21.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Payton Pritchard,Under,21.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Paul George,Over,24.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Paul George,Under,24.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Zach LaVine,Over,17.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points,Zach LaVine,Under,17.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Baylor Scheierman,Over,15.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Baylor Scheierman,Under,15.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Darius Acuff Jr.,Over,32.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Darius Acuff Jr.,Under,32.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,De'Andre Hunter,Over,19.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,De'Andre Hunter,Under,19.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Hugo Gonzalez,Over,12.5,1.75,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Hugo Gonzalez,Under,12.5,2.0,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Jordan Walsh,Over,10.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Jordan Walsh,Under,10.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Keegan Murray,Over,18.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Keegan Murray,Under,18.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Neemias Queta,Over,23.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Neemias Queta,Under,23.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Zach LaVine,Over,23.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_points_rebounds_assists,Zach LaVine,Under,23.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Baylor Scheierman,Over,5.5,2.3,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Baylor Scheierman,Under,5.5,1.58,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Darius Acuff Jr.,Over,3.5,2.15,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Darius Acuff Jr.,Under,3.5,1.65,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,De'Andre Hunter,Over,4.5,2.15,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,De'Andre Hunter,Under,4.5,1.65,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Hugo Gonzalez,Over,4.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Hugo Gonzalez,Under,4.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Jordan Walsh,Over,3.5,1.72,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Jordan Walsh,Under,3.5,2.05,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Keegan Murray,Over,4.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Keegan Murray,Under,4.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Neemias Queta,Over,8.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Neemias Queta,Under,8.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Payton Pritchard,Over,3.5,1.75,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Payton Pritchard,Under,3.5,2.0,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Paul George,Over,5.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Paul George,Under,5.5,1.87,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Zach LaVine,Over,3.5,2.15,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_rebounds,Zach LaVine,Under,3.5,1.65,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Baylor Scheierman,Over,1.5,1.8,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Baylor Scheierman,Under,1.5,1.95,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Darius Acuff Jr.,Over,2.5,1.62,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Darius Acuff Jr.,Under,2.5,2.2,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,De'Andre Hunter,Over,2.5,2.75,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,De'Andre Hunter,Under,2.5,1.42,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Hugo Gonzalez,Over,1.5,3.3,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Hugo Gonzalez,Under,1.5,1.3,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Jordan Walsh,Over,1.5,3.3,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Jordan Walsh,Under,1.5,1.3,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Keegan Murray,Over,1.5,1.85,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Keegan Murray,Under,1.5,1.9,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Neemias Queta,Over,0.5,6.5,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Neemias Queta,Under,0.5,1.09,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Payton Pritchard,Over,3.5,2.25,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Payton Pritchard,Under,3.5,1.6,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Paul George,Over,3.5,2.15,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Paul George,Under,3.5,1.65,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Zach LaVine,Over,2.5,2.05,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,tab,player_threes,Zach LaVine,Under,2.5,1.72,2026-11-22T03:03:40Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Zach LaVine,Over,2.5,2.0,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Zach LaVine,Under,2.5,1.75,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Neemias Queta,Over,2.5,2.15,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Neemias Queta,Under,2.5,1.65,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Payton Pritchard,Over,6.5,1.94,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Payton Pritchard,Under,6.5,1.8,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Baylor Scheierman,Over,2.5,1.88,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Baylor Scheierman,Under,2.5,1.85,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Paul George,Over,4.5,1.8,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Paul George,Under,4.5,1.94,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Darius Acuff Jr.,Over,6.5,2.1,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Darius Acuff Jr.,Under,6.5,1.68,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Domantas Sabonis,Over,4.5,1.77,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_assists,Domantas Sabonis,Under,4.5,1.98,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Precious Achiuwa,Over,4.5,1.77,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Precious Achiuwa,Under,4.5,1.98,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Payton Pritchard,Over,21.5,1.92,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Payton Pritchard,Under,21.5,1.82,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Jordan Walsh,Over,5.5,1.87,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Jordan Walsh,Under,5.5,1.88,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Keegan Murray,Over,11.5,1.87,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Keegan Murray,Under,11.5,1.88,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Paul George,Over,24.5,1.88,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Paul George,Under,24.5,1.87,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Zach LaVine,Over,17.5,1.87,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Zach LaVine,Under,17.5,1.87,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Darius Acuff Jr.,Over,22.5,1.91,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Darius Acuff Jr.,Under,22.5,1.83,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Domantas Sabonis,Over,12.5,1.94,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Domantas Sabonis,Under,12.5,1.8,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Neemias Queta,Over,12.5,1.92,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Neemias Queta,Under,12.5,1.82,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Baylor Scheierman,Over,8.5,1.85,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Baylor Scheierman,Under,8.5,1.88,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,De'Andre Hunter,Over,13.5,1.92,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,De'Andre Hunter,Under,13.5,1.82,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Sam Hauser,Over,11.5,1.77,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points,Sam Hauser,Under,11.5,1.98,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Neemias Queta,Over,22.5,1.77,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Neemias Queta,Under,22.5,1.98,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Paul George,Over,34.5,1.8,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Paul George,Under,34.5,1.95,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Payton Pritchard,Over,30.5,1.75,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Payton Pritchard,Under,30.5,2.02,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Domantas Sabonis,Over,28.5,1.87,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Domantas Sabonis,Under,28.5,1.88,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Baylor Scheierman,Over,16.5,1.83,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Baylor Scheierman,Under,16.5,1.9,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Zach LaVine,Over,22.5,1.75,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Zach LaVine,Under,22.5,2.0,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Darius Acuff Jr.,Over,31.5,1.83,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_points_rebounds_assists,Darius Acuff Jr.,Under,31.5,1.9,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Darius Acuff Jr.,Over,3.5,2.2,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Darius Acuff Jr.,Under,3.5,1.64,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Payton Pritchard,Over,3.5,1.92,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Payton Pritchard,Under,3.5,1.82,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Jordan Walsh,Over,4.5,2.15,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Jordan Walsh,Under,4.5,1.65,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Precious Achiuwa,Over,3.5,1.78,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Precious Achiuwa,Under,3.5,1.98,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Sam Hauser,Over,3.5,1.77,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Sam Hauser,Under,3.5,1.98,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,De'Andre Hunter,Over,4.5,2.1,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,De'Andre Hunter,Under,4.5,1.7,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Paul George,Over,5.5,1.98,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Paul George,Under,5.5,1.77,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Keegan Murray,Over,4.5,1.9,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Keegan Murray,Under,4.5,1.85,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Neemias Queta,Over,8.5,1.95,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Neemias Queta,Under,8.5,1.8,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Domantas Sabonis,Over,11.5,1.95,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Domantas Sabonis,Under,11.5,1.8,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Baylor Scheierman,Over,5.5,2.1,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Baylor Scheierman,Under,5.5,1.7,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Zach LaVine,Over,2.5,1.64,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_rebounds,Zach LaVine,Under,2.5,2.15,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Darius Acuff Jr.,Over,2.5,1.7,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Darius Acuff Jr.,Under,2.5,2.0,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Zach LaVine,Over,2.5,2.05,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Zach LaVine,Under,2.5,1.67,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Sam Hauser,Over,2.5,1.7,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Sam Hauser,Under,2.5,2.0,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,De'Andre Hunter,Over,1.5,1.64,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,De'Andre Hunter,Under,1.5,2.1,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Paul George,Over,3.5,2.1,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Paul George,Under,3.5,1.64,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Keegan Murray,Over,1.5,1.94,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Keegan Murray,Under,1.5,1.73,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Payton Pritchard,Over,2.5,1.65,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Payton Pritchard,Under,2.5,2.05,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Baylor Scheierman,Over,1.5,1.95,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,neds,player_threes,Baylor Scheierman,Under,1.5,1.73,2026-11-22T03:03:44Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Zach LaVine,Over,2.5,2.0,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Zach LaVine,Under,2.5,1.75,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Neemias Queta,Over,2.5,2.15,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Neemias Queta,Under,2.5,1.65,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Payton Pritchard,Over,6.5,1.94,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Payton Pritchard,Under,6.5,1.8,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Baylor Scheierman,Over,2.5,1.88,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Baylor Scheierman,Under,2.5,1.85,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Paul George,Over,4.5,1.8,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Paul George,Under,4.5,1.94,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Darius Acuff Jr.,Over,6.5,2.1,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Darius Acuff Jr.,Under,6.5,1.68,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Domantas Sabonis,Over,4.5,1.77,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_assists,Domantas Sabonis,Under,4.5,1.98,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Precious Achiuwa,Over,4.5,1.77,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Precious Achiuwa,Under,4.5,1.98,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Payton Pritchard,Over,21.5,1.92,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Payton Pritchard,Under,21.5,1.82,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Jordan Walsh,Over,5.5,1.87,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Jordan Walsh,Under,5.5,1.88,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Keegan Murray,Over,11.5,1.87,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Keegan Murray,Under,11.5,1.88,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Paul George,Over,24.5,1.88,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Paul George,Under,24.5,1.87,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Zach LaVine,Over,17.5,1.87,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Zach LaVine,Under,17.5,1.87,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Darius Acuff Jr.,Over,22.5,1.91,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Darius Acuff Jr.,Under,22.5,1.83,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Domantas Sabonis,Over,12.5,1.94,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Domantas Sabonis,Under,12.5,1.8,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Neemias Queta,Over,12.5,1.92,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Neemias Queta,Under,12.5,1.82,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Baylor Scheierman,Over,8.5,1.85,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Baylor Scheierman,Under,8.5,1.88,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,De'Andre Hunter,Over,13.5,1.92,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,De'Andre Hunter,Under,13.5,1.82,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Sam Hauser,Over,11.5,1.77,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points,Sam Hauser,Under,11.5,1.98,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Neemias Queta,Over,22.5,1.77,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Neemias Queta,Under,22.5,1.98,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Paul George,Over,34.5,1.8,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Paul George,Under,34.5,1.95,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Payton Pritchard,Over,30.5,1.75,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Payton Pritchard,Under,30.5,2.02,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Domantas Sabonis,Over,28.5,1.87,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Domantas Sabonis,Under,28.5,1.88,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Baylor Scheierman,Over,16.5,1.83,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Baylor Scheierman,Under,16.5,1.9,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Zach LaVine,Over,22.5,1.75,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Zach LaVine,Under,22.5,2.0,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Over,31.5,1.83,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Under,31.5,1.9,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Over,3.5,2.2,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Under,3.5,1.64,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Payton Pritchard,Over,3.5,1.92,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Payton Pritchard,Under,3.5,1.82,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Jordan Walsh,Over,4.5,2.15,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Jordan Walsh,Under,4.5,1.65,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Precious Achiuwa,Over,3.5,1.78,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Precious Achiuwa,Under,3.5,1.98,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Sam Hauser,Over,3.5,1.77,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Sam Hauser,Under,3.5,1.98,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,De'Andre Hunter,Over,4.5,2.1,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,De'Andre Hunter,Under,4.5,1.7,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Paul George,Over,5.5,1.98,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Paul George,Under,5.5,1.77,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Keegan Murray,Over,4.5,1.9,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Keegan Murray,Under,4.5,1.85,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Neemias Queta,Over,8.5,1.95,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Neemias Queta,Under,8.5,1.8,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Domantas Sabonis,Over,11.5,1.95,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Domantas Sabonis,Under,11.5,1.8,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Baylor Scheierman,Over,5.5,2.1,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Baylor Scheierman,Under,5.5,1.7,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Zach LaVine,Over,2.5,1.64,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_rebounds,Zach LaVine,Under,2.5,2.15,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Darius Acuff Jr.,Over,2.5,1.7,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Darius Acuff Jr.,Under,2.5,2.0,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Zach LaVine,Over,2.5,2.05,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Zach LaVine,Under,2.5,1.67,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Sam Hauser,Over,2.5,1.7,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Sam Hauser,Under,2.5,2.0,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,De'Andre Hunter,Over,1.5,1.64,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,De'Andre Hunter,Under,1.5,2.1,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Paul George,Over,3.5,2.1,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Paul George,Under,3.5,1.64,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Keegan Murray,Over,1.5,1.94,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Keegan Murray,Under,1.5,1.73,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Payton Pritchard,Over,2.5,1.65,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Payton Pritchard,Under,2.5,2.05,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Baylor Scheierman,Over,1.5,1.95,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
+2026-11-22,14:10,Boston Celtics @ Sacramento Kings,ladbrokes_au,player_threes,Baylor Scheierman,Under,1.5,1.73,2026-11-22T03:04:34Z,2026-11-22T03:05:00+00:00,5.0
