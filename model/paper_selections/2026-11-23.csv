@@ -1,0 +1,11 @@
+date_melb,tipoff_melb,game,player,market,side,line,odds,book,n_books_at_line,n_books,median_line,implied,model_prob,ev_pct,proj,proj_min,status,D1,D2,D3,D4,D5,D6,D7,D8,ces,tier,flags,model_version
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,Jalen Suggs,player_assists,Over,3.5,1.6,sportsbet,2,6,4.5,0.625,0.737,17.9,5.6,29.4,,1,1,2,2,0,2,0,1,1.25,Diff 4,,v4.1
+2026-11-23,11:10,Dallas Mavericks @ Utah Jazz,Zaccharie Risacher,player_rebounds,Over,3.5,1.96,sportsbet,3,3,3.5,0.51,0.664,30.1,4.7,21.9,,1,1,2,2,1,1,-1,0,1.15,Diff 3,traded/role change: last season down-weighted; key teammates out: pj washington; back-to-back,v4.1
+2026-11-23,11:10,Denver Nuggets @ Chicago Bulls,Jamal Murray,player_assists,Over,5.5,1.67,unibet,2,6,6.5,0.599,0.655,9.4,6.9,36.0,,1,1,1,1,0,2,2,1,1.05,Diff 3,,v4.1
+2026-11-23,12:10,Indiana Pacers @ New York Knicks,Andrew Nembhard,player_threes,Over,1.5,1.87,neds,5,5,1.5,0.535,0.601,12.5,2.1,32.3,,1,2,1,1,0,0,0,1,0.95,Diff 3,,v4.1
+2026-11-23,11:10,Denver Nuggets @ Chicago Bulls,Matas Buzelis,player_assists,Over,1.5,1.76,unibet,2,2,1.5,0.568,0.637,12.1,2.1,27.8,,0,1,2,1,1,1,2,0,0.95,Diff 3,key teammates out: norman powell,v4.1
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,Desmond Bane,player_assists,Over,2.5,1.7,neds,3,5,2.5,0.588,0.657,11.7,3.5,34.7,,1,1,1,1,0,2,0,0,0.9,Diff 3,,v4.1
+2026-11-23,11:10,Dallas Mavericks @ Utah Jazz,Ace Bailey,player_rebounds,Over,5.5,2.14,unibet,6,6,5.5,0.467,0.524,12.2,5.7,29.7,,0,1,2,1,0,1,1,0,0.8,Diff 3,,v4.1
+2026-11-23,07:40,Detroit Pistons @ Atlanta Hawks,Dyson Daniels,player_rebounds,Over,6.5,1.68,sportsbet,2,6,7.5,0.595,0.581,-2.3,7.4,32.0,,1,2,1,-1,1,0,1,1,0.8,Diff 3,key teammates out: cj mccollum,v4.1
+2026-11-23,10:10,Oklahoma City Thunder @ Miami Heat,Pelle Larsson,player_points,Over,9.5,1.8,unibet,1,6,10.5,0.556,0.577,3.9,10.8,27.9,,1,2,2,0,0,-2,1,1,0.8,Diff 3,soft at one book only - may be stale,v4.1
+2026-11-23,07:40,Detroit Pistons @ Atlanta Hawks,Nickeil Alexander-Walker,player_assists,Over,2.5,1.8,sportsbet,6,6,2.5,0.556,0.61,9.8,3.1,32.6,,1,1,1,1,1,-2,1,1,0.7,Diff 3,key teammates out: cj mccollum,v4.1
