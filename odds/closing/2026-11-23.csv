@@ -2939,3 +2939,728 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-23,11:10,Dallas Mavericks @ Utah Jazz,unibet,player_threes,Kyrie Irving,Under,3.5,1.56,2026-11-23T00:04:43Z,2026-11-23T00:05:02+00:00,5.0
 2026-11-23,11:10,Dallas Mavericks @ Utah Jazz,unibet,player_threes,Keyonte George,Over,2.5,2.15,2026-11-23T00:04:43Z,2026-11-23T00:05:02+00:00,5.0
 2026-11-23,11:10,Dallas Mavericks @ Utah Jazz,unibet,player_threes,Keyonte George,Under,2.5,1.64,2026-11-23T00:04:43Z,2026-11-23T00:05:02+00:00,5.0
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,AJ Dybantsa,Over,2.5,2.05,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,AJ Dybantsa,Under,2.5,1.74,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Anthony Black,Over,5.5,2.2,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Anthony Black,Under,5.5,1.67,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Anthony Davis,Over,1.5,1.57,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Anthony Davis,Under,1.5,2.35,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Desmond Bane,Over,3.5,2.3,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Desmond Bane,Under,3.5,1.59,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Franz Wagner,Over,7.5,2.15,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Franz Wagner,Under,7.5,1.69,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Jalen Suggs,Over,3.5,1.63,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Jalen Suggs,Under,3.5,2.25,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Kyshawn George,Over,3.5,1.63,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Kyshawn George,Under,3.5,2.25,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Trae Young,Over,8.5,2.1,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_assists,Trae Young,Under,8.5,1.71,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,AJ Dybantsa,Over,17.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,AJ Dybantsa,Under,17.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Alex Sarr,Over,10.5,2.0,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Alex Sarr,Under,10.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Anthony Black,Over,15.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Anthony Black,Under,15.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Anthony Davis,Over,23.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Anthony Davis,Under,23.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Bilal Coulibaly,Over,6.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Bilal Coulibaly,Under,6.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Desmond Bane,Over,19.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Desmond Bane,Under,19.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Franz Wagner,Over,25.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Franz Wagner,Under,25.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Jalen Suggs,Over,11.5,1.8,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Jalen Suggs,Under,11.5,2.05,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Kyshawn George,Over,15.5,1.87,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Kyshawn George,Under,15.5,1.95,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Trae Young,Over,16.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Trae Young,Under,16.5,2.0,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Tristan da Silva,Over,10.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Tristan da Silva,Under,10.5,2.0,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Wendell Carter Jr,Over,11.5,1.87,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points,Wendell Carter Jr,Under,11.5,1.95,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,AJ Dybantsa,Over,26.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,AJ Dybantsa,Under,26.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Anthony Black,Over,25.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Anthony Black,Under,25.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Anthony Davis,Over,36.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Anthony Davis,Under,36.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Desmond Bane,Over,27.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Desmond Bane,Under,27.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Franz Wagner,Over,39.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Franz Wagner,Under,39.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Jalen Suggs,Over,20.5,1.87,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Jalen Suggs,Under,20.5,1.87,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Kyshawn George,Over,24.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Kyshawn George,Under,24.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Trae Young,Over,27.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_points_rebounds_assists,Trae Young,Under,27.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,AJ Dybantsa,Over,6.5,2.1,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,AJ Dybantsa,Under,6.5,1.71,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Alex Sarr,Over,6.5,2.05,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Alex Sarr,Under,6.5,1.74,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Anthony Black,Over,4.5,1.77,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Anthony Black,Under,4.5,2.0,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Anthony Davis,Over,10.5,2.0,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Anthony Davis,Under,10.5,1.77,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Bilal Coulibaly,Over,3.5,1.87,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Bilal Coulibaly,Under,3.5,1.87,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Desmond Bane,Over,4.5,2.05,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Desmond Bane,Under,4.5,1.74,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Franz Wagner,Over,6.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Franz Wagner,Under,6.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Jalen Suggs,Over,4.5,2.25,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Jalen Suggs,Under,4.5,1.63,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Kyshawn George,Over,4.5,2.05,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Kyshawn George,Under,4.5,1.74,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Trae Young,Over,2.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Trae Young,Under,2.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Tristan da Silva,Over,3.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Tristan da Silva,Under,3.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Wendell Carter Jr,Over,8.5,1.9,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_rebounds,Wendell Carter Jr,Under,8.5,1.83,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Trae Young,Over,1.5,1.53,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Trae Young,Under,1.5,2.45,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Alex Sarr,Over,1.5,2.65,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Alex Sarr,Under,1.5,1.44,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Kyshawn George,Over,1.5,1.5,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Kyshawn George,Under,1.5,2.5,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,AJ Dybantsa,Over,1.5,2.3,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,AJ Dybantsa,Under,1.5,1.59,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Desmond Bane,Over,3.5,2.0,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Desmond Bane,Under,3.5,1.77,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Franz Wagner,Over,1.5,2.05,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Franz Wagner,Under,1.5,1.74,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Jalen Suggs,Over,1.5,1.77,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Jalen Suggs,Under,1.5,2.0,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Anthony Black,Over,1.5,1.87,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Anthony Black,Under,1.5,1.87,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Tristan da Silva,Over,2.5,2.3,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Tristan da Silva,Under,2.5,1.59,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Anthony Davis,Over,0.5,1.77,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Anthony Davis,Under,0.5,2.0,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Wendell Carter Jr,Over,0.5,1.57,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,pointsbetau,player_threes,Wendell Carter Jr,Under,0.5,2.35,2026-11-23T00:04:21Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,AJ Dybantsa,Over,2.5,2.08,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,AJ Dybantsa,Under,2.5,1.72,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Trae Young,Over,7.5,1.68,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Trae Young,Under,7.5,2.1,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Franz Wagner,Over,7.5,2.1,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Franz Wagner,Under,7.5,1.68,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Desmond Bane,Over,3.5,2.25,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Desmond Bane,Under,3.5,1.58,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Kyshawn George,Over,3.5,1.6,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Kyshawn George,Under,3.5,2.2,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Anthony Black,Over,5.5,2.1,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Anthony Black,Under,5.5,1.68,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Jalen Suggs,Over,3.5,1.58,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_assists,Jalen Suggs,Under,3.5,2.25,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Anthony Davis,Over,23.5,1.87,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Anthony Davis,Under,23.5,1.89,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,AJ Dybantsa,Over,17.5,1.84,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,AJ Dybantsa,Under,17.5,1.92,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Trae Young,Over,16.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Trae Young,Under,16.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Franz Wagner,Over,24.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Franz Wagner,Under,24.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Desmond Bane,Over,19.5,1.92,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Desmond Bane,Under,19.5,1.84,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Kyshawn George,Over,15.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Kyshawn George,Under,15.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Anthony Black,Over,15.5,1.89,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Anthony Black,Under,15.5,1.87,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Jalen Suggs,Over,11.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Jalen Suggs,Under,11.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Wendell Carter Jr,Over,11.5,1.83,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Wendell Carter Jr,Under,11.5,1.93,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Alex Sarr,Over,10.5,2.02,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Alex Sarr,Under,10.5,1.76,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Tristan da Silva,Over,10.5,1.84,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Tristan da Silva,Under,10.5,1.92,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Bilal Coulibaly,Over,6.5,1.9,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points,Bilal Coulibaly,Under,6.5,1.86,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Anthony Davis,Over,36.5,1.89,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Anthony Davis,Under,36.5,1.87,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,AJ Dybantsa,Over,26.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,AJ Dybantsa,Under,26.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Trae Young,Over,27.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Trae Young,Under,27.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Franz Wagner,Over,39.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Franz Wagner,Under,39.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Desmond Bane,Over,27.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Desmond Bane,Under,27.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Kyshawn George,Over,24.5,1.87,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Kyshawn George,Under,24.5,1.88,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Anthony Black,Over,25.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Anthony Black,Under,25.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Jalen Suggs,Over,20.5,1.92,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Jalen Suggs,Under,20.5,1.85,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Over,22.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Under,22.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Anthony Davis,Over,10.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Anthony Davis,Under,10.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,AJ Dybantsa,Over,6.5,2.08,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,AJ Dybantsa,Under,6.5,1.72,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Trae Young,Over,2.5,1.91,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Trae Young,Under,2.5,1.85,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Franz Wagner,Over,6.5,2.0,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Franz Wagner,Under,6.5,1.78,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Desmond Bane,Over,4.5,2.1,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Desmond Bane,Under,4.5,1.68,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Kyshawn George,Over,4.5,2.08,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Kyshawn George,Under,4.5,1.72,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Anthony Black,Over,4.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Anthony Black,Under,4.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Jalen Suggs,Over,4.5,2.15,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Jalen Suggs,Under,4.5,1.64,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Wendell Carter Jr,Over,8.5,1.9,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Wendell Carter Jr,Under,8.5,1.86,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Alex Sarr,Over,6.5,2.05,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Alex Sarr,Under,6.5,1.74,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Tristan da Silva,Over,3.5,1.84,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Tristan da Silva,Under,3.5,1.92,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Bilal Coulibaly,Over,3.5,1.88,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_rebounds,Bilal Coulibaly,Under,3.5,1.88,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,AJ Dybantsa,Over,1.5,2.3,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,AJ Dybantsa,Under,1.5,1.56,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Trae Young,Over,2.5,2.6,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Trae Young,Under,2.5,1.45,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Franz Wagner,Over,1.5,2.05,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Franz Wagner,Under,1.5,1.74,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Desmond Bane,Over,3.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Desmond Bane,Under,3.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Kyshawn George,Over,1.5,1.52,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Kyshawn George,Under,1.5,2.4,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Anthony Black,Over,1.5,1.89,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Anthony Black,Under,1.5,1.87,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Jalen Suggs,Over,1.5,1.74,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Jalen Suggs,Under,1.5,2.05,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Alex Sarr,Over,1.5,2.6,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Alex Sarr,Under,1.5,1.44,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Tristan da Silva,Over,2.5,2.15,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Tristan da Silva,Under,2.5,1.64,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Wendell Carter Jr,Over,0.5,1.58,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Wendell Carter Jr,Under,0.5,2.25,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Anthony Davis,Over,0.5,1.8,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,sportsbet,player_threes,Anthony Davis,Under,0.5,1.96,2026-11-23T00:04:22Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Anthony Black,Over,5.5,2.2,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Anthony Black,Under,5.5,1.62,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Wendell Carter Jr,Over,1.5,1.88,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Wendell Carter Jr,Under,1.5,1.85,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Desmond Bane,Over,3.5,2.33,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Desmond Bane,Under,3.5,1.55,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Kyshawn George,Over,3.5,1.63,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Kyshawn George,Under,3.5,2.18,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Trae Young,Over,8.5,2.05,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Trae Young,Under,8.5,1.71,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,AJ Dybantsa,Over,2.5,2.1,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,AJ Dybantsa,Under,2.5,1.67,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Anthony Davis,Over,1.5,1.55,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Anthony Davis,Under,1.5,2.35,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Jalen Suggs,Over,4.5,2.28,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Jalen Suggs,Under,4.5,1.57,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Franz Wagner,Over,6.5,1.65,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_assists,Franz Wagner,Under,6.5,2.14,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Bilal Coulibaly,Over,6.5,1.89,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Bilal Coulibaly,Under,6.5,1.83,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Franz Wagner,Over,25.5,1.83,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Franz Wagner,Under,25.5,1.88,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Alex Sarr,Over,10.5,1.93,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Alex Sarr,Under,10.5,1.8,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Jalen Suggs,Over,11.5,1.87,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Jalen Suggs,Under,11.5,1.85,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,AJ Dybantsa,Over,17.5,1.77,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,AJ Dybantsa,Under,17.5,1.96,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Anthony Davis,Over,23.5,1.87,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Anthony Davis,Under,23.5,1.85,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Anthony Black,Over,15.5,1.85,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Anthony Black,Under,15.5,1.87,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Trae Young,Over,17.5,1.94,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Trae Young,Under,17.5,1.78,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Desmond Bane,Over,18.5,1.73,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Desmond Bane,Under,18.5,2.02,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Wendell Carter Jr,Over,11.5,1.79,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Wendell Carter Jr,Under,11.5,1.94,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Tristan da Silva,Over,10.5,1.76,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Tristan da Silva,Under,10.5,1.97,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Kyshawn George,Over,16.5,1.96,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points,Kyshawn George,Under,16.5,1.77,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Anthony Black,Over,25.5,1.82,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Anthony Black,Under,25.5,1.91,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Wendell Carter Jr,Over,22.5,2.0,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Wendell Carter Jr,Under,22.5,1.75,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,AJ Dybantsa,Over,27.5,1.94,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,AJ Dybantsa,Under,27.5,1.79,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Trae Young,Over,28.5,1.89,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Trae Young,Under,28.5,1.83,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Franz Wagner,Over,39.5,1.83,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Franz Wagner,Under,39.5,1.88,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Anthony Davis,Over,36.5,1.91,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Anthony Davis,Under,36.5,1.82,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Jalen Suggs,Over,20.5,1.94,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Jalen Suggs,Under,20.5,1.79,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Kyshawn George,Over,25.5,2.0,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Kyshawn George,Under,25.5,1.75,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.8,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.93,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Tristan da Silva,Over,3.5,1.78,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Tristan da Silva,Under,3.5,1.95,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Desmond Bane,Over,4.5,2.1,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Desmond Bane,Under,4.5,1.67,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Kyshawn George,Over,4.5,1.94,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Kyshawn George,Under,4.5,1.78,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Bilal Coulibaly,Over,3.5,1.85,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Bilal Coulibaly,Under,3.5,1.87,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Trae Young,Over,2.5,1.82,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Trae Young,Under,2.5,1.91,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,AJ Dybantsa,Over,6.5,1.97,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,AJ Dybantsa,Under,6.5,1.76,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Anthony Black,Over,4.5,1.8,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Anthony Black,Under,4.5,1.93,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Alex Sarr,Over,6.5,2.02,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Alex Sarr,Under,6.5,1.72,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Jalen Suggs,Over,4.5,2.12,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Jalen Suggs,Under,4.5,1.66,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Wendell Carter Jr,Over,8.5,2.05,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Wendell Carter Jr,Under,8.5,1.71,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Franz Wagner,Over,6.5,1.88,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Franz Wagner,Under,6.5,1.85,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Anthony Davis,Over,10.5,1.95,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_rebounds,Anthony Davis,Under,10.5,1.78,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Alex Sarr,Over,1.5,2.7,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Alex Sarr,Under,1.5,1.42,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Desmond Bane,Over,3.5,2.0,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Desmond Bane,Under,3.5,1.74,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Kyshawn George,Over,1.5,1.57,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Kyshawn George,Under,1.5,2.25,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Anthony Black,Over,1.5,1.8,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Anthony Black,Under,1.5,1.93,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Franz Wagner,Over,1.5,2.05,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Franz Wagner,Under,1.5,1.71,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,AJ Dybantsa,Over,1.5,2.25,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,AJ Dybantsa,Under,1.5,1.57,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Trae Young,Over,1.5,1.57,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Trae Young,Under,1.5,2.25,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Jalen Suggs,Over,1.5,1.78,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Jalen Suggs,Under,1.5,1.94,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Tristan da Silva,Over,2.5,2.3,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,unibet,player_threes,Tristan da Silva,Under,2.5,1.56,2026-11-23T00:03:57Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Jalen Suggs,Over,3.5,1.6,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Jalen Suggs,Under,3.5,2.25,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Trae Young,Over,8.5,2.05,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Trae Young,Under,8.5,1.73,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Franz Wagner,Over,7.5,2.05,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Franz Wagner,Under,7.5,1.73,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Kyshawn George,Over,3.5,1.62,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Kyshawn George,Under,3.5,2.2,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Anthony Black,Over,5.5,2.2,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Anthony Black,Under,5.5,1.62,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Desmond Bane,Over,2.5,1.57,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_assists,Desmond Bane,Under,2.5,2.3,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Kyshawn George,Over,15.5,1.8,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Kyshawn George,Under,15.5,1.95,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Trae Young,Over,17.5,2.0,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Trae Young,Under,17.5,1.75,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Anthony Black,Over,15.5,1.83,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Anthony Black,Under,15.5,1.94,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Alex Sarr,Over,10.5,1.92,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Alex Sarr,Under,10.5,1.83,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Jalen Suggs,Over,11.5,1.88,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Jalen Suggs,Under,11.5,1.88,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Franz Wagner,Over,25.5,1.99,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Franz Wagner,Under,25.5,1.77,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,AJ Dybantsa,Over,17.5,1.86,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,AJ Dybantsa,Under,17.5,1.88,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Wendell Carter Jr,Over,11.5,1.88,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Wendell Carter Jr,Under,11.5,1.88,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Tristan da Silva,Over,10.5,1.83,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Tristan da Silva,Under,10.5,1.92,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Anthony Davis,Over,23.5,1.86,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Anthony Davis,Under,23.5,1.91,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Desmond Bane,Over,19.5,1.9,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points,Desmond Bane,Under,19.5,1.86,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Anthony Davis,Over,24.5,1.05,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Anthony Davis,Over,29.5,1.2,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Anthony Davis,Over,34.5,1.6,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Anthony Davis,Over,39.5,2.5,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Anthony Davis,Over,44.5,4.75,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,AJ Dybantsa,Over,14.5,1.02,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,AJ Dybantsa,Over,19.5,1.14,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,AJ Dybantsa,Over,24.5,1.55,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,AJ Dybantsa,Over,29.5,2.63,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,AJ Dybantsa,Over,34.5,6.0,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Kyshawn George,Over,14.5,1.04,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Kyshawn George,Over,19.5,1.26,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Kyshawn George,Over,24.5,1.92,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Kyshawn George,Over,29.5,3.8,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Kyshawn George,Over,34.5,8.5,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Trae Young,Over,19.5,1.09,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Trae Young,Over,24.5,1.38,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Trae Young,Over,29.5,2.25,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Trae Young,Over,34.5,4.4,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Trae Young,Over,39.5,11.0,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Desmond Bane,Over,14.5,1.02,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Desmond Bane,Over,19.5,1.14,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Desmond Bane,Over,24.5,1.5,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Desmond Bane,Over,29.5,2.4,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Desmond Bane,Over,34.5,5.0,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Jalen Suggs,Over,15.5,1.25,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Jalen Suggs,Over,17.5,1.45,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Jalen Suggs,Over,19.5,1.78,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Jalen Suggs,Over,21.5,2.3,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Jalen Suggs,Over,23.5,3.2,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Franz Wagner,Over,29.5,1.09,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Franz Wagner,Over,34.5,1.33,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Franz Wagner,Over,39.5,1.95,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Franz Wagner,Over,44.5,3.3,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_points_rebounds_assists,Franz Wagner,Over,49.5,6.75,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,AJ Dybantsa,Over,6.5,2.0,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,AJ Dybantsa,Under,6.5,1.75,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Kyshawn George,Over,4.5,2.05,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Kyshawn George,Under,4.5,1.7,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Anthony Davis,Over,10.5,1.97,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Anthony Davis,Under,10.5,1.79,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Alex Sarr,Over,6.5,2.0,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Alex Sarr,Under,6.5,1.75,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Wendell Carter Jr,Over,8.5,2.0,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Wendell Carter Jr,Under,8.5,1.75,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Franz Wagner,Over,6.5,1.86,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Franz Wagner,Under,6.5,1.9,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Tristan da Silva,Over,3.5,1.83,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Tristan da Silva,Under,3.5,1.92,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Anthony Black,Over,4.5,1.78,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Anthony Black,Under,4.5,1.98,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Desmond Bane,Over,4.5,2.05,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Desmond Bane,Under,4.5,1.7,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Bilal Coulibaly,Over,3.5,1.83,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Bilal Coulibaly,Under,3.5,1.92,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Jalen Suggs,Over,4.5,2.2,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,betright,player_rebounds,Jalen Suggs,Under,4.5,1.62,2026-11-23T00:04:27Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Anthony Davis,Over,2.5,2.6,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Anthony Davis,Under,2.5,1.46,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,AJ Dybantsa,Over,2.5,2.15,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,AJ Dybantsa,Under,2.5,1.65,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Alex Sarr,Over,1.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Alex Sarr,Under,1.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Anthony Black,Over,5.5,2.3,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Anthony Black,Under,5.5,1.58,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Bilal Coulibaly,Over,1.5,2.65,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Bilal Coulibaly,Under,1.5,1.45,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Desmond Bane,Over,3.5,2.55,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Desmond Bane,Under,3.5,1.48,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Franz Wagner,Over,7.5,2.15,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Franz Wagner,Under,7.5,1.65,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Goga Bitadze,Over,1.5,2.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Goga Bitadze,Under,1.5,1.38,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Jalen Suggs,Over,4.5,2.35,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Jalen Suggs,Under,4.5,1.55,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Kyshawn George,Over,4.5,2.25,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Kyshawn George,Under,4.5,1.6,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Tristan da Silva,Over,1.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Tristan da Silva,Under,1.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Trae Young,Over,8.5,2.15,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Trae Young,Under,8.5,1.65,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Wendell Carter Jr,Over,1.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_assists,Wendell Carter Jr,Under,1.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Anthony Davis,Over,23.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Anthony Davis,Under,23.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,AJ Dybantsa,Over,17.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,AJ Dybantsa,Under,17.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Anthony Gill,Over,0.5,1.68,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Anthony Gill,Under,0.5,2.1,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Alex Sarr,Over,9.5,1.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Alex Sarr,Under,9.5,2.0,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Anthony Black,Over,15.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Anthony Black,Under,15.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Bilal Coulibaly,Over,6.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Bilal Coulibaly,Under,6.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Carlton Carrington,Over,1.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Carlton Carrington,Under,1.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Deandre Ayton,Over,3.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Deandre Ayton,Under,3.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Desmond Bane,Over,19.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Desmond Bane,Under,19.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Franz Wagner,Over,25.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Franz Wagner,Under,25.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Goga Bitadze,Over,5.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Goga Bitadze,Under,5.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Jevon Carter,Over,4.5,1.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Jevon Carter,Under,4.5,2.0,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Jalen Suggs,Over,12.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Jalen Suggs,Under,12.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Jamal Cain,Over,1.5,2.1,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Jamal Cain,Under,1.5,1.68,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Jase Richardson,Over,0.5,1.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Jase Richardson,Under,0.5,2.0,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Khris Middleton,Over,5.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Khris Middleton,Under,5.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Kyshawn George,Over,15.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Kyshawn George,Under,15.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Tristan da Silva,Over,11.5,2.0,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Tristan da Silva,Under,11.5,1.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Tre Johnson,Over,4.5,1.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Tre Johnson,Under,4.5,2.0,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Trae Young,Over,16.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Trae Young,Under,16.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Tre Mann,Over,1.5,1.72,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Tre Mann,Under,1.5,2.05,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Wendell Carter Jr,Over,11.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Wendell Carter Jr,Under,11.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Will Riley,Over,2.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points,Will Riley,Under,2.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Anthony Davis,Over,36.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Anthony Davis,Under,36.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,AJ Dybantsa,Over,26.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,AJ Dybantsa,Under,26.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Alex Sarr,Over,17.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Alex Sarr,Under,17.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Anthony Black,Over,25.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Anthony Black,Under,25.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Bilal Coulibaly,Over,11.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Bilal Coulibaly,Under,11.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Franz Wagner,Over,39.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Franz Wagner,Under,39.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Goga Bitadze,Over,11.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Goga Bitadze,Under,11.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Jalen Suggs,Over,20.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Jalen Suggs,Under,20.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Kyshawn George,Over,24.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Kyshawn George,Under,24.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Tristan da Silva,Over,16.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Tristan da Silva,Under,16.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Trae Young,Over,27.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Trae Young,Under,27.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Wendell Carter Jr,Over,22.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_points_rebounds_assists,Wendell Carter Jr,Under,22.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Anthony Davis,Over,10.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Anthony Davis,Under,10.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,AJ Dybantsa,Over,6.5,2.0,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,AJ Dybantsa,Under,6.5,1.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Alex Sarr,Over,6.5,2.1,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Alex Sarr,Under,6.5,1.68,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Anthony Black,Over,4.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Anthony Black,Under,4.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Bilal Coulibaly,Over,3.5,2.05,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Bilal Coulibaly,Under,3.5,1.72,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Desmond Bane,Over,4.5,1.95,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Desmond Bane,Under,4.5,1.8,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Franz Wagner,Over,6.5,1.9,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Franz Wagner,Under,6.5,1.85,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Goga Bitadze,Over,5.5,2.3,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Goga Bitadze,Under,5.5,1.58,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Jalen Suggs,Over,4.5,2.1,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Jalen Suggs,Under,4.5,1.68,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Kyshawn George,Over,4.5,2.0,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Kyshawn George,Under,4.5,1.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Tristan da Silva,Over,4.5,2.2,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Tristan da Silva,Under,4.5,1.62,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Trae Young,Over,2.5,2.0,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Trae Young,Under,2.5,1.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Wendell Carter Jr,Over,8.5,1.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_rebounds,Wendell Carter Jr,Under,8.5,2.0,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Anthony Davis,Over,0.5,1.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Anthony Davis,Under,0.5,2.0,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,AJ Dybantsa,Over,1.5,2.05,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,AJ Dybantsa,Under,1.5,1.72,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Alex Sarr,Over,1.5,2.65,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Alex Sarr,Under,1.5,1.45,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Anthony Black,Over,1.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Anthony Black,Under,1.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Bilal Coulibaly,Over,0.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Bilal Coulibaly,Under,0.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Desmond Bane,Over,3.5,2.2,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Desmond Bane,Under,3.5,1.62,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Franz Wagner,Over,1.5,2.3,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Franz Wagner,Under,1.5,1.58,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Jalen Suggs,Over,1.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Jalen Suggs,Under,1.5,1.87,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Kyshawn George,Over,2.5,2.75,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Kyshawn George,Under,2.5,1.42,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Tristan da Silva,Over,2.5,2.4,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Tristan da Silva,Under,2.5,1.53,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Trae Young,Over,2.5,2.55,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Trae Young,Under,2.5,1.48,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Wendell Carter Jr,Over,0.5,1.68,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,tab,player_threes,Wendell Carter Jr,Under,0.5,2.1,2026-11-23T00:04:52Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Desmond Bane,Over,2.5,1.68,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Desmond Bane,Under,2.5,2.1,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Anthony Black,Over,5.5,2.05,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Anthony Black,Under,5.5,1.73,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Trae Young,Over,8.5,2.02,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Trae Young,Under,8.5,1.75,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Franz Wagner,Over,7.5,2.05,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Franz Wagner,Under,7.5,1.73,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Jalen Suggs,Over,3.5,1.73,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Jalen Suggs,Under,3.5,2.02,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Kyshawn George,Over,3.5,1.7,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,Kyshawn George,Under,3.5,2.1,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,AJ Dybantsa,Over,2.5,2.0,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_assists,AJ Dybantsa,Under,2.5,1.75,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,AJ Dybantsa,Over,17.5,1.85,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,AJ Dybantsa,Under,17.5,1.88,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Anthony Black,Over,15.5,1.9,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Anthony Black,Under,15.5,1.83,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Tristan da Silva,Over,10.5,1.91,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Tristan da Silva,Under,10.5,1.83,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Trae Young,Over,16.5,1.82,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Trae Young,Under,16.5,1.92,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Anthony Davis,Over,23.5,1.9,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Anthony Davis,Under,23.5,1.83,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Jalen Suggs,Over,12.5,1.83,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Jalen Suggs,Under,12.5,1.91,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Kyshawn George,Over,16.5,1.87,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Kyshawn George,Under,16.5,1.87,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Bilal Coulibaly,Over,6.5,1.9,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Bilal Coulibaly,Under,6.5,1.85,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Wendell Carter Jr,Over,11.5,1.83,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Wendell Carter Jr,Under,11.5,1.91,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Desmond Bane,Over,19.5,1.88,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Desmond Bane,Under,19.5,1.85,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Franz Wagner,Over,25.5,1.92,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Franz Wagner,Under,25.5,1.82,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Alex Sarr,Over,10.5,1.92,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points,Alex Sarr,Under,10.5,1.82,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,AJ Dybantsa,Over,25.5,1.7,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,AJ Dybantsa,Under,25.5,2.1,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Trae Young,Over,27.5,1.82,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Trae Young,Under,27.5,1.92,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Jalen Suggs,Over,20.5,1.78,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Jalen Suggs,Under,20.5,1.98,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.78,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.96,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.8,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.94,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Anthony Black,Over,24.5,1.7,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Anthony Black,Under,24.5,2.1,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Kyshawn George,Over,24.5,1.78,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_points_rebounds_assists,Kyshawn George,Under,24.5,1.98,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Tristan da Silva,Over,3.5,1.85,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Tristan da Silva,Under,3.5,1.9,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Bilal Coulibaly,Over,3.5,1.91,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Bilal Coulibaly,Under,3.5,1.83,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Trae Young,Over,2.5,1.91,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Trae Young,Under,2.5,1.83,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Kyshawn George,Over,4.5,2.1,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Kyshawn George,Under,4.5,1.7,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Jalen Suggs,Over,4.5,2.15,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Jalen Suggs,Under,4.5,1.65,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Desmond Bane,Over,4.5,2.05,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Desmond Bane,Under,4.5,1.7,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Alex Sarr,Over,6.5,2.1,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Alex Sarr,Under,6.5,1.68,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Wendell Carter Jr,Over,8.5,2.02,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Wendell Carter Jr,Under,8.5,1.75,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,AJ Dybantsa,Over,6.5,2.02,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,AJ Dybantsa,Under,6.5,1.73,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Anthony Davis,Over,10.5,1.98,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Anthony Davis,Under,10.5,1.77,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Franz Wagner,Over,6.5,1.96,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Franz Wagner,Under,6.5,1.78,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Anthony Black,Over,4.5,1.87,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_rebounds,Anthony Black,Under,4.5,1.88,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Desmond Bane,Over,3.5,2.05,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Desmond Bane,Under,3.5,1.67,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Kyshawn George,Over,1.5,1.55,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Kyshawn George,Under,1.5,2.25,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Trae Young,Over,1.5,1.57,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Trae Young,Under,1.5,2.2,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Franz Wagner,Over,1.5,2.1,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Franz Wagner,Under,1.5,1.64,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Anthony Black,Over,1.5,1.96,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Anthony Black,Under,1.5,1.73,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Jalen Suggs,Over,1.5,1.73,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Jalen Suggs,Under,1.5,1.96,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Tristan da Silva,Over,2.5,2.15,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,neds,player_threes,Tristan da Silva,Under,2.5,1.58,2026-11-23T00:04:06Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Desmond Bane,Over,2.5,1.68,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Desmond Bane,Under,2.5,2.1,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Anthony Black,Over,5.5,2.05,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Anthony Black,Under,5.5,1.73,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Trae Young,Over,8.5,2.02,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Trae Young,Under,8.5,1.75,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Franz Wagner,Over,7.5,2.05,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Franz Wagner,Under,7.5,1.73,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Jalen Suggs,Over,3.5,1.73,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Jalen Suggs,Under,3.5,2.02,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Kyshawn George,Over,3.5,1.7,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,Kyshawn George,Under,3.5,2.1,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,AJ Dybantsa,Over,2.5,2.0,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_assists,AJ Dybantsa,Under,2.5,1.75,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,AJ Dybantsa,Over,17.5,1.85,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,AJ Dybantsa,Under,17.5,1.88,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Anthony Black,Over,15.5,1.9,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Anthony Black,Under,15.5,1.83,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Tristan da Silva,Over,10.5,1.91,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Tristan da Silva,Under,10.5,1.83,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Trae Young,Over,16.5,1.82,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Trae Young,Under,16.5,1.92,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Anthony Davis,Over,23.5,1.9,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Anthony Davis,Under,23.5,1.83,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Jalen Suggs,Over,12.5,1.83,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Jalen Suggs,Under,12.5,1.91,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Kyshawn George,Over,16.5,1.87,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Kyshawn George,Under,16.5,1.87,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Bilal Coulibaly,Over,6.5,1.9,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Bilal Coulibaly,Under,6.5,1.85,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Wendell Carter Jr,Over,11.5,1.83,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Wendell Carter Jr,Under,11.5,1.91,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Desmond Bane,Over,19.5,1.88,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Desmond Bane,Under,19.5,1.85,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Franz Wagner,Over,25.5,1.92,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Franz Wagner,Under,25.5,1.82,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Alex Sarr,Over,10.5,1.92,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points,Alex Sarr,Under,10.5,1.82,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,AJ Dybantsa,Over,25.5,1.7,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,AJ Dybantsa,Under,25.5,2.1,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Trae Young,Over,27.5,1.82,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Trae Young,Under,27.5,1.92,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Jalen Suggs,Over,20.5,1.78,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Jalen Suggs,Under,20.5,1.98,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Over,38.5,1.78,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Under,38.5,1.96,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Over,26.5,1.8,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Under,26.5,1.94,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Over,24.5,1.7,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Under,24.5,2.1,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Kyshawn George,Over,24.5,1.78,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_points_rebounds_assists,Kyshawn George,Under,24.5,1.98,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Tristan da Silva,Over,3.5,1.85,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Tristan da Silva,Under,3.5,1.9,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Bilal Coulibaly,Over,3.5,1.91,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Bilal Coulibaly,Under,3.5,1.83,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Trae Young,Over,2.5,1.91,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Trae Young,Under,2.5,1.83,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Kyshawn George,Over,4.5,2.1,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Kyshawn George,Under,4.5,1.7,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Jalen Suggs,Over,4.5,2.15,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Jalen Suggs,Under,4.5,1.65,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Desmond Bane,Over,4.5,2.05,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Desmond Bane,Under,4.5,1.7,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Alex Sarr,Over,6.5,2.1,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Alex Sarr,Under,6.5,1.68,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Wendell Carter Jr,Over,8.5,2.02,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Wendell Carter Jr,Under,8.5,1.75,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,AJ Dybantsa,Over,6.5,2.02,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,AJ Dybantsa,Under,6.5,1.73,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Anthony Davis,Over,10.5,1.98,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Anthony Davis,Under,10.5,1.77,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Franz Wagner,Over,6.5,1.96,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Franz Wagner,Under,6.5,1.78,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Anthony Black,Over,4.5,1.87,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_rebounds,Anthony Black,Under,4.5,1.88,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Desmond Bane,Over,3.5,2.05,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Desmond Bane,Under,3.5,1.67,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Kyshawn George,Over,1.5,1.55,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Kyshawn George,Under,1.5,2.25,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Trae Young,Over,1.5,1.57,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Trae Young,Under,1.5,2.2,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Franz Wagner,Over,1.5,2.1,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Franz Wagner,Under,1.5,1.64,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Anthony Black,Over,1.5,1.96,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Anthony Black,Under,1.5,1.73,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Jalen Suggs,Over,1.5,1.73,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Jalen Suggs,Under,1.5,1.96,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Tristan da Silva,Over,2.5,2.15,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
+2026-11-23,11:10,Orlando Magic @ Washington Wizards,ladbrokes_au,player_threes,Tristan da Silva,Under,2.5,1.58,2026-11-23T00:04:42Z,2026-11-23T00:05:04+00:00,4.9
