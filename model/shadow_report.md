@@ -40,5 +40,5 @@ Beat-CLV counts line shopping, so this is the figure that shows the market agree
 
 | Tier | Bets | Moved our way | Flat | Moved against | Avg move |
 |---|---|---|---|---|---|
-| Diff 4 | 65 | 16 | 39 | 10 | +0.00 |
-| Diff 3 | 139 | 21 | 98 | 20 | +0.00 |
+| Diff 4 | 66 | 16 | 40 | 10 | +0.00 |
+| Diff 3 | 154 | 24 | 109 | 21 | +0.01 |
