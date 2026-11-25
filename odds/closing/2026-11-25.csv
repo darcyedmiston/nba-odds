@@ -1,0 +1,597 @@
+date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,captured_utc,minutes_to_tip
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Ausar Thompson,Over,5.5,2.15,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Ausar Thompson,Under,5.5,1.64,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Daniss Jenkins,Over,7.5,2.15,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Daniss Jenkins,Under,7.5,1.64,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Kevin Huerter,Over,3.5,2.15,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Kevin Huerter,Under,3.5,1.64,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Desmond Bane,Over,2.5,1.72,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Desmond Bane,Under,2.5,2.08,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Jalen Suggs,Over,3.5,1.96,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Jalen Suggs,Under,3.5,1.8,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Franz Wagner,Over,6.5,2.15,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Franz Wagner,Under,6.5,1.64,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Anthony Black,Over,4.5,1.9,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_assists,Anthony Black,Under,4.5,1.86,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Ausar Thompson,Over,11.5,1.85,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Ausar Thompson,Under,11.5,1.91,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Daniss Jenkins,Over,18.5,2.05,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Daniss Jenkins,Under,18.5,1.74,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Kevin Huerter,Over,12.5,1.84,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Kevin Huerter,Under,12.5,1.92,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,John Collins,Over,12.5,2.0,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,John Collins,Under,12.5,1.78,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Isaiah Joe,Over,14.5,1.88,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Isaiah Joe,Under,14.5,1.88,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Paul Reed Jr,Over,10.5,1.8,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Paul Reed Jr,Under,10.5,1.96,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Jalen Suggs,Over,11.5,2.02,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Jalen Suggs,Under,11.5,1.76,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Tristan da Silva,Over,10.5,1.96,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Tristan da Silva,Under,10.5,1.8,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Anthony Black,Over,13.5,1.8,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Anthony Black,Under,13.5,1.96,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Franz Wagner,Over,23.5,1.96,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Franz Wagner,Under,23.5,1.8,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Wendell Carter Jr,Over,10.5,1.83,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Wendell Carter Jr,Under,10.5,1.93,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Desmond Bane,Over,17.5,1.88,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points,Desmond Bane,Under,17.5,1.88,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Daniss Jenkins,Over,29.5,1.86,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Daniss Jenkins,Under,29.5,1.9,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Kevin Huerter,Over,19.5,1.83,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Kevin Huerter,Under,19.5,1.92,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Ausar Thompson,Over,25.5,1.92,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Ausar Thompson,Under,25.5,1.84,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Anthony Black,Over,23.5,1.96,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Anthony Black,Under,23.5,1.8,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Franz Wagner,Over,36.5,1.96,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Franz Wagner,Under,36.5,1.8,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Desmond Bane,Over,24.5,1.86,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Desmond Bane,Under,24.5,1.9,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Jalen Suggs,Over,18.5,1.78,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Jalen Suggs,Under,18.5,2.0,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Over,20.5,1.9,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Wendell Carter Jr,Under,20.5,1.86,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Tristan da Silva,Over,15.5,1.92,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_points_rebounds_assists,Tristan da Silva,Under,15.5,1.84,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,John Collins,Over,5.5,1.84,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,John Collins,Under,5.5,1.92,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Ausar Thompson,Over,8.5,2.1,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Ausar Thompson,Under,8.5,1.68,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Daniss Jenkins,Over,4.5,2.1,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Daniss Jenkins,Under,4.5,1.68,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Kevin Huerter,Over,3.5,1.96,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Kevin Huerter,Under,3.5,1.8,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Paul Reed Jr,Over,7.5,2.1,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Paul Reed Jr,Under,7.5,1.68,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Jalen Suggs,Over,4.5,2.15,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Jalen Suggs,Under,4.5,1.64,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Desmond Bane,Over,3.5,1.64,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Desmond Bane,Under,3.5,2.15,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Wendell Carter Jr,Over,7.5,1.72,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Wendell Carter Jr,Under,7.5,2.08,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Franz Wagner,Over,6.5,1.88,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Franz Wagner,Under,6.5,1.88,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Tristan da Silva,Over,3.5,2.0,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Tristan da Silva,Under,3.5,1.78,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Anthony Black,Over,4.5,2.05,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_rebounds,Anthony Black,Under,4.5,1.74,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Kevin Huerter,Over,1.5,1.52,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Kevin Huerter,Under,1.5,2.4,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Daniss Jenkins,Over,2.5,2.2,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Daniss Jenkins,Under,2.5,1.6,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,John Collins,Over,1.5,2.4,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,John Collins,Under,1.5,1.52,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Isaiah Joe,Over,2.5,1.74,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Isaiah Joe,Under,2.5,2.05,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Franz Wagner,Over,1.5,2.3,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Franz Wagner,Under,1.5,1.56,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Desmond Bane,Over,3.5,2.1,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Desmond Bane,Under,3.5,1.68,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Anthony Black,Over,1.5,1.96,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Anthony Black,Under,1.5,1.8,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Jalen Suggs,Over,1.5,1.68,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Jalen Suggs,Under,1.5,2.1,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Tristan da Silva,Over,2.5,2.25,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Tristan da Silva,Under,2.5,1.58,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Wendell Carter Jr,Over,0.5,1.64,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,sportsbet,player_threes,Wendell Carter Jr,Under,0.5,2.15,2026-11-25T00:02:44Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Anthony Black,Over,4.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Anthony Black,Under,4.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Ausar Thompson,Over,5.5,2.2,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Ausar Thompson,Under,5.5,1.62,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Daniss Jenkins,Over,6.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Daniss Jenkins,Under,6.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Desmond Bane,Over,3.5,2.6,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Desmond Bane,Under,3.5,1.46,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Franz Wagner,Over,6.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Franz Wagner,Under,6.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Isaiah Joe,Over,2.5,2.5,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Isaiah Joe,Under,2.5,1.5,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,John Collins,Over,1.5,3.0,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,John Collins,Under,1.5,1.36,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Jalen Suggs,Over,3.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Jalen Suggs,Under,3.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Javonte Green,Over,0.5,1.62,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Javonte Green,Under,0.5,2.2,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Kevin Huerter,Over,3.5,2.3,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Kevin Huerter,Under,3.5,1.58,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Paul Reed Jr,Over,2.5,2.1,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Paul Reed Jr,Under,2.5,1.68,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Tristan da Silva,Over,1.5,2.05,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Tristan da Silva,Under,1.5,1.72,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Wendell Carter Jr,Over,1.5,2.0,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_assists,Wendell Carter Jr,Under,1.5,1.75,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Anthony Black,Over,14.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Anthony Black,Under,14.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Ausar Thompson,Over,12.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Ausar Thompson,Under,12.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Chaz Lanier,Over,4.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Chaz Lanier,Under,4.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Daniss Jenkins,Over,18.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Daniss Jenkins,Under,18.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Desmond Bane,Over,18.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Desmond Bane,Under,18.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Franz Wagner,Over,23.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Franz Wagner,Under,23.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Goga Bitadze,Over,5.5,2.05,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Goga Bitadze,Under,5.5,1.72,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Isaiah Joe,Over,14.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Isaiah Joe,Under,14.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Jevon Carter,Over,4.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Jevon Carter,Under,4.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,John Collins,Over,11.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,John Collins,Under,11.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Jalen Suggs,Over,10.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Jalen Suggs,Under,10.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Jamal Cain,Over,1.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Jamal Cain,Under,1.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Jase Richardson,Over,1.5,2.1,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Jase Richardson,Under,1.5,1.68,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Javonte Green,Over,8.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Javonte Green,Under,8.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Kevin Huerter,Over,12.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Kevin Huerter,Under,12.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Paul Reed Jr,Over,11.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Paul Reed Jr,Under,11.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Ron Holland,Over,6.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Ron Holland,Under,6.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Tristan da Silva,Over,10.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Tristan da Silva,Under,10.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Wendell Carter Jr,Over,11.5,2.0,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points,Wendell Carter Jr,Under,11.5,1.75,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Anthony Black,Over,23.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Anthony Black,Under,23.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Ausar Thompson,Over,26.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Ausar Thompson,Under,26.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Daniss Jenkins,Over,29.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Daniss Jenkins,Under,29.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Desmond Bane,Over,25.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Desmond Bane,Under,25.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Franz Wagner,Over,37.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Franz Wagner,Under,37.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,John Collins,Over,18.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,John Collins,Under,18.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Jalen Suggs,Over,18.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Jalen Suggs,Under,18.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Javonte Green,Over,12.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Javonte Green,Under,12.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Kevin Huerter,Over,18.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Kevin Huerter,Under,18.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Paul Reed Jr,Over,20.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Paul Reed Jr,Under,20.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Tristan da Silva,Over,16.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Tristan da Silva,Under,16.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Wendell Carter Jr,Over,20.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_points_rebounds_assists,Wendell Carter Jr,Under,20.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Anthony Black,Over,4.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Anthony Black,Under,4.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Ausar Thompson,Over,8.5,2.0,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Ausar Thompson,Under,8.5,1.75,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Daniss Jenkins,Over,4.5,2.25,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Daniss Jenkins,Under,4.5,1.6,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Desmond Bane,Over,3.5,1.72,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Desmond Bane,Under,3.5,2.05,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Franz Wagner,Over,6.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Franz Wagner,Under,6.5,1.87,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Isaiah Joe,Over,3.5,2.5,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Isaiah Joe,Under,3.5,1.5,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,John Collins,Over,5.5,2.1,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,John Collins,Under,5.5,1.68,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Jalen Suggs,Over,4.5,2.3,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Jalen Suggs,Under,4.5,1.58,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Javonte Green,Over,3.5,1.95,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Javonte Green,Under,3.5,1.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Kevin Huerter,Over,3.5,2.1,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Kevin Huerter,Under,3.5,1.68,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Paul Reed Jr,Over,7.5,2.25,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Paul Reed Jr,Under,7.5,1.6,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Tristan da Silva,Over,3.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Tristan da Silva,Under,3.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Wendell Carter Jr,Over,8.5,2.2,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_rebounds,Wendell Carter Jr,Under,8.5,1.62,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Anthony Black,Over,1.5,1.85,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Anthony Black,Under,1.5,1.9,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Ausar Thompson,Over,0.5,5.7,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Ausar Thompson,Under,0.5,1.12,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Daniss Jenkins,Over,2.5,2.65,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Daniss Jenkins,Under,2.5,1.45,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Desmond Bane,Over,3.5,2.15,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Desmond Bane,Under,3.5,1.65,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Franz Wagner,Over,1.5,2.15,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Franz Wagner,Under,1.5,1.65,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Isaiah Joe,Over,2.5,1.72,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Isaiah Joe,Under,2.5,2.05,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,John Collins,Over,1.5,2.75,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,John Collins,Under,1.5,1.42,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Jalen Suggs,Over,1.5,1.68,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Jalen Suggs,Under,1.5,2.1,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Javonte Green,Over,1.5,2.0,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Javonte Green,Under,1.5,1.75,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Kevin Huerter,Over,1.5,1.6,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Kevin Huerter,Under,1.5,2.25,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Paul Reed Jr,Over,0.5,3.8,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Paul Reed Jr,Under,0.5,1.24,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Tristan da Silva,Over,2.5,2.3,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Tristan da Silva,Under,2.5,1.58,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Wendell Carter Jr,Over,0.5,1.6,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,tab,player_threes,Wendell Carter Jr,Under,0.5,2.25,2026-11-25T00:04:14Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Jalen Suggs,Over,3.5,1.76,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Jalen Suggs,Under,3.5,1.97,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Wendell Carter Jr,Over,1.5,1.94,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Wendell Carter Jr,Under,1.5,1.78,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Anthony Black,Over,4.5,1.8,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Anthony Black,Under,4.5,1.93,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Desmond Bane,Over,2.5,1.62,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Desmond Bane,Under,2.5,2.18,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Tristan da Silva,Over,1.5,1.96,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Tristan da Silva,Under,1.5,1.77,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Franz Wagner,Over,6.5,2.02,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Franz Wagner,Under,6.5,1.73,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Daniss Jenkins,Over,6.5,1.76,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Daniss Jenkins,Under,6.5,1.97,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Ausar Thompson,Over,5.5,2.2,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Ausar Thompson,Under,5.5,1.61,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Kevin Huerter,Over,3.5,2.23,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_assists,Kevin Huerter,Under,3.5,1.6,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Desmond Bane,Over,17.5,1.91,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Desmond Bane,Under,17.5,1.82,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Wendell Carter Jr,Over,10.5,1.85,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Wendell Carter Jr,Under,10.5,1.87,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Tristan da Silva,Over,10.5,1.83,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Tristan da Silva,Under,10.5,1.88,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Franz Wagner,Over,22.5,1.78,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Franz Wagner,Under,22.5,1.94,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Jalen Suggs,Over,11.5,1.94,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Jalen Suggs,Under,11.5,1.79,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Anthony Black,Over,13.5,1.73,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Anthony Black,Under,13.5,2.02,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,John Collins,Over,11.5,1.85,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,John Collins,Under,11.5,1.88,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Kevin Huerter,Over,12.5,1.87,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Kevin Huerter,Under,12.5,1.85,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Daniss Jenkins,Over,17.5,1.91,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Daniss Jenkins,Under,17.5,1.82,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Isaiah Joe,Over,13.5,1.83,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Isaiah Joe,Under,13.5,1.89,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Ausar Thompson,Over,11.5,1.77,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Ausar Thompson,Under,11.5,1.96,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Paul Reed Jr,Over,11.5,1.94,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points,Paul Reed Jr,Under,11.5,1.79,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Tristan da Silva,Over,16.5,1.94,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Tristan da Silva,Under,16.5,1.78,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Wendell Carter Jr,Over,20.5,1.89,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Wendell Carter Jr,Under,20.5,1.83,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Desmond Bane,Over,24.5,1.88,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Desmond Bane,Under,24.5,1.83,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Jalen Suggs,Over,19.5,1.87,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Jalen Suggs,Under,19.5,1.85,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Anthony Black,Over,23.5,1.83,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Anthony Black,Under,23.5,1.89,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Franz Wagner,Over,36.5,1.89,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Franz Wagner,Under,36.5,1.83,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Kevin Huerter,Over,19.5,1.93,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Kevin Huerter,Under,19.5,1.8,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Ausar Thompson,Over,25.5,1.88,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Ausar Thompson,Under,25.5,1.85,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Daniss Jenkins,Over,29.5,2.0,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_points_rebounds_assists,Daniss Jenkins,Under,29.5,1.74,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Anthony Black,Over,4.5,1.93,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Anthony Black,Under,4.5,1.79,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,John Collins,Over,5.5,1.81,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,John Collins,Under,5.5,1.92,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Jalen Suggs,Over,4.5,2.12,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Jalen Suggs,Under,4.5,1.67,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Franz Wagner,Over,6.5,1.83,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Franz Wagner,Under,6.5,1.88,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Kevin Huerter,Over,3.5,2.05,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Kevin Huerter,Under,3.5,1.71,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Desmond Bane,Over,3.5,1.68,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Desmond Bane,Under,3.5,2.08,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Tristan da Silva,Over,3.5,1.83,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Tristan da Silva,Under,3.5,1.89,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Wendell Carter Jr,Over,7.5,1.74,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Wendell Carter Jr,Under,7.5,2.0,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Paul Reed Jr,Over,7.5,2.15,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Paul Reed Jr,Under,7.5,1.65,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Daniss Jenkins,Over,4.5,2.14,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Daniss Jenkins,Under,4.5,1.65,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Ausar Thompson,Over,8.5,2.04,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_rebounds,Ausar Thompson,Under,8.5,1.72,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Tristan da Silva,Over,2.5,2.06,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Tristan da Silva,Under,2.5,1.7,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Franz Wagner,Over,1.5,2.18,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Franz Wagner,Under,1.5,1.62,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,John Collins,Over,1.5,2.43,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,John Collins,Under,1.5,1.5,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Jalen Suggs,Over,1.5,1.68,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Jalen Suggs,Under,1.5,2.07,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Desmond Bane,Over,3.5,2.15,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Desmond Bane,Under,3.5,1.64,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Wendell Carter Jr,Over,0.5,1.62,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Wendell Carter Jr,Under,0.5,2.2,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Anthony Black,Over,1.5,2.04,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Anthony Black,Under,1.5,1.72,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Isaiah Joe,Over,2.5,1.91,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Isaiah Joe,Under,2.5,1.82,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Kevin Huerter,Over,1.5,1.66,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Kevin Huerter,Under,1.5,2.12,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Daniss Jenkins,Over,2.5,2.35,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,unibet,player_threes,Daniss Jenkins,Under,2.5,1.54,2026-11-25T00:04:57Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Kevin Huerter,Over,3.5,2.1,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Kevin Huerter,Under,3.5,1.68,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Ausar Thompson,Over,5.5,2.1,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Ausar Thompson,Under,5.5,1.67,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Daniss Jenkins,Over,7.5,2.05,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Daniss Jenkins,Under,7.5,1.7,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Franz Wagner,Over,6.5,1.95,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Franz Wagner,Under,6.5,1.8,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Jalen Suggs,Over,3.5,1.87,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Jalen Suggs,Under,3.5,1.87,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Anthony Black,Over,4.5,1.9,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Anthony Black,Under,4.5,1.85,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Desmond Bane,Over,2.5,1.77,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_assists,Desmond Bane,Under,2.5,1.98,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Jalen Suggs,Over,11.5,1.98,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Jalen Suggs,Under,11.5,1.77,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Tristan da Silva,Over,10.5,1.91,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Tristan da Silva,Under,10.5,1.83,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Anthony Black,Over,14.5,1.9,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Anthony Black,Under,14.5,1.85,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Isaiah Joe,Over,13.5,1.8,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Isaiah Joe,Under,13.5,1.94,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,John Collins,Over,12.5,1.94,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,John Collins,Under,12.5,1.8,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Daniss Jenkins,Over,18.5,1.96,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Daniss Jenkins,Under,18.5,1.78,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Wendell Carter Jr,Over,10.5,1.85,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Wendell Carter Jr,Under,10.5,1.9,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Franz Wagner,Over,23.5,1.92,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Franz Wagner,Under,23.5,1.82,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Desmond Bane,Over,17.5,1.91,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Desmond Bane,Under,17.5,1.83,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Paul Reed Jr,Over,11.5,1.88,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Paul Reed Jr,Under,11.5,1.85,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Ausar Thompson,Over,11.5,1.78,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Ausar Thompson,Under,11.5,1.98,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Kevin Huerter,Over,12.5,1.88,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points,Kevin Huerter,Under,12.5,1.85,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Franz Wagner,Over,35.5,1.72,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Franz Wagner,Under,35.5,2.05,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Kevin Huerter,Over,18.5,1.75,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Kevin Huerter,Under,18.5,2.0,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Daniss Jenkins,Over,29.5,1.83,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Daniss Jenkins,Under,29.5,1.91,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Ausar Thompson,Over,24.5,1.73,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Ausar Thompson,Under,24.5,2.02,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Jalen Suggs,Over,18.5,1.75,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Jalen Suggs,Under,18.5,2.0,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Desmond Bane,Over,23.5,1.77,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Desmond Bane,Under,23.5,1.98,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Anthony Black,Over,23.5,1.85,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_points_rebounds_assists,Anthony Black,Under,23.5,1.88,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Franz Wagner,Over,6.5,1.87,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Franz Wagner,Under,6.5,1.87,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Anthony Black,Over,4.5,2.0,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Anthony Black,Under,4.5,1.75,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Tristan da Silva,Over,3.5,1.87,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Tristan da Silva,Under,3.5,1.87,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Desmond Bane,Over,3.5,1.77,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Desmond Bane,Under,3.5,1.98,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Kevin Huerter,Over,3.5,2.1,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Kevin Huerter,Under,3.5,1.68,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Ausar Thompson,Over,8.5,2.05,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Ausar Thompson,Under,8.5,1.7,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Paul Reed Jr,Over,6.5,1.82,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Paul Reed Jr,Under,6.5,1.92,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Jalen Suggs,Over,4.5,2.15,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Jalen Suggs,Under,4.5,1.65,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Wendell Carter Jr,Over,7.5,1.72,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Wendell Carter Jr,Under,7.5,2.05,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,John Collins,Over,5.5,1.88,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,John Collins,Under,5.5,1.85,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Daniss Jenkins,Over,4.5,2.15,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_rebounds,Daniss Jenkins,Under,4.5,1.67,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Kevin Huerter,Over,1.5,1.55,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Kevin Huerter,Under,1.5,2.25,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Tristan da Silva,Over,2.5,2.15,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Tristan da Silva,Under,2.5,1.58,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Anthony Black,Over,1.5,2.02,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Anthony Black,Under,1.5,1.68,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Isaiah Joe,Over,2.5,1.73,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Isaiah Joe,Under,2.5,1.95,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Daniss Jenkins,Over,1.5,1.46,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Daniss Jenkins,Under,1.5,2.45,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Jalen Suggs,Over,1.5,1.65,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Jalen Suggs,Under,1.5,2.05,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Desmond Bane,Over,3.5,2.1,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,neds,player_threes,Desmond Bane,Under,3.5,1.64,2026-11-25T00:04:32Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Kevin Huerter,Over,3.5,2.1,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Kevin Huerter,Under,3.5,1.68,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Ausar Thompson,Over,5.5,2.1,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Ausar Thompson,Under,5.5,1.67,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Daniss Jenkins,Over,7.5,2.05,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Daniss Jenkins,Under,7.5,1.7,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Franz Wagner,Over,6.5,1.95,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Franz Wagner,Under,6.5,1.8,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Jalen Suggs,Over,3.5,1.87,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Jalen Suggs,Under,3.5,1.87,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Anthony Black,Over,4.5,1.9,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Anthony Black,Under,4.5,1.85,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Desmond Bane,Over,2.5,1.77,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_assists,Desmond Bane,Under,2.5,1.98,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Jalen Suggs,Over,11.5,1.98,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Jalen Suggs,Under,11.5,1.77,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Tristan da Silva,Over,10.5,1.91,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Tristan da Silva,Under,10.5,1.83,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Anthony Black,Over,14.5,1.9,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Anthony Black,Under,14.5,1.85,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Isaiah Joe,Over,14.5,1.87,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Isaiah Joe,Under,14.5,1.87,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,John Collins,Over,12.5,1.94,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,John Collins,Under,12.5,1.8,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Daniss Jenkins,Over,18.5,1.96,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Daniss Jenkins,Under,18.5,1.78,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Wendell Carter Jr,Over,10.5,1.85,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Wendell Carter Jr,Under,10.5,1.9,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Franz Wagner,Over,23.5,1.92,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Franz Wagner,Under,23.5,1.82,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Desmond Bane,Over,17.5,1.91,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Desmond Bane,Under,17.5,1.83,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Paul Reed Jr,Over,11.5,1.88,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Paul Reed Jr,Under,11.5,1.85,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Ausar Thompson,Over,11.5,1.78,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Ausar Thompson,Under,11.5,1.98,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Kevin Huerter,Over,12.5,1.88,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points,Kevin Huerter,Under,12.5,1.85,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Over,35.5,1.7,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Franz Wagner,Under,35.5,2.05,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Kevin Huerter,Over,18.5,1.72,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Kevin Huerter,Under,18.5,2.05,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Daniss Jenkins,Over,29.5,1.85,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Daniss Jenkins,Under,29.5,1.9,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Ausar Thompson,Over,24.5,1.7,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Ausar Thompson,Under,24.5,2.05,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Jalen Suggs,Over,18.5,1.75,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Jalen Suggs,Under,18.5,2.02,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Over,23.5,1.75,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Desmond Bane,Under,23.5,2.0,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Over,23.5,1.83,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_points_rebounds_assists,Anthony Black,Under,23.5,1.91,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Franz Wagner,Over,6.5,1.87,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Franz Wagner,Under,6.5,1.87,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Anthony Black,Over,4.5,2.0,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Anthony Black,Under,4.5,1.75,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Tristan da Silva,Over,3.5,1.87,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Tristan da Silva,Under,3.5,1.87,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Desmond Bane,Over,3.5,1.77,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Desmond Bane,Under,3.5,1.98,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Kevin Huerter,Over,3.5,2.1,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Kevin Huerter,Under,3.5,1.68,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Ausar Thompson,Over,8.5,2.05,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Ausar Thompson,Under,8.5,1.7,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Paul Reed Jr,Over,6.5,1.82,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Paul Reed Jr,Under,6.5,1.92,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Jalen Suggs,Over,4.5,2.15,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Jalen Suggs,Under,4.5,1.65,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Wendell Carter Jr,Over,7.5,1.72,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Wendell Carter Jr,Under,7.5,2.05,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,John Collins,Over,5.5,1.88,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,John Collins,Under,5.5,1.85,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Daniss Jenkins,Over,4.5,2.15,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_rebounds,Daniss Jenkins,Under,4.5,1.67,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Kevin Huerter,Over,1.5,1.55,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Kevin Huerter,Under,1.5,2.25,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Tristan da Silva,Over,2.5,2.15,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Tristan da Silva,Under,2.5,1.58,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Anthony Black,Over,1.5,2.02,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Anthony Black,Under,1.5,1.68,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Isaiah Joe,Over,2.5,1.73,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Isaiah Joe,Under,2.5,1.95,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Daniss Jenkins,Over,1.5,1.46,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Daniss Jenkins,Under,1.5,2.45,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Jalen Suggs,Over,1.5,1.65,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Jalen Suggs,Under,1.5,2.05,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Desmond Bane,Over,3.5,2.1,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,ladbrokes_au,player_threes,Desmond Bane,Under,3.5,1.64,2026-11-25T00:04:59Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_assists,Anthony Black,Over,4.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_assists,Anthony Black,Under,4.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_assists,Daniss Jenkins,Over,6.5,1.74,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_assists,Daniss Jenkins,Under,6.5,2.05,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_assists,Franz Wagner,Over,6.5,2.05,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_assists,Franz Wagner,Under,6.5,1.74,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_assists,Jalen Suggs,Over,3.5,1.9,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_assists,Jalen Suggs,Under,3.5,1.83,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Anthony Black,Over,14.5,1.9,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Anthony Black,Under,14.5,1.83,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Ausar Thompson,Over,11.5,1.83,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Ausar Thompson,Under,11.5,1.9,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Daniss Jenkins,Over,17.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Daniss Jenkins,Under,17.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Desmond Bane,Over,17.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Desmond Bane,Under,17.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Franz Wagner,Over,23.5,1.9,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Franz Wagner,Under,23.5,1.83,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Goga Bitadze,Over,4.5,1.83,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Goga Bitadze,Under,4.5,1.9,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Jalen Suggs,Over,11.5,2.0,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Jalen Suggs,Under,11.5,1.77,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,John Collins,Over,12.5,1.95,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,John Collins,Under,12.5,1.8,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Kevin Huerter,Over,12.5,1.83,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Kevin Huerter,Under,12.5,1.9,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Tristan da Silva,Over,10.5,1.95,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Tristan da Silva,Under,10.5,1.8,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Wendell Carter Jr,Over,10.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points,Wendell Carter Jr,Under,10.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Anthony Black,Over,23.5,1.83,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Anthony Black,Under,23.5,1.9,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Daniss Jenkins,Over,29.5,1.95,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Daniss Jenkins,Under,29.5,1.8,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Desmond Bane,Over,24.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Desmond Bane,Under,24.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Franz Wagner,Over,36.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Franz Wagner,Under,36.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Jalen Suggs,Over,19.5,1.95,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Jalen Suggs,Under,19.5,1.8,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Kevin Huerter,Over,19.5,1.9,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Kevin Huerter,Under,19.5,1.83,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Tristan da Silva,Over,15.5,1.9,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Tristan da Silva,Under,15.5,1.83,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Wendell Carter Jr,Over,20.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_points_rebounds_assists,Wendell Carter Jr,Under,20.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Anthony Black,Over,4.5,1.9,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Anthony Black,Under,4.5,1.83,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Ausar Thompson,Over,8.5,2.1,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Ausar Thompson,Under,8.5,1.71,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Daniss Jenkins,Over,4.5,2.15,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Daniss Jenkins,Under,4.5,1.69,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Desmond Bane,Over,3.5,1.74,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Desmond Bane,Under,3.5,2.05,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Franz Wagner,Over,6.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Franz Wagner,Under,6.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Jalen Suggs,Over,4.5,2.2,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Jalen Suggs,Under,4.5,1.67,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,John Collins,Over,5.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,John Collins,Under,5.5,1.87,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Kevin Huerter,Over,3.5,2.05,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Kevin Huerter,Under,3.5,1.74,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Paul Reed Jr,Over,7.5,2.1,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Paul Reed Jr,Under,7.5,1.71,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Tristan da Silva,Over,3.5,1.95,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Tristan da Silva,Under,3.5,1.8,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Wendell Carter Jr,Over,7.5,1.71,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_rebounds,Wendell Carter Jr,Under,7.5,2.1,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Desmond Bane,Over,3.5,2.15,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Desmond Bane,Under,3.5,1.69,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Wendell Carter Jr,Over,0.5,1.71,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Wendell Carter Jr,Under,0.5,2.1,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Franz Wagner,Over,1.5,2.45,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Franz Wagner,Under,1.5,1.53,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Jalen Suggs,Over,1.5,1.69,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Jalen Suggs,Under,1.5,2.15,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Anthony Black,Over,1.5,1.95,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Anthony Black,Under,1.5,1.8,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Tristan da Silva,Over,2.5,2.25,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
+2026-11-25,11:11,Detroit Pistons @ Orlando Magic,pointsbetau,player_threes,Tristan da Silva,Under,2.5,1.63,2026-11-25T00:05:49Z,2026-11-25T00:06:00+00:00,5.0
