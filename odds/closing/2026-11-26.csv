@@ -3076,3 +3076,960 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-26,11:40,Minnesota Timberwolves @ Oklahoma City Thunder,betright,player_rebounds,Kenrich Williams,Under,4.5,2.02,2026-11-26T00:34:19Z,2026-11-26T00:35:02+00:00,5.0
 2026-11-26,11:40,Minnesota Timberwolves @ Oklahoma City Thunder,betright,player_rebounds,Alex Caruso,Over,3.5,1.96,2026-11-26T00:34:19Z,2026-11-26T00:35:02+00:00,5.0
 2026-11-26,11:40,Minnesota Timberwolves @ Oklahoma City Thunder,betright,player_rebounds,Alex Caruso,Under,3.5,1.79,2026-11-26T00:34:19Z,2026-11-26T00:35:02+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Kyle Kuzma,Over,2.5,1.88,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Kyle Kuzma,Under,2.5,1.85,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Mikel Brown Jr.,Over,4.5,1.95,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Mikel Brown Jr.,Under,4.5,1.8,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Day'Ron Sharpe,Over,4.5,2.1,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Day'Ron Sharpe,Under,4.5,1.68,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Julius Randle,Over,4.5,1.77,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Julius Randle,Under,4.5,1.98,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Ryan Rollins,Over,4.5,2.15,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Ryan Rollins,Under,4.5,1.65,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Egor Demin,Over,2.5,1.78,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Egor Demin,Under,2.5,1.96,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Tyler Herro,Over,4.5,1.75,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Tyler Herro,Under,4.5,2.0,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Jaime Jaquez Jr,Over,2.5,1.7,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Jaime Jaquez Jr,Under,2.5,2.1,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Brayden Burries,Over,3.5,2.1,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_assists,Brayden Burries,Under,3.5,1.68,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Myles Turner,Over,9.5,1.91,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Myles Turner,Under,9.5,1.83,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Noah Clowney,Over,7.5,1.91,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Noah Clowney,Under,7.5,1.83,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Julius Randle,Over,21.5,1.85,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Julius Randle,Under,21.5,1.88,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Kyle Kuzma,Over,13.5,1.88,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Kyle Kuzma,Under,13.5,1.85,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Ryan Rollins,Over,11.5,1.85,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Ryan Rollins,Under,11.5,1.9,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Danny Wolf,Over,9.5,1.87,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Danny Wolf,Under,9.5,1.88,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Egor Demin,Over,10.5,1.9,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Egor Demin,Under,10.5,1.83,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Brayden Burries,Over,12.5,1.83,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Brayden Burries,Under,12.5,1.9,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Jaime Jaquez Jr,Over,11.5,1.82,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Jaime Jaquez Jr,Under,11.5,1.92,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Michael Porter Jr,Over,22.5,1.9,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Michael Porter Jr,Under,22.5,1.85,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Tyler Herro,Over,22.5,1.9,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Tyler Herro,Under,22.5,1.83,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Day'Ron Sharpe,Over,9.5,1.88,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Day'Ron Sharpe,Under,9.5,1.85,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Kel'el Ware,Over,8.5,1.8,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Kel'el Ware,Under,8.5,1.94,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Nate Ament,Over,7.5,1.78,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Nate Ament,Under,7.5,1.98,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Mikel Brown Jr.,Over,15.5,1.83,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points,Mikel Brown Jr.,Under,15.5,1.91,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Jaime Jaquez Jr,Over,18.5,1.82,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Jaime Jaquez Jr,Under,18.5,1.92,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Egor Demin,Over,15.5,1.78,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Egor Demin,Under,15.5,1.98,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Kyle Kuzma,Over,20.5,1.75,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Kyle Kuzma,Under,20.5,2.0,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Tyler Herro,Over,31.5,1.82,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Tyler Herro,Under,31.5,1.92,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Brayden Burries,Over,21.5,1.85,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Brayden Burries,Under,21.5,1.88,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Ryan Rollins,Over,19.5,1.8,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Ryan Rollins,Under,19.5,1.94,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Mikel Brown Jr.,Over,22.5,1.82,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Mikel Brown Jr.,Under,22.5,1.92,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Julius Randle,Over,32.5,1.82,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Julius Randle,Under,32.5,1.92,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Day'Ron Sharpe,Over,21.5,1.82,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_points_rebounds_assists,Day'Ron Sharpe,Under,21.5,1.92,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Kel'el Ware,Over,6.5,2.05,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Kel'el Ware,Under,6.5,1.73,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Brayden Burries,Over,5.5,1.94,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Brayden Burries,Under,5.5,1.8,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Myles Turner,Over,5.5,1.87,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Myles Turner,Under,5.5,1.87,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Day'Ron Sharpe,Over,7.5,1.8,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Day'Ron Sharpe,Under,7.5,1.95,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Noah Clowney,Over,3.5,2.1,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Noah Clowney,Under,3.5,1.7,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Julius Randle,Over,6.5,2.05,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Julius Randle,Under,6.5,1.73,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Jaime Jaquez Jr,Over,3.5,1.72,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Jaime Jaquez Jr,Under,3.5,2.05,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Michael Porter Jr,Over,6.5,1.82,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Michael Porter Jr,Under,6.5,1.92,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Danny Wolf,Over,5.5,1.87,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Danny Wolf,Under,5.5,1.87,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Ryan Rollins,Over,3.5,1.78,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Ryan Rollins,Under,3.5,1.96,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Tyler Herro,Over,4.5,2.1,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Tyler Herro,Under,4.5,1.7,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Mikel Brown Jr.,Over,2.5,1.94,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Mikel Brown Jr.,Under,2.5,1.8,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Egor Demin,Over,2.5,1.85,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Egor Demin,Under,2.5,1.88,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Kyle Kuzma,Over,4.5,1.8,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Kyle Kuzma,Under,4.5,1.95,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Nate Ament,Over,3.5,2.15,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_rebounds,Nate Ament,Under,3.5,1.67,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Kyle Kuzma,Over,1.5,1.88,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Kyle Kuzma,Under,1.5,1.8,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Danny Wolf,Over,1.5,1.94,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Danny Wolf,Under,1.5,1.75,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Ryan Rollins,Over,1.5,1.96,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Ryan Rollins,Under,1.5,1.72,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Egor Demin,Over,1.5,1.57,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Egor Demin,Under,1.5,2.2,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Tyler Herro,Over,2.5,1.68,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Tyler Herro,Under,2.5,2.02,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Julius Randle,Over,1.5,2.0,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Julius Randle,Under,1.5,1.7,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Michael Porter Jr,Over,3.5,2.1,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Michael Porter Jr,Under,3.5,1.62,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Mikel Brown Jr.,Over,2.5,2.0,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Mikel Brown Jr.,Under,2.5,1.7,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Myles Turner,Over,1.5,1.94,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,neds,player_threes,Myles Turner,Under,1.5,1.75,2026-11-26T01:04:20Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Day'Ron Sharpe,Over,3.5,1.62,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Day'Ron Sharpe,Under,3.5,2.2,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Julius Randle,Over,4.5,1.7,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Julius Randle,Under,4.5,2.1,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Ryan Rollins,Over,3.5,1.57,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Ryan Rollins,Under,3.5,2.3,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Mikel Brown Jr.,Over,4.5,1.83,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Mikel Brown Jr.,Under,4.5,1.92,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Brayden Burries,Over,3.5,2.3,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Brayden Burries,Under,3.5,1.57,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Tyler Herro,Over,5.5,2.15,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_assists,Tyler Herro,Under,5.5,1.65,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_points_rebounds_assists,Day'Ron Sharpe,Over,21.5,1.96,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_points_rebounds_assists,Day'Ron Sharpe,Under,21.5,1.8,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_points_rebounds_assists,Julius Randle,Over,33.5,1.98,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_points_rebounds_assists,Julius Randle,Under,33.5,1.78,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_points_rebounds_assists,Ryan Rollins,Over,19.5,1.92,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_points_rebounds_assists,Ryan Rollins,Under,19.5,1.83,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_points_rebounds_assists,Brayden Burries,Over,21.5,1.94,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_points_rebounds_assists,Brayden Burries,Under,21.5,1.83,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_points_rebounds_assists,Tyler Herro,Over,32.5,1.9,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_points_rebounds_assists,Tyler Herro,Under,32.5,1.86,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Day'Ron Sharpe,Over,7.5,1.75,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Day'Ron Sharpe,Under,7.5,2.0,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Myles Turner,Over,5.5,1.8,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Myles Turner,Under,5.5,1.96,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Kyle Kuzma,Over,4.5,1.7,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Kyle Kuzma,Under,4.5,2.05,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Julius Randle,Over,6.5,2.05,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Julius Randle,Under,6.5,1.7,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Ryan Rollins,Over,3.5,1.82,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Ryan Rollins,Under,3.5,1.95,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Noah Clowney,Over,3.5,2.05,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Noah Clowney,Under,3.5,1.73,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Jaime Jaquez Jr,Over,3.5,1.62,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Jaime Jaquez Jr,Under,3.5,2.2,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Kel'el Ware,Over,5.5,1.65,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Kel'el Ware,Under,5.5,2.15,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Danny Wolf,Over,5.5,1.7,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Danny Wolf,Under,5.5,2.05,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Nate Ament,Over,3.5,2.2,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Nate Ament,Under,3.5,1.62,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Brayden Burries,Over,5.5,1.91,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Brayden Burries,Under,5.5,1.85,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Michael Porter Jr,Over,6.5,1.7,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Michael Porter Jr,Under,6.5,2.05,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Tyler Herro,Over,4.5,2.05,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_rebounds,Tyler Herro,Under,4.5,1.73,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Myles Turner,Over,1.5,1.75,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Myles Turner,Under,1.5,2.0,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Kyle Kuzma,Over,1.5,1.73,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Kyle Kuzma,Under,1.5,2.0,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Julius Randle,Over,1.5,1.88,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Julius Randle,Under,1.5,1.88,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Ryan Rollins,Over,1.5,1.83,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Ryan Rollins,Under,1.5,1.92,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Noah Clowney,Over,1.5,2.4,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Noah Clowney,Under,1.5,1.53,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Jaime Jaquez Jr,Over,1.5,2.2,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Jaime Jaquez Jr,Under,1.5,1.62,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Egor Demin,Over,1.5,1.53,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Egor Demin,Under,1.5,2.4,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Danny Wolf,Over,1.5,1.83,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Danny Wolf,Under,1.5,1.92,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Mikel Brown Jr.,Over,2.5,1.91,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Mikel Brown Jr.,Under,2.5,1.86,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Brayden Burries,Over,1.5,2.05,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Brayden Burries,Under,1.5,1.73,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Michael Porter Jr,Over,3.5,2.2,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Michael Porter Jr,Under,3.5,1.62,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Tyler Herro,Over,2.5,1.6,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,swiftbet,player_threes,Tyler Herro,Under,2.5,2.25,2026-11-26T01:03:23Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Kyle Kuzma,Over,2.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Kyle Kuzma,Under,2.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Mikel Brown Jr.,Over,4.5,1.95,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Mikel Brown Jr.,Under,4.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Day'Ron Sharpe,Over,4.5,2.1,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Day'Ron Sharpe,Under,4.5,1.68,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Julius Randle,Over,4.5,1.77,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Julius Randle,Under,4.5,1.98,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Ryan Rollins,Over,4.5,2.15,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Ryan Rollins,Under,4.5,1.65,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Egor Demin,Over,2.5,1.78,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Egor Demin,Under,2.5,1.96,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Tyler Herro,Over,4.5,1.75,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Tyler Herro,Under,4.5,2.0,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Jaime Jaquez Jr,Over,2.5,1.7,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Jaime Jaquez Jr,Under,2.5,2.1,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Brayden Burries,Over,3.5,2.1,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_assists,Brayden Burries,Under,3.5,1.68,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Myles Turner,Over,9.5,1.91,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Myles Turner,Under,9.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Noah Clowney,Over,7.5,1.91,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Noah Clowney,Under,7.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Julius Randle,Over,21.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Julius Randle,Under,21.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Kyle Kuzma,Over,13.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Kyle Kuzma,Under,13.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Ryan Rollins,Over,11.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Ryan Rollins,Under,11.5,1.9,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Danny Wolf,Over,9.5,1.87,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Danny Wolf,Under,9.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Egor Demin,Over,10.5,1.9,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Egor Demin,Under,10.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Brayden Burries,Over,12.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Brayden Burries,Under,12.5,1.9,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Jaime Jaquez Jr,Over,11.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Jaime Jaquez Jr,Under,11.5,1.92,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Michael Porter Jr,Over,22.5,1.9,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Michael Porter Jr,Under,22.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Tyler Herro,Over,22.5,1.9,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Tyler Herro,Under,22.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Day'Ron Sharpe,Over,9.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Day'Ron Sharpe,Under,9.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Kel'el Ware,Over,8.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Kel'el Ware,Under,8.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Nate Ament,Over,7.5,1.78,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Nate Ament,Under,7.5,1.98,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Mikel Brown Jr.,Over,15.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points,Mikel Brown Jr.,Under,15.5,1.91,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Jaime Jaquez Jr,Over,18.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Jaime Jaquez Jr,Under,18.5,1.92,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Egor Demin,Over,15.5,1.78,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Egor Demin,Under,15.5,1.98,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Kyle Kuzma,Over,20.5,1.75,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Kyle Kuzma,Under,20.5,2.0,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Tyler Herro,Over,31.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Tyler Herro,Under,31.5,1.92,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Brayden Burries,Over,21.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Brayden Burries,Under,21.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Ryan Rollins,Over,19.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Ryan Rollins,Under,19.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Mikel Brown Jr.,Over,22.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Mikel Brown Jr.,Under,22.5,1.92,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Over,32.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Under,32.5,1.92,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Over,21.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Under,21.5,1.92,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kel'el Ware,Over,6.5,2.05,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kel'el Ware,Under,6.5,1.73,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Brayden Burries,Over,5.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Brayden Burries,Under,5.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Myles Turner,Over,5.5,1.87,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Myles Turner,Under,5.5,1.87,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Over,7.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Under,7.5,1.95,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Noah Clowney,Over,3.5,2.1,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Noah Clowney,Under,3.5,1.7,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Julius Randle,Over,6.5,2.05,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Julius Randle,Under,6.5,1.73,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Jaime Jaquez Jr,Over,3.5,1.72,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Jaime Jaquez Jr,Under,3.5,2.05,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Michael Porter Jr,Over,6.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Michael Porter Jr,Under,6.5,1.92,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Danny Wolf,Over,5.5,1.87,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Danny Wolf,Under,5.5,1.87,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Ryan Rollins,Over,3.5,1.78,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Ryan Rollins,Under,3.5,1.96,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Tyler Herro,Over,4.5,2.1,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Tyler Herro,Under,4.5,1.7,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Mikel Brown Jr.,Over,2.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Mikel Brown Jr.,Under,2.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Egor Demin,Over,2.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Egor Demin,Under,2.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kyle Kuzma,Over,4.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Kyle Kuzma,Under,4.5,1.95,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Nate Ament,Over,3.5,2.15,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_rebounds,Nate Ament,Under,3.5,1.67,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Kyle Kuzma,Over,1.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Kyle Kuzma,Under,1.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Danny Wolf,Over,1.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Danny Wolf,Under,1.5,1.75,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Ryan Rollins,Over,1.5,1.96,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Ryan Rollins,Under,1.5,1.72,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Egor Demin,Over,1.5,1.57,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Egor Demin,Under,1.5,2.2,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Tyler Herro,Over,2.5,1.68,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Tyler Herro,Under,2.5,2.02,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Julius Randle,Over,1.5,2.0,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Julius Randle,Under,1.5,1.7,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Michael Porter Jr,Over,3.5,2.1,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Michael Porter Jr,Under,3.5,1.62,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Mikel Brown Jr.,Over,2.5,2.0,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Mikel Brown Jr.,Under,2.5,1.7,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Myles Turner,Over,1.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,ladbrokes_au,player_threes,Myles Turner,Under,1.5,1.75,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Brayden Burries,Over,3.5,2.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Brayden Burries,Under,3.5,1.62,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Day'Ron Sharpe,Over,4.5,2.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Day'Ron Sharpe,Under,4.5,1.62,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Danny Wolf,Over,2.5,2.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Danny Wolf,Under,2.5,1.62,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Egor Demin,Over,2.5,1.72,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Egor Demin,Under,2.5,2.05,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Jaime Jaquez Jr,Over,3.5,2.3,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Jaime Jaquez Jr,Under,3.5,1.58,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Julius Randle,Over,5.5,2.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Julius Randle,Under,5.5,1.62,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Kel'el Ware,Over,1.5,3.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Kel'el Ware,Under,1.5,1.32,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Kyle Kuzma,Over,2.5,1.87,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Kyle Kuzma,Under,2.5,1.87,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Mikel Brown Jr.,Over,5.5,2.4,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Mikel Brown Jr.,Under,5.5,1.53,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Michael Porter Jr,Over,2.5,2.3,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Michael Porter Jr,Under,2.5,1.58,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Myles Turner,Over,2.5,2.45,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Myles Turner,Under,2.5,1.52,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Moritz Wagner,Over,1.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Moritz Wagner,Under,1.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Nate Ament,Over,0.5,1.62,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Nate Ament,Under,0.5,2.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Noah Clowney,Over,1.5,2.25,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Noah Clowney,Under,1.5,1.6,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Ryan Rollins,Over,4.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Ryan Rollins,Under,4.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Tyler Herro,Over,5.5,2.1,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_assists,Tyler Herro,Under,5.5,1.68,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Brayden Burries,Over,12.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Brayden Burries,Under,12.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Day'Ron Sharpe,Over,9.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Day'Ron Sharpe,Under,9.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Danny Wolf,Over,10.5,2.0,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Danny Wolf,Under,10.5,1.75,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Egor Demin,Over,10.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Egor Demin,Under,10.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Jaime Jaquez Jr,Over,12.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Jaime Jaquez Jr,Under,12.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Julius Randle,Over,21.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Julius Randle,Under,21.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Keon Ellis,Over,4.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Keon Ellis,Under,4.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Kasparas Jakucionis,Over,6.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Kasparas Jakucionis,Under,6.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Kel'el Ware,Over,8.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Kel'el Ware,Under,8.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Kyle Kuzma,Over,13.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Kyle Kuzma,Under,13.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Mikel Brown Jr.,Over,16.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Mikel Brown Jr.,Under,16.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Michael Porter Jr,Over,22.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Michael Porter Jr,Under,22.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Myles Turner,Over,8.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Myles Turner,Under,8.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Moritz Wagner,Over,8.5,1.75,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Moritz Wagner,Under,8.5,2.0,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Nate Ament,Over,7.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Nate Ament,Under,7.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Noah Clowney,Over,7.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Noah Clowney,Under,7.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Ryan Rollins,Over,12.5,2.0,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points,Ryan Rollins,Under,12.5,1.75,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Brayden Burries,Over,21.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Brayden Burries,Under,21.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Day'Ron Sharpe,Over,22.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Day'Ron Sharpe,Under,22.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Danny Wolf,Over,18.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Danny Wolf,Under,18.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Egor Demin,Over,15.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Egor Demin,Under,15.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Jaime Jaquez Jr,Over,20.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Jaime Jaquez Jr,Under,20.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Julius Randle,Over,33.5,1.87,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Julius Randle,Under,33.5,1.87,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kel'el Ware,Over,16.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kel'el Ware,Under,16.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kyle Kuzma,Over,21.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Kyle Kuzma,Under,21.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Mikel Brown Jr.,Over,24.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Mikel Brown Jr.,Under,24.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Michael Porter Jr,Over,31.5,1.87,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Michael Porter Jr,Under,31.5,1.87,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Myles Turner,Over,16.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Myles Turner,Under,16.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Moritz Wagner,Over,14.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Moritz Wagner,Under,14.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Nate Ament,Over,11.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Nate Ament,Under,11.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Noah Clowney,Over,12.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Noah Clowney,Under,12.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Ryan Rollins,Over,20.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Ryan Rollins,Under,20.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Tyler Herro,Over,32.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_points_rebounds_assists,Tyler Herro,Under,32.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Brayden Burries,Over,5.5,2.0,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Brayden Burries,Under,5.5,1.75,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Day'Ron Sharpe,Over,8.5,2.0,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Day'Ron Sharpe,Under,8.5,1.75,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Danny Wolf,Over,5.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Danny Wolf,Under,5.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Egor Demin,Over,2.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Egor Demin,Under,2.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Jaime Jaquez Jr,Over,4.5,2.1,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Jaime Jaquez Jr,Under,4.5,1.68,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Julius Randle,Over,6.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Julius Randle,Under,6.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Kel'el Ware,Over,6.5,2.0,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Kel'el Ware,Under,6.5,1.75,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Kyle Kuzma,Over,5.5,2.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Kyle Kuzma,Under,5.5,1.62,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Mikel Brown Jr.,Over,2.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Mikel Brown Jr.,Under,2.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Michael Porter Jr,Over,7.5,2.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Michael Porter Jr,Under,7.5,1.62,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Myles Turner,Over,5.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Myles Turner,Under,5.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Moritz Wagner,Over,4.5,2.1,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Moritz Wagner,Under,4.5,1.68,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Nate Ament,Over,3.5,2.0,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Nate Ament,Under,3.5,1.75,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Noah Clowney,Over,3.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Noah Clowney,Under,3.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Ryan Rollins,Over,3.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Ryan Rollins,Under,3.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Tyler Herro,Over,4.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_rebounds,Tyler Herro,Under,4.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Brayden Burries,Over,1.5,2.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Brayden Burries,Under,1.5,1.62,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Day'Ron Sharpe,Over,0.5,2.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Day'Ron Sharpe,Under,0.5,1.4,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Danny Wolf,Over,1.5,1.75,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Danny Wolf,Under,1.5,2.0,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Egor Demin,Over,2.5,2.45,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Egor Demin,Under,2.5,1.52,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Jaime Jaquez Jr,Over,1.5,2.35,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Jaime Jaquez Jr,Under,1.5,1.55,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Julius Randle,Over,1.5,1.9,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Julius Randle,Under,1.5,1.85,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Kel'el Ware,Over,0.5,1.62,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Kel'el Ware,Under,0.5,2.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Kyle Kuzma,Over,1.5,1.72,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Kyle Kuzma,Under,1.5,2.05,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Mikel Brown Jr.,Over,2.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Mikel Brown Jr.,Under,2.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Michael Porter Jr,Over,3.5,2.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Michael Porter Jr,Under,3.5,1.62,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Myles Turner,Over,1.5,1.8,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Myles Turner,Under,1.5,1.95,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Moritz Wagner,Over,0.5,1.65,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Moritz Wagner,Under,0.5,2.15,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Nate Ament,Over,1.5,3.2,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Nate Ament,Under,1.5,1.32,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Noah Clowney,Over,1.5,2.1,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Noah Clowney,Under,1.5,1.68,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Ryan Rollins,Over,1.5,2.0,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Ryan Rollins,Under,1.5,1.75,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Tyler Herro,Over,2.5,1.68,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,tab,player_threes,Tyler Herro,Under,2.5,2.1,2026-11-26T01:02:34Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Tyler Herro,Over,5.5,2.15,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Tyler Herro,Under,5.5,1.65,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Mikel Brown Jr.,Over,4.5,1.88,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Mikel Brown Jr.,Under,4.5,1.87,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Julius Randle,Over,4.5,1.7,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Julius Randle,Under,4.5,2.1,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Day'Ron Sharpe,Over,3.5,1.62,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Day'Ron Sharpe,Under,3.5,2.2,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Brayden Burries,Over,3.5,2.3,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Brayden Burries,Under,3.5,1.57,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Ryan Rollins,Over,3.5,1.57,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_assists,Ryan Rollins,Under,3.5,2.3,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Kyle Kuzma,Over,13.5,1.89,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Kyle Kuzma,Under,13.5,1.88,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Brayden Burries,Over,12.5,1.86,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Brayden Burries,Under,12.5,1.88,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Jaime Jaquez Jr,Over,11.5,1.78,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Jaime Jaquez Jr,Under,11.5,2.0,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Ryan Rollins,Over,11.5,1.86,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Ryan Rollins,Under,11.5,1.9,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Myles Turner,Over,9.5,1.94,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Myles Turner,Under,9.5,1.82,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Mikel Brown Jr.,Over,15.5,1.83,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Mikel Brown Jr.,Under,15.5,1.91,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Egor Demin,Over,10.5,2.05,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Egor Demin,Under,10.5,1.73,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Michael Porter Jr,Over,22.5,1.98,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Michael Porter Jr,Under,22.5,1.78,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Julius Randle,Over,21.5,1.85,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Julius Randle,Under,21.5,1.92,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Day'Ron Sharpe,Over,9.5,1.96,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Day'Ron Sharpe,Under,9.5,1.8,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Danny Wolf,Over,9.5,1.88,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Danny Wolf,Under,9.5,1.86,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Tyler Herro,Over,22.5,1.85,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points,Tyler Herro,Under,22.5,1.9,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Tyler Herro,Over,19.5,1.03,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Tyler Herro,Over,24.5,1.14,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Tyler Herro,Over,29.5,1.48,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Tyler Herro,Over,34.5,2.3,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Tyler Herro,Over,39.5,4.33,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Jaime Jaquez Jr,Over,15.5,1.32,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Jaime Jaquez Jr,Over,17.5,1.57,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Jaime Jaquez Jr,Over,19.5,2.0,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Jaime Jaquez Jr,Over,21.5,2.63,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Jaime Jaquez Jr,Over,23.5,3.6,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kyle Kuzma,Over,9.5,1.01,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kyle Kuzma,Over,14.5,1.13,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kyle Kuzma,Over,19.5,1.6,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kyle Kuzma,Over,24.5,3.0,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Kyle Kuzma,Over,29.5,7.0,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Ryan Rollins,Over,15.5,1.29,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Ryan Rollins,Over,17.5,1.53,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Ryan Rollins,Over,19.5,1.92,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Ryan Rollins,Over,21.5,2.5,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Ryan Rollins,Over,23.5,3.5,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,14.5,1.07,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.36,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,24.5,2.25,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,29.5,4.75,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Michael Porter Jr,Over,19.5,1.04,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Michael Porter Jr,Over,24.5,1.2,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Michael Porter Jr,Over,29.5,1.62,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Michael Porter Jr,Over,34.5,2.63,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Michael Porter Jr,Over,39.5,5.25,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Julius Randle,Over,24.5,1.11,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Julius Randle,Over,29.5,1.42,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Julius Randle,Over,34.5,2.2,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Julius Randle,Over,39.5,4.2,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Julius Randle,Over,44.5,9.0,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,14.5,1.1,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,19.5,1.55,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,24.5,2.85,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,29.5,6.5,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Danny Wolf,Over,13.5,1.24,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Danny Wolf,Over,15.5,1.45,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Danny Wolf,Over,17.5,1.78,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Danny Wolf,Over,19.5,2.3,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Danny Wolf,Over,21.5,3.2,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Brayden Burries,Over,14.5,1.11,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Brayden Burries,Over,19.5,1.5,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Brayden Burries,Over,24.5,2.88,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Brayden Burries,Over,29.5,6.5,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Egor Demin,Over,11.5,1.25,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Egor Demin,Over,13.5,1.48,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Egor Demin,Over,15.5,1.9,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Egor Demin,Over,17.5,2.5,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_points_rebounds_assists,Egor Demin,Over,19.5,3.5,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Brayden Burries,Over,5.5,1.91,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Brayden Burries,Under,5.5,1.85,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Tyler Herro,Over,4.5,2.05,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Tyler Herro,Under,4.5,1.73,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Kyle Kuzma,Over,4.5,1.75,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Kyle Kuzma,Under,4.5,2.0,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Ryan Rollins,Over,3.5,1.82,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Ryan Rollins,Under,3.5,1.95,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Myles Turner,Over,5.5,1.83,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Myles Turner,Under,5.5,1.91,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Kel'el Ware,Over,5.5,1.65,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Kel'el Ware,Under,5.5,2.15,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Noah Clowney,Over,3.5,2.05,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Noah Clowney,Under,3.5,1.73,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Michael Porter Jr,Over,6.5,1.71,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Michael Porter Jr,Under,6.5,2.04,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Julius Randle,Over,6.5,2.05,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Julius Randle,Under,6.5,1.7,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Day'Ron Sharpe,Over,7.5,1.75,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Day'Ron Sharpe,Under,7.5,2.0,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Danny Wolf,Over,5.5,1.72,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Danny Wolf,Under,5.5,2.0,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Nate Ament,Over,3.5,2.05,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Nate Ament,Under,3.5,1.65,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Jaime Jaquez Jr,Over,3.5,1.62,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,betright,player_rebounds,Jaime Jaquez Jr,Under,3.5,2.2,2026-11-26T01:04:10Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Brayden Burries,Over,3.5,2.3,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Brayden Burries,Under,3.5,1.59,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Day'Ron Sharpe,Over,3.5,1.63,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Day'Ron Sharpe,Under,3.5,2.25,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Julius Randle,Over,4.5,1.74,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Julius Randle,Under,4.5,2.05,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Michael Porter Jr,Over,1.5,1.56,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Michael Porter Jr,Under,1.5,2.4,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Mikel Brown Jr.,Over,4.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Mikel Brown Jr.,Under,4.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Myles Turner,Over,1.5,1.69,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Ryan Rollins,Over,4.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Ryan Rollins,Under,4.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Tyler Herro,Over,4.5,1.67,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_assists,Tyler Herro,Under,4.5,2.2,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Brayden Burries,Over,12.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Brayden Burries,Under,12.5,2.0,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Danny Wolf,Over,9.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Danny Wolf,Under,9.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Day'Ron Sharpe,Over,9.5,1.95,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Day'Ron Sharpe,Under,9.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Egor Demin,Over,10.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Egor Demin,Under,10.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Jaime Jaquez Jr,Over,11.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Jaime Jaquez Jr,Under,11.5,2.0,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Julius Randle,Over,21.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Julius Randle,Under,21.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Kel'el Ware,Over,8.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Kel'el Ware,Under,8.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Kyle Kuzma,Over,13.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Kyle Kuzma,Under,13.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Michael Porter Jr,Over,21.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Michael Porter Jr,Under,21.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Mikel Brown Jr.,Over,15.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Mikel Brown Jr.,Under,15.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Myles Turner,Over,9.5,2.0,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Myles Turner,Under,9.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Nate Ament,Over,7.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Nate Ament,Under,7.5,1.95,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Noah Clowney,Over,7.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Noah Clowney,Under,7.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Ryan Rollins,Over,11.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Ryan Rollins,Under,11.5,1.95,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Tyler Herro,Over,21.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points,Tyler Herro,Under,21.5,1.95,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Brayden Burries,Over,21.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Brayden Burries,Under,21.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Danny Wolf,Over,17.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Danny Wolf,Under,17.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Day'Ron Sharpe,Over,21.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Day'Ron Sharpe,Under,21.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Egor Demin,Over,16.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Egor Demin,Under,16.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Jaime Jaquez Jr,Over,19.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Jaime Jaquez Jr,Under,19.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Julius Randle,Over,33.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Julius Randle,Under,33.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Kyle Kuzma,Over,21.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Kyle Kuzma,Under,21.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Michael Porter Jr,Over,30.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Michael Porter Jr,Under,30.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Mikel Brown Jr.,Over,22.5,1.8,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Mikel Brown Jr.,Under,22.5,1.95,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Myles Turner,Over,17.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Myles Turner,Under,17.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Ryan Rollins,Over,20.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Ryan Rollins,Under,20.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Tyler Herro,Over,31.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_points_rebounds_assists,Tyler Herro,Under,31.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Brayden Burries,Over,5.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Brayden Burries,Under,5.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Danny Wolf,Over,5.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Danny Wolf,Under,5.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Day'Ron Sharpe,Over,7.5,1.74,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Day'Ron Sharpe,Under,7.5,2.05,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Jaime Jaquez Jr,Over,4.5,2.25,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Jaime Jaquez Jr,Under,4.5,1.63,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Julius Randle,Over,6.5,2.0,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Julius Randle,Under,6.5,1.77,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kel'el Ware,Over,6.5,2.1,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kel'el Ware,Under,6.5,1.71,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kyle Kuzma,Over,4.5,1.74,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Kyle Kuzma,Under,4.5,2.05,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Michael Porter Jr,Over,6.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Michael Porter Jr,Under,6.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Myles Turner,Over,5.5,1.8,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Myles Turner,Under,5.5,1.95,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Nate Ament,Over,3.5,2.1,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Nate Ament,Under,3.5,1.71,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Noah Clowney,Over,3.5,2.05,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Noah Clowney,Under,3.5,1.74,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Ryan Rollins,Over,3.5,1.69,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Ryan Rollins,Under,3.5,2.15,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Tyler Herro,Over,4.5,2.05,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_rebounds,Tyler Herro,Under,4.5,1.74,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Kyle Kuzma,Over,1.5,1.77,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Kyle Kuzma,Under,1.5,2.0,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Jaime Jaquez Jr,Over,1.5,2.4,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Jaime Jaquez Jr,Under,1.5,1.56,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Brayden Burries,Over,1.5,2.1,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Brayden Burries,Under,1.5,1.71,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Julius Randle,Over,1.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Julius Randle,Under,1.5,1.87,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Egor Demin,Over,1.5,1.53,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Egor Demin,Under,1.5,2.45,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Mikel Brown Jr.,Over,2.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Mikel Brown Jr.,Under,2.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Myles Turner,Over,1.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Myles Turner,Under,1.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Tyler Herro,Over,2.5,1.67,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Tyler Herro,Under,2.5,2.2,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Ryan Rollins,Over,1.5,1.83,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Ryan Rollins,Under,1.5,1.9,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Michael Porter Jr,Over,3.5,2.35,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Michael Porter Jr,Under,3.5,1.57,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Noah Clowney,Over,1.5,2.2,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Noah Clowney,Under,1.5,1.67,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Danny Wolf,Over,1.5,1.95,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,pointsbetau,player_threes,Danny Wolf,Under,1.5,1.8,2026-11-26T01:03:50Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Danny Wolf,Over,2.5,2.1,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Danny Wolf,Under,2.5,1.68,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Ryan Rollins,Over,4.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Ryan Rollins,Under,4.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Day'Ron Sharpe,Over,3.5,1.64,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Day'Ron Sharpe,Under,3.5,2.15,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Brayden Burries,Over,3.5,2.25,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Brayden Burries,Under,3.5,1.58,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Michael Porter Jr,Over,1.5,1.52,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Michael Porter Jr,Under,1.5,2.4,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Julius Randle,Over,4.5,1.74,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Julius Randle,Under,4.5,2.05,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Kyle Kuzma,Over,2.5,1.86,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Kyle Kuzma,Under,2.5,1.9,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Mikel Brown Jr.,Over,4.5,1.85,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Mikel Brown Jr.,Under,4.5,1.91,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Jaime Jaquez Jr,Over,2.5,1.68,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Jaime Jaquez Jr,Under,2.5,2.1,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Egor Demin,Over,2.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Egor Demin,Under,2.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Tyler Herro,Over,4.5,1.6,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_assists,Tyler Herro,Under,4.5,2.2,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Nate Ament,Over,7.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Nate Ament,Under,7.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Julius Randle,Over,21.5,1.88,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Julius Randle,Under,21.5,1.88,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Mikel Brown Jr.,Over,15.5,1.88,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Mikel Brown Jr.,Under,15.5,1.88,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Tyler Herro,Over,20.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Tyler Herro,Under,20.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Kel'el Ware,Over,8.5,1.84,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Kel'el Ware,Under,8.5,1.92,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Egor Demin,Over,10.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Egor Demin,Under,10.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Ryan Rollins,Over,11.5,1.85,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Ryan Rollins,Under,11.5,1.91,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Noah Clowney,Over,7.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Noah Clowney,Under,7.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Brayden Burries,Over,12.5,1.88,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Brayden Burries,Under,12.5,1.88,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Danny Wolf,Over,9.5,1.84,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Danny Wolf,Under,9.5,1.92,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Kyle Kuzma,Over,13.5,1.85,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Kyle Kuzma,Under,13.5,1.91,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Michael Porter Jr,Over,21.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Michael Porter Jr,Under,21.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Jaime Jaquez Jr,Over,12.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Jaime Jaquez Jr,Under,12.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Day'Ron Sharpe,Over,9.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Day'Ron Sharpe,Under,9.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Myles Turner,Over,9.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points,Myles Turner,Under,9.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Julius Randle,Over,32.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Julius Randle,Under,32.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Over,30.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Under,30.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Over,23.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Under,23.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Egor Demin,Over,15.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Egor Demin,Under,15.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Over,21.5,1.85,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Under,21.5,1.91,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Danny Wolf,Over,18.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Danny Wolf,Under,18.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Tyler Herro,Over,30.5,1.85,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Tyler Herro,Under,30.5,1.91,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Kyle Kuzma,Over,21.5,1.92,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Kyle Kuzma,Under,21.5,1.84,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Brayden Burries,Over,21.5,1.88,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Brayden Burries,Under,21.5,1.88,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Ryan Rollins,Over,20.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Ryan Rollins,Under,20.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Jaime Jaquez Jr,Over,19.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Jaime Jaquez Jr,Under,19.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Myles Turner,Over,17.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_points_rebounds_assists,Myles Turner,Under,17.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Brayden Burries,Over,5.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Brayden Burries,Under,5.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Kel'el Ware,Over,5.5,1.68,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Kel'el Ware,Under,5.5,2.1,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Mikel Brown Jr.,Over,2.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Mikel Brown Jr.,Under,2.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Kyle Kuzma,Over,4.5,1.76,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Kyle Kuzma,Under,4.5,2.02,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Danny Wolf,Over,5.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Danny Wolf,Under,5.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Myles Turner,Over,5.5,1.84,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Myles Turner,Under,5.5,1.92,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Michael Porter Jr,Over,6.5,1.8,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Michael Porter Jr,Under,6.5,1.96,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Julius Randle,Over,6.5,2.1,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Julius Randle,Under,6.5,1.68,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Day'Ron Sharpe,Over,7.5,1.76,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Day'Ron Sharpe,Under,7.5,2.02,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Jaime Jaquez Jr,Over,3.5,1.74,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Jaime Jaquez Jr,Under,3.5,2.05,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Noah Clowney,Over,3.5,2.1,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Noah Clowney,Under,3.5,1.68,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Ryan Rollins,Over,3.5,1.76,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Ryan Rollins,Under,3.5,2.02,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Egor Demin,Over,2.5,1.88,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Egor Demin,Under,2.5,1.88,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Nate Ament,Over,3.5,2.15,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Nate Ament,Under,3.5,1.64,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Tyler Herro,Over,4.5,2.1,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_rebounds,Tyler Herro,Under,4.5,1.68,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Egor Demin,Over,1.5,1.52,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Egor Demin,Under,1.5,2.4,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Brayden Burries,Over,1.5,2.15,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Brayden Burries,Under,1.5,1.64,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Myles Turner,Over,1.5,1.86,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Myles Turner,Under,1.5,1.9,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Danny Wolf,Over,1.5,1.86,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Danny Wolf,Under,1.5,1.9,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Julius Randle,Over,1.5,1.91,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Julius Randle,Under,1.5,1.85,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Kyle Kuzma,Over,1.5,1.78,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Kyle Kuzma,Under,1.5,2.0,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Ryan Rollins,Over,1.5,1.86,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Ryan Rollins,Under,1.5,1.9,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Jaime Jaquez Jr,Over,1.5,2.4,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Jaime Jaquez Jr,Under,1.5,1.52,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Tyler Herro,Over,2.5,1.64,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Tyler Herro,Under,2.5,2.1,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Michael Porter Jr,Over,3.5,2.25,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Michael Porter Jr,Under,3.5,1.58,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Mikel Brown Jr.,Over,2.5,1.91,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Mikel Brown Jr.,Under,2.5,1.85,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Noah Clowney,Over,1.5,2.4,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,sportsbet,player_threes,Noah Clowney,Under,1.5,1.52,2026-11-26T01:03:49Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Jaime Jaquez Jr,Over,2.5,1.62,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Jaime Jaquez Jr,Under,2.5,2.2,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Egor Demin,Over,2.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Egor Demin,Under,2.5,1.89,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Myles Turner,Over,1.5,1.53,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Myles Turner,Under,1.5,2.38,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Danny Wolf,Over,2.5,2.28,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Danny Wolf,Under,2.5,1.57,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Julius Randle,Over,4.5,1.72,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Julius Randle,Under,4.5,2.02,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Tyler Herro,Over,5.5,2.14,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Tyler Herro,Under,5.5,1.65,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Mikel Brown Jr.,Over,4.5,1.91,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Mikel Brown Jr.,Under,4.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Ryan Rollins,Over,4.5,2.07,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Ryan Rollins,Under,4.5,1.7,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Brayden Burries,Over,3.5,2.18,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Brayden Burries,Under,3.5,1.63,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Kyle Kuzma,Over,2.5,1.93,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Kyle Kuzma,Under,2.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Michael Porter Jr,Over,1.5,1.54,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Michael Porter Jr,Under,1.5,2.35,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Day'Ron Sharpe,Over,4.5,2.05,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_assists,Day'Ron Sharpe,Under,4.5,1.71,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Nate Ament,Over,7.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Nate Ament,Under,7.5,1.93,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Noah Clowney,Over,7.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Noah Clowney,Under,7.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Julius Randle,Over,21.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Julius Randle,Under,21.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Danny Wolf,Over,9.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Danny Wolf,Under,9.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Brayden Burries,Over,12.5,1.79,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Brayden Burries,Under,12.5,1.93,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Mikel Brown Jr.,Over,15.5,1.78,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Mikel Brown Jr.,Under,15.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Kyle Kuzma,Over,14.5,1.95,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Kyle Kuzma,Under,14.5,1.78,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Ryan Rollins,Over,11.5,1.79,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Ryan Rollins,Under,11.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Tyler Herro,Over,23.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Tyler Herro,Under,23.5,1.78,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Jaime Jaquez Jr,Over,11.5,1.77,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Jaime Jaquez Jr,Under,11.5,1.96,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Myles Turner,Over,9.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Myles Turner,Under,9.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Day'Ron Sharpe,Over,9.5,1.74,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Day'Ron Sharpe,Under,9.5,2.0,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Kel'el Ware,Over,8.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Kel'el Ware,Under,8.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Egor Demin,Over,10.5,1.89,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Egor Demin,Under,10.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Michael Porter Jr,Over,22.5,1.96,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points,Michael Porter Jr,Under,22.5,1.77,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Kyle Kuzma,Over,22.5,1.93,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Kyle Kuzma,Under,22.5,1.79,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Tyler Herro,Over,33.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Tyler Herro,Under,33.5,1.78,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Danny Wolf,Over,18.5,1.93,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Danny Wolf,Under,18.5,1.79,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Brayden Burries,Over,22.5,1.93,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Brayden Burries,Under,22.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Over,23.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Under,23.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Ryan Rollins,Over,20.5,1.92,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Ryan Rollins,Under,20.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Jaime Jaquez Jr,Over,19.5,1.91,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Jaime Jaquez Jr,Under,19.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Myles Turner,Over,18.5,2.02,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Myles Turner,Under,18.5,1.73,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Over,22.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Under,22.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Egor Demin,Over,16.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Egor Demin,Under,16.5,1.79,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Julius Randle,Over,33.5,1.95,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Julius Randle,Under,33.5,1.77,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Michael Porter Jr,Over,31.5,1.93,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_points_rebounds_assists,Michael Porter Jr,Under,31.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Mikel Brown Jr.,Over,2.5,1.92,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Mikel Brown Jr.,Under,2.5,1.81,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Egor Demin,Over,2.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Egor Demin,Under,2.5,1.89,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Kel'el Ware,Over,6.5,1.97,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Kel'el Ware,Under,6.5,1.76,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Noah Clowney,Over,3.5,2.07,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Noah Clowney,Under,3.5,1.68,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Nate Ament,Over,3.5,2.28,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Nate Ament,Under,3.5,1.57,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Day'Ron Sharpe,Over,8.5,2.2,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Day'Ron Sharpe,Under,8.5,1.62,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Julius Randle,Over,6.5,2.08,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Julius Randle,Under,6.5,1.68,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Michael Porter Jr,Over,6.5,1.78,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Michael Porter Jr,Under,6.5,1.94,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Brayden Burries,Over,5.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Brayden Burries,Under,5.5,1.89,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Ryan Rollins,Over,3.5,1.82,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Ryan Rollins,Under,3.5,1.91,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Tyler Herro,Over,4.5,1.97,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Tyler Herro,Under,4.5,1.76,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Myles Turner,Over,5.5,1.8,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Myles Turner,Under,5.5,1.93,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Jaime Jaquez Jr,Over,3.5,1.68,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Jaime Jaquez Jr,Under,3.5,2.08,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Danny Wolf,Over,5.5,1.75,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Danny Wolf,Under,5.5,1.97,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Kyle Kuzma,Over,5.5,2.16,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_rebounds,Kyle Kuzma,Under,5.5,1.64,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Brayden Burries,Over,1.5,2.08,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Brayden Burries,Under,1.5,1.68,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Noah Clowney,Over,1.5,2.45,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Noah Clowney,Under,1.5,1.5,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Julius Randle,Over,1.5,1.89,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Julius Randle,Under,1.5,1.83,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Myles Turner,Over,1.5,1.68,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Myles Turner,Under,1.5,2.1,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Ryan Rollins,Over,1.5,1.81,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Ryan Rollins,Under,1.5,1.92,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Danny Wolf,Over,1.5,1.85,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Danny Wolf,Under,1.5,1.88,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Michael Porter Jr,Over,3.5,2.3,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Michael Porter Jr,Under,3.5,1.56,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Jaime Jaquez Jr,Over,1.5,2.35,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Jaime Jaquez Jr,Under,1.5,1.54,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Mikel Brown Jr.,Over,2.5,1.96,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Mikel Brown Jr.,Under,2.5,1.77,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Kyle Kuzma,Over,1.5,1.75,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Kyle Kuzma,Under,1.5,1.97,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Tyler Herro,Over,2.5,1.68,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Tyler Herro,Under,2.5,2.07,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Egor Demin,Over,2.5,2.28,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
+2026-11-26,12:10,Brooklyn Nets @ Milwaukee Bucks,unibet,player_threes,Egor Demin,Under,2.5,1.57,2026-11-26T01:03:48Z,2026-11-26T01:05:00+00:00,5.0
