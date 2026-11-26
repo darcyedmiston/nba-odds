@@ -5572,3 +5572,704 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-26,12:40,Phoenix Suns @ Houston Rockets,betright,player_rebounds,Dillon Brooks,Under,3.5,1.68,2026-11-26T01:34:37Z,2026-11-26T01:35:00+00:00,5.0
 2026-11-26,12:40,Phoenix Suns @ Houston Rockets,betright,player_rebounds,Tari Eason,Over,4.5,1.62,2026-11-26T01:34:37Z,2026-11-26T01:35:00+00:00,5.0
 2026-11-26,12:40,Phoenix Suns @ Houston Rockets,betright,player_rebounds,Tari Eason,Under,4.5,2.2,2026-11-26T01:34:37Z,2026-11-26T01:35:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,Yaxel Lendeborg,Over,3.5,1.7,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,Yaxel Lendeborg,Under,3.5,2.05,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,De'Anthony Melton,Over,3.5,2.1,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,De'Anthony Melton,Under,3.5,1.7,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,Brandin Podziemski,Over,4.5,2.15,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,Brandin Podziemski,Under,4.5,1.65,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,Darius Acuff Jr.,Over,7.5,2.05,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,Darius Acuff Jr.,Under,7.5,1.72,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,Draymond Green,Over,4.5,1.73,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,Draymond Green,Under,4.5,2.05,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,Domantas Sabonis,Over,5.5,2.05,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_assists,Domantas Sabonis,Under,5.5,1.7,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Gui Santos,Over,8.5,1.91,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Gui Santos,Under,8.5,1.83,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,De'Anthony Melton,Over,11.5,1.88,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,De'Anthony Melton,Under,11.5,1.85,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Brandin Podziemski,Over,17.5,1.9,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Brandin Podziemski,Under,17.5,1.83,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Precious Achiuwa,Over,5.5,1.8,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Precious Achiuwa,Under,5.5,1.94,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Emanuel Sharp,Over,5.5,1.92,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Emanuel Sharp,Under,5.5,1.82,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Darius Acuff Jr.,Over,24.5,1.85,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Darius Acuff Jr.,Under,24.5,1.88,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,De'Andre Hunter,Over,15.5,1.88,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,De'Andre Hunter,Under,15.5,1.85,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Charles Bassey,Over,10.5,1.91,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Charles Bassey,Under,10.5,1.83,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Draymond Green,Over,5.5,1.92,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Draymond Green,Under,5.5,1.82,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Domantas Sabonis,Over,14.5,1.87,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Domantas Sabonis,Under,14.5,1.88,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Keegan Murray,Over,13.5,1.9,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Keegan Murray,Under,13.5,1.85,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Will Richard,Over,6.5,1.9,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Will Richard,Under,6.5,1.85,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Yaxel Lendeborg,Over,20.5,1.83,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points,Yaxel Lendeborg,Under,20.5,1.91,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,De'Anthony Melton,Over,18.5,1.83,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,De'Anthony Melton,Under,18.5,1.9,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,Darius Acuff Jr.,Over,34.5,1.75,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,Darius Acuff Jr.,Under,34.5,2.0,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,Brandin Podziemski,Over,25.5,1.75,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,Brandin Podziemski,Under,25.5,2.02,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,Draymond Green,Over,14.5,1.7,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,Draymond Green,Under,14.5,2.05,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,Yaxel Lendeborg,Over,31.5,1.8,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,Yaxel Lendeborg,Under,31.5,1.94,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,Domantas Sabonis,Over,32.5,1.75,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_points_rebounds_assists,Domantas Sabonis,Under,32.5,2.02,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Precious Achiuwa,Over,4.5,1.82,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Precious Achiuwa,Under,4.5,1.92,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Domantas Sabonis,Over,13.5,2.0,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Domantas Sabonis,Under,13.5,1.75,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Darius Acuff Jr.,Over,3.5,2.1,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Darius Acuff Jr.,Under,3.5,1.68,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Charles Bassey,Over,7.5,1.85,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Charles Bassey,Under,7.5,1.88,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,De'Andre Hunter,Over,4.5,1.9,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,De'Andre Hunter,Under,4.5,1.85,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Gui Santos,Over,3.5,1.77,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Gui Santos,Under,3.5,1.98,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Brandin Podziemski,Over,4.5,1.85,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Brandin Podziemski,Under,4.5,1.9,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Yaxel Lendeborg,Over,6.5,1.77,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Yaxel Lendeborg,Under,6.5,1.98,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,De'Anthony Melton,Over,3.5,1.85,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,De'Anthony Melton,Under,3.5,1.88,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Keegan Murray,Over,4.5,1.7,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Keegan Murray,Under,4.5,2.05,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Draymond Green,Over,4.5,1.83,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_rebounds,Draymond Green,Under,4.5,1.9,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,Yaxel Lendeborg,Over,1.5,1.67,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,Yaxel Lendeborg,Under,1.5,2.05,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,De'Anthony Melton,Over,1.5,1.6,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,De'Anthony Melton,Under,1.5,2.15,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,Brandin Podziemski,Over,2.5,2.0,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,Brandin Podziemski,Under,2.5,1.7,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,De'Andre Hunter,Over,1.5,1.52,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,De'Andre Hunter,Under,1.5,2.3,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,Keegan Murray,Over,1.5,1.87,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,Keegan Murray,Under,1.5,1.8,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,Darius Acuff Jr.,Over,2.5,1.67,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,neds,player_threes,Darius Acuff Jr.,Under,2.5,2.05,2026-11-26T03:04:56Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Brandin Podziemski,Over,4.5,2.45,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Brandin Podziemski,Under,4.5,1.52,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Charles Bassey,Over,1.5,2.2,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Charles Bassey,Under,1.5,1.62,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Darius Acuff Jr.,Over,6.5,1.72,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Darius Acuff Jr.,Under,6.5,2.05,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,De'Andre Hunter,Over,1.5,1.62,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,De'Andre Hunter,Under,1.5,2.2,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,De'Anthony Melton,Over,2.5,1.68,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,De'Anthony Melton,Under,2.5,2.1,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Domantas Sabonis,Over,5.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Domantas Sabonis,Under,5.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Draymond Green,Over,5.5,2.2,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Draymond Green,Under,5.5,1.62,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Emanuel Sharp,Over,1.5,3.1,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Emanuel Sharp,Under,1.5,1.34,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Gui Santos,Over,2.5,2.45,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Gui Santos,Under,2.5,1.52,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Keegan Murray,Over,1.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Keegan Murray,Under,1.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Malik Monk,Over,3.5,1.72,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Malik Monk,Under,3.5,2.05,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Precious Achiuwa,Over,0.5,1.62,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Precious Achiuwa,Under,0.5,2.2,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Will Richard,Over,1.5,2.75,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Will Richard,Under,1.5,1.42,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Yaxel Lendeborg,Over,3.5,1.68,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_assists,Yaxel Lendeborg,Under,3.5,2.1,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Al Horford,Over,5.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Al Horford,Under,5.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Brandin Podziemski,Over,17.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Brandin Podziemski,Under,17.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Charles Bassey,Over,10.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Charles Bassey,Under,10.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Darius Acuff Jr.,Over,25.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Darius Acuff Jr.,Under,25.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Dylan Cardwell,Over,3.5,1.72,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Dylan Cardwell,Under,3.5,2.05,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,De'Andre Hunter,Over,15.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,De'Andre Hunter,Under,15.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,De'Anthony Melton,Over,11.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,De'Anthony Melton,Under,11.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Domantas Sabonis,Over,14.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Domantas Sabonis,Under,14.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Draymond Green,Over,5.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Draymond Green,Under,5.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Emanuel Sharp,Over,5.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Emanuel Sharp,Under,5.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Graham Ike,Over,1.5,2.15,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Graham Ike,Under,1.5,1.65,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Georges Niang,Over,5.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Georges Niang,Under,5.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Gary Payton II,Over,4.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Gary Payton II,Under,4.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Gui Santos,Over,8.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Gui Santos,Under,8.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Keegan Murray,Over,13.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Keegan Murray,Under,13.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Leaky Black,Over,3.5,1.75,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Leaky Black,Under,3.5,2.0,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,LJ Cryer,Over,4.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,LJ Cryer,Under,4.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Malik Monk,Over,10.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Malik Monk,Under,10.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Precious Achiuwa,Over,5.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Precious Achiuwa,Under,5.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Will Richard,Over,6.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Will Richard,Under,6.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Yaxel Lendeborg,Over,19.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points,Yaxel Lendeborg,Under,19.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Brandin Podziemski,Over,26.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Brandin Podziemski,Under,26.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Charles Bassey,Over,20.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Charles Bassey,Under,20.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Darius Acuff Jr.,Over,35.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Darius Acuff Jr.,Under,35.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,De'Andre Hunter,Over,22.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,De'Andre Hunter,Under,22.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,De'Anthony Melton,Over,18.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,De'Anthony Melton,Under,18.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Domantas Sabonis,Over,32.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Domantas Sabonis,Under,32.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Draymond Green,Over,15.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Draymond Green,Under,15.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Emanuel Sharp,Over,8.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Emanuel Sharp,Under,8.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Gui Santos,Over,14.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Gui Santos,Under,14.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Keegan Murray,Over,19.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Keegan Murray,Under,19.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Malik Monk,Over,15.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Malik Monk,Under,15.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Precious Achiuwa,Over,10.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Precious Achiuwa,Under,10.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Will Richard,Over,10.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Will Richard,Under,10.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Yaxel Lendeborg,Over,30.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_points_rebounds_assists,Yaxel Lendeborg,Under,30.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Brandin Podziemski,Over,5.5,2.2,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Brandin Podziemski,Under,5.5,1.62,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Charles Bassey,Over,8.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Charles Bassey,Under,8.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Darius Acuff Jr.,Over,3.5,2.5,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Darius Acuff Jr.,Under,3.5,1.5,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,De'Andre Hunter,Over,4.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,De'Andre Hunter,Under,4.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,De'Anthony Melton,Over,3.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,De'Anthony Melton,Under,3.5,1.87,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Domantas Sabonis,Over,12.5,1.75,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Domantas Sabonis,Under,12.5,2.0,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Draymond Green,Over,4.5,1.75,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Draymond Green,Under,4.5,2.0,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Emanuel Sharp,Over,1.5,1.75,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Emanuel Sharp,Under,1.5,2.0,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Gui Santos,Over,3.5,1.72,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Gui Santos,Under,3.5,2.05,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Keegan Murray,Over,4.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Keegan Murray,Under,4.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Malik Monk,Over,1.5,2.0,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Malik Monk,Under,1.5,1.75,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Precious Achiuwa,Over,4.5,2.1,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Precious Achiuwa,Under,4.5,1.68,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Will Richard,Over,2.5,2.2,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Will Richard,Under,2.5,1.62,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Yaxel Lendeborg,Over,7.5,2.05,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_rebounds,Yaxel Lendeborg,Under,7.5,1.72,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Brandin Podziemski,Over,2.5,1.9,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Brandin Podziemski,Under,2.5,1.85,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Darius Acuff Jr.,Over,3.5,2.5,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Darius Acuff Jr.,Under,3.5,1.5,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,De'Andre Hunter,Over,2.5,2.6,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,De'Andre Hunter,Under,2.5,1.46,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,De'Anthony Melton,Over,2.5,2.75,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,De'Anthony Melton,Under,2.5,1.42,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Domantas Sabonis,Over,0.5,2.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Domantas Sabonis,Under,0.5,1.4,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Draymond Green,Over,0.5,1.65,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Draymond Green,Under,0.5,2.15,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Emanuel Sharp,Over,1.5,2.35,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Emanuel Sharp,Under,1.5,1.55,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Gui Santos,Over,0.5,1.55,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Gui Santos,Under,0.5,2.35,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Keegan Murray,Over,1.5,1.75,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Keegan Murray,Under,1.5,2.0,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Malik Monk,Over,1.5,1.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Malik Monk,Under,1.5,1.95,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Precious Achiuwa,Over,0.5,3.5,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Precious Achiuwa,Under,0.5,1.27,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Will Richard,Over,1.5,3.1,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Will Richard,Under,1.5,1.34,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Yaxel Lendeborg,Over,2.5,2.8,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,tab,player_threes,Yaxel Lendeborg,Under,2.5,1.4,2026-11-26T03:04:32Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,Yaxel Lendeborg,Over,3.5,1.7,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,Yaxel Lendeborg,Under,3.5,2.05,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,De'Anthony Melton,Over,3.5,2.1,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,De'Anthony Melton,Under,3.5,1.7,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,Brandin Podziemski,Over,4.5,2.15,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,Brandin Podziemski,Under,4.5,1.65,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,Darius Acuff Jr.,Over,7.5,2.05,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,Darius Acuff Jr.,Under,7.5,1.72,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,Draymond Green,Over,4.5,1.73,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,Draymond Green,Under,4.5,2.05,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,Domantas Sabonis,Over,5.5,2.05,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_assists,Domantas Sabonis,Under,5.5,1.7,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Gui Santos,Over,8.5,1.91,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Gui Santos,Under,8.5,1.83,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,De'Anthony Melton,Over,11.5,1.88,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,De'Anthony Melton,Under,11.5,1.85,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Brandin Podziemski,Over,17.5,1.9,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Brandin Podziemski,Under,17.5,1.83,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Precious Achiuwa,Over,5.5,1.8,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Precious Achiuwa,Under,5.5,1.94,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Emanuel Sharp,Over,5.5,1.92,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Emanuel Sharp,Under,5.5,1.82,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Darius Acuff Jr.,Over,24.5,1.85,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Darius Acuff Jr.,Under,24.5,1.88,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,De'Andre Hunter,Over,15.5,1.88,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,De'Andre Hunter,Under,15.5,1.85,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Charles Bassey,Over,10.5,1.91,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Charles Bassey,Under,10.5,1.83,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Draymond Green,Over,5.5,1.92,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Draymond Green,Under,5.5,1.82,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Domantas Sabonis,Over,14.5,1.87,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Domantas Sabonis,Under,14.5,1.88,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Keegan Murray,Over,13.5,1.9,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Keegan Murray,Under,13.5,1.85,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Will Richard,Over,6.5,1.9,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Will Richard,Under,6.5,1.85,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Yaxel Lendeborg,Over,20.5,1.83,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points,Yaxel Lendeborg,Under,20.5,1.91,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,De'Anthony Melton,Over,18.5,1.82,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,De'Anthony Melton,Under,18.5,1.92,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Over,34.5,1.75,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Darius Acuff Jr.,Under,34.5,2.0,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Brandin Podziemski,Over,25.5,1.73,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Brandin Podziemski,Under,25.5,2.05,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Draymond Green,Over,14.5,1.68,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Draymond Green,Under,14.5,2.1,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Yaxel Lendeborg,Over,31.5,1.8,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Yaxel Lendeborg,Under,31.5,1.94,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Domantas Sabonis,Over,32.5,1.75,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_points_rebounds_assists,Domantas Sabonis,Under,32.5,2.0,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Precious Achiuwa,Over,4.5,1.82,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Precious Achiuwa,Under,4.5,1.92,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Domantas Sabonis,Over,13.5,2.0,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Domantas Sabonis,Under,13.5,1.75,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Over,3.5,2.1,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Darius Acuff Jr.,Under,3.5,1.68,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Charles Bassey,Over,7.5,1.85,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Charles Bassey,Under,7.5,1.88,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,De'Andre Hunter,Over,4.5,1.9,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,De'Andre Hunter,Under,4.5,1.85,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Gui Santos,Over,3.5,1.77,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Gui Santos,Under,3.5,1.98,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Brandin Podziemski,Over,4.5,1.85,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Brandin Podziemski,Under,4.5,1.9,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Yaxel Lendeborg,Over,6.5,1.77,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Yaxel Lendeborg,Under,6.5,1.98,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,De'Anthony Melton,Over,3.5,1.85,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,De'Anthony Melton,Under,3.5,1.88,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Keegan Murray,Over,4.5,1.7,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Keegan Murray,Under,4.5,2.05,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Draymond Green,Over,4.5,1.83,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_rebounds,Draymond Green,Under,4.5,1.9,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,Yaxel Lendeborg,Over,1.5,1.67,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,Yaxel Lendeborg,Under,1.5,2.05,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,De'Anthony Melton,Over,1.5,1.6,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,De'Anthony Melton,Under,1.5,2.15,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,Brandin Podziemski,Over,2.5,2.0,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,Brandin Podziemski,Under,2.5,1.7,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,De'Andre Hunter,Over,1.5,1.52,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,De'Andre Hunter,Under,1.5,2.3,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,Keegan Murray,Over,1.5,1.87,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,Keegan Murray,Under,1.5,1.8,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,Darius Acuff Jr.,Over,2.5,1.67,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,ladbrokes_au,player_threes,Darius Acuff Jr.,Under,2.5,2.05,2026-11-26T03:04:27Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_assists,Domantas Sabonis,Over,4.5,1.65,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_assists,Domantas Sabonis,Under,4.5,2.15,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_assists,Yaxel Lendeborg,Over,3.5,1.65,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_assists,Yaxel Lendeborg,Under,3.5,2.05,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_assists,Darius Acuff Jr.,Over,7.5,2.1,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_assists,Darius Acuff Jr.,Under,7.5,1.68,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_assists,Draymond Green,Over,4.5,1.73,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_assists,Draymond Green,Under,4.5,2.03,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_assists,Brandin Podziemski,Over,3.5,1.6,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_assists,Brandin Podziemski,Under,3.5,2.25,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Domantas Sabonis,Over,14.5,1.86,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Domantas Sabonis,Under,14.5,1.88,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Yaxel Lendeborg,Over,21.5,1.95,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Yaxel Lendeborg,Under,21.5,1.77,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,De'Anthony Melton,Over,11.5,1.9,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,De'Anthony Melton,Under,11.5,1.87,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Charles Bassey,Over,10.5,1.96,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Charles Bassey,Under,10.5,1.8,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,De'Andre Hunter,Over,15.5,1.8,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,De'Andre Hunter,Under,15.5,1.96,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Darius Acuff Jr.,Over,24.5,1.87,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Darius Acuff Jr.,Under,24.5,1.89,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Keegan Murray,Over,13.5,1.91,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Keegan Murray,Under,13.5,1.85,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Brandin Podziemski,Over,16.5,1.78,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points,Brandin Podziemski,Under,16.5,2.0,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Draymond Green,Over,11.5,1.14,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Draymond Green,Over,13.5,1.32,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Draymond Green,Over,15.5,1.62,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Draymond Green,Over,17.5,2.15,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Draymond Green,Over,19.5,3.0,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Yaxel Lendeborg,Over,19.5,1.02,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Yaxel Lendeborg,Over,24.5,1.13,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Yaxel Lendeborg,Over,29.5,1.46,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Yaxel Lendeborg,Over,34.5,2.3,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Yaxel Lendeborg,Over,39.5,4.5,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Brandin Podziemski,Over,14.5,1.02,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Brandin Podziemski,Over,19.5,1.15,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Brandin Podziemski,Over,24.5,1.6,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Brandin Podziemski,Over,29.5,2.9,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Brandin Podziemski,Over,34.5,6.25,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,24.5,1.06,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,29.5,1.24,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,34.5,1.75,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,39.5,3.0,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Darius Acuff Jr.,Over,44.5,6.25,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,De'Andre Hunter,Over,14.5,1.08,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,De'Andre Hunter,Over,19.5,1.42,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,De'Andre Hunter,Over,24.5,2.38,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,De'Andre Hunter,Over,29.5,4.9,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Domantas Sabonis,Over,19.5,1.02,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Domantas Sabonis,Over,24.5,1.11,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Domantas Sabonis,Over,29.5,1.42,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Domantas Sabonis,Over,34.5,2.15,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_points_rebounds_assists,Domantas Sabonis,Over,39.5,4.2,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,De'Andre Hunter,Over,4.5,1.95,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,De'Andre Hunter,Under,4.5,1.81,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Keegan Murray,Over,5.5,2.25,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Keegan Murray,Under,5.5,1.62,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Brandin Podziemski,Over,4.5,1.75,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Brandin Podziemski,Under,4.5,2.0,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Domantas Sabonis,Over,13.5,2.05,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Domantas Sabonis,Under,13.5,1.7,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Darius Acuff Jr.,Over,3.5,2.3,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Darius Acuff Jr.,Under,3.5,1.55,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Draymond Green,Over,4.5,1.82,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Draymond Green,Under,4.5,1.95,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Yaxel Lendeborg,Over,6.5,1.68,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Yaxel Lendeborg,Under,6.5,2.15,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Charles Bassey,Over,7.5,1.68,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,betright,player_rebounds,Charles Bassey,Under,7.5,2.1,2026-11-26T03:04:49Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Darius Acuff Jr.,Over,6.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Darius Acuff Jr.,Under,6.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Domantas Sabonis,Over,5.5,2.15,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Domantas Sabonis,Under,5.5,1.64,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,De'Andre Hunter,Over,1.5,1.48,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,De'Andre Hunter,Under,1.5,2.5,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Keegan Murray,Over,1.5,1.87,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Keegan Murray,Under,1.5,1.89,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Yaxel Lendeborg,Over,3.5,1.64,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Yaxel Lendeborg,Under,3.5,2.15,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Brandin Podziemski,Over,3.5,1.58,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Brandin Podziemski,Under,3.5,2.25,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Draymond Green,Over,4.5,1.68,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Draymond Green,Under,4.5,2.1,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Malik Monk,Over,3.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Malik Monk,Under,3.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Gui Santos,Over,2.5,2.2,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,Gui Santos,Under,2.5,1.6,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,De'Anthony Melton,Over,3.5,2.2,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_assists,De'Anthony Melton,Under,3.5,1.6,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Darius Acuff Jr.,Over,24.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Darius Acuff Jr.,Under,24.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Domantas Sabonis,Over,14.5,1.89,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Domantas Sabonis,Under,14.5,1.87,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,De'Andre Hunter,Over,15.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,De'Andre Hunter,Under,15.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Keegan Murray,Over,13.5,2.02,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Keegan Murray,Under,13.5,1.76,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Yaxel Lendeborg,Over,20.5,1.78,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Yaxel Lendeborg,Under,20.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Brandin Podziemski,Over,17.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Brandin Podziemski,Under,17.5,1.78,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,De'Anthony Melton,Over,11.5,1.86,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,De'Anthony Melton,Under,11.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Draymond Green,Over,5.5,2.02,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Draymond Green,Under,5.5,1.76,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Charles Bassey,Over,10.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Charles Bassey,Under,10.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Malik Monk,Over,10.5,1.84,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Malik Monk,Under,10.5,1.92,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Gui Santos,Over,8.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Gui Santos,Under,8.5,1.78,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Will Richard,Over,5.5,1.78,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Will Richard,Under,5.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Emanuel Sharp,Over,6.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points,Emanuel Sharp,Under,6.5,1.74,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Over,34.5,1.92,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Darius Acuff Jr.,Under,34.5,1.84,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Domantas Sabonis,Over,32.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Domantas Sabonis,Under,32.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,De'Andre Hunter,Over,22.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,De'Andre Hunter,Under,22.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Keegan Murray,Over,19.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Keegan Murray,Under,19.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Yaxel Lendeborg,Over,32.5,1.88,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Yaxel Lendeborg,Under,32.5,1.88,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Brandin Podziemski,Over,26.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Brandin Podziemski,Under,26.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Draymond Green,Over,15.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Draymond Green,Under,15.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Gui Santos,Over,14.5,1.86,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,Gui Santos,Under,14.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,De'Anthony Melton,Over,18.5,1.84,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_points_rebounds_assists,De'Anthony Melton,Under,18.5,1.92,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Darius Acuff Jr.,Over,3.5,2.3,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Darius Acuff Jr.,Under,3.5,1.56,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Domantas Sabonis,Over,13.5,2.1,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Domantas Sabonis,Under,13.5,1.68,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,De'Andre Hunter,Over,4.5,1.76,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,De'Andre Hunter,Under,4.5,2.02,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Keegan Murray,Over,4.5,1.64,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Keegan Murray,Under,4.5,2.15,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Yaxel Lendeborg,Over,6.5,1.72,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Yaxel Lendeborg,Under,6.5,2.08,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Brandin Podziemski,Over,4.5,1.72,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Brandin Podziemski,Under,4.5,2.08,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Draymond Green,Over,4.5,1.84,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Draymond Green,Under,4.5,1.92,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Charles Bassey,Over,7.5,1.72,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Charles Bassey,Under,7.5,2.08,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Gui Santos,Over,3.5,1.68,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Gui Santos,Under,3.5,2.1,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Will Richard,Over,2.5,2.4,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,Will Richard,Under,2.5,1.52,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,De'Anthony Melton,Over,3.5,1.87,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_rebounds,De'Anthony Melton,Under,3.5,1.89,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Darius Acuff Jr.,Over,2.5,1.64,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Darius Acuff Jr.,Under,2.5,2.15,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,De'Andre Hunter,Over,1.5,1.52,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,De'Andre Hunter,Under,1.5,2.4,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Keegan Murray,Over,1.5,1.76,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Keegan Murray,Under,1.5,2.02,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Yaxel Lendeborg,Over,1.5,1.64,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Yaxel Lendeborg,Under,1.5,2.15,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Brandin Podziemski,Over,2.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Brandin Podziemski,Under,2.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,De'Anthony Melton,Over,1.5,1.58,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,De'Anthony Melton,Under,1.5,2.25,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Draymond Green,Over,0.5,1.68,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Draymond Green,Under,0.5,2.1,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Malik Monk,Over,1.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Malik Monk,Under,1.5,1.96,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Will Richard,Over,1.5,2.75,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Will Richard,Under,1.5,1.4,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Emanuel Sharp,Over,1.5,2.25,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,sportsbet,player_threes,Emanuel Sharp,Under,1.5,1.58,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Brandin Podziemski,Over,4.5,2.25,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Brandin Podziemski,Under,4.5,1.63,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Darius Acuff Jr.,Over,6.5,1.77,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Darius Acuff Jr.,Under,6.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,De'Anthony Melton,Over,3.5,2.2,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,De'Anthony Melton,Under,3.5,1.67,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Domantas Sabonis,Over,5.5,2.2,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Domantas Sabonis,Under,5.5,1.67,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Draymond Green,Over,4.5,1.74,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Draymond Green,Under,4.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Gui Santos,Over,2.5,2.35,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Gui Santos,Under,2.5,1.57,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Malik Monk,Over,3.5,1.74,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Malik Monk,Under,3.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Yaxel Lendeborg,Over,3.5,1.71,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_assists,Yaxel Lendeborg,Under,3.5,2.1,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Brandin Podziemski,Over,16.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Brandin Podziemski,Under,16.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Charles Bassey,Over,10.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Charles Bassey,Under,10.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Darius Acuff Jr.,Over,24.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Darius Acuff Jr.,Under,24.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,De'Andre Hunter,Over,15.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,De'Andre Hunter,Under,15.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,De'Anthony Melton,Over,11.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,De'Anthony Melton,Under,11.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Domantas Sabonis,Over,14.5,1.87,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Domantas Sabonis,Under,14.5,1.95,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Draymond Green,Over,5.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Draymond Green,Under,5.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Emanuel Sharp,Over,6.5,2.1,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Emanuel Sharp,Under,6.5,1.77,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Gui Santos,Over,8.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Gui Santos,Under,8.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Keegan Murray,Over,13.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Keegan Murray,Under,13.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Malik Monk,Over,10.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Malik Monk,Under,10.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Will Richard,Over,6.5,2.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Will Richard,Under,6.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Yaxel Lendeborg,Over,20.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points,Yaxel Lendeborg,Under,20.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Brandin Podziemski,Over,26.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Brandin Podziemski,Under,26.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Over,34.5,1.87,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Darius Acuff Jr.,Under,34.5,1.87,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,De'Anthony Melton,Over,18.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,De'Anthony Melton,Under,18.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Domantas Sabonis,Over,33.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Domantas Sabonis,Under,33.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Draymond Green,Over,15.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Draymond Green,Under,15.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Gui Santos,Over,14.5,1.87,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Gui Santos,Under,14.5,1.87,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Keegan Murray,Over,19.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Keegan Murray,Under,19.5,1.95,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Yaxel Lendeborg,Over,31.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_points_rebounds_assists,Yaxel Lendeborg,Under,31.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Brandin Podziemski,Over,4.5,1.74,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Brandin Podziemski,Under,4.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Charles Bassey,Over,7.5,1.74,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Charles Bassey,Under,7.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Darius Acuff Jr.,Over,3.5,2.25,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Darius Acuff Jr.,Under,3.5,1.63,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,De'Andre Hunter,Over,4.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,De'Andre Hunter,Under,4.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,De'Anthony Melton,Over,3.5,1.87,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,De'Anthony Melton,Under,3.5,1.87,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Domantas Sabonis,Over,13.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Domantas Sabonis,Under,13.5,1.74,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Draymond Green,Over,4.5,1.8,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Draymond Green,Under,4.5,1.95,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Gui Santos,Over,3.5,1.74,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Gui Santos,Under,3.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Keegan Murray,Over,4.5,1.69,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Keegan Murray,Under,4.5,2.15,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Will Richard,Over,2.5,2.4,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Will Richard,Under,2.5,1.56,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Yaxel Lendeborg,Over,6.5,1.74,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_rebounds,Yaxel Lendeborg,Under,6.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,De'Andre Hunter,Over,1.5,1.5,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,De'Andre Hunter,Under,1.5,2.5,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Darius Acuff Jr.,Over,2.5,1.71,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Darius Acuff Jr.,Under,2.5,2.1,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Yaxel Lendeborg,Over,1.5,1.63,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Yaxel Lendeborg,Under,1.5,2.25,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Keegan Murray,Over,1.5,1.74,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Keegan Murray,Under,1.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Draymond Green,Over,0.5,1.74,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Draymond Green,Under,0.5,2.05,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,De'Anthony Melton,Over,1.5,1.57,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,De'Anthony Melton,Under,1.5,2.35,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Domantas Sabonis,Over,0.5,3.0,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Domantas Sabonis,Under,0.5,1.36,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Malik Monk,Over,1.5,1.83,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Malik Monk,Under,1.5,1.9,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Will Richard,Over,0.5,1.42,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Will Richard,Under,0.5,2.75,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Emanuel Sharp,Over,1.5,2.3,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,pointsbetau,player_threes,Emanuel Sharp,Under,1.5,1.59,2026-11-26T03:04:29Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,De'Anthony Melton,Over,2.5,1.57,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,De'Anthony Melton,Under,2.5,2.25,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Keegan Murray,Over,1.5,1.96,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Keegan Murray,Under,1.5,1.77,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Yaxel Lendeborg,Over,3.5,1.76,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Yaxel Lendeborg,Under,3.5,1.97,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Darius Acuff Jr.,Over,6.5,1.72,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Darius Acuff Jr.,Under,6.5,2.04,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Brandin Podziemski,Over,4.5,2.28,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Brandin Podziemski,Under,4.5,1.57,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Draymond Green,Over,5.5,1.94,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Draymond Green,Under,5.5,1.78,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Domantas Sabonis,Over,4.5,1.66,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Domantas Sabonis,Under,4.5,2.12,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,De'Andre Hunter,Over,1.5,1.61,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,De'Andre Hunter,Under,1.5,2.23,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Malik Monk,Over,3.5,1.71,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Malik Monk,Under,3.5,2.04,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Gui Santos,Over,2.5,2.25,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_assists,Gui Santos,Under,2.5,1.57,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Gui Santos,Over,8.5,1.92,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Gui Santos,Under,8.5,1.81,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Charles Bassey,Over,10.5,1.93,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Charles Bassey,Under,10.5,1.79,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Yaxel Lendeborg,Over,21.5,1.82,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Yaxel Lendeborg,Under,21.5,1.91,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Brandin Podziemski,Over,17.5,1.88,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Brandin Podziemski,Under,17.5,1.83,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Domantas Sabonis,Over,14.5,1.89,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Domantas Sabonis,Under,14.5,1.83,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,De'Anthony Melton,Over,11.5,1.85,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,De'Anthony Melton,Under,11.5,1.88,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Draymond Green,Over,5.5,1.81,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Draymond Green,Under,5.5,1.92,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Darius Acuff Jr.,Over,24.5,1.85,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Darius Acuff Jr.,Under,24.5,1.87,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,De'Andre Hunter,Over,15.5,1.89,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,De'Andre Hunter,Under,15.5,1.83,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Keegan Murray,Over,13.5,1.89,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Keegan Murray,Under,13.5,1.83,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Will Richard,Over,5.5,1.71,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Will Richard,Under,5.5,2.05,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Emanuel Sharp,Over,5.5,1.68,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Emanuel Sharp,Under,5.5,2.08,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Malik Monk,Over,9.5,1.72,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points,Malik Monk,Under,9.5,2.02,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Domantas Sabonis,Over,32.5,1.83,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Domantas Sabonis,Under,32.5,1.88,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Draymond Green,Over,16.5,1.91,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Draymond Green,Under,16.5,1.82,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,De'Anthony Melton,Over,18.5,1.82,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,De'Anthony Melton,Under,18.5,1.89,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Gui Santos,Over,14.5,1.79,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Gui Santos,Under,14.5,1.93,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Yaxel Lendeborg,Over,32.5,1.79,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Yaxel Lendeborg,Under,32.5,1.93,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Keegan Murray,Over,20.5,1.94,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Keegan Murray,Under,20.5,1.78,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,De'Andre Hunter,Over,22.5,1.93,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,De'Andre Hunter,Under,22.5,1.8,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Over,35.5,1.95,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Darius Acuff Jr.,Under,35.5,1.78,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Brandin Podziemski,Over,26.5,1.83,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_points_rebounds_assists,Brandin Podziemski,Under,26.5,1.89,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,De'Anthony Melton,Over,3.5,1.78,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,De'Anthony Melton,Under,3.5,1.95,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Charles Bassey,Over,7.5,1.68,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Charles Bassey,Under,7.5,2.08,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,De'Andre Hunter,Over,4.5,1.85,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,De'Andre Hunter,Under,4.5,1.87,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Domantas Sabonis,Over,12.5,1.76,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Domantas Sabonis,Under,12.5,1.97,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Darius Acuff Jr.,Over,3.5,2.18,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Darius Acuff Jr.,Under,3.5,1.62,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Yaxel Lendeborg,Over,7.5,2.06,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Yaxel Lendeborg,Under,7.5,1.7,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Draymond Green,Over,4.5,1.75,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Draymond Green,Under,4.5,2.0,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Keegan Murray,Over,4.5,1.71,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Keegan Murray,Under,4.5,2.05,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Brandin Podziemski,Over,4.5,1.7,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Brandin Podziemski,Under,4.5,2.05,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Gui Santos,Over,3.5,1.62,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Gui Santos,Under,3.5,2.2,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Will Richard,Over,1.5,1.5,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_rebounds,Will Richard,Under,1.5,2.43,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,De'Andre Hunter,Over,1.5,1.54,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,De'Andre Hunter,Under,1.5,2.35,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Draymond Green,Over,0.5,1.79,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Draymond Green,Under,0.5,1.94,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Keegan Murray,Over,1.5,1.82,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Keegan Murray,Under,1.5,1.91,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Brandin Podziemski,Over,2.5,1.94,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Brandin Podziemski,Under,2.5,1.79,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Yaxel Lendeborg,Over,1.5,1.67,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Yaxel Lendeborg,Under,1.5,2.1,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Malik Monk,Over,1.5,1.94,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Malik Monk,Under,1.5,1.79,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Darius Acuff Jr.,Over,2.5,1.6,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Darius Acuff Jr.,Under,2.5,2.25,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,De'Anthony Melton,Over,1.5,1.56,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,De'Anthony Melton,Under,1.5,2.28,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Emanuel Sharp,Over,0.5,1.42,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
+2026-11-26,14:10,Sacramento Kings @ Golden State Warriors,unibet,player_threes,Emanuel Sharp,Under,0.5,2.7,2026-11-26T03:04:26Z,2026-11-26T03:05:00+00:00,5.0
