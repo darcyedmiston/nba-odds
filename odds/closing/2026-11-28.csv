@@ -749,3 +749,750 @@ date_melb,tipoff_melb,game,bookmaker,market,player,side,line,odds,last_update,ca
 2026-11-28,11:10,Miami Heat @ New York Knicks,pointsbetau,player_threes,Jose Alvarado,Under,1.5,1.57,2026-11-28T00:04:05Z,2026-11-28T00:05:00+00:00,5.0
 2026-11-28,11:10,Miami Heat @ New York Knicks,pointsbetau,player_threes,Ryan Conwell,Over,1.5,2.15,2026-11-28T00:04:05Z,2026-11-28T00:05:00+00:00,5.0
 2026-11-28,11:10,Miami Heat @ New York Knicks,pointsbetau,player_threes,Ryan Conwell,Under,1.5,1.69,2026-11-28T00:04:05Z,2026-11-28T00:05:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Egor Demin,Over,2.5,1.85,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Egor Demin,Under,2.5,1.91,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Julius Randle,Over,4.5,2.1,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Julius Randle,Under,4.5,1.68,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Day'Ron Sharpe,Over,3.5,1.68,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Day'Ron Sharpe,Under,3.5,2.1,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Mikel Brown Jr.,Over,3.5,1.85,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Mikel Brown Jr.,Under,3.5,1.91,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Immanuel Quickley,Over,6.5,1.89,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Immanuel Quickley,Under,6.5,1.87,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Scottie Barnes,Over,5.5,1.68,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Scottie Barnes,Under,5.5,2.1,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Jamal Shead,Over,5.5,1.68,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_assists,Jamal Shead,Under,5.5,2.1,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Egor Demin,Over,10.5,1.83,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Egor Demin,Under,10.5,1.92,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Michael Porter Jr,Over,18.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Michael Porter Jr,Under,18.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Day'Ron Sharpe,Over,9.5,1.9,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Day'Ron Sharpe,Under,9.5,1.86,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Danny Wolf,Over,8.5,2.0,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Danny Wolf,Under,8.5,1.78,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Julius Randle,Over,19.5,1.83,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Julius Randle,Under,19.5,1.93,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Noah Clowney,Over,8.5,2.05,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Noah Clowney,Under,8.5,1.74,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Mikel Brown Jr.,Over,13.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Mikel Brown Jr.,Under,13.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Allen Graves,Over,9.5,2.02,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Allen Graves,Under,9.5,1.76,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Ja'Kobe Walter,Over,13.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Ja'Kobe Walter,Under,13.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Immanuel Quickley,Over,18.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Immanuel Quickley,Under,18.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Jakob Poeltl,Over,9.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Jakob Poeltl,Under,9.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Collin Murray-Boyles,Over,10.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Collin Murray-Boyles,Under,10.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Scottie Barnes,Over,25.5,2.0,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Scottie Barnes,Under,25.5,1.78,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Jamal Shead,Over,7.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points,Jamal Shead,Under,7.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Julius Randle,Over,30.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Julius Randle,Under,30.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Jamal Shead,Over,15.5,1.91,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Jamal Shead,Under,15.5,1.85,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Over,27.5,1.9,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Michael Porter Jr,Under,27.5,1.86,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.89,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Mikel Brown Jr.,Under,19.5,1.87,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Egor Demin,Over,16.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Egor Demin,Under,16.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Over,22.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Day'Ron Sharpe,Under,22.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Danny Wolf,Over,15.5,1.93,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Danny Wolf,Under,15.5,1.83,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Immanuel Quickley,Over,29.5,1.93,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Immanuel Quickley,Under,29.5,1.83,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Scottie Barnes,Over,38.5,1.9,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Scottie Barnes,Under,38.5,1.86,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Jakob Poeltl,Over,19.5,1.87,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Jakob Poeltl,Under,19.5,1.89,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Allen Graves,Over,15.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Allen Graves,Under,15.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Ja'Kobe Walter,Over,19.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Ja'Kobe Walter,Under,19.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Collin Murray-Boyles,Over,17.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_points_rebounds_assists,Collin Murray-Boyles,Under,17.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Noah Clowney,Over,3.5,1.74,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Noah Clowney,Under,3.5,2.05,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Julius Randle,Over,6.5,2.08,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Julius Randle,Under,6.5,1.72,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Day'Ron Sharpe,Over,8.5,2.02,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Day'Ron Sharpe,Under,8.5,1.76,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Michael Porter Jr,Over,6.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Michael Porter Jr,Under,6.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Danny Wolf,Over,4.5,1.76,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Danny Wolf,Under,4.5,2.02,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Jakob Poeltl,Over,7.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Jakob Poeltl,Under,7.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Ja'Kobe Walter,Over,4.5,2.25,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Ja'Kobe Walter,Under,4.5,1.58,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Collin Murray-Boyles,Over,5.5,2.08,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Collin Murray-Boyles,Under,5.5,1.72,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Allen Graves,Over,5.5,2.15,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Allen Graves,Under,5.5,1.64,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Scottie Barnes,Over,6.5,1.64,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Scottie Barnes,Under,6.5,2.15,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Immanuel Quickley,Over,3.5,1.96,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_rebounds,Immanuel Quickley,Under,3.5,1.8,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Egor Demin,Over,1.5,1.64,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Egor Demin,Under,1.5,2.15,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Julius Randle,Over,1.5,2.1,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Julius Randle,Under,1.5,1.68,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Danny Wolf,Over,1.5,2.6,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Danny Wolf,Under,1.5,1.45,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Michael Porter Jr,Over,2.5,1.78,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Michael Porter Jr,Under,2.5,2.0,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Noah Clowney,Over,1.5,2.25,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Noah Clowney,Under,1.5,1.58,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Mikel Brown Jr.,Over,2.5,2.3,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Mikel Brown Jr.,Under,2.5,1.56,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Ja'Kobe Walter,Over,2.5,1.64,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Ja'Kobe Walter,Under,2.5,2.15,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Immanuel Quickley,Over,2.5,1.74,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Immanuel Quickley,Under,2.5,2.05,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Allen Graves,Over,1.5,2.25,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,sportsbet,player_threes,Allen Graves,Under,1.5,1.58,2026-11-28T00:34:51Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Scottie Barnes,Over,5.5,1.68,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Scottie Barnes,Under,5.5,2.1,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Immanuel Quickley,Over,6.5,1.93,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Immanuel Quickley,Under,6.5,1.81,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Jamal Shead,Over,5.5,1.7,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Jamal Shead,Under,5.5,2.1,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Julius Randle,Over,4.5,2.05,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Julius Randle,Under,4.5,1.7,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Mikel Brown Jr.,Over,3.5,1.81,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Mikel Brown Jr.,Under,3.5,1.95,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Day'Ron Sharpe,Over,3.5,1.62,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_assists,Day'Ron Sharpe,Under,3.5,2.2,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Scottie Barnes,Over,25.5,1.91,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Scottie Barnes,Under,25.5,1.85,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Collin Murray-Boyles,Over,10.5,2.0,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Collin Murray-Boyles,Under,10.5,1.78,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Ja'Kobe Walter,Over,13.5,1.96,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Ja'Kobe Walter,Under,13.5,1.8,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Mikel Brown Jr.,Over,13.5,1.86,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Mikel Brown Jr.,Under,13.5,1.88,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Michael Porter Jr,Over,18.5,1.78,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Michael Porter Jr,Under,18.5,1.98,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Immanuel Quickley,Over,19.5,1.96,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Immanuel Quickley,Under,19.5,1.8,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Egor Demin,Over,10.5,1.84,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Egor Demin,Under,10.5,1.9,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Julius Randle,Over,20.5,1.98,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Julius Randle,Under,20.5,1.78,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Allen Graves,Over,9.5,1.86,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points,Allen Graves,Under,9.5,1.88,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Scottie Barnes,Over,29.5,1.1,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Scottie Barnes,Over,34.5,1.35,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Scottie Barnes,Over,39.5,2.0,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Scottie Barnes,Over,44.5,3.5,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Scottie Barnes,Over,49.5,7.0,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Jakob Poeltl,Over,14.5,1.1,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Jakob Poeltl,Over,19.5,1.5,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Jakob Poeltl,Over,24.5,2.75,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Jakob Poeltl,Over,29.5,6.5,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Immanuel Quickley,Over,19.5,1.06,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Immanuel Quickley,Over,24.5,1.26,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Immanuel Quickley,Over,29.5,1.88,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Immanuel Quickley,Over,34.5,3.5,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Immanuel Quickley,Over,39.5,7.5,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Ja'Kobe Walter,Over,15.5,1.32,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Ja'Kobe Walter,Over,17.5,1.55,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Ja'Kobe Walter,Over,19.5,1.9,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Ja'Kobe Walter,Over,21.5,2.4,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Ja'Kobe Walter,Over,23.5,3.3,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,15.5,1.26,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,17.5,1.46,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.82,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,21.5,2.3,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Mikel Brown Jr.,Over,23.5,3.1,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Julius Randle,Over,19.5,1.04,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Julius Randle,Over,24.5,1.2,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Julius Randle,Over,29.5,1.68,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Julius Randle,Over,34.5,2.9,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Julius Randle,Over,39.5,6.0,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,14.5,1.06,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,19.5,1.35,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,24.5,2.25,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,29.5,5.0,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Day'Ron Sharpe,Over,34.5,13.0,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Danny Wolf,Over,11.5,1.24,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Danny Wolf,Over,13.5,1.48,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Danny Wolf,Over,15.5,1.88,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Danny Wolf,Over,17.5,2.5,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Danny Wolf,Over,19.5,3.6,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Collin Murray-Boyles,Over,11.5,1.11,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Collin Murray-Boyles,Over,13.5,1.24,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Collin Murray-Boyles,Over,15.5,1.45,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Collin Murray-Boyles,Over,17.5,1.8,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Collin Murray-Boyles,Over,19.5,2.3,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Egor Demin,Over,11.5,1.22,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Egor Demin,Over,13.5,1.42,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Egor Demin,Over,15.5,1.75,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Egor Demin,Over,17.5,2.3,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_points_rebounds_assists,Egor Demin,Over,19.5,3.25,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Collin Murray-Boyles,Over,5.5,2.0,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Collin Murray-Boyles,Under,5.5,1.75,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Immanuel Quickley,Over,3.5,1.88,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Immanuel Quickley,Under,3.5,1.86,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Ja'Kobe Walter,Over,4.5,2.25,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Ja'Kobe Walter,Under,4.5,1.6,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Noah Clowney,Over,3.5,1.78,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Noah Clowney,Under,3.5,1.98,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Michael Porter Jr,Over,6.5,1.88,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Michael Porter Jr,Under,6.5,1.88,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Julius Randle,Over,6.5,2.05,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Julius Randle,Under,6.5,1.73,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Day'Ron Sharpe,Over,8.5,1.95,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Day'Ron Sharpe,Under,8.5,1.82,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Danny Wolf,Over,4.5,1.75,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Danny Wolf,Under,4.5,2.0,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Scottie Barnes,Over,7.5,2.15,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Scottie Barnes,Under,7.5,1.65,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Allen Graves,Over,4.5,1.65,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,betright,player_rebounds,Allen Graves,Under,4.5,2.2,2026-11-28T00:33:57Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Day'Ron Sharpe,Over,3.5,1.63,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Day'Ron Sharpe,Under,3.5,2.25,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Egor Demin,Over,2.5,1.95,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Egor Demin,Under,2.5,1.8,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Immanuel Quickley,Over,6.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Immanuel Quickley,Under,6.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Jamal Shead,Over,5.5,1.69,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Jamal Shead,Under,5.5,2.15,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Julius Randle,Over,4.5,2.1,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Julius Randle,Under,4.5,1.71,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Mikel Brown Jr.,Over,3.5,1.8,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Mikel Brown Jr.,Under,3.5,1.95,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Scottie Barnes,Over,5.5,1.74,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_assists,Scottie Barnes,Under,5.5,2.05,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Allen Graves,Over,9.5,2.05,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Allen Graves,Under,9.5,1.8,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Collin Murray-Boyles,Over,10.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Collin Murray-Boyles,Under,10.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Danny Wolf,Over,8.5,2.05,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Danny Wolf,Under,8.5,1.8,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Day'Ron Sharpe,Over,9.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Day'Ron Sharpe,Under,9.5,1.95,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Egor Demin,Over,10.5,1.9,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Egor Demin,Under,10.5,1.9,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Immanuel Quickley,Over,19.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Immanuel Quickley,Under,19.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Ja'Kobe Walter,Over,13.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Ja'Kobe Walter,Under,13.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Jakob Poeltl,Over,9.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Jakob Poeltl,Under,9.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Jamal Shead,Over,7.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Jamal Shead,Under,7.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Julius Randle,Over,19.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Julius Randle,Under,19.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Michael Porter Jr,Over,18.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Michael Porter Jr,Under,18.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Mikel Brown Jr.,Over,13.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Mikel Brown Jr.,Under,13.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Noah Clowney,Over,8.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Noah Clowney,Under,8.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Scottie Barnes,Over,24.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points,Scottie Barnes,Under,24.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Day'Ron Sharpe,Over,22.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Day'Ron Sharpe,Under,22.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Egor Demin,Over,16.5,1.95,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Egor Demin,Under,16.5,1.8,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Immanuel Quickley,Over,29.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Immanuel Quickley,Under,29.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Julius Randle,Over,31.5,1.95,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Julius Randle,Under,31.5,1.8,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Mikel Brown Jr.,Under,19.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Scottie Barnes,Over,38.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_points_rebounds_assists,Scottie Barnes,Under,38.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Allen Graves,Over,4.5,1.69,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Allen Graves,Under,4.5,2.15,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Collin Murray-Boyles,Over,5.5,2.1,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Collin Murray-Boyles,Under,5.5,1.71,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Danny Wolf,Over,4.5,1.77,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Danny Wolf,Under,4.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Day'Ron Sharpe,Over,8.5,1.95,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Day'Ron Sharpe,Under,8.5,1.8,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Egor Demin,Over,2.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Egor Demin,Under,2.5,1.9,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Immanuel Quickley,Over,3.5,1.9,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Immanuel Quickley,Under,3.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Ja'Kobe Walter,Over,3.5,1.63,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Ja'Kobe Walter,Under,3.5,2.25,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Jakob Poeltl,Over,7.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Jakob Poeltl,Under,7.5,1.87,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Julius Randle,Over,6.5,1.95,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Julius Randle,Under,6.5,1.8,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Michael Porter Jr,Over,6.5,1.9,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Michael Porter Jr,Under,6.5,1.83,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Mikel Brown Jr.,Over,2.5,2.0,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Mikel Brown Jr.,Under,2.5,1.77,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Noah Clowney,Over,3.5,1.74,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Noah Clowney,Under,3.5,2.05,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Scottie Barnes,Over,7.5,2.1,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_rebounds,Scottie Barnes,Under,7.5,1.71,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Julius Randle,Over,1.5,2.15,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Julius Randle,Under,1.5,1.69,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Day'Ron Sharpe,Over,0.5,3.1,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Day'Ron Sharpe,Under,0.5,1.36,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Danny Wolf,Over,1.5,2.6,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Danny Wolf,Under,1.5,1.48,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Mikel Brown Jr.,Over,2.5,2.45,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Mikel Brown Jr.,Under,2.5,1.53,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Noah Clowney,Over,1.5,2.35,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Noah Clowney,Under,1.5,1.57,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Egor Demin,Over,1.5,1.59,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Egor Demin,Under,1.5,2.3,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Immanuel Quickley,Over,2.5,1.74,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Immanuel Quickley,Under,2.5,2.05,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Scottie Barnes,Over,1.5,2.9,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Scottie Barnes,Under,1.5,1.4,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Ja'Kobe Walter,Over,2.5,1.71,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Ja'Kobe Walter,Under,2.5,2.1,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Allen Graves,Over,1.5,2.3,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,pointsbetau,player_threes,Allen Graves,Under,1.5,1.59,2026-11-28T00:33:59Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Julius Randle,Over,4.5,1.93,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Julius Randle,Under,4.5,1.76,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Collin Murray-Boyles,Over,1.5,1.6,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Collin Murray-Boyles,Under,1.5,2.16,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Danny Wolf,Over,1.5,1.62,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Danny Wolf,Under,1.5,2.14,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Day'Ron Sharpe,Over,4.5,2.2,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Day'Ron Sharpe,Under,4.5,1.57,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Immanuel Quickley,Over,6.5,2.0,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Immanuel Quickley,Under,6.5,1.7,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Jakob Poeltl,Over,1.5,1.55,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Jakob Poeltl,Under,1.5,2.25,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Michael Porter Jr,Over,1.5,1.68,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Michael Porter Jr,Under,1.5,2.02,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Ja'Kobe Walter,Over,1.5,1.5,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Ja'Kobe Walter,Under,1.5,2.35,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Scottie Barnes,Over,5.5,1.75,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Scottie Barnes,Under,5.5,1.93,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Jamal Shead,Over,5.5,1.68,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Jamal Shead,Under,5.5,2.02,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Egor Demin,Over,2.5,1.82,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Egor Demin,Under,2.5,1.85,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Mikel Brown Jr.,Over,3.5,1.67,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_assists,Mikel Brown Jr.,Under,3.5,2.05,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Day'Ron Sharpe,Over,9.5,1.83,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Day'Ron Sharpe,Under,9.5,1.85,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Scottie Barnes,Over,24.5,1.78,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Scottie Barnes,Under,24.5,1.89,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Jamal Shead,Over,7.5,1.88,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Jamal Shead,Under,7.5,1.79,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Allen Graves,Over,9.5,1.82,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Allen Graves,Under,9.5,1.87,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Julius Randle,Over,21.5,1.92,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Julius Randle,Under,21.5,1.76,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Mikel Brown Jr.,Over,13.5,1.91,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Mikel Brown Jr.,Under,13.5,1.78,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Danny Wolf,Over,8.5,1.95,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Danny Wolf,Under,8.5,1.74,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Egor Demin,Over,10.5,1.87,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Egor Demin,Under,10.5,1.81,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Jakob Poeltl,Over,9.5,1.68,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Jakob Poeltl,Under,9.5,2.04,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Collin Murray-Boyles,Over,10.5,1.94,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Collin Murray-Boyles,Under,10.5,1.74,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Immanuel Quickley,Over,19.5,1.92,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Immanuel Quickley,Under,19.5,1.76,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Michael Porter Jr,Over,18.5,1.85,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Michael Porter Jr,Under,18.5,1.83,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Noah Clowney,Over,8.5,1.96,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Noah Clowney,Under,8.5,1.72,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Ja'Kobe Walter,Over,13.5,1.76,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points,Ja'Kobe Walter,Under,13.5,1.93,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Jakob Poeltl,Over,20.5,1.96,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Jakob Poeltl,Under,20.5,1.72,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Over,20.5,2.0,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Mikel Brown Jr.,Under,20.5,1.7,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Jamal Shead,Over,15.5,1.85,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Jamal Shead,Under,15.5,1.83,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Danny Wolf,Over,15.5,1.92,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Danny Wolf,Under,15.5,1.76,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Immanuel Quickley,Over,29.5,1.88,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Immanuel Quickley,Under,29.5,1.8,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Julius Randle,Over,32.5,1.88,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Julius Randle,Under,32.5,1.8,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Over,22.5,1.85,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Day'Ron Sharpe,Under,22.5,1.83,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Egor Demin,Over,16.5,1.93,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Egor Demin,Under,16.5,1.75,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Scottie Barnes,Over,38.5,1.88,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Scottie Barnes,Under,38.5,1.79,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Michael Porter Jr,Over,27.5,1.88,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Michael Porter Jr,Under,27.5,1.8,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Ja'Kobe Walter,Over,20.5,1.88,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Ja'Kobe Walter,Under,20.5,1.8,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Collin Murray-Boyles,Over,17.5,1.82,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_points_rebounds_assists,Collin Murray-Boyles,Under,17.5,1.85,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Danny Wolf,Over,4.5,1.74,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Danny Wolf,Under,4.5,1.95,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Collin Murray-Boyles,Over,5.5,2.0,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Collin Murray-Boyles,Under,5.5,1.7,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Noah Clowney,Over,3.5,1.66,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Noah Clowney,Under,3.5,2.06,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Egor Demin,Over,2.5,1.8,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Egor Demin,Under,2.5,1.88,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Julius Randle,Over,6.5,2.0,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Julius Randle,Under,6.5,1.71,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Immanuel Quickley,Over,3.5,1.85,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Immanuel Quickley,Under,3.5,1.83,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Mikel Brown Jr.,Over,2.5,2.12,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Mikel Brown Jr.,Under,2.5,1.63,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Michael Porter Jr,Over,6.5,1.81,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Michael Porter Jr,Under,6.5,1.87,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Day'Ron Sharpe,Over,8.5,1.89,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Day'Ron Sharpe,Under,8.5,1.78,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Jamal Shead,Over,1.5,1.65,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Jamal Shead,Under,1.5,2.08,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Jakob Poeltl,Over,7.5,1.85,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Jakob Poeltl,Under,7.5,1.82,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Scottie Barnes,Over,7.5,2.1,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Scottie Barnes,Under,7.5,1.63,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Ja'Kobe Walter,Over,3.5,1.63,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Ja'Kobe Walter,Under,3.5,2.1,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Allen Graves,Over,5.5,2.18,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_rebounds,Allen Graves,Under,5.5,1.6,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Immanuel Quickley,Over,2.5,1.72,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Immanuel Quickley,Under,2.5,1.96,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Noah Clowney,Over,1.5,2.18,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Noah Clowney,Under,1.5,1.57,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Danny Wolf,Over,1.5,2.48,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Danny Wolf,Under,1.5,1.45,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Michael Porter Jr,Over,2.5,1.71,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Michael Porter Jr,Under,2.5,2.0,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Allen Graves,Over,1.5,2.5,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Allen Graves,Under,1.5,1.45,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Ja'Kobe Walter,Over,2.5,1.67,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Ja'Kobe Walter,Under,2.5,2.04,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Mikel Brown Jr.,Over,2.5,2.32,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Mikel Brown Jr.,Under,2.5,1.53,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Julius Randle,Over,1.5,2.04,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Julius Randle,Under,1.5,1.68,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Scottie Barnes,Over,0.5,1.43,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Scottie Barnes,Under,0.5,2.55,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Egor Demin,Over,1.5,1.6,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,unibet,player_threes,Egor Demin,Under,1.5,2.17,2026-11-28T00:34:08Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Allen Graves,Over,1.5,2.7,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Allen Graves,Under,1.5,1.44,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Collin Murray-Boyles,Over,2.5,2.7,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Collin Murray-Boyles,Under,2.5,1.44,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Day'Ron Sharpe,Over,4.5,2.35,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Day'Ron Sharpe,Under,4.5,1.55,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Danny Wolf,Over,1.5,1.72,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Danny Wolf,Under,1.5,2.05,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Egor Demin,Over,2.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Egor Demin,Under,2.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Immanuel Quickley,Over,6.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Immanuel Quickley,Under,6.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Jakob Poeltl,Over,2.5,2.55,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Jakob Poeltl,Under,2.5,1.48,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Julius Randle,Over,4.5,2.05,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Julius Randle,Under,4.5,1.72,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Jamal Shead,Over,6.5,2.1,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Jamal Shead,Under,6.5,1.68,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Ja'Kobe Walter,Over,2.5,2.65,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Ja'Kobe Walter,Under,2.5,1.45,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Mikel Brown Jr.,Over,4.5,2.45,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Mikel Brown Jr.,Under,4.5,1.52,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Michael Porter Jr,Over,1.5,1.62,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Michael Porter Jr,Under,1.5,2.2,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Noah Clowney,Over,1.5,2.6,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Noah Clowney,Under,1.5,1.46,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Scottie Barnes,Over,6.5,2.3,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_assists,Scottie Barnes,Under,6.5,1.58,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Allen Graves,Over,9.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Allen Graves,Under,9.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Collin Murray-Boyles,Over,9.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Collin Murray-Boyles,Under,9.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Day'Ron Sharpe,Over,9.5,1.75,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Day'Ron Sharpe,Under,9.5,2.0,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Danny Wolf,Over,8.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Danny Wolf,Under,8.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Egor Demin,Over,10.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Egor Demin,Under,10.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Immanuel Quickley,Over,18.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Immanuel Quickley,Under,18.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Jamison Battle,Over,7.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Jamison Battle,Under,7.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Jakob Poeltl,Over,9.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Jakob Poeltl,Under,9.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Julius Randle,Over,20.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Julius Randle,Under,20.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Jamal Shead,Over,7.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Jamal Shead,Under,7.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Ja'Kobe Walter,Over,13.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Ja'Kobe Walter,Under,13.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Keon Ellis,Over,4.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Keon Ellis,Under,4.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Mikel Brown Jr.,Over,13.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Mikel Brown Jr.,Under,13.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Michael Porter Jr,Over,19.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Michael Porter Jr,Under,19.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Noah Clowney,Over,8.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Noah Clowney,Under,8.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Scottie Barnes,Over,25.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points,Scottie Barnes,Under,25.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Allen Graves,Over,16.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Allen Graves,Under,16.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Collin Murray-Boyles,Over,17.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Collin Murray-Boyles,Under,17.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Day'Ron Sharpe,Over,22.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Day'Ron Sharpe,Under,22.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Danny Wolf,Over,15.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Danny Wolf,Under,15.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Egor Demin,Over,16.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Egor Demin,Under,16.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Immanuel Quickley,Over,28.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Immanuel Quickley,Under,28.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Jamal Shead,Over,15.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Jamal Shead,Under,15.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Ja'Kobe Walter,Over,19.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Ja'Kobe Walter,Under,19.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Michael Porter Jr,Over,27.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Michael Porter Jr,Under,27.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Noah Clowney,Over,13.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Noah Clowney,Under,13.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Scottie Barnes,Over,38.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_points_rebounds_assists,Scottie Barnes,Under,38.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Allen Graves,Over,5.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Allen Graves,Under,5.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Collin Murray-Boyles,Over,5.5,1.95,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Collin Murray-Boyles,Under,5.5,1.8,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Day'Ron Sharpe,Over,8.5,2.05,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Day'Ron Sharpe,Under,8.5,1.72,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Danny Wolf,Over,5.5,2.35,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Danny Wolf,Under,5.5,1.55,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Egor Demin,Over,2.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Egor Demin,Under,2.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Immanuel Quickley,Over,3.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Immanuel Quickley,Under,3.5,1.87,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Jakob Poeltl,Over,7.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Jakob Poeltl,Under,7.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Julius Randle,Over,6.5,2.15,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Julius Randle,Under,6.5,1.65,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Jamal Shead,Over,1.5,1.75,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Jamal Shead,Under,1.5,2.0,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Ja'Kobe Walter,Over,4.5,2.3,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Ja'Kobe Walter,Under,4.5,1.58,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Mikel Brown Jr.,Over,2.5,2.15,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Mikel Brown Jr.,Under,2.5,1.65,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Michael Porter Jr,Over,6.5,2.0,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Michael Porter Jr,Under,6.5,1.75,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Noah Clowney,Over,3.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Noah Clowney,Under,3.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Scottie Barnes,Over,7.5,2.15,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_rebounds,Scottie Barnes,Under,7.5,1.65,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Allen Graves,Over,1.5,2.2,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Allen Graves,Under,1.5,1.62,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Collin Murray-Boyles,Over,0.5,2.35,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Collin Murray-Boyles,Under,0.5,1.55,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Day'Ron Sharpe,Over,0.5,2.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Day'Ron Sharpe,Under,0.5,1.38,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Danny Wolf,Over,1.5,2.1,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Danny Wolf,Under,1.5,1.68,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Egor Demin,Over,1.5,1.62,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Egor Demin,Under,1.5,2.2,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Immanuel Quickley,Over,2.5,1.75,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Immanuel Quickley,Under,2.5,2.0,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Julius Randle,Over,1.5,2.15,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Julius Randle,Under,1.5,1.65,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Jamal Shead,Over,1.5,2.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Jamal Shead,Under,1.5,1.38,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Ja'Kobe Walter,Over,2.5,1.68,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Ja'Kobe Walter,Under,2.5,2.1,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Mikel Brown Jr.,Over,2.5,2.6,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Mikel Brown Jr.,Under,2.5,1.46,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Michael Porter Jr,Over,2.5,1.85,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Michael Porter Jr,Under,2.5,1.9,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Noah Clowney,Over,1.5,2.4,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Noah Clowney,Under,1.5,1.53,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Scottie Barnes,Over,0.5,1.5,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,tab,player_threes,Scottie Barnes,Under,0.5,2.5,2026-11-28T00:33:17Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Mikel Brown Jr.,Over,3.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Mikel Brown Jr.,Under,3.5,1.92,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Jamal Shead,Over,5.5,1.75,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Jamal Shead,Under,5.5,2.02,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Egor Demin,Over,2.5,1.85,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Egor Demin,Under,2.5,1.9,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Scottie Barnes,Over,5.5,1.77,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Scottie Barnes,Under,5.5,1.98,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Julius Randle,Over,4.5,2.05,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Julius Randle,Under,4.5,1.7,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Day'Ron Sharpe,Over,4.5,2.1,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Day'Ron Sharpe,Under,4.5,1.67,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Immanuel Quickley,Over,6.5,1.87,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_assists,Immanuel Quickley,Under,6.5,1.87,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Julius Randle,Over,20.5,1.92,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Julius Randle,Under,20.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Danny Wolf,Over,7.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Danny Wolf,Under,7.5,1.92,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Collin Murray-Boyles,Over,10.5,1.9,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Collin Murray-Boyles,Under,10.5,1.83,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Ja'Kobe Walter,Over,13.5,1.92,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Ja'Kobe Walter,Under,13.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Allen Graves,Over,9.5,1.87,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Allen Graves,Under,9.5,1.87,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Day'Ron Sharpe,Over,9.5,1.83,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Day'Ron Sharpe,Under,9.5,1.9,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Jakob Poeltl,Over,9.5,1.8,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Jakob Poeltl,Under,9.5,1.94,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Mikel Brown Jr.,Over,13.5,1.9,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Mikel Brown Jr.,Under,13.5,1.83,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Jamal Shead,Over,7.5,1.9,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Jamal Shead,Under,7.5,1.85,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Egor Demin,Over,10.5,1.87,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Egor Demin,Under,10.5,1.87,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Michael Porter Jr,Over,18.5,1.87,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Michael Porter Jr,Under,18.5,1.88,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Scottie Barnes,Over,25.5,1.88,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Scottie Barnes,Under,25.5,1.85,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Noah Clowney,Over,7.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Noah Clowney,Under,7.5,1.92,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Immanuel Quickley,Over,18.5,1.8,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points,Immanuel Quickley,Under,18.5,1.94,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Over,30.5,1.77,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Julius Randle,Under,30.5,1.98,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Over,21.5,1.7,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Day'Ron Sharpe,Under,21.5,2.1,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Egor Demin,Over,15.5,1.8,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Egor Demin,Under,15.5,1.95,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.83,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Mikel Brown Jr.,Under,19.5,1.91,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Scottie Barnes,Over,38.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Scottie Barnes,Under,38.5,1.92,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Immanuel Quickley,Over,28.5,1.73,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_points_rebounds_assists,Immanuel Quickley,Under,28.5,2.05,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Collin Murray-Boyles,Over,5.5,2.05,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Collin Murray-Boyles,Under,5.5,1.7,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Allen Graves,Over,5.5,2.02,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Allen Graves,Under,5.5,1.75,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Immanuel Quickley,Over,3.5,1.92,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Immanuel Quickley,Under,3.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Julius Randle,Over,6.5,2.05,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Julius Randle,Under,6.5,1.7,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Mikel Brown Jr.,Over,2.5,2.05,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Mikel Brown Jr.,Under,2.5,1.7,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Ja'Kobe Walter,Over,4.5,2.15,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Ja'Kobe Walter,Under,4.5,1.65,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Michael Porter Jr,Over,6.5,1.92,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Michael Porter Jr,Under,6.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Scottie Barnes,Over,7.5,2.02,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Scottie Barnes,Under,7.5,1.75,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Noah Clowney,Over,3.5,1.77,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Noah Clowney,Under,3.5,1.98,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Jakob Poeltl,Over,7.5,1.92,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Jakob Poeltl,Under,7.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Egor Demin,Over,2.5,1.88,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Egor Demin,Under,2.5,1.87,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Danny Wolf,Over,4.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Danny Wolf,Under,4.5,1.92,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Over,8.5,1.98,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_rebounds,Day'Ron Sharpe,Under,8.5,1.77,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_threes,Immanuel Quickley,Over,2.5,1.72,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_threes,Immanuel Quickley,Under,2.5,1.96,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_threes,Egor Demin,Over,1.5,1.65,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_threes,Egor Demin,Under,1.5,2.05,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_threes,Ja'Kobe Walter,Over,2.5,1.7,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_threes,Ja'Kobe Walter,Under,2.5,2.0,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_threes,Michael Porter Jr,Over,2.5,1.85,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_threes,Michael Porter Jr,Under,2.5,1.82,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_threes,Mikel Brown Jr.,Over,1.5,1.5,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,ladbrokes_au,player_threes,Mikel Brown Jr.,Under,1.5,2.35,2026-11-28T00:33:50Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Mikel Brown Jr.,Over,3.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Mikel Brown Jr.,Under,3.5,1.92,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Jamal Shead,Over,5.5,1.75,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Jamal Shead,Under,5.5,2.02,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Egor Demin,Over,2.5,1.85,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Egor Demin,Under,2.5,1.9,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Scottie Barnes,Over,5.5,1.77,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Scottie Barnes,Under,5.5,1.98,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Julius Randle,Over,4.5,2.05,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Julius Randle,Under,4.5,1.7,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Day'Ron Sharpe,Over,4.5,2.1,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Day'Ron Sharpe,Under,4.5,1.67,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Immanuel Quickley,Over,6.5,1.87,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_assists,Immanuel Quickley,Under,6.5,1.87,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Julius Randle,Over,20.5,1.92,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Julius Randle,Under,20.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Danny Wolf,Over,7.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Danny Wolf,Under,7.5,1.92,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Collin Murray-Boyles,Over,10.5,1.9,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Collin Murray-Boyles,Under,10.5,1.83,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Ja'Kobe Walter,Over,13.5,1.92,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Ja'Kobe Walter,Under,13.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Allen Graves,Over,9.5,1.87,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Allen Graves,Under,9.5,1.87,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Day'Ron Sharpe,Over,9.5,1.83,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Day'Ron Sharpe,Under,9.5,1.9,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Jakob Poeltl,Over,9.5,1.8,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Jakob Poeltl,Under,9.5,1.94,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Mikel Brown Jr.,Over,13.5,1.9,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Mikel Brown Jr.,Under,13.5,1.83,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Jamal Shead,Over,7.5,1.9,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Jamal Shead,Under,7.5,1.85,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Egor Demin,Over,10.5,1.87,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Egor Demin,Under,10.5,1.87,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Michael Porter Jr,Over,18.5,1.87,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Michael Porter Jr,Under,18.5,1.88,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Scottie Barnes,Over,25.5,1.88,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Scottie Barnes,Under,25.5,1.85,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Noah Clowney,Over,7.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Noah Clowney,Under,7.5,1.92,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Immanuel Quickley,Over,18.5,1.8,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points,Immanuel Quickley,Under,18.5,1.94,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Julius Randle,Over,30.5,1.77,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Julius Randle,Under,30.5,1.98,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Day'Ron Sharpe,Over,21.5,1.7,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Day'Ron Sharpe,Under,21.5,2.1,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Egor Demin,Over,15.5,1.8,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Egor Demin,Under,15.5,1.95,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Mikel Brown Jr.,Over,19.5,1.83,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Mikel Brown Jr.,Under,19.5,1.91,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Scottie Barnes,Over,38.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Scottie Barnes,Under,38.5,1.92,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Immanuel Quickley,Over,28.5,1.73,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_points_rebounds_assists,Immanuel Quickley,Under,28.5,2.05,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Collin Murray-Boyles,Over,5.5,2.05,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Collin Murray-Boyles,Under,5.5,1.7,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Allen Graves,Over,5.5,2.02,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Allen Graves,Under,5.5,1.75,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Immanuel Quickley,Over,3.5,1.92,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Immanuel Quickley,Under,3.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Julius Randle,Over,6.5,2.05,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Julius Randle,Under,6.5,1.7,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Mikel Brown Jr.,Over,2.5,2.05,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Mikel Brown Jr.,Under,2.5,1.7,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Ja'Kobe Walter,Over,4.5,2.15,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Ja'Kobe Walter,Under,4.5,1.65,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Michael Porter Jr,Over,6.5,1.92,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Michael Porter Jr,Under,6.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Scottie Barnes,Over,7.5,2.02,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Scottie Barnes,Under,7.5,1.75,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Noah Clowney,Over,3.5,1.77,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Noah Clowney,Under,3.5,1.98,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Jakob Poeltl,Over,7.5,1.92,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Jakob Poeltl,Under,7.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Egor Demin,Over,2.5,1.88,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Egor Demin,Under,2.5,1.87,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Danny Wolf,Over,4.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Danny Wolf,Under,4.5,1.92,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Day'Ron Sharpe,Over,8.5,1.98,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_rebounds,Day'Ron Sharpe,Under,8.5,1.77,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_threes,Immanuel Quickley,Over,2.5,1.72,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_threes,Immanuel Quickley,Under,2.5,1.96,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_threes,Egor Demin,Over,1.5,1.65,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_threes,Egor Demin,Under,1.5,2.05,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_threes,Ja'Kobe Walter,Over,2.5,1.7,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_threes,Ja'Kobe Walter,Under,2.5,2.0,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_threes,Michael Porter Jr,Over,2.5,1.85,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_threes,Michael Porter Jr,Under,2.5,1.82,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_threes,Mikel Brown Jr.,Over,1.5,1.5,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
+2026-11-28,11:40,Brooklyn Nets @ Toronto Raptors,neds,player_threes,Mikel Brown Jr.,Under,1.5,2.35,2026-11-28T00:34:53Z,2026-11-28T00:35:00+00:00,5.0
